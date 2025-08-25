@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "content": [
     {
       "language": "en",
@@ -221,6 +221,386 @@
         "Gần đây tôi thường bị chảy máu cam. Không rõ lý do tại sao.",
         "Cổ họng tôi liên tục bị khô.",
         "Dạo này tôi hay bị cảm. Có phải khả năng miễn dịch của tôi yếu hơn không?"
+      ]
+    },
+    {
+      "language": "bn",
+      "questions": [
+        "আমার পেট প্রায়ই অস্বস্তি বোধ করে; এটি কি গ্যাস্ট্রাইটিস হতে পারে?",
+        "আমি খুব উদ্বিগ্ন বোধ করি এবং কী করব জানি না।",
+        "রাতে আমার প্রায়ই অনিদ্রা হয়; আমি কীভাবে এটি উন্নত করতে পারি?",
+        "আমি গুরুতর চুল পড়ার সমস্যায় ভুগছি; এ বিষয়ে আমি কী করতে পারি?",
+        "খাদ্যের মাধ্যমে আমি কীভাবে আমার ত্বক উন্নত করতে পারি?",
+        "আমার উচ্চ রক্তচাপ এবং উচ্চ রক্তে শর্করা আছে।",
+        "সম্প্রতি আমার প্রায়ই মাথাব্যথা হচ্ছে; এর কারণ কী হতে পারে?",
+        "আমার জয়েন্টগুলো প্রায়ই ব্যথা করে।",
+        "ব্যায়াম কি হৃদযন্ত্রের স্বাস্থ্যের জন্য সহায়ক?",
+        "আমি কি প্রতিদিন জুস পান করতে পারি?",
+        "আমি কখনো কখনো উদ্বিগ্ন এবং অস্বস্তি বোধ করি।",
+        "আমি জানতে চাই কীভাবে আরও স্বাস্থ্যকর খাবার খেতে হয়।",
+        "সম্প্রতি আমার ঘন ঘন নাক দিয়ে রক্ত পড়ছে। কেন তা নিশ্চিত নই।",
+        "আমার গলা ক্রমাগত শুকনো থাকে।",
+        "সম্প্রতি আমার প্রায়ই সর্দি-কাশি হচ্ছে। আমার রোগ প্রতিরোধ ক্ষমতা কি দুর্বল হয়ে গেছে?"
+      ]
+    },
+    {
+      "language": "ru",
+      "questions": [
+        "Мой желудок часто чувствует дискомфорт; может ли это быть гастрит?",
+        "Я чувствую сильную тревогу и не знаю, что делать.",
+        "У меня часто бессонница по ночам; как я могу это улучшить?",
+        "Я испытываю серьёзное выпадение волос; что я могу с этим поделать?",
+        "Как я могу улучшить свою кожу с помощью диеты?",
+        "У меня высокое давление и высокий сахар в крови.",
+        "В последнее время у меня часто болит голова; какова может быть причина?",
+        "Мои суставы часто болят.",
+        "Помогают ли упражнения здоровью сердца?",
+        "Могу ли я пить сок каждый день?",
+        "Иногда я чувствую тревогу и беспокойство.",
+        "Я хотел бы знать, как питаться более здорово.",
+        "В последнее время у меня часто идёт кровь из носа. Не уверен, почему.",
+        "Моё горло постоянно сухое.",
+        "В последнее время я часто простужаюсь. Стал ли мой иммунитет слабее?"
+      ]
+    },
+    {
+      "language": "pa",
+      "questions": [
+        "ਮੇਰਾ ਪੇਟ ਅਕਸਰ ਬੇਚੈਨੀ ਮਹਿਸੂਸ ਕਰਦਾ ਹੈ; ਕੀ ਇਹ ਗੈਸਟ੍ਰਾਇਟਿਸ ਹੋ ਸਕਦੀ ਹੈ?",
+        "ਮੈਂ ਬਹੁਤ ਚਿੰਤਿਤ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ ਅਤੇ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਕੀ ਕਰਨਾ ਹੈ।",
+        "ਮੈਨੂੰ ਰਾਤ ਨੂੰ ਅਕਸਰ ਨੀਂਦ ਨਹੀਂ ਆਉਂਦੀ; ਮੈਂ ਇਸਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦਾ ਹਾਂ?",
+        "ਮੈਂ ਗੰਭੀਰ ਵਾਲ ਝੜਨ ਦਾ ਸਾਮਣਾ ਕਰ ਰਿਹਾ ਹਾਂ; ਮੈਂ ਇਸ ਬਾਰੇ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?",
+        "ਮੈਂ ਆਪਣੀ ਚਮੜੀ ਨੂੰ ਖੁਰਾਕ ਰਾਹੀਂ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦਾ ਹਾਂ?",
+        "ਮੈਨੂੰ ਹਾਈ ਬਲੱਡ ਪ੍ਰੈਸ਼ਰ ਅਤੇ ਹਾਈ ਬਲੱਡ ਸ਼ੁਗਰ ਹੈ।",
+        "ਮੈਨੂੰ ਹਾਲ ਹੀ ਵਿੱਚ ਅਕਸਰ ਸਿਰ ਦਰਦ ਹੋ ਰਿਹਾ ਹੈ; ਇਸਦਾ ਕਾਰਨ ਕੀ ਹੋ ਸਕਦਾ ਹੈ?",
+        "ਮੇਰੇ ਜੋੜ ਅਕਸਰ ਦੁਖਦੇ ਹਨ।",
+        "ਕੀ ਕਸਰਤ ਦਿਲ ਦੀ ਸਿਹਤ ਲਈ ਮਦਦਗਾਰ ਹੈ?",
+        "ਕੀ ਮੈਂ ਹਰ ਰੋਜ਼ ਜੂਸ ਪੀ ਸਕਦਾ ਹਾਂ?",
+        "ਮੈਂ ਕਦੇ ਕਦੇ ਚਿੰਤਿਤ ਅਤੇ ਬੇਚੈਨ ਮਹਿਸੂਸ ਕਰਦਾ ਹਾਂ।",
+        "ਮੈਂ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ ਕਿ ਵਧੇਰੇ ਸਿਹਤਮੰਦ ਖਾਣਾ ਕਿਵੇਂ ਖਾਣਾ ਹੈ।",
+        "ਮੈਨੂੰ ਹਾਲ ਹੀ ਵਿੱਚ ਅਕਸਰ ਨੱਕ ਤੋਂ ਖੂਨ ਆ ਰਿਹਾ ਹੈ। ਪਤਾ ਨਹੀਂ ਕਿਉਂ।",
+        "ਮੇਰਾ ਗਲਾ ਲਗਾਤਾਰ ਸੁੱਕਾ ਰਹਿੰਦਾ ਹੈ।",
+        "ਮੈਨੂੰ ਹਾਲ ਹੀ ਵਿੱਚ ਅਕਸਰ ਜ਼ੁਕਾਮ ਹੋ ਰਿਹਾ ਹੈ। ਕੀ ਮੇਰੀ ਪ੍ਰਤੀਰੋਧਕ ਸ਼ਕਤੀ ਕਮਜ਼ੋਰ ਹੋ ਗਈ ਹੈ?"
+      ]
+    },
+    {
+      "language": "jv",
+      "questions": [
+        "Wetengku kerep krasa ora kepenak; apa iki bisa dadi gastritis?",
+        "Aku rumangsa kuwatir banget lan ora ngerti kudu piye.",
+        "Aku kerep ora bisa turu ing wayah wengi; kepiye carane ndandani?",
+        "Aku ngalami rontok rambut sing abot; apa sing bisa daklakoni?",
+        "Kepiye carane aku bisa nambah apik kulitku liwat panganan?",
+        "Aku duwe tekanan darah dhuwur lan gula getih dhuwur.",
+        "Akhir-akhir iki aku kerep sirah; apa sing bisa dadi sebabe?",
+        "Sendi-sendiku kerep lara.",
+        "Apa olahraga mbantu kesehatan jantung?",
+        "Apa aku bisa ngombe jus saben dina?",
+        "Kadhang aku rumangsa kuwatir lan ora kepenak.",
+        "Aku pengin ngerti kepiye mangan sing luwih sehat.",
+        "Akhir-akhir iki aku kerep mimisan. Ora ngerti sebabe.",
+        "Tenggorokanku tansah garing.",
+        "Akhir-akhir iki aku kerep selesma. Apa kekebalanku dadi luwih lemah?"
+      ]
+    },
+    {
+      "language": "tr",
+      "questions": [
+        "Midem sık sık rahatsız hissediyor; bu gastrit olabilir mi?",
+        "Çok endişeli hissediyorum ve ne yapacağımı bilmiyorum.",
+        "Geceleri sık sık uykusuzluk yaşıyorum; bunu nasıl iyileştirebilirim?",
+        "Ciddi saç dökülmesi yaşıyorum; bu konuda ne yapabilirim?",
+        "Cildimi diyet yoluyla nasıl iyileştirebilirim?",
+        "Yüksek tansiyonum ve yüksek kan şekerim var.",
+        "Son zamanlarda sık sık baş ağrısı çekiyorum; sebebi ne olabilir?",
+        "Eklemlerim sık sık ağrıyor.",
+        "Egzersiz kalp sağlığına yardımcı olur mu?",
+        "Her gün meyve suyu içebilir miyim?",
+        "Bazen endişeli ve huzursuz hissediyorum.",
+        "Daha sağlıklı nasıl beslenebileceğimi öğrenmek istiyorum.",
+        "Son zamanlarda sık sık burun kanamam oluyor. Nedenini bilmiyorum.",
+        "Boğazım sürekli kuruyor.",
+        "Son zamanlarda sık sık soğuk algınlığına yakalanıyorum. Bağışıklığım zayıfladı mı?"
+      ]
+    },
+    {
+      "language": "te",
+      "questions": [
+        "నా కడుపు తరచుగా అసౌకర్యంగా అనిపిస్తుంది; ఇది గ్యాస్ట్రైటిస్ కావచ్చా?",
+        "నేను చాలా ఆత్రుతగా అనిపిస్తుంది మరియు ఏమి చేయాలో తెలియదు.",
+        "రాత్రిపూట నాకు తరచుగా నిద్రలేమి వస్తుంది; దీనిని ఎలా మెరుగుపరచవచ్చు?",
+        "నేను తీవ్రమైన జుట్టు రాలడాన్ని అనుభవిస్తున్నాను; దీని గురించి నేను ఏమి చేయవచ్చు?",
+        "ఆహారం ద్వారా నా చర్మాన్ని ఎలా మెరుగుపరచవచ్చు?",
+        "నాకు అధిక రక్తపోటు మరియు అధిక రక్తంలో చక్కెర ఉంది.",
+        "ఇటీవల నాకు తరచుగా తలనొప్పి వస్తుంది; కారణం ఏమిటి?",
+        "నా కీళ్ళు తరచుగా నొప్పిస్తాయి.",
+        "వ్యాయామం గుండె ఆరోగ్యానికి సహాయపడుతుందా?",
+        "నేను ప్రతిరోజూ జూస్ తాగవచ్చా?",
+        "కొన్నిసార్లు నేను ఆత్రుతగా మరియు అసౌకర్యంగా అనిపిస్తుంది.",
+        "మరింత ఆరోగ్యకరంగా ఎలా తినాలో తెలుసుకోవాలని అనుకుంటున్నాను.",
+        "ఇటీవల నాకు తరచుగా ముక్కు నుంచి రక్తం వస్తుంది. ఎందుకో తెలియదు.",
+        "నా గొంతు ఎల్లప్పుడూ ఎండిపోతుంది.",
+        "ఇటీవల నాకు తరచుగా జలుబు వస్తుంది. నా రోగనిరోధక శక్తి బలహీనపడిందా?"
+      ]
+    },
+    {
+      "language": "mr",
+      "questions": [
+        "माझे पोट अनेकदा अस्वस्थ वाटते; हे गॅस्ट्रायटिस असू शकते का?",
+        "मला खूप चिंता वाटते आणि काय करावे कळत नाही.",
+        "मला रात्री अनेकदा झोप येत नाही; हे कसे सुधारू शकतो?",
+        "मला गंभीर केस गळण्याचा त्रास होत आहे; याबद्दल मी काय करू शकतो?",
+        "आहाराद्वारे मी माझी त्वचा कशी सुधारू शकतो?",
+        "मला उच्च रक्तदाब आणि उच्च रक्तशर्करा आहे.",
+        "अलीकडे मला वारंवार डोकेदुखी होत आहे; याचे कारण काय असू शकते?",
+        "माझे सांधे अनेकदा दुखतात.",
+        "व्यायाम हृदयाच्या आरोग्यासाठी मदतगार आहे का?",
+        "मी दररोज रस पिऊ शकतो का?",
+        "कधीकधी मला चिंता आणि अस्वस्थता वाटते.",
+        "मला अधिक आरोग्यदायी अन्न कसे खावे हे जाणून घ्यायचे आहे.",
+        "अलीकडे मला वारंवार नाकातून रक्त येत आहे. कारण कळत नाही.",
+        "माझा घसा सतत कोरडा राहतो.",
+        "अलीकडे मला वारंवार सर्दी होत आहे. माझी रोगप्रतिकारक शक्ती कमी झाली आहे का?"
+      ]
+    },
+    {
+      "language": "ta",
+      "questions": [
+        "என் வயிறு அடிக்கடி அசௌகரியமாக உணர்கிறது; இது இரைப்பை அழற்சியாக இருக்குமா?",
+        "நான் மிகவும் கவலையாக உணர்கிறேன், என்ன செய்வது என்று தெரியவில்லை.",
+        "இரவில் அடிக்கடி தூக்கமின்மை உள்ளது; இதை எப்படி மேம்படுத்துவது?",
+        "கடுமையான முடி உதிர்வை அனுபவித்து வருகிறேன்; இதற்கு என்ன செய்யலாம்?",
+        "உணவின் மூலம் என் சருமத்தை எப்படி மேம்படுத்துவது?",
+        "எனக்கு உயர் இரத்த அழுத்தம் மற்றும் உயர் இரத்த சர்க்கரை உள்ளது.",
+        "சமீபத்தில் அடிக்கடி தலைவலி வருகிறது; காரணம் என்னவாக இருக்கும்?",
+        "என் மூட்டுகள் அடிக்கடி வலிக்கின்றன.",
+        "உடற்பயிற்சி இதய ஆரோக்கியத்திற்கு உதவுமா?",
+        "தினமும் பழச்சாறு குடிக்கலாமா?",
+        "சில நேரங்களில் கவலையும் அசௌகரியமும் உணர்கிறேன்.",
+        "எப்படி ஆரோக்கியமாக சாப்பிடுவது என்பதை அறிய விரும்புகிறேன்.",
+        "சமீபத்தில் அடிக்கடி மூக்கில் இரத்தம் வருகிறது. காரணம் தெரியவில்லை.",
+        "என் தொண்டை எப்போதும் வறண்டு இருக்கிறது.",
+        "சமீபத்தில் அடிக்கடி சளிப்பிடிக்கிறது. என் நோய் எதிர்ப்பு சக்தி குறைந்ததா?"
+      ]
+    },
+    {
+      "language": "ur",
+      "questions": [
+        "میرا پیٹ اکثر تکلیف محسوس کرتا ہے؛ کیا یہ گیسٹرائٹس ہو سکتی ہے؟",
+        "میں بہت پریشان محسوس کرتا ہوں اور نہیں جانتا کہ کیا کرنا ہے۔",
+        "رات کو مجھے اکثر نیند نہیں آتی؛ میں اسے کیسے بہتر بنا سکتا ہوں؟",
+        "میں شدید بال گرنے کا سامنا کر رہا ہوں؛ اس کے بارے میں میں کیا کر سکتا ہوں؟",
+        "میں اپنی جلد کو خوراک کے ذریعے کیسے بہتر بنا سکتا ہوں؟",
+        "مجھے ہائی بلڈ پریشر اور ہائی بلڈ شوگر ہے۔",
+        "حال ہی میں مجھے اکثر سر درد ہوتا ہے؛ اس کا کیا سبب ہو سکتا ہے؟",
+        "میرے جوڑ اکثر درد کرتے ہیں۔",
+        "کیا ورزش دل کی صحت کے لیے مددگار ہے؟",
+        "کیا میں روزانہ جوس پی سکتا ہوں؟",
+        "میں کبھی کبھی پریشان اور بے چین محسوس کرتا ہوں۔",
+        "میں جاننا چاہتا ہوں کہ زیادہ صحت مند کھانا کیسے کھایا جائے۔",
+        "حال ہی میں مجھے اکثر ناک سے خون آتا ہے۔ وجہ معلوم نہیں۔",
+        "میرا گلا ہمیشہ خشک رہتا ہے۔",
+        "حال ہی میں مجھے اکثر زکام ہوتا ہے۔ کیا میری قوت مدافعت کمزور ہو گئی ہے؟"
+      ]
+    },
+    {
+      "language": "it",
+      "questions": [
+        "Il mio stomaco spesso si sente a disagio; potrebbe essere gastrite?",
+        "Mi sento molto ansioso e non so cosa fare.",
+        "Spesso ho insonnia di notte; come posso migliorare?",
+        "Sto sperimentando una grave perdita di capelli; cosa posso fare al riguardo?",
+        "Come posso migliorare la mia pelle attraverso la dieta?",
+        "Ho la pressione alta e gli zuccheri alti nel sangue.",
+        "Ultimamente ho spesso mal di testa; quale potrebbe essere la causa?",
+        "Le mie articolazioni spesso fanno male.",
+        "L'esercizio aiuta la salute del cuore?",
+        "Posso bere succo ogni giorno?",
+        "A volte mi sento ansioso e a disagio.",
+        "Vorrei sapere come mangiare in modo più sano.",
+        "Ultimamente ho spesso epistassi. Non sono sicuro del perché.",
+        "La mia gola è costantemente secca.",
+        "Ultimamente prendo spesso il raffreddore. La mia immunità è più debole?"
+      ]
+    },
+    {
+      "language": "gu",
+      "questions": [
+        "મારા પેટમાં અક્સર અસહાય લાગે છે; આ ગેસ્ટ્રાઇટિસ હોઈ શકે છે?",
+        "હું ખૂબજ ચિંતાઆશ લાગું છું અને શું કરવું તે સમજાતું નથી.",
+        "મને રાતે અક્સર નીંદ ના આવે છે; હું આને કેમ સારું શકું?",
+        "હું ગંભીર વાળ ઝડનાર બાંધતી આવ઻ છું; આ બાબતે હું શું કરી શકું?",
+        "હું આહાર દ્વારા મારી ત્વચાને કેમ સારી બનાવી શકું?",
+        "મને ઉચ્ચ બ્લડ પ્રેશર અને ઉચ્ચ બ્લડ શુગર છે.",
+        "આધ્યારે મને અક્સર સરદરલ થાય છે; આનું શું કારણ હોઈ શકે?",
+        "મારા જોડાઓ અક્સર દુ:ખે છે.",
+        "શું વશરત હૃદયના આરોગ્યમાં મદદ કરે છે?",
+        "શું હું દર દિવસે જૂસ પી શકું?",
+        "કેટલીકવાર હું ચિંતાઆશ અને અસહાય લાગું છું.",
+        "હું જાણવા માંગું છું કે કેમ વધુ આરોગ્યકારક ખાવું.",
+        "આધ્યારે મને અક્સર નાકમાંથી રક્ત નીકળે છે. શા માટે ખાતરી નથી.",
+        "મારું ગળું સતત સુકું રહે છે.",
+        "આધ્યારે મને અક્સર સરપેછું થાય છે. શું મારી રોગપ્રતિકારક શક્તિ કમજોર થઈ છે?"
+      ]
+    },
+    {
+      "language": "fa",
+      "questions": [
+        "معده من اغلب ناراحت احساس می کند، آیا این می تواند گاستریت باشد؟",
+        "من خیلی مضطرب احساس می کنم و نمی دانم چی کار کنم.",
+        "من اغلب شب ها بی خوابی دارم، چگونه می توانم آن را بهبود ببخشم؟",
+        "من ریزش موی جدی دارم، در این مورد چی کار می توانم بکنم؟",
+        "چگونه می توانم پوستم را از طریق رژیم غذایی بهبود ببخشم؟",
+        "من فشار خون بالا و قند خون بالا دارم.",
+        "اخیراً زیاد سردرد دارم، علت آن چی می تواند باشد؟",
+        "مفاصلم اغلب درد می کند.",
+        "آیا ورزش به سلامتی قلب کمک می کند؟",
+        "آیا می توانم هر روز آب میوه بنوشم؟",
+        "گاهی مضطرب و ناراحت احساس می کنم.",
+        "می خواهم بدانم چگونه سالم تر غذا بخورم.",
+        "اخیراً زیاد خون دماغ دارم. مطمئن نیستم چرا.",
+        "گلوم مدام خشک است.",
+        "اخیراً زیاد سرما می خورم. آیا ایمنی من ضعیف شده؟"
+      ]
+    },
+    {
+      "language": "pl",
+      "questions": [
+        "Mój żołądek często czuje się niekomfortowo; czy to może być zapalenie żołądka?",
+        "Czuję się bardzo niepokojąco i nie wiem co robić.",
+        "Często mam bezsenność w nocy; jak mogę to poprawić?",
+        "Doświadczam poważnej utraty włosów; co mogę z tym zrobić?",
+        "Jak mogę poprawić skórę poprzez dietę?",
+        "Mam wysokie ciśnienie krwi i wysoki poziom cukru we krwi.",
+        "Ostatnio często mam bóle głowy; jaka może być przyczyna?",
+        "Moje stawy często bolą.",
+        "Czy ćwiczenia pomagają zdrowiu serca?",
+        "Czy mogę pić sok codziennie?",
+        "Czasami czuję się niepokojąco i niekomfortowo.",
+        "Chciałbym wiedzieć jak jeść zdrowiej.",
+        "Ostatnio często mam krwawienie z nosa. Nie jestem pewien dlaczego.",
+        "Moje gardło jest ciągle suche.",
+        "Ostatnio często się przeziębiam. Czy moja odporność słabnie?"
+      ]
+    },
+    {
+      "language": "uk",
+      "questions": [
+        "Мій шлунок часто відчуває дискомфорт; чи може це бути гастрит?",
+        "Я відчуваю сильну тривогу і не знаю, що робити.",
+        "У мене часто безсоння вночі; як я можу це покращити?",
+        "Я відчуваю серйозне випадіння волосся; що я можу з цим робити?",
+        "Як я можу покращити свою шкіру через дієту?",
+        "У мене високий тиск і високий цукор у крові.",
+        "Останнім часом у мене часто болить голова; якою може бути причина?",
+        "Мої суглоби часто болять.",
+        "Чи допомагають вправи здоров'ю серця?",
+        "Чи можу я пити сік щодня?",
+        "Іноді я відчуваю тривогу і неспокій.",
+        "Я б хотів знати, як харчуватися здоровіше.",
+        "Останнім часом у мене часто йде кров з носа. Не впевнений, чому.",
+        "Моє горло постійно сухе.",
+        "Останнім часом я часто простужуюся. Чи став мій імунітет слабшим?"
+      ]
+    },
+    {
+      "language": "ha",
+      "questions": [
+        "Cikina yakan ji rashin jin daɗi; zai iya zama gastritis?",
+        "Ina jin damuwa sosai kuma ban san me zan yi ba.",
+        "Sau da yawa ba na kwana da dare; yaya zan iya inganta hakan?",
+        "Ina fuskantar ɓacin gashi mai tsanani; me zan iya yi game da shi?",
+        "Ta yaya zan iya inganta fatata ta hanyar abinci?",
+        "Ina da hauhawar jini da sikarin jini.",
+        "Kwanan nan ina shan ciwon kai; me zai iya zama dalilin?",
+        "Gidajen jikin na yakan yi mini ciwo.",
+        "Shin motsa jiki yana taimakawa lafiyar zuciya?",
+        "Zan iya shan ruwan 'ya'yan itace kullum?",
+        "Wasu lokuta ina jin damuwa da rashin kwanciyar hankali.",
+        "Ina so in san yadda zan ci abinci mai gina jiki.",
+        "Kwanan nan na rika zubar da jini daga hanci. Ban tabbata dalili ba.",
+        "Maƙogwarona kullum bushewa take.",
+        "Kwanan nan ina rikewa da mura. Shin karfin jikin na ya ragu?"
+      ]
+    },
+    {
+      "language": "sw",
+      "questions": [
+        "Tumbo langu mara nyingi huhisi harakati mbaya; hii inaweza kuwa gastritis?",
+        "Nadhani wasiwasi mkubwa na sijui nifanye nini.",
+        "Mara nyingi nina usingizi usiku; ninawezaje kuboresha hii?",
+        "Nimekuwa nikipata upotezaji mkubwa wa nywele; ninaweza kufanya nini kuhusu hii?",
+        "Ninawezaje kuboresha ngozi yangu kupitia chakula?",
+        "Nina shinikizo la juu la damu na sukari ya juu ya damu.",
+        "Hivi karibuni nimekuwa na maumivu ya kichwa mara nyingi; sababu inaweza kuwa nini?",
+        "Viungo vyangu mara nyingi huumwa.",
+        "Je, mazoezi yanasaidia afya ya moyo?",
+        "Ninaweza kunywa maji ya matunda kila siku?",
+        "Wakati mwingine nadhani wasiwasi na kutokuridhika.",
+        "Ningependa kujua jinsi ya kula vizuri zaidi.",
+        "Hivi karibuni nimekuwa na damu ya pua mara nyingi. Sijui kwa nini.",
+        "Koo langu ni kavu kila wakati.",
+        "Hivi karibuni napatakana na homa mara nyingi. Je, kinga yangu ni dhaifu?"
+      ]
+    },
+    {
+      "language": "nl",
+      "questions": [
+        "Mijn maag voelt zich vaak ongemakkelijk; zou dit gastritis kunnen zijn?",
+        "Ik voel me erg angstig en weet niet wat ik moet doen.",
+        "Ik heb vaak slapeloosheid 's nachts; hoe kan ik dit verbeteren?",
+        "Ik ervaar ernstig haarverlies; wat kan ik daaraan doen?",
+        "Hoe kan ik mijn huid verbeteren door middel van dieet?",
+        "Ik heb hoge bloeddruk en hoge bloedsuiker.",
+        "Ik heb de laatste tijd vaak hoofdpijn; wat zou de oorzaak kunnen zijn?",
+        "Mijn gewrichten doen vaak pijn.",
+        "Helpt lichaamsbeweging de gezondheid van het hart?",
+        "Kan ik elke dag sap drinken?",
+        "Soms voel ik me angstig en ongemakkelijk.",
+        "Ik zou graag willen weten hoe ik gezonder kan eten.",
+        "Ik heb de laatste tijd vaak neusbloedingen. Niet zeker waarom.",
+        "Mijn keel voelt constant droog.",
+        "Ik krijg de laatste tijd vaak verkoudheid. Is mijn immuniteit zwakker?"
+      ]
+    },
+    {
+      "language": "th",
+      "questions": [
+        "กระเพาะของฉันมักรู้สึกไม่สบาย; นี่อาจเป็นโรคกระเพาะอักเสบได้ไหม?",
+        "ฉันรู้สึกกังวลมากและไม่รู้ว่าจะทำอะไร.",
+        "ฉันมักนอนไม่หลับตอนกลางคืน; ฉันจะปรับปรุงได้อย่างไร?",
+        "ฉันกำลังปัญหาผมร่วงอย่างรุนแรง; ฉันทำอะไรเกี่ยวกับเรื่องนี้?",
+        "ฉันจะปรับปรุงผิวของฉันผ่านอาหารได้อย่างไร?",
+        "ฉันมีความดันโลหิตสูงและน้ำตาลในเลือดสูง.",
+        "เมื่อเร็วๆ นี้ ฉันมักปวดหัวบ่อย; สาเหตุอาจเป็นอะไร?",
+        "ข้อต่อของฉันมักปวด.",
+        "การออกกำลังกายช่วยสุขภาพหัวใจไหม?",
+        "ฉันดื่มน้ำผลไม้ทุกวันได้ไหม?",
+        "บางครั้งฉันรู้สึกกังวลและไม่สบาย.",
+        "ฉันอยากรู้ว่าจะกินอย่างไรให้มีสุขภาพมากขึ้น.",
+        "เมื่อเร็วๆ นี้ ฉันมักเลือดกำเดาจากจมูกบ่อย. ไม่แน่ใจว่าทำไม.",
+        "คอของฉันแห้งตลอดเวลา.",
+        "เมื่อเร็วๆ นี้ ฉันมักเป็นหวัดบ่อย. ภูมิคุ้มกันโรคของฉันอ่อนแอลงไหม?"
+      ]
+    },
+    {
+      "language": "my",
+      "questions": [
+        "ကျောင့အပ်ညားဉွှင့အမှိုင့ပိုသားအမှိုင့ရှီ; ဧနေဲခရိပစာ ဂာသတရာကိသ္ ဖြည့ပြည့နိုင့မလား။",
+        "ကျောင့သွင့စွင့လှစက်စညားအသွင့ခြီး်ပြီးနေဲ ဘာကိသ္သည့မလားအခေးမသေပါ၄။",
+        "ကျောင့သောသမ်းအနိုင့သွင့လှအေဒိုင့ရှီ; ကျောင့ဧနေဲကိသ္ ဘေက်ဆေပြင့နိုင့မလား။",
+        "ကျောင့အက်အဖြင့အထာနက်အပြီးအမှိုင့ခြီးနေစညား; ဧနေဲအတိုက့မှား ကျောင့ဘာကိသ္သည့နိုင့မလား။",
+        "ကျောင့အစမေးအစာကိသ္ ကျောင့စညားအရေ့ဋုကိသ္ ဘေက်ဆေပြင့နိုင့မလား။",
+        "ကျောင့အသေားပြင့အမြီးအသေားနေဲ သည့စီအီးပြင့ရှီ။",
+        "တားခြေးအမှား ကျောင့အဂောင့နာက်အမှိုင့ရှီ; ဧနေဲအထိုက့ကာဒေက်ဘာကိသ္နိုင့မလား။",
+        "ကျောင့အစိုးက်သေးမ်းတု်အမှိုင့နာသားဆေ။",
+        "အက်ကိုင့းပြည့နက့ရေ်ညားအလှံ့အဉွှင့အပြင့ခက်ကိသ္စားမလား။",
+        "ကျောင့မငေ့တားအရေ့ဋုအသေဪးနိုင့မလား။",
+        "တခေးခေးကျောင့ကမာဏကိုလေဪ့အမှိုင့နေဲ အမိတႈသိုးအသားအမှိုင့ရှီ။",
+        "ကျောင့အသားအစာဘေက်ဆေစားမလားအသေးမီနီနေဲကိသ္မေ့နိုင့ရာသီ။",
+        "တားခြေးအမှား ကျောင့အနာူးဂောင့အသေဧးပြည့အမှိုင့ရှီ။ ဘာအထိုက့မေ့မေ်အခေးမသေပါ၄။",
+        "ကျောင့ဂေက်ဂေက်အမှိုင့အေသာူးေသာူးရှီ။",
+        "တားခြေးအမှား ကျောင့အပြည့အသိုးအမှိုင့ရှီ။ ကျောင့အပြင့ခက်နိုင့အတိုက့အညြင့အေသာူးေသာူးမလား။"
       ]
     },
     {

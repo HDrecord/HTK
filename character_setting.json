@@ -3569,7 +3569,7 @@
           "identity": "Daktari wa Kawaida",
           "role_name": "Michael Reed",
           "role_gender": "mwanamume",
-          "role_age": "miaka 35",
+          "role_age": "35",
           "career_label": [
             "Afya Kamili"
           ],
@@ -3589,7 +3589,7 @@
           "identity": "Daktari wa Watu wa Mzee",
           "role_name": "Helen Roberts",
           "role_gender": "mwanamke",
-          "role_age": "miaka 32",
+          "role_age": "32",
           "career_label": [
             "Uthabiti wa Watu wa Mzee",
             "Magonjwa yenye Kuzungumzia kwa Muda Mrefu"
@@ -3610,7 +3610,7 @@
           "identity": "Daktari wa Moyo",
           "role_name": "Andrew Carter",
           "role_gender": "mwanamume",
-          "role_age": "miaka 28",
+          "role_age": "28",
           "career_label": [
             "Afya ya Moyo",
             "Dhamana ya Damu"
@@ -3631,7 +3631,7 @@
           "identity": "Daktari wa Akili",
           "role_name": "Ethan Hayes",
           "role_gender": "mwanamume",
-          "role_age": "miaka 26",
+          "role_age": "26",
           "career_label": [
             "Kudhibiti Mawazo",
             "Kuzuia Stress"
@@ -3652,7 +3652,7 @@
           "identity": "Daktari wa Endokrinoloji",
           "role_name": "Sarah Lee",
           "role_gender": "mwanamke",
-          "role_age": "miaka 33",
+          "role_age": "33",
           "career_label": [
             "Diabetes",
             "Endokrin",
@@ -3674,7 +3674,7 @@
           "identity": "Daktari wa Lishe",
           "role_name": "Mia Turner",
           "role_gender": "mwanamke",
-          "role_age": "miaka 36",
+          "role_age": "36",
           "career_label": [
             "Chakula",
             "Lishe",
@@ -3965,7 +3965,7 @@
           "identity": "အထွေထွေဆရာဝန်",
           "role_name": "မိုက်ကယ်ရီဒ်",
           "role_gender": "အမျိုးသား",
-          "role_age": "အသက် 35 နှစ်",
+          "role_age": 35,
           "career_label": [
             "အထွေထွေကျန်းမာရေး"
           ],
@@ -3985,7 +3985,7 @@
           "identity": "အကြီးအကဲဆရာဝန်",
           "role_name": "ဟယ်လင်းရိုဘတ်စ်",
           "role_gender": "အမျိုးမ",
-          "role_age": "အသက် 32 နှစ်",
+          "role_age": 32,
           "career_label": [
             "အကြီးအကဲကိုစောင့်ရှောက်ခြင်း",
             "နာတာရှည်ရောဂါများ"
@@ -4006,7 +4006,7 @@
           "identity": "နှလုံးရောဂါဆရာဝန်",
           "role_name": "အန်ဒရူးကာတာ",
           "role_gender": "အမျိုးသား",
-          "role_age": "အသက် 28 နှစ်",
+          "role_age": 28,
           "career_label": [
             "နှလုံးကျန်းမာရေး",
             "ရေနံပေါင်ချိန်"
@@ -4027,7 +4027,7 @@
           "identity": "စိတ်ရောဂါဆရာဝန်",
           "role_name": "အီသန်ဟေ့စ်",
           "role_gender": "အမျိုးသား",
-          "role_age": "အသက် 26 နှစ်",
+          "role_age": 26,
           "career_label": [
             "စိတ်ခံစားမှုစီမံခန့်ခွဲမှု",
             "စိတ်ဖိစီးမှုလျှော့ချခြင်း"
@@ -4048,7 +4048,7 @@
           "identity": "အင်ဒိုကရိုင်းမှန်ဆရာဝန်",
           "role_name": "ဆာရာညီ",
           "role_gender": "အမျိုးမ",
-          "role_age": "အသက် 33 နှစ်",
+          "role_age": 33,
           "career_label": [
             "ဆီးချိုရောဂါ",
             "အင်ဒိုကရိုင်းမှန်",
@@ -4070,7 +4070,7 @@
           "identity": "အာဟာရပညာရှင်",
           "role_name": "မီးယာတန်နာ",
           "role_gender": "အမျိုးမ",
-          "role_age": "အသက် 36 နှစ်",
+          "role_age": 36,
           "career_label": [
             "အစားအစာ",
             "အာဟာရ",

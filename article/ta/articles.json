@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_1.webp",
+    "title": "இரத்த அழுத்தம் என்றால் என்ன?",
+    "file": "article_1.md"
+  },
+  {
+    "id": 2,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_2.webp",
+    "title": "வாழ்க்கை முறையின் தாக்கம்",
+    "file": "article_2.md"
+  },
+  {
+    "id": 3,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_3.webp",
+    "title": "உணவின் தாக்கம்",
+    "file": "article_3.md"
+  },
+  {
+    "id": 4,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_4.webp",
+    "title": "மருந்தில்லா சிகிச்சைகள்",
+    "file": "article_4.md"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_5.webp",
+    "title": "மன அழுத்தத்தின் தாக்கம்",
+    "file": "article_5.md"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_6.webp",
+    "title": "உடற்பயிற்சியின் பங்கு",
+    "file": "article_6.md"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_7.webp",
+    "title": "கண்காணிப்பின் அவசியம்",
+    "file": "article_7.md"
+  },
+  {
+    "id": 8,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_8.webp",
+    "title": "மரபணு தாக்கம்",
+    "file": "article_8.md"
+  },
+  {
+    "id": 9,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_9.webp",
+    "title": "உணவின் பங்கு",
+    "file": "article_9.md"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_10.webp",
+    "title": "வயது மற்றும் இரத்த அழுத்தம்",
+    "file": "article_10.md"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_11.webp",
+    "title": "இரத்த அழுத்தம் குறைப்பது எப்படி?",
+    "file": "article_11.md"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_12.webp",
+    "title": "இதய நோய் என்றால் என்ன?",
+    "file": "article_12.md"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_13.webp",
+    "title": "இதய ஆரோக்கிய அளவுகோல்கள்",
+    "file": "article_13.md"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_14.webp",
+    "title": "உகந்த உடற்பயிற்சிகள்",
+    "file": "article_14.md"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_15.webp",
+    "title": "இதயத் துடிப்பு மாறுபாடுகள்",
+    "file": "article_15.md"
+  }
+]

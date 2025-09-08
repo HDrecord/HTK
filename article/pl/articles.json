@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_1.webp",
+    "title": "Czym jest ciśnienie krwi i jak jest mierzone?",
+    "file": "article_1.md"
+  },
+  {
+    "id": 2,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_2.webp",
+    "title": "Wpływ stylu życia na ciśnienie krwi",
+    "file": "article_2.md"
+  },
+  {
+    "id": 3,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_3.webp",
+    "title": "Wpływ diety na ciśnienie krwi",
+    "file": "article_3.md"
+  },
+  {
+    "id": 4,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_4.webp",
+    "title": "Niefarmakologiczne terapie nadciśnienia",
+    "file": "article_4.md"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_5.webp",
+    "title": "Czy stres wpływa na ciśnienie krwi?",
+    "file": "article_5.md"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_6.webp",
+    "title": "Czy ćwiczenia mogą kontrolować ciśnienie krwi?",
+    "file": "article_6.md"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_7.webp",
+    "title": "Czy regularne monitorowanie jest konieczne?",
+    "file": "article_7.md"
+  },
+  {
+    "id": 8,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_8.webp",
+    "title": "Czy geny wpływają na ciśnienie krwi?",
+    "file": "article_8.md"
+  },
+  {
+    "id": 9,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_9.webp",
+    "title": "Czy dieta wpływa na ciśnienie krwi?",
+    "file": "article_9.md"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_10.webp",
+    "title": "Związek między wiekiem a ciśnieniem krwi",
+    "file": "article_10.md"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_11.webp",
+    "title": "Jak obniżyć ciśnienie krwi?",
+    "file": "article_11.md"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_12.webp",
+    "title": "Czym jest choroba serca?",
+    "file": "article_12.md"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_13.webp",
+    "title": "Kluczowe wskaźniki zdrowia serca",
+    "file": "article_13.md"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_14.webp",
+    "title": "Ćwiczenia dla osób z nadciśnieniem",
+    "file": "article_14.md"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_15.webp",
+    "title": "Tętno i zmienność rytmu serca (HRV)",
+    "file": "article_15.md"
+  }
+]

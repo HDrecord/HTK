@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_1.webp",
+    "title": "O que é pressão arterial e como é medida?",
+    "file": "article_1.md"
+  },
+  {
+    "id": 2,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_2.webp",
+    "title": "A influência do estilo de vida na pressão arterial",
+    "file": "article_2.md"
+  },
+  {
+    "id": 3,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_3.webp",
+    "title": "O efeito da dieta na pressão arterial",
+    "file": "article_3.md"
+  },
+  {
+    "id": 4,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_4.webp",
+    "title": "Terapias não farmacológicas para hipertensão",
+    "file": "article_4.md"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_5.webp",
+    "title": "O stress afeta a pressão arterial?",
+    "file": "article_5.md"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_6.webp",
+    "title": "O exercício pode controlar a pressão arterial?",
+    "file": "article_6.md"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_7.webp",
+    "title": "É necessária a monitorização regular?",
+    "file": "article_7.md"
+  },
+  {
+    "id": 8,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_8.webp",
+    "title": "Os genes influenciam a pressão arterial?",
+    "file": "article_8.md"
+  },
+  {
+    "id": 9,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_9.webp",
+    "title": "A dieta pode afetar a pressão arterial?",
+    "file": "article_9.md"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_10.webp",
+    "title": "A relação entre idade e pressão arterial",
+    "file": "article_10.md"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_11.webp",
+    "title": "Como baixar a pressão arterial?",
+    "file": "article_11.md"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_12.webp",
+    "title": "O que é doença cardíaca?",
+    "file": "article_12.md"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_13.webp",
+    "title": "Principais métricas para a saúde do coração e o que elas significam",
+    "file": "article_13.md"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_14.webp",
+    "title": "Qual exercício pacientes hipertensos?",
+    "file": "article_14.md"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_15.webp",
+    "title": "Batimento cardíaco e variabilidade da frequência cardíaca (VFC)",
+    "file": "article_15.md"
+  }
+]

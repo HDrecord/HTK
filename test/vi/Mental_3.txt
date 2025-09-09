@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Tự đánh giá quản lý cảm xúc",
+  "description": "Việc quản lý cảm xúc một cách hiệu quả rất quan trọng để duy trì sức khỏe tinh thần và mối quan hệ lành mạnh. Một số người tự nhiên xử lý cảm xúc tốt hơn, trong khi những người khác có thể gặp khó khăn. Bạn có bao giờ tự hỏi mình quản lý cảm xúc như thế nào không? Bản tự đánh giá này có thể giúp bạn hiểu kỹ năng quản lý cảm xúc của mình và xác định những lĩnh vực cần cải thiện. Hãy nhớ rằng, đây không phải là một chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy bị lấn át bởi cảm xúc của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc kiểm soát nổi giận của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc giữ bình tĩnh khi gặp áp lực không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc biểu lộ cảm xúc của mình một cách lành mạnh không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có vấn đề với cảm giác buồn hoặc trầm cảm không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có khó khăn trong việc đối phó với stress không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có cảm thấy thách thức để duy trì tính lạc quan trong những tình huống khó khăn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có tránh đối mặt với cảm xúc của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc thấu hiểu cảm xúc của người khác không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có cảm thấy bị lấn át bởi cảm xúc tiêu cực không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có trải qua sự thay đổi tâm trạng thường xuyên không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc tha thứ cho bản thân hoặc người khác không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc bước qua những trải nghiệm trong quá khứ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+       {
+      "id": 14,
+      "type": 1,
+      "question": "Bạn có cảm thấy bị kiệt sức về mặt cảm xúc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc quản lý cảm xúc của mình khi bị stress không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy mình không thể kiểm soát được cảm xúc của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Bạn có cảm thấy cảm xúc của mình đang ảnh hưởng đến mối quan hệ của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Bạn có cảm thấy thách thức khi cố gắng truyền đạt cảm xúc của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Bạn có cảm thấy thiếu hỗ trợ về mặt cảm xúc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó khăn trong việc hồi phục sau những tổn thương cảm xúc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Quản lý cảm xúc tốt",
+      "description": "Câu trả lời của bạn cho thấy rằng bạn quản lý cảm xúc của mình tốt. Mặc dù luôn tốt khi ý thức về sức khỏe tinh thần của bạn, nhưng câu trả lời của bạn cho thấy rằng bạn đang xử lý hiệu quả các tình huống cảm xúc vào thời điểm này.",
+      "advice": "Hãy tiếp tục thực hành các kỹ thuật quản lý cảm xúc tốt và chăm sóc bản thân. Nếu bạn cảm thấy có sự thay đổi trong việc điều chỉnh cảm xúc của mình, hãy xem xét việc tìm đến một chuyên gia tâm lý để được tư vấn."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Quản lý cảm xúc vừa phải",
+      "description": "Câu trả lời của bạn cho thấy rằng bạn có thể đang gặp một số khó khăn trong việc quản lý cảm xúc của mình. Một số câu trả lời của bạn cho thấy rằng bạn đang gặp những khó khăn với việc điều chỉnh cảm xúc của mình.",
+      "advice": "Có thể sẽ hữu ích nếu bạn nói chuyện với một chuyên gia tâm lý về cảm xúc của mình. Họ có thể cung cấp sự hỗ trợ và các chiến lược để giúp bạn cải thiện kỹ năng quản lý cảm xúc và tăng cường sức khỏe tổng thể."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Quản lý cảm xúc yếu kém",
+      "description": "Câu trả lời của bạn cho thấy rằng bạn đang gặp phải những khó khăn lớn trong việc quản lý cảm xúc của mình. Nhiều câu trả lời của bạn cho thấy rằng bạn đang gặp rắc rối với việc điều chỉnh cảm xúc.",
+      "advice": "Rất quan trọng khi tìm đến sự giúp đỡ từ một người chuyên môn về sức khỏe tâm thần càng sớm càng tốt. Họ có thể cung cấp cho bạn một chẩn đoán chính xác và làm việc cùng bạn để xây dựng một kế hoạch điều trị để giải quyết những khó khăn trong việc quản lý cảm xúc của bạn."
+    }
+  ]
+}

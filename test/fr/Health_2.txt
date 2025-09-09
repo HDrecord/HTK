@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Auto-évaluation d'alimentation et de santé",
+  "description": "Une alimentation équilibrée est fondamentale pour maintenir une bonne santé et prévenir diverses maladies. Évaluer vos habitudes alimentaires et votre apport nutritionnel peut fournir des informations précieuses sur votre bien-être général. Cette auto-évaluation vous permet de réfléchir à vos choix alimentaires et d'identifier les domaines à améliorer. N'oubliez pas, il ne s'agit pas d'un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Mangez-vous au moins cinq portions de fruits et légumes chaque jour?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Limitez-vous votre consommation de snacks et boissons sucrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Choisissez-vous les grains entiers plutôt que les grains raffinés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Incluez-vous des protéines maigres dans votre alimentation, comme du poulet, du poisson, des haricots ou du tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Évitez-vous les aliments transformés et les fast-foods?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Buvez-vous au moins huit verres d'eau par jour?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Limitez-vous votre consommation de viandes rouges et transformées?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Faites-vous attention aux tailles des portions et évitez-vous de trop manger?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Intégrez-vous des graisses saines dans votre alimentation, comme celles provenant des avocats, des noix et de l'huile d'olive?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Consommez-vous régulièrement des produits laitiers ou des alternatives laitières?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Limitez-vous votre consommation de sel et d'aliments riches en sodium?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Planifiez-vous vos repas et vos collations à l'avance pour garantir une nutrition équilibrée?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Mauvaises habitudes alimentaires",
+      "description": "Vos réponses suggèrent que vos habitudes alimentaires peuvent ne pas favoriser une santé optimale. Bien qu'il soit toujours bon de faire attention à votre nutrition, vos réponses indiquent qu'il y a plusieurs domaines où vous pourriez améliorer votre alimentation.",
+      "advice": "Envisagez de faire des changements progressifs à votre alimentation en intégrant plus de fruits, de légumes, de grains entiers et de protéines maigres. Réduire votre consommation d'aliments sucrés, salés et transformés peut également être bénéfique. Une consultation avec un professionnel de la santé ou un diététicien peut vous fournir des conseils personnalisés et des stratégies pour améliorer vos habitudes alimentaires."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Habitudes alimentaires modérées",
+      "description": "Vos réponses suggèrent que vos habitudes alimentaires soutiennent modérément votre santé. Bien que vous preniez de bonnes décisions, il y a des domaines où vous pourriez améliorer votre nutrition pour mieux soutenir votre bien-être général.",
+      "advice": "Envisagez d'améliorer votre alimentation en incluant plus régulièrement des fruits, des légumes, des grains entiers et des protéines maigres. Faites attention aux portions et limitez votre consommation de snacks sucrés, salés et transformés. Une consultation avec un professionnel de la santé ou un diététicien peut vous donner des conseils personnalisés et des stratégies pour améliorer encore vos habitudes alimentaires."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Bonnes habitudes alimentaires",
+      "description": "Vos réponses suggèrent que vous avez de bonnes habitudes alimentaires qui soutiennent votre santé globale. Vous faites de nombreux choix bénéfiques qui contribuent à votre bien-être.",
+      "advice": "Continuez à maintenir vos bonnes habitudes alimentaires en incluant régulièrement une variété de fruits, de légumes, de grains entiers, de protéines maigres et de graisses saines dans votre alimentation. Continuez le bon travail, et n'oubliez pas de revoir et d'ajuster périodiquement votre alimentation pour qu'elle continue à répondre à vos besoins nutritionnels. Une consultation avec un professionnel de la santé ou un diététicien peut vous aider à affiner vos habitudes alimentaires pour une santé optimale."
+    }
+  ]
+}

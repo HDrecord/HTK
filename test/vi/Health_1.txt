@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Tự đánh giá rủi ro mắc bệnh tiểu đường",
+  "description": "Bệnh tiểu đường là mối quan tâm sức khỏe ngày càng tăng trên toàn thế giới, và việc hiểu biết về các yếu tố rủi ro của bạn là chìa khóa để phòng ngừa và quản lý. Bài trắc nghiệm tự đánh giá này giúp bạn đánh giá lối sống, sự dự định di truyền, và các yếu tố khác liên quan đến bệnh tiểu đường. Bằng việc tham gia bài trắc nghiệm này, bạn có thể nhận được những thông tin quý giá về rủi ro mắc bệnh tiểu đường của mình và thực hiện những bước tích cực hướng tới cuộc sống khỏe mạnh hơn. Hãy nhớ rằng, bài trắc nghiệm này không phải là chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn thường xuyên tham gia hoạt động thể chất ít nhất 30 phút như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hằng ngày",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 lần một tuần",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 lần một tuần",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiếm khi hoặc không bao giờ",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn thường xuyên tiêu thụ đồ uống hoặc thức ăn có hàm lượng đường cao như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiếm khi hoặc không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 lần một tuần",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 lần một tuần",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hằng ngày",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn thường xuyên ăn hoa quả và rau xanh như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hằng ngày",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 lần một tuần",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 lần một tuần",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiếm khi hoặc không bao giờ",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Chỉ số khối cơ thể của bạn (BMI) là bao nhiêu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Dưới 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 hoặc cao hơn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Trong gia đình bạn có ai mắc bệnh tiểu đường không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Có, nhưng chỉ là họ hàng xa",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Có, họ hàng gần (cha mẹ, anh chị em)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Có, nhiều họ hàng gần",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn bao giờ bị chẩn đoán mắc bệnh huyết áp cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Có, nhưng kiểm soát được thông qua thay đổi lối sống",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Có, kiểm soát được bằng thuốc",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Có, nhưng không kiểm soát được",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có hút thuốc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Có, thỉnh thoảng",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Có, thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Có, nhiều",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn bao giờ bị chẩn đoán mắc bệnh cholesterol cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Có, nhưng kiểm soát được thông qua thay đổi lối sống",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Có, kiểm soát được bằng thuốc",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Có, nhưng không kiểm soát được",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn thường xuyên kiểm tra sức khỏe như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hằng năm",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mỗi 2-3 năm",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mỗi 4-5 năm",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiếm khi hoặc không bao giờ",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn đã bao giờ được chẩn đoán mắc tiền đường huyết hoặc tiểu đường thai kỳ chưa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Có, tiền đường huyết",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Có, tiểu đường thai kỳ",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Có, cả hai",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Rủi ro thấp",
+      "description": "Rủi ro mắc bệnh tiểu đường của bạn dường như thấp. Hãy tiếp tục giữ gìn thói quen lành mạnh của mình.",
+      "advice": "Mặc dù rủi ro của bạn dường như thấp, nhưng việc quan sát sức khỏe và duy trì lối sống cân đối vẫn rất quan trọng. Đề xuất kiểm tra sức khỏe định kỳ với chuyên viên y tế."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Rủi ro trung bình",
+      "description": "Bạn có rủi ro trung bình mắc bệnh tiểu đường.",
+      "advice": "Bạn nên cân nhắc việc thay đổi lối sống để giảm rủi ro của bạn, như tăng cường hoạt động thể chất và cải thiện chế độ ăn uống. Việc tư vấn với chuyên gia y tế để nhận lời khuyên tùy chỉnh có thể rất hữu ích."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Rủi ro cao",
+      "description": "Rủi ro mắc bệnh tiểu đường của bạn là cao.",
+      "advice": "Rất quan trọng khi bạn cần thực hiện các bước ngay lập tức để giảm rủi ro của mình. Hãy tư vấn với chuyên gia y tế để nhận hướng dẫn về cách thực hiện những thay đổi hiệu quả đối với lối sống và quản lý sức khỏe của bạn."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Rủi ro rất cao",
+      "description": "Rủi ro mắc bệnh tiểu đường của bạn rất cao.",
+      "advice": "Yêu cầu hành động ngay lập tức là cần thiết để giải quyết rủi ro cao của bạn. Rất quan trọng khi tìm kiếm sự hỗ trợ chuyên nghiệp và thực hiện những thay đổi lớn trong lối sống của bạn. Can thiệp sớm có thể giảm đáng kể rủi ro của bạn và cải thiện sức khỏe của bạn."
+    }
+  ]
+}

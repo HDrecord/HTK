@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Stress coping ability assessment",
+  "description": "In our fast-paced world, stress is a common experience, but how we cope with it can greatly affect our overall well-being. Do you know how well you manage stress? This assessment can help you evaluate your stress coping abilities and provide insights into areas for improvement. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often feel overwhelmed by stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you find it difficult to relax after a stressful event?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you have trouble sleeping when stressed?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you find it hard to concentrate when under stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you experience physical symptoms such as headaches or stomachaches when stressed?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you feel irritable or short-tempered when stressed?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you avoid situations that might cause stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you find it hard to balance work and personal life?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Do you rely on unhealthy coping mechanisms (e.g., smoking, drinking) to deal with stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Do you find it challenging to stay positive when under stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Do you feel anxious or panicked in stressful situations?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Do you feel that stress negatively impacts your overall health?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Good stress coping ability",
+      "description": "Your responses suggest that you cope with stress well. While it’s always good to be mindful of your stress levels, your answers indicate that you handle stressful situations effectively at this time.",
+      "advice": "Continue to practice good stress management techniques and self-care. If you ever feel changes in your stress coping ability, consider reaching out to a mental health professional for advice."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Moderate stress coping ability",
+      "description": "Your responses suggest that you may be experiencing some difficulties in coping with stress. Some of your answers indicate that you are struggling with stress management.",
+      "advice": "It might be helpful to talk to a mental health professional about your stress levels. They can offer support and strategies to help you improve your stress management skills and overall well-being."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Poor stress coping ability",
+      "description": "Your responses suggest that you are experiencing significant difficulties in coping with stress. Many of your answers indicate that you are struggling with stress management.",
+      "advice": "It’s important to seek help from a mental health professional as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your stress coping difficulties."
+    }
+  ]
+}

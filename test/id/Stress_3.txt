@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Self-Check Stress Sosial",
+  "description": "Interaksi sosial terkadang bisa menjadi sumber stres, mempengaruhi kesejahteraan mental dan emosional Anda. Penting untuk mengenali dan mengelola stres sosial secara efektif. Pernahkah Anda merasa stres dalam situasi sosial? Self-check ini dapat membantu Anda mengidentifikasi tingkat stres sosial yang Anda alami dan memberikan wawasan tentang area yang mungkin perlu perhatian. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda merasa gugup atau cemas dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda menghindari pertemuan sosial karena takut atau cemas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda khawatir berlebihan tentang dinilai atau dievaluasi oleh orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda mengalami gejala fisik seperti berkeringat, gemetaran, atau jantung berdebar dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berbicara atau beraksi di depan orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda merasa malu atau canggung dalam pengaturan sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda merasa lelah atau terkuras setelah interaksi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berbicara hal-hal kecil atau berpartisipasi dalam percakapan santai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda menghindari kontak mata dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda merasa kewalahan dengan prospek menghadiri acara sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Tingkat stres sosial rendah",
+      "description": "Respon Anda menunjukkan bahwa Anda mengalami tingkat stres sosial yang rendah. Meskipun selalu baik untuk memperhatikan kesehatan mental Anda, jawaban Anda menunjukkan bahwa Anda umumnya merasa nyaman dalam situasi sosial.",
+      "advice": "Terus berpartisipasi dalam kegiatan sosial dan menjaga hubungan sosial yang sehat. Jika Anda pernah merasa perubahan dalam tingkat stres sosial Anda, pertimbangkan untuk menghubungi profesional kesehatan mental untuk saran."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Tingkat stres sosial sedang",
+      "description": "Respon Anda menunjukkan bahwa Anda mungkin mengalami tingkat stres sosial yang moderat. Beberapa jawaban Anda menunjukkan bahwa Anda mungkin merasa tidak nyaman atau cemas dalam situasi sosial tertentu.",
+      "advice": "Pertimbangkan untuk berlatih teknik relaksasi, seperti bernapas dalam-dalam atau kesadaran diri, untuk membantu mengelola stres Anda. Terlibat dalam paparan bertahap ke situasi sosial juga mungkin membantu. Berkonsultasi dengan profesional kesehatan mental dapat memberi Anda strategi yang dipersonalisasi untuk meningkatkan kenyamanan dan kepercayaan diri sosial Anda."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Tingkat stres sosial tinggi",
+      "description": "Respon Anda menunjukkan bahwa Anda mengalami tingkat stres sosial yang tinggi. Banyak jawaban Anda menunjukkan bahwa Anda merasa cukup cemas atau tidak nyaman dalam situasi sosial.",
+      "advice": "Penting untuk mencari bantuan dari profesional kesehatan mental. Mereka dapat memberikan diagnosis yang tepat dan bekerja dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi stres sosial Anda. Ini mungkin termasuk terapi, obat-obatan, atau intervensi lainnya sesuai rekomendasi dokter Anda."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Hypertension self-assessment questionnaire",
+  "description": "Managing high blood pressure is crucial to preventing serious health issues. Regularly checking your blood pressure and understanding your risk factors can help you stay healthy. This questionnaire allows you to assess your current situation and gain insights into maintaining healthy blood pressure levels. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often experience headaches?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you feel dizzy or light-headed?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you experience blurred vision?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you feel short of breath during routine activities?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you feel a pounding in your chest, neck, or ears?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you have difficulty sleeping?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you have a family history of high blood pressure?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you smoke or use tobacco products?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Do you consume alcohol frequently?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Do you have high levels of stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Do you exercise regularly?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Do you follow a healthy diet?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Do you have high cholesterol levels?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Do you take medications for high blood pressure?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Low risk of hypertension",
+      "description": "Your responses suggest that you are at a low risk for hypertension. While it's always good to be mindful of your cardiovascular health, your answers indicate that your blood pressure is currently within a healthy range.",
+      "advice": "Continue to maintain a healthy lifestyle by engaging in regular physical activity, following a balanced diet, managing stress effectively, and avoiding harmful habits like smoking and excessive alcohol consumption. Regular check-ups with your healthcare provider can help you stay on track."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Moderate risk of hypertension",
+      "description": "Your responses suggest that you may be at a moderate risk for hypertension. Some of your answers indicate that there are areas where you could improve your cardiovascular health.",
+      "advice": "Consider making lifestyle changes such as increasing your physical activity, adopting a healthier diet, quitting smoking if applicable, reducing alcohol intake, and managing stress more effectively. Consulting with a healthcare provider can provide you with personalized advice and strategies to improve your blood pressure."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "High risk of hypertension",
+      "description": "Your responses suggest that you are at a high risk for hypertension. Many of your answers indicate that you are experiencing symptoms or have risk factors that could impact your cardiovascular health.",
+      "advice": "It’s important to seek help from a healthcare provider as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your blood pressure and reduce your risk of serious cardiovascular issues. This may include lifestyle changes, medications, or other interventions as recommended by your doctor."
+    }
+  ]
+}

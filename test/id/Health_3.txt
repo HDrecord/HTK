@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Konsumsi alkohol dan penilaian diri tentang kesehatan",
+  "description": "Memahami kebiasaan konsumsi alkohol Anda sangat penting untuk menjaga kesehatan dan kesejahteraan Anda. Menilai seberapa sering dan seberapa banyak Anda minum dapat membantu Anda mengenali pola dan risiko kesehatan potensial. Penilaian diri ini memberikan wawasan tentang kebiasaan minum Anda dan bagaimana mereka mungkin mempengaruhi kesehatan keseluruhan Anda. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Seberapa sering Anda mengonsumsi minuman beralkohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sekali sebulan atau kurang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sekali seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Setiap hari atau hampir setiap hari",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Berapa banyak minuman yang Anda konsumsi pada hari biasa saat Anda minum?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 atau lebih",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Seberapa sering Anda minum lima minuman atau lebih dalam satu kesempatan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kurang dari sebulan sekali",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Setiap bulan",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Setiap minggu atau lebih sering",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berhenti minum setelah Anda mulai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasa rindu atau keinginan kuat untuk minum?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa minum Anda mengganggu tanggung jawab Anda di tempat kerja, sekolah, atau rumah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda pernah mencoba untuk mengurangi minum Anda tetapi tidak bisa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda terus minum meskipun itu menyebabkan masalah dengan kesehatan atau hubungan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda pernah mengalami kehilangan ingatan atau pingsan karena minum?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda merasa bersalah atau menyesal tentang minum Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Risiko rendah masalah kesehatan terkait alkohol",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda memiliki risiko rendah mengalami masalah kesehatan terkait konsumsi alkohol. Meskipun penting untuk menjaga kebiasaan minum yang sehat, jawaban Anda menunjukkan bahwa tingkat konsumsi saat ini umumnya berada dalam batas yang aman.",
+      "advice": "Terus pantau asupan alkohol Anda dan pastikan Anda menjaga keseimbangan yang sehat. Jika Anda memiliki kekhawatiran atau melihat perubahan dalam kebiasaan minum Anda, pertimbangkan untuk berbicara dengan penyedia layanan kesehatan untuk mendapatkan saran yang dipersonalisasi."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Risiko sedang masalah kesehatan terkait alkohol",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda mungkin berisiko sedang mengalami masalah kesehatan terkait konsumsi alkohol. Beberapa jawaban Anda menunjukkan bahwa ada area di mana Anda bisa memperbaiki kebiasaan minum Anda.",
+      "advice": "Pertimbangkan untuk mengurangi asupan alkohol Anda dan berhati-hati terhadap pola minum Anda. Membatasi frekuensi dan jumlah alkohol yang dikonsumsi dapat membantu menurunkan risiko masalah kesehatan. Berkonsultasi dengan penyedia layanan kesehatan dapat memberi Anda saran yang dipersonalisasi dan strategi untuk memperbaiki kebiasaan minum Anda."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Risiko tinggi masalah kesehatan terkait alkohol",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda berisiko tinggi mengalami masalah kesehatan terkait konsumsi alkohol. Banyak jawaban Anda menunjukkan bahwa Anda mungkin mengalami masalah karena kebiasaan minum Anda.",
+      "advice": "Penting untuk mencari bantuan dari penyedia layanan kesehatan secepatnya. Mereka dapat memberikan diagnosis yang tepat dan bekerja dengan Anda untuk mengembangkan rencana pengobatan untuk mengatasi kebiasaan minum Anda dan mengurangi risiko masalah kesehatan serius Anda. Ini mungkin termasuk perubahan gaya hidup, konseling, atau intervensi lainnya seperti yang direkomendasikan oleh dokter Anda."
+    }
+  ]
+}

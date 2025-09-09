@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Autoevaluación de la enfermedad coronaria",
+  "description": "La enfermedad coronaria (CHD) es una afección grave que puede llevar a problemas significativos de salud si no se maneja adecuadamente. La detección temprana de los factores de riesgo es clave para la prevención y el tratamiento. ¿Estás preocupado por tu riesgo de CHD? Esta autoevaluación puede ayudarte a identificar posibles factores de riesgo y comprender mejor la salud de tu corazón. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Sientes con frecuencia falta de aliento?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Sientes dolor o molestia en el pecho?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Experimenta latidos irregulares o palpitaciones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te sientes cansado o fatigado sin razón aparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Experimentas hinchazón en las piernas, tobillos o pies?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tienes presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Tienes niveles altos de colesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Fumas o usas productos de tabaco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Tienes antecedentes familiares de enfermedad coronaria?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Participas en actividad física regular?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Sigues una dieta saludable para el corazón?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Manejas eficazmente el estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "¿Tienes diabetes o niveles altos de azúcar en la sangre?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "¿Experimentas mareos o sensación de desmayo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Bajo riesgo de enfermedad coronaria",
+      "description": "Tus respuestas sugieren que tienes un bajo riesgo de enfermedad coronaria. Siempre es bueno estar consciente de tu salud cardiovascular, tus respuestas indican que tu salud cardíaca está actualmente en buen estado.",
+      "advice": "Continúa manteniendo un estilo de vida saludable para el corazón participando en actividad física regular, siguiendo una dieta equilibrada, manejando eficazmente el estrés y evitando hábitos nocivos como fumar. Los chequeos regulares con tu proveedor de atención médica pueden ayudarte a mantenerte en el camino correcto."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Riesgo moderado de enfermedad coronaria",
+      "description": "Tus respuestas sugieren que puedes estar en un riesgo moderado de enfermedad coronaria. Algunas de tus respuestas indican que hay áreas en las que podrías mejorar tu salud cardiovascular.",
+      "advice": "Considera hacer cambios en tu estilo de vida como aumentar tu actividad física, adoptar una dieta saludable para el corazón, dejar de fumar si es aplicable, y manejar el estrés de manera más eficaz. Consultar con un proveedor de atención médica puede proporcionarte consejos y estrategias personalizadas para mejorar tu salud cardíaca."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Alto riesgo de enfermedad coronaria",
+      "description": "Tus respuestas sugieren que estás en un alto riesgo de enfermedad coronaria. Muchas de tus respuestas indican que estás experimentando síntomas o tienes factores de riesgo que podrían impactar tu salud cardiovascular.",
+      "advice": "Es importante buscar ayuda de un proveedor de atención médica lo antes posible. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu salud cardíaca y reducir tu riesgo de problemas cardiovasculares graves. Esto puede incluir cambios en el estilo de vida, medicamentos u otras intervenciones recomendadas por tu médico."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Sind Sie anfällig für Depressionen?",
+  "description": "In unserer schnelllebigen Welt erleben viele Menschen Traurigkeit und Angst, die manchmal zu Depressionen führen. Haben Sie den Verdacht, dass Sie anfällig für Depressionen sein könnten? Möchten Sie Ihre psychische Gesundheit verstehen und handeln? Dieses Quiz kann Ihnen helfen, Ihren Gemütszustand zu erkunden und zu sehen, ob Sie anfällig für Depressionen sind. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft traurig oder hoffnungslos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Fällt es Ihnen schwer, Aktivitäten zu genießen, die Sie früher gemocht haben?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Fühlen Sie sich müde oder haben Sie wenig Energie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Haben Sie Probleme, sich auf Aufgaben zu konzentrieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Fühlen Sie sich schuldig oder wertlos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie Probleme mit dem Schlafen oder schlafen Sie zu viel?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Fühlen Sie sich ruhelos oder haben Sie Schwierigkeiten, still zu sitzen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Haben Sie Gedanken an Selbstverletzung oder Selbstmord?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Haben Sie Schwierigkeiten, Entscheidungen zu treffen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Finden Sie es schwer, morgens aus dem Bett zu kommen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Geringes Risiko für Depressionen",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie derzeit ein geringes Risiko für Depressionen haben. Obwohl es immer gut ist, auf Ihre psychische Gesundheit zu achten, deuten Ihre Antworten darauf hin, dass Sie derzeit keine signifikanten Symptome einer Depression haben.",
+      "advice": "Überwachen Sie weiterhin Ihre psychische Gesundheit und praktizieren Sie Selbstpflege. Wenn Sie jemals Veränderungen in Ihrer Stimmung oder Ihrem Verhalten bemerken, sollten Sie sich an einen Fachmann für psychische Gesundheit wenden."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Mäßiges Risiko für Depressionen",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein mäßiges Risiko für Depressionen haben könnten. Einige Ihrer Antworten deuten darauf hin, dass Sie Symptome haben, die auf eine Depression hinweisen könnten.",
+      "advice": "Es könnte hilfreich sein, mit einem Psychologen über Ihre Gefühle zu sprechen. Er kann Unterstützung und Strategien anbieten, um Ihre Symptome zu bewältigen und Ihr psychisches Wohlbefinden zu verbessern."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hohes Risiko für Depressionen",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko für Depressionen haben. Viele Ihrer Antworten deuten darauf hin, dass Sie signifikante Symptome haben, die auf eine Depression hindeuten könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Fachmann für psychische Gesundheit zu suchen. Er kann eine geeignete Diagnose stellen und mit Ihnen einen Behandlungsplan entwickeln, um Ihre Symptome zu behandeln."
+    }
+  ]
+}

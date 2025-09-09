@@ -1,0 +1,381 @@
+{
+  "id": 11,
+  "title": "Autoevaluación del riesgo de enfermedad cardíaca",
+  "description": "La enfermedad cardíaca es una de las principales causas de problemas de salud en todo el mundo, y entender tus factores de riesgo es crucial para su prevención. ¿Conoces tu nivel de riesgo para la enfermedad cardíaca? Esta autoevaluación puede ayudarte a evaluar tu riesgo e identificar los cambios en el estilo de vida que pueden reducirlo. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo experimentas falta de aliento?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Sientes dolor o molestias en el pecho?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Experimentas latidos irregulares o palpitos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te sientes cansado o fatigado sin ninguna razón aparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Experimentas hinchazón en tus piernas, tobillos, o pies?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tienes la presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Tienes el colesterol alto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Fumas o usas productos de tabaco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Tienes antecedentes familiares de enfermedad cardíaca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Participas en actividad física regular?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Sigues una dieta saludable para el corazón?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Manejas el estrés de manera efectiva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "¿Tienes diabetes o niveles altos de azúcar en sangre?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No del todo",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Riesgo bajo de enfermedad cardíaca",
+      "description": "Tus respuestas sugieren que corres un bajo riesgo de padecer enfermedades del corazón. Siempre es bueno estar consciente de la salud cardiovascular, pero tus respuestas indican que la salud de tu corazón está en buenas condiciones en este momento.",
+      "advice": "Continúa manteniendo un estilo de vida saludable para el corazón, participando en actividades físicas regulares, siguiendo una dieta equilibrada, manejando el estrés de manera efectiva y evitando hábitos perjudiciales, como fumar. Los exámenes regulares con tu proveedor de atención de salud pueden ayudarte a mantener el camino correcto."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Riesgo moderado de enfermedad cardíaca",
+      "description": "Tus respuestas sugieren que puedes estar en un riesgo moderado de enfermedad del corazón. Algunas de tus respuestas indican que hay áreas en las que podrías mejorar tu salud cardiovascular.",
+      "advice": "Considera hacer cambios en tu estilo de vida, como aumentar tu actividad física, adoptar una dieta saludable para el corazón, dejar de fumar si es aplicable, y manejar el estrés de manera más efectiva. Consultar con un proveedor de atención de salud puede brindarte asesoramiento personalizado y estrategias para mejorar tu salud cardíaca."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Riesgo alto de enfermedad cardíaca",
+      "description": "Tus respuestas sugieren que estás en alto riesgo de enfermedad del corazón. Muchas de tus respuestas indican que estás experimentando síntomas o tienes factores de riesgo que pueden afectar tu salud cardiovascular.",
+      "advice": "Es importante buscar ayuda de un profesional de la salud lo antes posible. Pueden proporcionarte un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu salud cardíaca y reducir tu riesgo de problemas cardiovasculares graves. Esto puede incluir cambios en el estilo de vida, medicamentos, u otras intervenciones según lo recomendado por tu médico."
+    }
+  ]
+}

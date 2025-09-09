@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Autoverificação de sintomas de ansiedade",
+  "description": "A ansiedade pode se manifestar de várias maneiras, desde preocupação constante até sintomas físicos como coração acelerado. É importante reconhecer esses sinais precocemente para gerenciá-los de forma eficaz. Você já se perguntou se seus sentimentos de ansiedade são mais do que apenas estresse cotidiano? Este questionário de autoverificação pode ajudá-lo a identificar sintomas comuns de ansiedade e fornecer informações sobre seu bem-estar emocional. Lembre-se, este questionário não é um diagnóstico profissional, e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você costuma se sentir nervoso ou à beira de um ataque de nervos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você tem dificuldade em controlar sua preocupação?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você acha difícil relaxar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você se sente inquieto ou incapaz de ficar parado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você se irrita facilmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você se sente com medo como se algo terrível pudesse acontecer?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você experimenta sintomas físicos como suor, tremores ou coração acelerado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você acha difícil se concentrar por causa da preocupação?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você evita situações que lhe causam ansiedade?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você sente que sua ansiedade interfere em sua vida diária?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Nível baixo de ansiedade",
+      "description": "Suas respostas sugerem que você está atualmente experimentando um baixo nível de ansiedade. Embora seja sempre bom estar atento à sua saúde mental, suas respostas indicam que sua ansiedade não está afetando significativamente sua vida cotidiana neste momento.",
+      "advice": "Continue a monitorar sua saúde mental e pratique o autocuidado. Se você perceber mudanças em seu humor ou comportamento, considere procurar um profissional de saúde mental para aconselhamento."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Nível moderado de ansiedade",
+      "description": "Suas respostas sugerem que você pode estar experimentando um nível moderado de ansiedade. Algumas de suas respostas indicam que você está experimentando sintomas que podem estar relacionados à ansiedade.",
+      "advice": "Pode ser útil conversar com um profissional de saúde mental sobre seus sentimentos. Eles podem oferecer suporte e estratégias para ajudá-lo a gerenciar seus sintomas e melhorar seu bem-estar mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Nível alto de ansiedade",
+      "description": "Suas respostas sugerem que você está experimentando um alto nível de ansiedade. Muitas de suas respostas indicam que você está experimentando sintomas significativos que podem estar relacionados à ansiedade.",
+      "advice": "É importante procurar ajuda de um profissional de saúde mental o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para lidar com seus sintomas."
+    }
+  ]
+}

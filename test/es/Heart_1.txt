@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Autoevaluación de la salud del corazón",
+  "description": "Mantener un corazón sano es vital para el bienestar general. Comprender su salud cardíaca puede ayudarlo a tomar medidas proactivas para prevenir problemas cardiovasculares. ¿Alguna vez te has preguntado sobre el estado de la salud de tu corazón? Esta autoevaluación puede ayudarlo a evaluar su salud cardíaca e identificar áreas que pueden necesitar atención. Recuerde, esto no es un diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo experimenta falta de aliento?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Siente dolor o incomodidad en el pecho?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Experimenta latidos cardíacos irregulares o palpitaciones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Siente cansancio o fatiga sin ninguna razón aparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Experimenta hinchazón en las piernas, tobillos o pies?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tiene presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Tiene niveles altos de colesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Fuma o usa productos de tabaco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Tiene antecedentes familiares de enfermedad del corazón?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Participa en actividad física regular?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Sigue una dieta saludable para el corazón?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Bajo riesgo de problemas de salud del corazón",
+      "description": "Sus respuestas sugieren que tiene un bajo riesgo de problemas de salud del corazón. Si bien siempre es bueno estar atento a su salud cardiovascular, sus respuestas indican que su salud del corazón está actualmente en buen estado.",
+      "advice": "Continúe manteniendo un estilo de vida saludable para el corazón mediante la realización de actividad física regular, siguiendo una dieta equilibrada y evitando hábitos dañinos como fumar. Las revisiones regulares con su proveedor de atención médica pueden ayudarlo a mantenerse en el buen camino."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Riesgo moderado de problemas de salud del corazón",
+      "description": "Sus respuestas sugieren que puede estar en un riesgo moderado de problemas de salud del corazón. Algunas de sus respuestas indican que hay áreas en las que podría mejorar su salud cardiovascular.",
+      "advice": "Considere hacer cambios en el estilo de vida, como aumentar su actividad física, adoptar una dieta saludable para el corazón y dejar de fumar, si corresponde. Consultar con un proveedor de atención médica puede proporcionarle consejos y estrategias personalizadas para mejorar su salud cardiovascular."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Alto riesgo de problemas de salud del corazón",
+      "description": "Sus respuestas sugieren que tiene un alto riesgo de problemas de salud del corazón. Muchas de sus respuestas indican que está experimentando síntomas o tiene factores de riesgo que podrían afectar su salud cardiovascular.",
+      "advice": "Es importante buscar ayuda de un proveedor de atención médica lo antes posible. Pueden proporcionar un diagnóstico adecuado y trabajar con usted para desarrollar un plan de tratamiento para abordar la salud de su corazón y reducir su riesgo de problemas cardiovasculares graves."
+    }
+  ]
+}

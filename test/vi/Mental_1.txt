@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Bạn có dễ mắc chứng trầm cảm không?",
+  "description": "Trong thế giới nhanh chóng của chúng ta, nhiều người trải qua nỗi buồn và lo âu, đôi khi dẫn đến trầm cảm. Bạn có nghi ngờ mình có thể dễ mắc trầm cảm? Muốn hiểu về sức khỏe tâm thần và hành động? Bài kiểm tra này có thể giúp bạn khám phá tình trạng cảm xúc của mình và xem bạn có dễ mắc trầm cảm hay không. Lưu ý, đây không phải là chẩn đoán chuyên nghiệp và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy buồn hay tuyệt vọng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có thấy khó thưởng thức những hoạt động mà bạn từng thích không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có cảm thấy mệt mỏi hoặc thiếu năng lượng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có gặp khó khăn khi tập trung vào nhiệm vụ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có cảm thấy có tội hoặc vô giá trị không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có gặp khó khăn khi ngủ hoặc ngủ quá nhiều không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có cảm thấy bồn chồn hay khó ngồi yên không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có suy nghĩ về tự làm tổn thương bản thân hoặc tự tử không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có gặp khó khăn khi đưa ra quyết định không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn khi bước ra khỏi giường vào buổi sáng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Rủi ro mắc chứng trầm cảm thấp",
+      "description": "Các câu trả lời của bạn cho thấy hiện tại bạn có nguy cơ mắc chứng trầm cảm thấp. Mặc dù luôn tốt khi ý thức về sức khỏe tâm thần của mình, nhưng câu trả lời của bạn cho thấy bạn không hề trải qua những triệu chứng đáng kể của trầm cảm vào thời điểm này.",
+      "advice": "Hãy tiếp tục theo dõi sức khỏe tâm thần và thực hành chăm sóc bản thân. Nếu bạn cảm nhận được sự thay đổi trong tâm trạng hoặc hành vi, hãy xem xét việc liên hệ với một chuyên gia sức khỏe tâm thần để nhận lời khuyên."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Rủi ro mắc chứng trầm cảm vừa",
+      "description": "Các câu trả lời của bạn cho thấy bạn có thể có nguy cơ mắc trầm cảm ở mức trung bình. Một số câu trả lời của bạn cho thấy bạn đang trải qua các triệu chứng có thể liên quan đến trầm cảm.",
+      "advice": "Nó có thể sẽ hữu ích nếu bạn nói chuyện với một chuyên gia sức khỏe tâm thần về cảm xúc của mình. Họ có thể cung cấp hỗ trợ và chiến lược để giúp bạn quản lý các triệu chứng và cải thiện sức khỏe tâm thần của bạn."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Rủi ro mắc chứng trầm cảm cao",
+      "description": "Các câu trả lời của bạn cho thấy bạn có nguy cơ cao mắc chứng trầm cảm. Nhiều câu trả lời của bạn cho thấy bạn đang trải qua các triệu chứng đáng kể có thể liên quan đến trầm cảm.",
+      "advice": "Điều quan trọng là bạn nên tìm kiếm sự giúp đỡ từ một chuyên gia sức khỏe tâm thần càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc với bạn để phát triển một kế hoạch điều trị đối phó với các triệu chứng của bạn."
+    }
+  ]
+}

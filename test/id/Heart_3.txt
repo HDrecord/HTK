@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Pemeriksaan diri penyakit jantung koroner",
+  "description": "Penyakit jantung koroner (PJK) adalah kondisi serius yang dapat menyebabkan masalah kesehatan signifikan jika tidak dikelola dengan baik. Deteksi dini faktor risiko adalah kunci pencegahan dan pengobatan. Apakah Anda khawatir tentang risiko PJK Anda? Pemeriksaan diri ini dapat membantu Anda mengidentifikasi faktor risiko potensial dan memahami kondisi jantung Anda dengan lebih baik. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering mengalami sesak napas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa nyeri atau tidak nyaman di dada?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasakan detak jantung tidak teratur atau jantung berdebar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa lelah atau lemas tanpa alasan yang jelas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasakan pembengkakan di kaki, mata kaki, atau kaki Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda memiliki tekanan darah tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda memiliki tingkat kolesterol yang tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merokok atau menggunakan produk tembakau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda memiliki riwayat keluarga dengan penyakit jantung koroner?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda rutin melakukan aktivitas fisik?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda mengikuti diet yang baik untuk jantung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apakah Anda mengelola stres dengan efektif?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apakah Anda memiliki diabetes atau tingkat gula darah yang tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Apakah Anda merasakan pusing atau pening?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Serig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Risiko rendah penyakit jantung koroner",
+      "description": "Jawaban Anda menunjukkan bahwa Anda berisiko rendah terkena penyakit jantung koroner. Meski selalu baik untuk memperhatikan kesehatan kardiovaskular Anda, jawaban Anda menunjukkan bahwa kesehatan jantung Anda saat ini dalam kondisi baik.",
+      "advice": "Teruslah menjaga gaya hidup sehat untuk jantung dengan melakukan aktivitas fisik secara rutin, mengikuti diet seimbang, mengelola stres dengan efektif, dan menghindari kebiasaan buruk seperti merokok. Pemeriksaan rutin dengan penyedia layanan kesehatan Anda dapat membantu Anda tetap berada di jalur yang benar."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Risiko sedang penyakit jantung koroner",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mungkin memiliki risiko sedang untuk penyakit jantung koroner. Beberapa jawaban Anda menunjukkan bahwa ada area di mana Anda bisa meningkatkan kesehatan kardiovaskular Anda.",
+      "advice": "Pertimbangkan untuk melakukan perubahan gaya hidup seperti meningkatkan aktivitas fisik Anda, mengadopsi diet sehat untuk jantung, berhenti merokok jika perlu, dan mengelola stres dengan lebih efektif. Konsultasi dengan penyedia layanan kesehatan dapat memberi Anda saran dan strategi pribadi untuk meningkatkan kesehatan jantung Anda."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Risiko tinggi penyakit jantung koroner",
+      "description": "Jawaban Anda menunjukkan bahwa Anda berisiko tinggi terkena penyakit jantung koroner. Banyak jawaban Anda menunjukkan bahwa Anda mengalami gejala atau memiliki faktor risiko yang dapat mempengaruhi kesehatan kardiovaskular Anda.",
+      "advice": "Penting bagi Anda untuk meminta bantuan dari penyedia layanan kesehatan sesegera mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja sama dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi kesehatan jantung Anda dan mengurangi risiko masalah kardiovaskular yang serius. Ini mungkin termasuk perubahan gaya hidup, obat-obatan, atau intervensi lain seperti yang direkomendasikan oleh dokter Anda."
+    }
+  ]
+}

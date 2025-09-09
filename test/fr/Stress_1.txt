@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Évaluation de la capacité à gérer le stress",
+  "description": "Dans notre monde rapide, le stress est une expérience courante, mais la façon dont nous y faisons face peut affecter considérablement notre bien-être général. Savez-vous comment vous gérez le stress? Cette évaluation peut vous aider à évaluer vos capacités à gérer le stress et fournir des informations sur les domaines à améliorer. Rappelez-vous, ce n'est pas un diagnostic professionnel et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent dépassé par le stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Trouvez-vous difficile de vous détendre après un événement stressant?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Avez-vous du mal à dormir quand vous êtes stressé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Trouvez-vous difficile de vous concentrer lorsque vous êtes sous stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ressentez-vous des symptômes physiques tels que des maux de tête ou des maux d'estomac lorsque vous êtes stressé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Vous sentez-vous irritable ou à bout de nerfs quand vous êtes stressé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Évitez-vous des situations qui pourraient causer du stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trouvez-vous difficile d'équilibrer travail et vie personnelle?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous recours à des mécanismes de détresse malsains (par exemple, fumer, boire) pour faire face au stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Trouvez-vous difficile de rester positif quand vous êtes sous stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Vous sentez-vous anxieux ou paniqué dans des situations stressantes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Avez-vous l'impression que le stress a un impact négatif sur votre santé globale?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Bonne capacité à gérer le stress",
+      "description": "Vos réponses suggèrent que vous gérez bien le stress. Bien qu'il soit toujours bon de faire attention à vos niveaux de stress, vos réponses indiquent que vous gérez efficacement les situations stressantes à ce stade.",
+      "advice": "Continuez à pratiquer de bonnes techniques de gestion du stress et à prendre soin de vous. Si vous ressentez des changements dans votre capacité à gérer le stress, pensez à consulter un professionnel de la santé mentale pour obtenir des conseils."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Capacité modérée à gérer le stress",
+      "description": "Vos réponses suggèrent que vous pourriez avoir des difficultés à faire face au stress. Certaines de vos réponses indiquent que vous avez du mal à gérer le stress.",
+      "advice": "Il pourrait être utile de parler de vos niveaux de stress à un professionnel de la santé mentale. Ils peuvent vous offrir du soutien et des stratégies pour vous aider à améliorer vos compétences en gestion du stress et votre bien-être général."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Faible capacité à gérer le stress",
+      "description": "Vos réponses suggèrent que vous avez des difficultés significatives à faire face au stress. Beaucoup de vos réponses indiquent que vous avez du mal à gérer le stress.",
+      "advice": "Il est important de chercher de l'aide auprès d'un professionnel de la santé mentale dès que possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour résoudre vos difficultés en matière de gestion du stress."
+    }
+  ]
+}

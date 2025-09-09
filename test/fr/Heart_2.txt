@@ -1,0 +1,381 @@
+{
+  "id": 11,
+  "title": "Auto-évaluation du risque de maladie cardiaque",
+  "description": "La maladie cardiaque est une cause majeure de problèmes de santé dans le monde, et comprendre vos facteurs de risque est crucial pour la prévention. Connaissez-vous votre niveau de risque de maladie cardiaque? Cette auto-évaluation peut vous aider à évaluer votre risque et à identifier les changements de mode de vie qui peuvent le réduire. N'oubliez pas, ce n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Avez-vous souvent des essoufflements?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Ressentez-vous des douleurs thoraciques ou un inconfort?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ressentez-vous des battements de cœur irréguliers ou des palpitations?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Vous sentez-vous fatigué ou épuisé sans raison apparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ressentez-vous un gonflement dans vos jambes, chevilles ou pieds?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous une pression artérielle élevée?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Avez-vous un taux de cholestérol élevé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fumez-vous ou utilisez-vous des produits du tabac?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous des antécédents familiaux de maladie cardiaque?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Pratiquez-vous une activité physique régulière?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Suivez-vous un régime alimentaire bon pour le cœur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Gérez-vous efficacement le stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Avez-vous du diabète ou un taux élevé de sucre dans le sang?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Faible risque de maladie cardiaque",
+      "description": "Vos réponses suggèrent que vous avez un risque faible de maladie cardiaque. Bien qu'il soit toujours bon de se préoccuper de sa santé cardiovasculaire, vos réponses indiquent que votre santé cardiaque est actuellement en bon état.",
+      "advice": "Continuez à maintenir un mode de vie sain pour le cœur en pratiquant une activité physique régulière, en suivant un régime équilibré, en gérant efficacement le stress et en évitant des habitudes nocives comme fumer. Des contrôles réguliers avec votre professionnel de la santé peuvent vous aider à rester sur la bonne voie."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Risque modéré de maladie cardiaque",
+      "description": "Vos réponses suggèrent que vous pourriez être à un risque modéré de maladie cardiaque. Certaines de vos réponses indiquent qu'il y a des domaines où vous pourriez améliorer votre santé cardiovasculaire.",
+      "advice": "Envisagez de faire des changements de mode de vie tels que augmenter votre activité physique, adopter un régime alimentaire bon pour le cœur, arrêter de fumer le cas échéant, et gérer plus efficacement le stress. Une consultation avec un professionnel de la santé peut vous fournir des conseils personnalisés et des stratégies pour améliorer votre santé cardiaque."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Risque élevé de maladie cardiaque",
+      "description": "Vos réponses suggèrent que vous êtes à un risque élevé de maladie cardiaque. Beaucoup de vos réponses indiquent que vous présentez des symptômes ou avez des facteurs de risque qui pourraient affecter votre santé cardiovasculaire.",
+      "advice": "Il est important de demander l'aide d'un professionnel de la santé dès que possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour gérer votre santé cardiaque et réduire votre risque de problèmes cardiovasculaires graves. Cela peut inclure des changements de mode de vie, des médicaments ou d'autres interventions recommandées par votre médecin."
+    }
+  ]
+}

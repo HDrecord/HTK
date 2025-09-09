@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Penilaian diri tentang risiko diabetes",
+  "description": "Diabetes menjadi perhatian kesehatan yang berkembang di seluruh dunia, dan memahami faktor risiko Anda adalah kunci untuk pencegahan dan pengelolaan. Penilaian diri ini membantu Anda mengevaluasi gaya hidup, predisposisi genetik, dan faktor lainnya yang berhubungan dengan diabetes. Dengan mengambil kuis ini, Anda dapat mendapatkan wawasan berharga tentang risiko Anda mengembangkan diabetes dan mengambil langkah-langkah proaktif menuju kehidupan yang lebih sehat. Ingat, kuis ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Berapa seringkah anda berolahraga selama setidaknya 30 menit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Setiap hari",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 kali seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 kali seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Jarang atau tidak pernah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Berapa seringkah anda mengkonsumsi minuman manis atau makanan kaya gula?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jarang atau tidak pernah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 kali seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 kali seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Setiap hari",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Berapa seringkah anda makan buah dan sayuran segar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Setiap hari",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 kali seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 kali seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Jarang atau tidak pernah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa indeks massa tubuh (BMI) Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kurang dari 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 atau lebih tinggi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda memiliki riwayat keluarga dengan diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, tapi hanya kerabat jauh",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, kerabat dekat (orang tua, saudara)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, beberapa kerabat dekat",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda pernah didiagnosis dengan tekanan darah tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, tapi terkontrol dengan perubahan gaya hidup",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, terkontrol dengan obat-obatan",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, tapi tidak terkontrol dengan baik",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah anda merokok?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, sesekali",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, secara rutin",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, berat",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda pernah didiagnosis dengan kolesterol tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, tapi terkontrol dengan perubahan gaya hidup",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, terkontrol dengan obat-obatan",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, tapi tidak terkontrol dengan baik",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Berapa seringkah anda melakukan pemeriksaan medis?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Setiap tahun",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Setiap 2-3 tahun",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Setiap 4-5 tahun",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Jarang atau tidak pernah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda pernah didiagnosis dengan diabetes pra atau gestasional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, diabetes pra",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, diabetes gestasional",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, keduanya",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Risiko rendah",
+      "description": "Risiko Anda mengembangkan diabetes tampaknya rendah. Pertahankan kebiasaan sehat Anda.",
+      "advice": "Meskipun risiko Anda tampak rendah, penting untuk terus memantau kesehatan dan menjaga gaya hidup seimbang. Dianjurkan melakukan pemeriksaan reguler dengan profesional kesehatan."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Risiko sedang",
+      "description": "Anda memiliki risiko sedang untuk mengembangkan diabetes.",
+      "advice": "Pertimbangkan untuk melakukan perubahan gaya hidup untuk menurunkan risiko Anda, seperti meningkatkan aktivitas fisik dan memperbaiki diet Anda. Mungkin bermanfaat untuk berkonsultasi dengan profesional kesehatan untuk mendapatkan saran yang sesuai dengan kebutuhan Anda."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Risiko tinggi",
+      "description": "Risiko Anda mengembangkan diabetes adalah tinggi.",
+      "advice": "Penting untuk segera mengambil langkah-langkah untuk mengurangi risiko Anda. Konsultasikan dengan profesional kesehatan untuk mendapatkan panduan tentang cara membuat perubahan yang efektif untuk gaya hidup dan pengelolaan kesehatan Anda."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Risiko sangat tinggi",
+      "description": "Risiko Anda mengembangkan diabetes sangat tinggi.",
+      "advice": "Pengambilan tindakan segera diperlukan untuk menghadapi risiko tinggi Anda. Sangat penting untuk mencari dukungan profesional dan membuat perubahan signifikan terhadap gaya hidup Anda. Intervensi dini dapat sangat mengurangi risiko Anda dan memperbaiki kesehatan Anda."
+    }
+  ]
+}

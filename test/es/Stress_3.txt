@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Autoevaluación del estrés social",
+  "description": "Las interacciones sociales a veces pueden ser una fuente de estrés, afectando tu bienestar mental y emocional. Es importante reconocer y manejar eficazmente el estrés social. ¿Alguna vez has sentido estrés en situaciones sociales? Esta autoevaluación puede ayudarte a identificar el nivel de estrés social que experimentas y proporcionar insights en áreas que pueden necesitar atención. Recuerda, esto no es un diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Te sientes nervioso o ansioso en situaciones sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Evitas las reuniones sociales por miedo o ansiedad?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Te preocupa en exceso ser juzgado o evaluado por otros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Experimentas síntomas físicos como sudoración, temblores o palpitraciones en situaciones sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Te resulta difícil hablar o actuar delante de otros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Te sientes cohibido o avergonzado en situaciones sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Te sientes agotado o exhausto después de las interacciones sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Te resulta difícil entablar conversaciones informales o hacer charlas triviales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Evitas el contacto visual en situaciones sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te sientes abrumado por la perspectiva de asistir a eventos sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Nivel bajo de estrés social",
+      "description": "Tus respuestas sugieren que experimentas un bajo nivel de estrés social. Aunque siempre es bueno tener en cuenta tu salud mental, tus respuestas indican que generalmente te sientes cómodo en situaciones sociales.",
+      "advice": "Continúa participando en actividades sociales y manteniendo relaciones sociales saludables. Si alguna vez sientes cambios en tu nivel de estrés social, considera buscar el consejo de un profesional de la salud mental."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Nivel moderado de estrés social",
+      "description": "Tus respuestas sugieren que puedes experimentar un nivel moderado de estrés social. Algunas de tus respuestas indican que podrías sentirte incómodo o ansioso en determinadas situaciones sociales.",
+      "advice": "Considera practicar técnicas de relajación, como la respiración profunda o la atención plena, para ayudar a manejar tu estrés. También puede ser útil la exposición gradual a situaciones sociales. Consultar con un profesional de la salud mental puede proporcionarte estrategias personalizadas para mejorar tu comodidad y confianza social."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Nivel alto de estrés social",
+      "description": "Tus respuestas sugieren que experimentas un alto nivel de estrés social. Muchas de tus respuestas indican que te sientes significativamente ansioso o incómodo en situaciones sociales.",
+      "advice": "Es importante buscar ayuda de un profesional de la salud mental. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu estrés social. Esto puede incluir terapia, medicación u otras intervenciones recomendadas por tu médico."
+    }
+  ]
+}

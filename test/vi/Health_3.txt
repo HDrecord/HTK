@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Tiêu thụ rượu và tự đánh giá sức khỏe",
+  "description": "Hiểu về thói quen tiêu thụ rượu của bạn là rất quan trọng để duy trì sức khỏe và sự thoải mái. Đánh giá xem bạn uống bao nhiêu lần và nhiều bao nhiêu có thể giúp bạn nhận biết được các mô hình và nguy cơ sức khỏe tiềm ẩn. Bài đánh giá tự định này cung cấp sự nhận biết về thói quen uống rượu của bạn và cách chúng có thể tác động đến sức khỏe toàn diện của bạn. Hãy nhớ rằng, đây không phải là chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn tiêu thụ đồ uống có cồn thường xuyên như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Một lần mỗi tháng hoặc ít hơn",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mỗi tuần một lần",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hằng ngày hoặc gần như hàng ngày",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn uống bao nhiêu ly vào một ngày thông thường khi bạn đang uống rượu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 hoặc nhiều hơn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn thường uống năm ly trở lên trong một dịp như thế nào?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ít hơn một tháng một lần",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Hàng tháng",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hàng tuần hoặc thường xuyên hơn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có khó khăn trong việc dừng việc uống rượu khi đã bắt đầu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có cảm thấy thèm uống hoặc có mong muốn mạnh để uống không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có thấy rằng việc uống rượu của bạn làm ảnh hưởng đến trách nhiệm của bạn tại công việc, trường học hoặc tại nhà không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn đã từng cố gắng giảm việc uống rượu nhưng không thể không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có tiếp tục uống rượu mặc dù nó gây ra các vấn đề về sức khỏe hoặc mối quan hệ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn đã từng trải qua việc mất trí nhớ hoặc ngất xỉu do uống rượu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có cảm thấy tội lỗi hoặc hối hận về việc uống rượu của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không bao giờ",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Nguy cơ thấp về các vấn đề sức khỏe liên quan đến rượu",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có nguy cơ thấp đối với việc gặp phải các vấn đề sức khỏe liên quan đến việc tiêu thụ rượu. Mặc dù quan trọng là duy trì thói quen uống rượu lành mạnh, nhưng các câu trả lời của bạn cho thấy rằng mức tiêu thụ hiện tại của bạn nói chung nằm trong giới hạn an toàn.",
+      "advice": "Tiếp tục theo dõi lượng rượu bạn tiêu thụ và đảm bảo rằng bạn duy trì một sự cân đối lành mạnh. Nếu bạn có bất kỳ mối quan tâm nào hoặc nhận thấy thay đổi trong thói quen uống rượu của mình, hãy xem xét việc trò chuyện với nhà cung cấp dịch vụ chăm sóc sức khỏe để được tư vấn cá nhân."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Nguy cơ trung bình về các vấn đề sức khỏe liên quan đến rượu",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có thể gặp nguy cơ trung bình đối với các vấn đề sức khỏe liên quan đến việc tiêu thụ rượu. Một số câu trả lời của bạn chỉ ra rằng có những lĩnh vực mà bạn có thể cải thiện thói quen uống rượu của mình.",
+      "advice": "Hãy xem xét việc giảm lượng rượu tiêu thụ và chú ý đến mô hình uống rượu của bạn. Việc giới hạn tần suất và số lượng rượu tiêu thụ có thể giúp giảm nguy cơ vấn đề sức khỏe. Thảo luận với nhà cung cấp dịch vụ chăm sóc sức khỏe có thể cung cấp cho bạn lời khuyên cá nhân và chiến lược để cải thiện thói quen uống rượu của bạn."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Nguy cơ cao về các vấn đề sức khỏe liên quan đến rượu",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn đang gặp nguy cơ cao về các vấn đề sức khỏe liên quan đến việc tiêu thụ rượu. Nhiều câu trả lời của bạn chỉ ra rằng bạn có thể đang gặp phải các vấn đề do thói quen uống rượu của mình.",
+      "advice": "Quan trọng là phải tìm kiếm sự giúp đỡ từ nhà cung cấp dịch vụ chăm sóc sức khỏe càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc cùng bạn để phát triển một kế hoạch điều trị để giải quyết thói quen uống rượu của bạn và giảm nguy cơ gặp các vấn đề sức khỏe nghiêm trọng. Điều này có thể bao gồm thay đổi lối sống, tư vấn, hoặc các can thiệp khác như được chỉ định bởi bác sĩ của bạn."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Bewerte dein Glück",
+  "description": "Glück ist ein wichtiger Aspekt des allgemeinen Wohlbefindens, und das Verstehen, was zu Ihrem Glück beiträgt, kann Ihnen helfen, ein erfüllteres Leben zu führen. Haben Sie sich jemals gefragt, wie glücklich Sie wirklich sind? Dieses Quiz kann Ihnen helfen, Ihre aktuelle Zufriedenheit zu bewerten und Bereiche zu identifizieren, die Aufmerksamkeit benötigen könnten. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft zufrieden mit Ihrem Leben?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Fühlen Sie einen Sinn in Ihren täglichen Aktivitäten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie generell eine positive Lebenseinstellung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Sind Sie zufrieden mit Ihren persönlichen Beziehungen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Fühlen Sie eine Erfüllung in Ihrer Arbeit oder persönlichen Projekten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Finden Sie Freude an Ihren täglichen Aktivitäten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Fühlen Sie sich mit Ihren früheren Entscheidungen und Erfahrungen im Reinen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fühlen Sie, dass Sie Kontrolle über Ihr Leben und Ihre Entscheidungen haben?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Häufig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niedriges Glücksniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein niedriges Glücksniveau erleben. Obwohl es immer gut ist, auf Ihr emotionales Wohlbefinden zu achten, deuten Ihre Antworten darauf hin, dass Sie von Strategien zur Verbesserung Ihres allgemeinen Glücks profitieren könnten.",
+      "advice": "Es könnte hilfreich sein, Unterstützung von einem psychischen Gesundheitsprofi zu suchen, um Wege zur Verbesserung Ihres Glücks und allgemeinen Wohlbefindens zu erkunden. Sie können Anleitung und Strategien anbieten, um Ihnen zu helfen, ein erfüllteres und freudigeres Leben zu führen."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Mittleres Glücksniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein mittleres Glücksniveau haben. Während Sie Momente der Freude und Zufriedenheit erleben, gibt es vielleicht Bereiche in Ihrem Leben, in denen Sie von weiteren Verbesserungen profitieren könnten.",
+      "advice": "Erwägen Sie, Aktivitäten und Praktiken zu erkunden, die Ihr Glück steigern, wie Hobbys, soziale Verbindungen und Achtsamkeitstechniken. Das Gespräch mit einem psychischen Gesundheitsprofi kann auch wertvolle Einblicke und Unterstützung bieten."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Hohes Glücksniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Glücksniveau erleben. Sie scheinen eine positive Lebenseinstellung zu haben und sind mit verschiedenen Aspekten Ihres Lebens zufrieden.",
+      "advice": "Fahren Sie fort, Ihr Glück zu pflegen, indem Sie ein gesundes Gleichgewicht in Ihrem Leben aufrechterhalten, sich an Aktivitäten beteiligen, die Ihnen Freude bereiten, und bedeutungsvolle Beziehungen pflegen. Machen Sie weiter so und genießen Sie Ihren positiven Zustand des Wohlbefindens."
+    }
+  ]
+}

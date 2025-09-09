@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Loneliness self-assessment",
+  "description": "Loneliness can affect anyone, regardless of age or background, and recognizing its signs is the first step towards addressing it. Do you often feel isolated or disconnected from others? This self-assessment can help you evaluate your feelings of loneliness and understand your social and emotional needs better. Remember, this quiz is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often feel isolated from others?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you feel that you lack companionship?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you feel left out?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you feel that you are no longer close to anyone?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you feel that your relationships with others are not meaningful?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you feel shy or withdrawn around others?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you feel that people around you are not really with you?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you feel lonely even when you are with other people?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Low level of loneliness",
+      "description": "Your responses suggest that you experience a low level of loneliness. While it’s always good to be mindful of your social connections, your answers indicate that loneliness is not significantly affecting your life at this time.",
+      "advice": "Continue to nurture your relationships and maintain social connections. If you ever feel changes in your feelings of loneliness, consider reaching out to a mental health professional for advice."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Moderate level of loneliness",
+      "description": "Your responses suggest that you may be experiencing a moderate level of loneliness. Some of your answers indicate that you are struggling with feelings of isolation.",
+      "advice": "It might be helpful to talk to a mental health professional about your feelings of loneliness. They can offer support and strategies to help you improve your social connections and emotional well-being."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "High level of loneliness",
+      "description": "Your responses suggest that you are experiencing a high level of loneliness. Many of your answers indicate that you are significantly struggling with feelings of isolation.",
+      "advice": "It’s important to seek help from a mental health professional as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your loneliness and improve your overall well-being."
+    }
+  ]
+}

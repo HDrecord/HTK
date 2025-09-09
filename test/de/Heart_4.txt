@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Selbstbewertungsfragebogen für Hypertonie",
+  "description": "Die Kontrolle von hohem Blutdruck ist entscheidend, um ernste Gesundheitsprobleme zu verhindern. Eine regelmäßige Überprüfung Ihres Blutdrucks und das Verständnis Ihrer Risikofaktoren können Ihnen helfen, gesund zu bleiben. Dieser Fragebogen ermöglicht es Ihnen, Ihre aktuelle Situation zu bewerten und Einblicke in die Aufrechterhaltung gesunder Blutdruckwerte zu erhalten. Denken Sie daran, dies ist keine professionelle Diagnose, und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Leiden Sie oft an Kopfschmerzen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Fühlen Sie sich schwindlig oder benommen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie verschwommenes Sehen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie sich bei alltäglichen Aktivitäten kurzatmig?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Spüren Sie ein Pochen in Ihrer Brust, Ihrem Hals oder Ihren Ohren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie Schlafprobleme?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Haben Sie eine familiäre Vorgeschichte von hohem Blutdruck?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rauchen Sie oder verwenden Sie Tabakprodukte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Konsumieren Sie häufig Alkohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Haben Sie hohe Stresslevel?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Treiben Sie regelmäßig Sport?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Folgen Sie einer gesunden Ernährung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Haben Sie hohe Cholesterinwerte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Nehmen Sie Medikamente gegen hohen Blutdruck?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Geringes Risiko für Hypertonie",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein geringes Risiko für Hypertonie haben. Obwohl es immer gut ist, auf Ihre kardiovaskuläre Gesundheit zu achten, zeigen Ihre Antworten, dass Ihr Blutdruck derzeit in einem gesunden Bereich liegt.",
+      "advice": "Setzen Sie Ihre gesunde Lebensweise fort, indem Sie regelmäßig körperliche Aktivität betreiben, eine ausgewogene Ernährung befolgen, Stress effektiv bewältigen und schädliche Gewohnheiten wie Rauchen und übermäßiger Alkoholkonsum vermeiden. Regelmäßige Vorsorgeuntersuchungen bei Ihrem Gesundheitsdienstleister können Ihnen helfen, auf Kurs zu bleiben."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Mäßiges Risiko für Hypertonie",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mittleres Risiko für Bluthochdruck haben. Einige Ihrer Antworten deuten darauf hin, dass es Bereiche gibt, in denen Sie Ihre Herz-Kreislauf-Gesundheit verbessern könnten.",
+      "advice": "Erwägen Sie Veränderungen in Ihrer Lebensweise, wie zum Beispiel eine Zunahme Ihrer körperlichen Aktivität, eine gesündere Ernährung, das Aufgeben des Rauchens, wenn zutreffend, eine Reduzierung des Alkoholkonsums und eine effektivere Stressbewältigung. Die Beratung durch einen Gesundheitsdienstleister kann Ihnen individuelle Ratschläge und Strategien zur Verbesserung Ihres Blutdrucks geben."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Hohes Risiko für Hypertonie",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko für Hypertonie haben. Viele Ihrer Antworten zeigen, dass Sie Symptome haben oder Risikofaktoren vorliegen, die Ihre Herz-Kreislauf-Gesundheit beeinträchtigen könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Gesundheitsdienstleister zu suchen. Dieser kann eine korrekte Diagnose stellen und mit Ihnen zusammen einen Behandlungsplan erarbeiten, um Ihren Blutdruck zu behandeln und Ihr Risiko für ernsthafte Herz-Kreislauf-Probleme zu reduzieren. Dies kann Veränderungen im Lebensstil, Medikamente oder andere Interventionen umfassen, wie von Ihrem Arzt empfohlen."
+    }
+  ]
+}

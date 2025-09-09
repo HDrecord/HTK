@@ -1,0 +1,381 @@
+{
+  "id": 5,
+  "title": "Bạn có rối loạn lo âu xã hội không?",
+  "description": "Rối loạn lo âu xã hội có thể khiến mỗi lần tương tác hàng ngày trở nên áp lực và căng thẳng. Quan trọng là phải nhận biết dấu hiệu và hiểu cách nó ảnh hưởng đến cuộc sống của bạn. Bạn có từng cảm thấy quá lo lắng trong các tình huống xã hội không? Bài kiểm tra này có thể giúp bạn xác định các triệu chứng của rối loạn lo âu xã hội và cung cấp cái nhìn sâu sắc về các mối tương tác xã hội của bạn. Hãy nhớ rằng, đây không phải là một chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường cảm thấy lo lắng hoặc căng thẳng trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có tránh các cuộc hội họp xã hội vì sợ hãi hoặc lo lắng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có cảm thấy tự ý thức trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có lo lắng về việc bị đánh giá hay đánh giá bởi người khác không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có trải qua các triệu chứng vật lý như đổ mồ hôi, run rẩy, hoặc tim đập nhanh trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn khi nói hoặc biểu diễn trước mặt người khác không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có lo lắng quá mức về việc làm nhục chính mình trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn cảm thấy bất an khi gặp người mới không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn khi nhìn vào mắt người khác không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có tránh không muốn trở thành trung tâm chú ý không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có cảm thấy lo lắng về việc tương tác xã hội, ngay cả với những người quen không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có lo lắng về việc bị làm nhục hoặc xấu hổ trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Bạn có cảm thấy căng thẳng hoặc lo lắng khi nói chuyện với người có quyền hành không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tí nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Mức độ lo âu xã hội thấp",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có mức độ lo lắng xã hội thấp. Mặc dù luôn tốt khi quan tâm đến sức khỏe tâm lý của mình, nhưng câu trả lời của bạn cho thấy rằng bạn thường cảm thấy thoải mái trong các tình huống xã hội.",
+      "advice": "Tiếp tục tham gia vào các hoạt động xã hội và duy trì các mối quan hệ xã hội lành mạnh. Nếu bạn cảm thấy có sự thay đổi trong mức độ lo âu xã hội của mình, hãy xem xét việc liên hệ với một chuyên gia tâm lý để được tư vấn."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Mức độ lo âu xã hội vừa phải",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có thể trải qua một mức độ lo âu xã hội vừa phải. Một số câu trả lời của bạn cho thấy rằng bạn có thể cảm thấy không thoải mái hoặc lo lắng trong một số tình huống xã hội.",
+      "advice": "Bạn có thể xem xét việc thực hành các kỹ thuật thư giãn, như hít thở sâu hoặc chánh niệm, để giúp quản lý lo lắng của mình. Tham gia dần vào các tình huống xã hội cũng có thể hữu ích. Tư vấn với một chuyên gia tâm lý sức khỏe có thể cung cấp cho bạn những chiến lược cá nhân hóa để cải thiện sự thoải mái và tự tin trong xã hội của bạn."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Mức độ lo âu xã hội cao",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn trải qua một mức độ lo lắng xã hội cao. Rất nhiều câu trả lời của bạn chỉ ra rằng bạn cảm thấy lo lắng hoặc không thoải mái đáng kể trong các tình huống xã hội.",
+      "advice": "Quan trọng là cần tìm kiếm sự giúp đỡ từ một chuyên gia tâm lý sức khỏe. Họ có thể cung cấp một chẩn đoán chính xác và làm việc với bạn để xây dựng một kế hoạch điều trị cho rối loạn lo âu xã hội của bạn. Điều này có thể bao gồm việc tư vấn, dùng thuốc, hoặc các can thiệp khác như do bác sĩ của bạn đề nghị."
+    }
+  ]
+}

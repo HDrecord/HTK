@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Emotional management self-assessment",
+  "description": "Managing emotions effectively is crucial for maintaining mental well-being and healthy relationships. Some people naturally handle their emotions better, while others may struggle. Have you ever wondered how well you manage your emotions? This self-assessment can help you understand your emotional management skills and identify areas for improvement. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often feel overwhelmed by your emotions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you find it difficult to control your anger?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you find it hard to stay calm under pressure?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you find it difficult to express your emotions in a healthy way?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you struggle with feelings of sadness or depression?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you have difficulty dealing with stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you find it challenging to remain positive in difficult situations?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you avoid confronting your emotions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Do you find it difficult to empathize with others?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Do you feel overwhelmed by negative emotions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Do you experience frequent mood swings?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Do you find it hard to forgive yourself or others?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Do you find it difficult to move on from past experiences?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+       {
+      "id": 14,
+      "type": 1,
+      "question": "Do you feel emotionally exhausted?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Do you find it difficult to manage your emotions when under stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Do you often feel that you cannot handle your emotions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Do you feel that your emotions are affecting your relationships?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Do you find it challenging to communicate your feelings?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Do you feel that you lack emotional support?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Do you find it hard to bounce back from emotional setbacks?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Good emotional management",
+      "description": "Your responses suggest that you manage your emotions well. While it’s always good to be mindful of your emotional health, your answers indicate that you handle emotional situations effectively at this time.",
+      "advice": "Continue to practice good emotional management techniques and self-care. If you ever feel changes in your emotional regulation, consider reaching out to a mental health professional for advice."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Moderate emotional management",
+      "description": "Your responses suggest that you may be experiencing some difficulties in managing your emotions. Some of your answers indicate that you are struggling with emotional regulation.",
+      "advice": "It might be helpful to talk to a mental health professional about your feelings. They can offer support and strategies to help you improve your emotional management skills and overall well-being."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Poor emotional management",
+      "description": "Your responses suggest that you are experiencing significant difficulties in managing your emotions. Many of your answers indicate that you are struggling with emotional regulation.",
+      "advice": "It’s important to seek help from a mental health professional as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your emotional management difficulties."
+    }
+  ]
+}

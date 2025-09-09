@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Selbstprüfung bei sozialem Stress",
+  "description": "Soziale Interaktionen können manchmal eine Stressquelle sein, die Ihre geistige und emotionale Gesundheit beeinflusst. Es ist wichtig, sozialen Stress zu erkennen und effektiv zu bewältigen. Haben Sie sich jemals in sozialen Situationen gestresst gefühlt? Mit diesem Selbsttest können Sie das Ausmaß Ihres sozialen Stresses bestimmen und Einblicke in Bereiche erhalten, die möglicherweise Aufmerksamkeit erfordern. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich in sozialen Situationen nervös oder ängstlich?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Meiden Sie soziale Zusammenkünfte aus Angst oder Anspannung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Machen Sie sich übermäßig Sorgen, von anderen beurteilt oder bewertet zu werden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Erleben Sie in sozialen Situationen körperliche Symptome wie Schwitzen, Zittern oder einen schnellen Herzschlag?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Finden Sie es schwer, vor anderen zu sprechen oder aufzutreten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Fühlen Sie sich in sozialen Situationen verlegen oder unsicher?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Fühlen Sie sich nach sozialen Interaktionen erschöpft oder ausgebrannt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Finden Sie es schwierig, Smalltalk zu führen oder sich an lockeren Gesprächen zu beteiligen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Vermeiden Sie Augenkontakt in sozialen Situationen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Fühlen Sie sich überfordert von der Vorstellung, an sozialen Veranstaltungen teilzunehmen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Niedriges Maß an sozialem Stress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein niedriges Maß an sozialem Stress erleben. Obwohl es immer gut ist, auf Ihre geistige Gesundheit zu achten, deuten Ihre Antworten darauf hin, dass Sie sich in sozialen Situationen im Allgemeinen wohlfühlen.",
+      "advice": "Bleiben Sie weiterhin sozial aktiv und pflegen Sie gesunde soziale Beziehungen. Wenn Sie jemals Veränderungen in Ihrem sozialen Stressniveau feststellen, sollten Sie erwägen, sich an einen Fachmann für psychische Gesundheit zu wenden."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Mittleres Maß an sozialem Stress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mittleres Maß an sozialem Stress erleben. Einige Ihrer Antworten deuten darauf hin, dass Sie sich in bestimmten sozialen Situationen unwohl oder ängstlich fühlen könnten.",
+      "advice": "Erwägen Sie, Entspannungstechniken wie tiefes Atmen oder Achtsamkeit zu üben, um Ihren Stress zu bewältigen. Eine schrittweise Konfrontation mit sozialen Situationen kann ebenfalls hilfreich sein. Eine Beratung durch einen Fachmann für psychische Gesundheit kann Ihnen individuelle Strategien zur Verbesserung Ihres sozialen Wohlbefindens und Selbstvertrauens bieten."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Hohes Maß an sozialem Stress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Maß an sozialem Stress erleben. Viele Ihrer Antworten deuten darauf hin, dass Sie sich in sozialen Situationen erheblich ängstlich oder unwohl fühlen.",
+      "advice": "Es ist wichtig, Hilfe von einem Fachmann für psychische Gesundheit zu suchen. Dieser kann eine korrekte Diagnose stellen und mit Ihnen einen Behandlungsplan zur Bewältigung Ihres sozialen Stresses entwickeln. Dies kann Therapie, Medikamente oder andere von Ihrem Arzt empfohlene Maßnahmen umfassen."
+    }
+  ]
+}

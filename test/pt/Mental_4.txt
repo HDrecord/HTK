@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Avaliação de solidão",
+  "description": "A solidão pode afetar qualquer pessoa, independentemente da idade ou origem, e reconhecer os seus sinais é o primeiro passo para combater. Você costuma se sentir isolado ou desconectado dos outros? Esta autoavaliação pode ajudá-lo a avaliar seus sentimentos de solidão e entender melhor suas necessidades sociais e emocionais. Lembre-se, este questionário não é um diagnóstico profissional e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você muitas vezes se sente isolado dos outros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você sente que lhe falta companhia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você se sente excluído?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você sente que não está mais próximo de ninguém?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você sente que suas relações com os outros não são significativas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você se sente tímido ou retraído perto dos outros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você sente que as pessoas ao seu redor não estão realmente com você?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você se sente sozinho mesmo quando está com outras pessoas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Nível baixo de solidão",
+      "description": "Suas respostas sugerem que você tem um baixo nível de solidão. Embora seja sempre bom estar atento às suas conexões sociais, suas respostas indicam que a solidão não está afetando significativamente sua vida neste momento.",
+      "advice": "Continue a nutrir suas relações e a manter as conexões sociais. Se você sentir qualquer alteração em seus sentimentos de solidão, considere a possibilidade de procurar um profissional de saúde mental para obter aconselhamento."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Nível moderado de solidão",
+      "description": "Suas respostas sugerem que você pode estar vivenciando um nível moderado de solidão. Algumas de suas respostas indicam que você está lidando com sentimentos de isolamento.",
+      "advice": "Pode ser útil conversar com um profissional de saúde mental sobre seus sentimentos de solidão. Eles podem oferecer apoio e estratégias para ajudar a melhorar suas conexões sociais e bem-estar emocional."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Nível alto de solidão",
+      "description": "Suas respostas sugerem que você está vivenciando um alto nível de solidão. Muitas de suas respostas indicam que você está lutando significativamente com sentimentos de isolamento.",
+      "advice": "É importante procurar ajuda de um profissional de saúde mental o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para sua solidão e melhorar seu bem-estar geral."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Autoevaluación de síntomas de ansiedad",
+  "description": "La ansiedad puede manifestarse de varias formas, desde la preocupación constante hasta síntomas físicos como un corazón acelerado. Es importante reconocer estos signos temprano para manejarlos de manera efectiva. ¿Alguna vez te has preguntado si tus sentimientos de ansiedad son más que solo estrés cotidiano? Este cuestionario de autoevaluación puede ayudarte a identificar los síntomas comunes de la ansiedad y proporcionar información sobre tu bienestar emocional. Recuerda, este cuestionario no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes nervioso o al borde?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Tienes problemas para controlar tu preocupación?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Te resulta difícil relajarte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te sientes inquieto o incapaz de quedarte quieto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Te irritas fácilmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Sientes miedo como si algo terrible pudiera suceder?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Experimentas síntomas físicos como sudoración, temblor o un corazón acelerado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Te resulta difícil concentrarte debido a la preocupación?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Evitas situaciones que te generan ansiedad?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Sientes que tu ansiedad interfiere con tu vida diaria?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Nivel bajo de ansiedad",
+      "description": "Tus respuestas sugieren que actualmente estás experimentando un bajo nivel de ansiedad. Aunque siempre es bueno estar atento a tu salud mental, tus respuestas indican que tu ansiedad no está afectando significativamente tu vida diaria en este momento.",
+      "advice": "Continúa monitoreando tu salud mental y practicando el autocuidado. Si alguna vez sientes cambios en tu estado de ánimo o comportamiento, considera buscar el consejo de un profesional de la salud mental."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Nivel moderado de ansiedad",
+      "description": "Tus respuestas sugieren que puedes estar experimentando un nivel moderado de ansiedad. Algunas de tus respuestas indican que estás experimentando síntomas que podrían estar relacionados con la ansiedad.",
+      "advice": "Podría ser útil hablar con un profesional de la salud mental sobre tus sentimientos. Pueden ofrecer apoyo y estrategias para ayudarte a manejar tus síntomas y mejorar tu bienestar mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Nivel alto de ansiedad",
+      "description": "Tus respuestas sugieren que estás experimentando un alto nivel de ansiedad. Muchas de tus respuestas indican que estás experimentando síntomas significativos que podrían estar relacionados con la ansiedad.",
+      "advice": "Es importante que busques ayuda de un profesional de salud mental lo antes posible. Pueden proporcionarte un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tus síntomas."
+    }
+  ]
+}

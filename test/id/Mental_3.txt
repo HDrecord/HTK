@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Penilaian diri manajemen emosi",
+  "description": "Mengelola emosi dengan efektif sangat penting untuk menjaga kesejahteraan mental dan hubungan yang sehat. Beberapa orang secara alami bisa mengendalikan emosinya dengan lebih baik, sementara yang lain mungkin kesulitan. Pernahkah Anda bertanya-tanya seberapa baik Anda mengendalikan emosi Anda? Penilaian diri ini bisa membantu Anda memahami keterampilan manajemen emosi Anda dan mengidentifikasi area untuk perbaikan. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa kewalahan oleh emosi Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk mengendalikan kemarahan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk tetap tenang di bawah tekanan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk mengungkapkan emosi Anda dengan cara yang sehat?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda berjuang dengan perasaan sedih atau depresi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda kesulitan dalam menangani stres?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk tetap positif dalam situasi yang sulit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda menghindari menghadapi emosi Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berempati dengan orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda merasa kewalahan oleh emosi negatif?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda sering mengalami perubahan mood?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk memaafkan diri Anda sendiri atau orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk melanjutkan dari pengalaman masa lalu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+       {
+      "id": 14,
+      "type": 1,
+      "question": "Apakah Anda merasa lelah secara emosional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk mengelola emosi Anda ketika berada di bawah tekanan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Apakah Anda sering merasa bahwa Anda tidak bisa menangani emosi Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa emosi Anda mempengaruhi hubungan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk mengomunikasikan perasaan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa Anda kekurangan dukungan emosional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk bangkit kembali dari kemunduran emosional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Manajemen emosi yang baik",
+      "description": "Respons Anda menunjukkan bahwa Anda mengelola emosi Anda dengan baik. Meskipun selalu baik untuk memperhatikan kesehatan emosional Anda, jawaban Anda menunjukkan bahwa Anda menangani situasi emosional dengan efektif saat ini.",
+      "advice": "Teruslah berlatih teknik manajemen emosi yang baik dan perawatan diri. Jika Anda merasa ada perubahan dalam regulasi emosi Anda, pertimbangkan untuk mencari bantuan dari seorang profesional kesehatan mental untuk mendapatkan saran."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Manajemen emosi sedang",
+      "description": "Respons Anda menunjukkan bahwa Anda mungkin mengalami beberapa kesulitan dalam mengelola emosi Anda. Beberapa jawaban Anda menunjukkan bahwa Anda sedang berjuang dalam regulasi emosi.",
+      "advice": "Mungkin akan membantu untuk berbicara dengan seorang profesional kesehatan mental tentang perasaan Anda. Mereka dapat menawarkan dukungan dan strategi untuk membantu Anda memperbaiki keterampilan manajemen emosi dan kesejahteraan secara umum."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Manajemen emosi yang buruk",
+      "description": "Respons Anda menunjukkan bahwa Anda mengalami kesulitan signifikan dalam mengelola emosi Anda. Banyak jawaban Anda menunjukkan bahwa Anda sedang berjuang dalam regulasi emosi.",
+      "advice": "Penting untuk mencari bantuan dari seorang profesional kesehatan mental secepat mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi kesulitan manajemen emosi Anda."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Avalie a sua felicidade",
+  "description": "A felicidade é um aspecto vital do bem-estar geral, e entender o que contribui para a sua felicidade pode ajudá-lo a viver uma vida mais gratificante. Você já se perguntou quão feliz você realmente é? Este questionário pode ajudá-lo a avaliar o seu atual nível de felicidade e identificar áreas que possam necessitar de atenção. Lembre-se, isto não é um diagnóstico profissional e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você se sente frequentemente satisfeito com a sua vida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você sente um sentido de propósito nas suas atividades diárias?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você geralmente tem uma perspectiva positiva da vida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você se sente satisfeito com suas relações pessoais?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você sente uma sensação de realização no seu trabalho ou projetos pessoais?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você encontra alegria nas suas atividades diárias?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você se sente em paz com as suas decisões e experiências passadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você se sente que você tem controle sobre a sua vida e decisões?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nem um pouco",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Baixo nível de felicidade",
+      "description": "Suas respostas sugerem que você está experimentando um baixo nível de felicidade. Embora seja sempre bom estar consciente do seu bem-estar emocional, suas respostas indicam que você pode se beneficiar de estratégias para melhorar a sua felicidade geral.",
+      "advice": "Considere procurar apoio de um profissional de saúde mental para explorar maneiras de melhorar a sua felicidade e bem-estar geral. Eles podem fornecer orientação e estratégias para ajudá-lo a alcançar uma vida mais gratificante e alegre."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Nível moderado de felicidade",
+      "description": "Suas respostas sugerem que você tem um nível moderado de felicidade. Enquanto você experimenta momentos de alegria e satisfação, pode haver áreas em sua vida onde você poderia se beneficiar de mais melhorias.",
+      "advice": "Considere explorar atividades e práticas que aumentem a sua felicidade, como hobbies, conexões sociais e técnicas de atenção plena. Falar com um profissional de saúde mental também pode fornecer insights valiosos e apoio."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Alto nível de felicidade",
+      "description": "Suas respostas sugerem que você está experimentando um alto nível de felicidade. Você parece ter uma perspectiva positiva na vida e se sente satisfeito com vários aspectos de sua vida.",
+      "advice": "Continue alimentando sua felicidade, mantendo um equilíbrio saudável em sua vida, participando de atividades que lhe tragam alegria e cultivando relacionamentos significativos. Continue com o bom trabalho e desfrute do seu estado positivo de bem-estar."
+    }
+  ]
+}

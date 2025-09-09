@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Penilaian diri tentang kesepian",
+  "description": "Kesepian bisa mempengaruhi siapa saja, tanpa memandang usia atau latar belakang, dan mengenali tanda-tandanya adalah langkah pertama untuk mengatasinya. Apakah Anda sering merasa terisolasi atau terputus dari orang lain? Penilaian diri ini dapat membantu Anda mengevaluasi perasaan kesepian Anda dan memahami kebutuhan sosial dan emosional Anda dengan lebih baik. Ingatlah, kuis ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa terisolasi dari orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa kekurangan teman?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasa ditinggalkan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa tidak lagi dekat dengan siapa pun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa hubungan Anda dengan orang lain tidak berarti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda merasa malu atau menarik diri di sekitar orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa orang di sekitar Anda tidak benar-benar bersama Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merasa kesepian bahkan ketika Anda bersama orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Tingkat kesepian rendah",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mengalami tingkat kesepian yang rendah. Meski selalu baik untuk memperhatikan koneksi sosial Anda, jawaban Anda menunjukkan bahwa kesepian tidak secara signifikan mempengaruhi hidup Anda saat ini.",
+      "advice": "Teruslah merawat hubungan Anda dan menjaga koneksi sosial. Jika Anda pernah merasa perubahan dalam perasaan kesepian Anda, pertimbangkan untuk mencari bantuan dari profesional kesehatan mental untuk mendapatkan saran."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Tingkat kesepian sedang",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mungkin mengalami tingkat kesepian yang sedang. Beberapa jawaban Anda menunjukkan bahwa Anda berjuang dengan perasaan terisolasi.",
+      "advice": "Mungkin akan membantu untuk berbicara dengan seorang profesional kesehatan mental tentang perasaan kesepian Anda. Mereka dapat menawarkan dukungan dan strategi untuk membantu Anda meningkatkan koneksi sosial dan kesejahteraan emosional Anda."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Tingkat kesepian tinggi",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mengalami tingkat kesepian yang tinggi. Banyak jawaban Anda menunjukkan bahwa Anda secara signifikan berjuang dengan perasaan terisolasi.",
+      "advice": "Sangat penting untuk mencari bantuan dari seorang profesional kesehatan mental secepat mungkin. Mereka dapat memberikan diagnosa yang tepat dan bekerja sama dengan Anda untuk mengembangkan rencana pengobatan untuk mengatasi kesepian Anda dan meningkatkan kesejahteraan Anda secara keseluruhan."
+    }
+  ]
+}

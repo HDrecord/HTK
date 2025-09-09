@@ -1,0 +1,368 @@
+{
+  "id": 11,
+  "title": "Đánh giá tự đánh giá về nguy cơ bệnh tim",
+  "description": "Bệnh tim là nguyên nhân hàng đầu gây ra vấn đề sức khỏe trên toàn cầu, và việc hiểu rõ yếu tố nguy cơ của bạn rất quan trọng để phòng ngừa. Bạn có biết mình ở mức độ rủi ro bệnh tim nào không? Bài kiểm tra tự đánh giá này có thể giúp bạn đánh giá nguy cơ và xác định những thay đổi lối sống có thể giảm nó. Hãy nhớ rằng đây không phải là một chuẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Bạn có thường xuyên gặp phải tình trạng khó thở không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Bạn có cảm thấy đau ngực hoặc khó chịu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bạn có gặp phải tình trạng nhịp tim không đều hay hoa mắt không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Bạn có cảm thấy mệt mỏi hoặc suy nhược mà không rõ nguyên nhân không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Bạn có gặp phải tình trạng sưng ở chân, mắt cá chân, hoặc đôi chân không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Bạn có mắc bệnh huyết áp cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Bạn có mức cholesterol cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Bạn có hút thuốc hoặc sử dụng sản phẩm thuốc lá không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Bạn có tiền sử gia đình mắc bệnh tim không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Bạn có thực hiện hoạt động thể chất định kỳ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Bạn có tuân theo chế độ ăn uống lành mạnh cho tim mạch không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Bạn có quản lý stress hiệu quả không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Bạn có bị đái tháo đường hoặc đường huyết cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Nguy cơ mắc bệnh tim thấp",
+      "description": "Các câu trả lời của bạn cho thấy bạn có nguy cơ mắc bệnh tim thấp. Mặc dù luôn tốt khi chú ý đến sức khỏe tim mạch của bạn, nhưng các câu trả lời của bạn cho thấy sức khỏe tim mạch của bạn hiện đang ở trạng thái tốt.",
+      "advice": "Tiếp tục duy trì lối sống lành mạnh cho tim bằng cách chăm chỉ thực hiện hoạt động thể chất, tuân thủ một chế độ ăn cân đối, quản lý stress hiệu quả và tránh những thói quen có hại như hút thuốc. Kiểm tra định kỳ với bác sĩ của bạn có thể giúp bạn giữ được sức khỏe."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Nguy cơ mắc bệnh tim vừa phải",
+      "description": "Các câu trả lời của bạn cho thấy bạn có thể có nguy cơ mắc bệnh tim vừa phải. Một số câu trả lời của bạn cho thấy có những lĩnh vực mà bạn có thể cải thiện sức khỏe tim mạch của mình.",
+      "advice": "Hãy xem xét việc thay đổi lối sống như tăng cường hoạt động thể chất, thượng tiền chế độ ăn uống lành mạnh cho tim, từ bỏ hút thuốc (nếu có) và quản lý stress hiệu quả. Tư vấn với bác sĩ chăm sóc sức khỏe có thể cung cấp cho bạn lời khuyên và chiến lược cá nhân để cải thiện sức khỏe tim mạch của bạn."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Nguy cơ mắc bệnh tim cao",
+      "description": "Các câu trả lời của bạn cho thấy bạn có nguy cơ mắc bệnh tim cao. Nhiều câu trả lời của bạn cho thấy rằng bạn đang gặp phải các triệu chứng hoặc có yếu tố nguy cơ có thể ảnh hưởng đến sức khỏe tim mạch của bạn.",
+      "advice": "Điều quan trọng là bạn nên tìm đến sự giúp đỡ từ bác sĩ chăm sóc sức khỏe càng sớm càng tốt. Họ có thể cung cấp chuẩn đoán chính xác và làm việc cùng bạn để xây dựng kế hoạch điều trị nhằm giải quyết vấn đề sức khỏe tim mạch và giảm nguy cơ mắc các vấn đề tim mạch nghiêm trọng. Điều này có thể bao gồm thay đổi lối sống, sử dụng thuốc, hoặc các can thiệp khác theo sự khuyên bảo của bác sĩ."
+    }
+  ]
+}

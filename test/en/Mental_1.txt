@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Are you prone to depression?",
+  "description": "In our fast-paced world, many people experience sadness and anxiety, sometimes leading to depression. Do you suspect you might be prone to depression? Want to understand your mental health and take action? This quiz can help you explore your emotional state and see if you're prone to depression. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often feel sad or hopeless?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you find it difficult to enjoy activities you once liked?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you feel tired or have little energy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you have trouble concentrating on tasks?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you feel guilty or worthless?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you have trouble sleeping or sleep too much?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you feel restless or have trouble sitting still?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you have thoughts of self-harm or suicide?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Do you have trouble making decisions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Do you find it hard to get out of bed in the morning?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Low risk of depression",
+      "description": "Your responses suggest that you are currently at a low risk for depression. While it’s always good to be mindful of your mental health, your answers indicate that you are not experiencing significant symptoms of depression at this time.",
+      "advice": "Continue to monitor your mental health and practice self-care. If you ever feel changes in your mood or behavior, consider reaching out to a mental health professional for advice."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Moderate risk of depression",
+      "description": "Your responses suggest that you may be at a moderate risk for depression. Some of your answers indicate that you are experiencing symptoms that could be related to depression.",
+      "advice": "It might be helpful to talk to a mental health professional about your feelings. They can offer support and strategies to help you manage your symptoms and improve your mental well-being."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "High risk of depression",
+      "description": "Your responses suggest that you are at a high risk for depression. Many of your answers indicate that you are experiencing significant symptoms that could be related to depression.",
+      "advice": "It’s important to seek help from a mental health professional as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your symptoms."
+    }
+  ]
+}

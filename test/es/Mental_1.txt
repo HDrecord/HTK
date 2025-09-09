@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "¿Eres propenso a la depresión?",
+  "description": "En nuestro mundo acelerado, muchas personas experimentan tristeza y ansiedad, a veces llegando a la depresión. ¿Sospechas que podrías ser propenso a la depresión? ¿Quieres entender tu salud mental y tomar acción? Este cuestionario puede ayudarte a explorar tu estado emocional y ver si eres propenso a la depresión. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes triste o sin esperanza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Te resulta difícil disfrutar de actividades que antes te gustaban?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Te sientes cansado o con poca energía?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Tienes problemas para concentrarte en las tareas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Te sientes culpable o inútil?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tienes problemas para dormir o duermes demasiado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Te sientes inquieto o tienes problemas para quedarte quieto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Tienes pensamientos de autolesión o suicidio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Tienes problemas para tomar decisiones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te resulta difícil levantarte de la cama por la mañana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Bajo riesgo de depresión",
+      "description": "Tus respuestas sugieren que actualmente tienes un bajo riesgo de depresión. Si bien siempre es bueno estar atento a tu salud mental, tus respuestas indican que no estás experimentando síntomas significativos de depresión en este momento.",
+      "advice": "Continúa monitoreando tu salud mental y practicando el autocuidado. Si alguna vez sientes cambios en tu estado de ánimo o comportamiento, considera acudir a un profesional de salud mental para obtener consejos."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Riesgo moderado de depresión",
+      "description": "Tus respuestas sugieren que puedes tener un riesgo moderado de depresión. Algunas de tus respuestas indican que estás experimentando síntomas que podrían estar relacionados con la depresión.",
+      "advice": "Podría ser útil hablar con un profesional de salud mental sobre tus sentimientos. Pueden ofrecer apoyo y estrategias para ayudarte a manejar tus síntomas y mejorar tu bienestar mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Alto riesgo de depresión",
+      "description": "Tus respuestas sugieren que estás en un alto riesgo de depresión. Muchas de tus respuestas indican que estás experimentando síntomas significativos que podrían estar relacionados con la depresión.",
+      "advice": "Es importante buscar ayuda de un profesional de salud mental lo antes posible. Pueden proporcionarte un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tus síntomas."
+    }
+  ]
+}

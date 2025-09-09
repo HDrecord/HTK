@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Auto-évaluation de la solitude",
+  "description": "La solitude peut toucher n'importe qui, quel que soit son âge ou son origine, et reconnaître ses signes est la première étape pour y faire face. Vous sentez-vous souvent isolé ou déconnecté des autres ? Cette auto-évaluation peut vous aider à évaluer vos sentiments de solitude et à mieux comprendre vos besoins sociaux et émotionnels. N'oubliez pas, ce quiz n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent isolé des autres ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Avez-vous l'impression de manquer de compagnie ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Vous sentez-vous exclu ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Avez-vous le sentiment de ne plus être proche de personne ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Avez-vous l'impression que vos relations avec les autres ne sont pas significatives ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Vous sentez-vous timide ou renfermé autour des autres ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Avez-vous le sentiment que les personnes autour de vous ne sont pas vraiment avec vous ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Vous sentez-vous seul même lorsque vous êtes avec d'autres personnes ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niveau faible de solitude",
+      "description": "Vos réponses suggèrent que vous ressentez un faible niveau de solitude. Bien qu'il soit toujours bon de garder à l'esprit vos relations sociales, vos réponses indiquent que la solitude n'affecte pas significativement votre vie à l'heure actuelle.",
+      "advice": "Continuez à entretenir vos relations et à maintenir des liens sociaux. Si vous ressentez des changements dans vos sentiments de solitude, pensez à consulter un professionnel de la santé mentale."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Niveau modéré de solitude",
+      "description": "Vos réponses suggèrent que vous pouvez ressentir un niveau modéré de solitude. Certaines de vos réponses indiquent que vous luttez avec des sentiments d'isolement.",
+      "advice": "Il pourrait être utile de parler à un professionnel de la santé mentale de vos sentiments de solitude. Ils peuvent proposer un soutien et des stratégies pour vous aider à améliorer vos relations sociales et votre bien-être émotionnel."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Niveau élevé de solitude",
+      "description": "Vos réponses suggèrent que vous ressentez un haut niveau de solitude. Beaucoup de vos réponses indiquent que vous avez du mal avec des sentiments d'isolement.",
+      "advice": "Il est important de demander l'aide d'un professionnel de la santé mentale dès que possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour gérer votre solitude et améliorer votre bien-être général."
+    }
+  ]
+}

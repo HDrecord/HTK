@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Tự kiểm tra bệnh tim mạch vành",
+  "description": "Bệnh tim mạch vành (CHD) là một tình trạng nghiêm trọng có thể dẫn đến các vấn đề sức khỏe đáng kể nếu không được quản lý đúng cách. Phát hiện sớm các yếu tố nguy cơ là chìa khóa để phòng ngừa và điều trị. Bạn có lo lắng về nguy cơ mắc CHD của mình không? Việc tự kiểm tra này có thể giúp bạn xác định các yếu tố nguy cơ tiềm năng và hiểu rõ tình trạng sức khỏe tim mạch của mình hơn. Hãy nhớ rằng, đây không phải là một chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy khó thở không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có cảm thấy đau ngực hoặc không thoải mái không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có cảm thấy nhịp tim không đều hoặc đập nhanh không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có cảm thấy mệt mỏi hoặc suy nhược mà không có lý do rõ ràng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có cảm nhận được sưng ở chân, mắt cá chân, hoặc bàn chân của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có huyết áp cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có mức cholesterol cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có hút thuốc hoặc sử dụng các sản phẩm thuốc lá không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có tiền sử gia đình mắc bệnh tim mạch vành không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có thực hiện các hoạt động thể chất thường xuyên không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có tuân theo một chế độ ăn uống lành mạnh cho tim mạch không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có quản lý hiệu quả stress không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Bạn có bệnh tiểu đường hoặc mức đường huyết cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Bạn có cảm thấy chóng mặt hoặc hôn mê không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không tất cả",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Nguy cơ thấp mắc bệnh tim mạch vành",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có nguy cơ thấp mắc bệnh tim mạch vành. Mặc dù luôn tốt khi ý thức về sức khỏe tim mạch của mình, nhưng câu trả lời của bạn chỉ ra rằng tình trạng sức khỏe tim mạch hiện tại của bạn đang ở trong tình trạng tốt.",
+      "advice": "Tiếp tục duy trì lối sống lành mạnh cho tim bằng cách tăng cường hoạt động thể chất đều đặn, tuân theo một chế độ ăn uống cân đối, quản lý stress một cách hiệu quả, và tránh các thói quen gây hại như hút thuốc. Kiểm tra sức khỏe định kỳ với nhà cung cấp dịch vụ sức khỏe của bạn có thể giúp bạn giữ được đúng lộ trình."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Nguy cơ trung bình mắc bệnh tim mạch vành",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có thể có nguy cơ trung bình mắc bệnh tim mạch vành. Một số câu trả lời của bạn cho thấy có các lĩnh vực bạn có thể cải thiện sức khỏe tim mạch của mình.",
+      "advice": "Hãy xem xét việc thay đổi lối sống như tăng cường hoạt động thể chất, tuân theo chế độ ăn uống lành mạnh cho tim, bỏ hút thuốc nếu có, và quản lý stress một cách hiệu quả. Tư vấn với nhà cung cấp dịch vụ sức khỏe có thể cung cấp cho bạn lời khuyên và chiến lược cá nhân hóa để cải thiện sức khỏe tim mạch của bạn."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Nguy cơ cao mắc bệnh tim mạch vành",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có nguy cơ cao mắc bệnh tim mạch vành. Nhiều câu trả lời của bạn chỉ ra rằng bạn đang trải qua các triệu chứng hoặc có yếu tố nguy cơ có thể ảnh hưởng đến sức khỏe tim mạch của mình.",
+      "advice": "Điều quan trọng là cần tìm kiếm sự giúp đỡ từ nhà cung cấp dịch vụ sức khỏe càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc với bạn để phát triển một kế hoạch điều trị để giải quyết vấn đề sức khỏe tim mạch của bạn và giảm nguy cơ các vấn đề tim mạch nghiêm trọng. Điều này có thể bao gồm thay đổi lối sống, thuốc, hoặc các can thiệp khác theo như khuyến nghị của bác sĩ của bạn."
+    }
+  ]
+}

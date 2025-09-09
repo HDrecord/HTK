@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Kuisioner penilaian diri hipertensi",
+  "description": "Mengelola tekanan darah tinggi sangat penting untuk mencegah masalah kesehatan serius. Memeriksa tekanan darah Anda secara rutin dan memahami faktor risiko Anda dapat membantu Anda tetap sehat. Kuisioner ini memungkinkan Anda untuk menilai situasi saat ini dan mendapatkan wawasan tentang menjaga tingkat tekanan darah yang sehat. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering mengalami sakit kepala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa pusing atau pening?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda mengalami penglihatan kabur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa sesak napas saat melakukan aktivitas rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasakan jantung berdebar di dada, leher, atau telinga Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda mengalami kesulitan tidur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda memiliki riwayat keluarga dengan tekanan darah tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merokok atau menggunakan produk tembakau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda sering mengkonsumsi alkohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda memiliki tingkat stres yang tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda rutin berolahraga?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apakah Anda mengikuti pola makan yang sehat?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apakah Anda memiliki tingkat kolesterol yang tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Apakah Anda mengambil obat untuk tekanan darah tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Risiko rendah terhadap hipertensi",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda berisiko rendah untuk hipertensi. Meskipun selalu baik untuk memperhatikan kesehatan kardiovaskular Anda, jawaban Anda menunjukkan bahwa tekanan darah Anda saat ini dalam kisaran yang sehat.",
+      "advice": "Teruslah menjalani gaya hidup sehat dengan berpartisipasi dalam aktivitas fisik secara teratur, mengikuti diet seimbang, mengelola stres dengan efektif, dan menghindari kebiasaan buruk seperti merokok dan konsumsi alkohol berlebihan. Pemeriksaan rutin dengan penyedia layanan kesehatan Anda dapat membantu Anda tetap di jalur yang benar."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Risiko sedang terhadap hipertensi",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda mungkin berisiko sedang untuk hipertensi. Beberapa jawaban Anda menunjukkan bahwa ada area di mana Anda bisa memperbaiki kesehatan kardiovaskular Anda.",
+      "advice": "Pertimbangkan untuk membuat perubahan gaya hidup seperti meningkatkan aktivitas fisik Anda, mengadopsi diet yang lebih sehat, berhenti merokok jika berlaku, mengurangi asupan alkohol, dan mengelola stres lebih efektif. Berkonsultasi dengan penyedia layanan kesehatan dapat memberikan Anda nasihat dan strategi yang disesuaikan untuk memperbaiki tekanan darah Anda."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Risiko tinggi terhadap hipertensi",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda berisiko tinggi untuk hipertensi. Banyak jawaban Anda menunjukkan bahwa Anda mengalami gejala atau memiliki faktor risiko yang bisa mempengaruhi kesehatan kardiovaskular Anda.",
+      "advice": "Sangat penting untuk mencari bantuan dari penyedia layanan kesehatan sesegera mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja sama dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi tekanan darah Anda dan mengurangi risiko masalah kardiovaskular yang serius. Ini mungkin termasuk perubahan gaya hidup, obat-obatan, atau intervensi lainnya seperti yang direkomendasikan oleh dokter Anda."
+    }
+  ]
+}

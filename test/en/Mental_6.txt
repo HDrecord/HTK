@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Evaluate your happiness",
+  "description": "Happiness is a vital aspect of overall well-being, and understanding what contributes to your happiness can help you live a more fulfilling life. Have you ever wondered how happy you truly are? This quiz can help you evaluate your current level of happiness and identify areas that might need attention. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Do you often feel content with your life?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Do you feel a sense of purpose in your daily activities?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Do you generally have a positive outlook on life?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you feel satisfied with your personal relationships?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you feel a sense of accomplishment in your work or personal projects?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you find joy in your daily activities?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you feel at peace with your past decisions and experiences?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you feel that you have control over your life and decisions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Not at all",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Low level of happiness",
+      "description": "Your responses suggest that you are experiencing a low level of happiness. While it's always good to be mindful of your emotional well-being, your answers indicate that you might benefit from strategies to improve your overall happiness.",
+      "advice": "Consider seeking support from a mental health professional to explore ways to enhance your happiness and overall well-being. They can provide guidance and strategies to help you achieve a more fulfilling and joyful life."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Moderate level of happiness",
+      "description": "Your responses suggest that you have a moderate level of happiness. While you experience moments of joy and contentment, there might be areas in your life where you could benefit from further improvement.",
+      "advice": "Consider exploring activities and practices that enhance your happiness, such as hobbies, social connections, and mindfulness techniques. Talking to a mental health professional can also provide valuable insights and support."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "High level of happiness",
+      "description": "Your responses suggest that you are experiencing a high level of happiness. You seem to have a positive outlook on life and feel content with various aspects of your life.",
+      "advice": "Continue nurturing your happiness by maintaining a healthy balance in your life, engaging in activities that bring you joy, and fostering meaningful relationships. Keep up the good work and enjoy your positive state of well-being."
+    }
+  ]
+}

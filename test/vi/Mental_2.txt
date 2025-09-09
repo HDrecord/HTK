@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Tự kiểm tra triệu chứng lo âu",
+  "description": "Lo lắng có thể biểu hiện theo nhiều cách, từ lo lắng không ngừng đến các triệu chứng về mặt thể chất như tim đập nhanh. Việc nhận biết những dấu hiệu này sớm là quan trọng để quản lý chúng một cách hiệu quả. Bạn đã bao giờ tự hỏi liệu cảm giác lo âu của mình có vượt quá mức căng thẳng hàng ngày hay không? Bài kiểm tra tự đánh giá này có thể giúp bạn xác định các triệu chứng lo âu thường gặp và cung cấp insight về tình trạng tâm lý của bạn. Nhớ rằng, bài kiểm tra này không phải là chẩn đoán của chuyên gia, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy lo lắng hoặc căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có khó kiểm soát nỗi lo của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có thấy khó để thư giãn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn cảm thấy bồn chồn hoặc không thể nhẫn nại không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có dễ cáu kỉnh hoặc mất kiên nhẫn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có cảm thấy sợ như thể có chuyện kinh khủng sắp xảy ra không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có trải qua các triệu chứng thể chất như đổ mồ hôi, run rẩy, hoặc tim đập nhanh không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do lo lắng mà bạn có thấy khó tập trung không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có tránh những tình huống khiến bạn cảm thấy lo lắng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn cảm thấy lo lắng làm gián đoạn cuộc sống hàng ngày của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng có chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Mức độ lo lắng thấp",
+      "description": "Các câu trả lời của bạn cho thấy hiện tại bạn đang trải qua mức độ lo lắng thấp. Mặc dù luôn tốt khi ý thức về sức khỏe tâm thần của bản thân, nhưng câu trả lời của bạn cho thấy rằng lo lắng của bạn không ảnh hưởng đáng kể đến cuộc sống hàng ngày của bạn vào thời điểm này.",
+      "advice": "Tiếp tục theo dõi sức khỏe tâm thần và thực hành chăm sóc bản thân. Nếu bạn cảm thấy thay đổi về tâm trạng hoặc hành vi, hãy xem xét việc liên hệ với một chuyên viên sức khỏe tâm thần để nhận lời khuyên."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Mức độ lo lắng trung bình",
+      "description": "Các câu trả lời của bạn cho thấy bạn có thể đang trải qua mức độ lo lắng trung bình. Một số câu trả lời của bạn cho thấy bạn đang trải qua các triệu chứng có thể liên quan đến lo lắng.",
+      "advice": "Có thể sẽ hữu ích nếu bạn nói với một chuyên viên sức khỏe tâm thần về cảm xúc của mình. Họ có thể cung cấp sự hỗ trợ và các chiến lược để giúp bạn quản lý các triệu chứng và cải thiện sức khỏe tâm thần của bạn."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Mức độ lo lắng cao",
+      "description": "Các câu trả lời của bạn cho thấy bạn đang trải qua mức độ lo lắng cao. Nhiều câu trả lời của bạn cho thấy bạn đang trải qua các triệu chứng đáng kể có thể liên quan đến lo lắng.",
+      "advice": "Rất quan trọng khi tìm kiếm sự giúp đỡ từ một chuyên gia sức khỏe tâm thần càng sớm càng tốt. Họ có thể đưa ra chẩn đoán chính xác và cùng bạn xây dựng kế hoạch điều trị để đối phó với các triệu chứng của bạn."
+    }
+  ]
+}

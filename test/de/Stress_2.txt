@@ -1,0 +1,354 @@
+{
+  "id": 8,
+  "title": "Arbeitsstressbewertung",
+  "description": "Arbeitsbedingter Stress kann Ihre berufliche Leistung und Ihr persönliches Leben erheblich beeinflussen. Es ist entscheidend, das Stresslevel, das Sie bei der Arbeit erleben, zu verstehen, um es effektiv zu bewältigen. Haben Sie sich jemals von Ihrer Arbeit überwältigt gefühlt? Diese Bewertung kann Ihnen helfen, Ihren Arbeitsstress zu bewerten und Bereiche zu identifizieren, die möglicherweise Aufmerksamkeit benötigen. Denken Sie daran, es handelt sich hierbei nicht um eine professionelle Diagnose, und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft von Ihrer Arbeitsbelastung überfordert?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Finden Sie es schwierig, Fristen einzuhalten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie das Gefühl, dass Sie eine gute Work-Life-Balance haben?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Haben Sie aufgrund von Arbeitsstress körperliche Symptome wie Kopfschmerzen oder Magenschmerzen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Finden Sie es schwer, sich auf Aufgaben bei der Arbeit zu konzentrieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Fühlen Sie sich bei der Arbeit reizbar oder kurz angebunden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Meiden Sie Aufgaben oder Situationen bei der Arbeit, die Ihnen Stress bereiten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fühlen Sie sich auch in Ihrer Freizeit noch über die Arbeit beunruhigt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Finden Sie es schwierig, zusätzliche Arbeit oder Aufgaben abzulehnen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Fühlen Sie sich von Ihren Kollegen und Vorgesetzten bei der Arbeit unterstützt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Haben Sie das Gefühl, dass Ihr Arbeitsumfeld positiv zu Ihrem geistigen Wohlbefinden beiträgt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Haben Sie das Gefühl, dass Stress Ihre gesamte Arbeitsleistung beeinträchtigt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Niedriger Arbeitsstress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie eine niedrige Belastung durch Stress bei der Arbeit erleben. Obwohl es immer gut ist, Ihre Stresslevel im Blick zu haben, deutet Ihre Antwort darauf hin, dass Sie arbeitsbedingten Stress derzeit effektiv bewältigen.", 
+      "advice": "Praktizieren Sie weiterhin gute Stressmanagementtechniken und erhalten Sie eine gesunde Work-Life-Balance. Wenn Sie Veränderungen in Ihrem Stresslevel verspüren, sollten Sie erwägen, sich für Rat an einen Mentalgesundheitsprofi zu wenden."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Mäßiger Arbeitsstress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein moderates Stressniveau bei der Arbeit erleben. Einige Ihrer Antworten weisen darauf hin, dass Sie mit arbeitsbedingtem Stress zu kämpfen haben.",
+      "advice": "Es könnte hilfreich sein, mit einem Mentalgesundheitsprofi über Ihren Arbeitsstress zu sprechen. Sie können Unterstützung und Strategien anbieten, um Ihre Stressbewältigungsfähigkeiten und Ihr allgemeines Wohlbefinden zu verbessern."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Hoher Arbeitsstress",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Maß an Stress bei der Arbeit erleben. Viele Ihrer Antworten zeigen, dass Sie deutlich mit arbeitsbedingtem Stress zu kämpfen haben.",
+      "advice": "Es ist wichtig, so bald wie möglich Hilfe von einem Mentalgesundheitsprofi zu suchen. Sie können eine korrekte Diagnose stellen und mit Ihnen einen Behandlungsplan entwickeln, um Ihren Arbeitsstress zu bewältigen und Ihre allgemeine geistige Gesundheit zu verbessern."
+    }
+  ]
+}

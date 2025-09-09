@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Autoevaluación de la soledad",
+  "description": "La soledad puede afectar a cualquiera, independientemente de su edad o antecedentes, y reconocer sus signos es el primer paso para abordarla. ¿A menudo te sientes aislado o desconectado de los demás? Esta autoevaluación puede ayudarte a evaluar tus sentimientos de soledad y entender mejor tus necesidades sociales y emocionales. Recuerda, este cuestionario no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes aislado de los demás?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Sientes que te falta compañía?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Te sientes excluido?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Sientes que ya no estás cerca de nadie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Sientes que tus relaciones con los demás no son significativas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Te sientes tímido o retraído alrededor de los demás?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Sientes que las personas a tu alrededor no están realmente contigo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Te sientes solo incluso cuando estás con otras personas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Nivel bajo de soledad",
+      "description": "Tus respuestas sugieren que experimentas un bajo nivel de soledad. Si bien siempre es bueno estar atento a tus conexiones sociales, tus respuestas indican que la soledad no está afectando significativamente tu vida en este momento.",
+      "advice": "Continúa nutriendo tus relaciones y manteniendo conexiones sociales. Si alguna vez sientes cambios en tus sentimientos de soledad, considera contactar a un profesional de la salud mental para obtener consejo."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Nivel moderado de soledad",
+      "description": "Tus respuestas sugieren que puedes estar experimentando un nivel moderado de soledad. Algunas de tus respuestas indican que estás luchando con sentimientos de aislamiento.",
+      "advice": "Podría ser útil hablar con un profesional de la salud mental sobre tus sentimientos de soledad. Pueden ofrecer apoyo y estrategias para ayudarte a mejorar tus conexiones sociales y tu bienestar emocional."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Nivel alto de soledad",
+      "description": "Tus respuestas sugieren que estás experimentando un alto nivel de soledad. Muchas de tus respuestas indican que estás luchando significativamente con sentimientos de aislamiento.",
+      "advice": "Es importante buscar ayuda de un profesional de la salud mental lo antes posible. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu soledad y mejorar tu bienestar general."
+    }
+  ]
+}

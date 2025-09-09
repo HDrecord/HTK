@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Autoavaliação de doença coronariana",
+  "description": "Doença do coração coronária (DCC) é uma condição grave que pode levar a problemas de saúde significativos se não for devidamente gerenciada. A detecção precoce de fatores de risco é chave para a prevenção e tratamento. Você está preocupado com seu risco de DCC? Esta autoavaliação pode ajudá-lo a identificar possíveis fatores de risco e entender melhor a saúde do seu coração. Lembre-se, isso não é um diagnóstico profissional, e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você costuma sentir falta de ar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você sente dor ou desconforto no peito?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você sente batimentos cardíacos irregulares ou palpitações?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você se sente cansado ou fatigado sem motivo aparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você tem inchaço nas pernas, tornozelos ou pés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você tem pressão alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você tem altos níveis de colesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você fuma ou usa produtos de tabaco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você tem um histórico familiar de doença cardíaca coronária?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você se envolve em atividade física regular?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Você segue uma dieta saudável para o coração?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Você gerencia o estresse de maneira eficaz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Você tem diabetes ou altos níveis de açúcar no sangue?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Você sente tonturas ou vertigens?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Baixo risco de doença coronária",
+      "description": "Suas respostas sugerem que você está com baixo risco para doença do coração coronária. Embora seja sempre bom estar atento à saúde do seu coração, suas respostas indicam que a saúde do seu coração está atualmente em boas condições.",
+      "advice": "Continue a manter um estilo de vida saudável para o coração, envolvendo-se em atividade física regular, seguindo uma dieta equilibrada, gerenciando o estresse de maneira eficaz e evitando hábitos prejudiciais como fumar. Exames regulares com seu médico podem ajudá-lo a permanecer no caminho certo."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Risco moderado de doença coronária",
+      "description": "Suas respostas sugerem que você pode estar em risco moderado de doença do coração coronária. Algumas de suas respostas indicam que existem áreas em que você poderia melhorar a saúde do seu coração.",
+      "advice": "Considere fazer mudanças de estilo de vida, como aumentar sua atividade física, adotar uma dieta saudável para o coração, parar de fumar se for o caso, e gerenciar o estresse de forma mais eficaz. Consultar um profissional de saúde pode fornecer-lhe conselhos personalizados e estratégias para melhorar a saúde do seu coração."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Alto risco de doença coronária",
+      "description": "Suas respostas sugerem que você está com alto risco de doença do coração coronária. Muitas de suas respostas indicam que você está experimentando sintomas ou tem fatores de risco que podem impactar a saúde do seu coração.",
+      "advice": "É importante procurar ajuda de um médico o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para abordar a saúde do seu coração e reduzir seu risco de problemas cardiovasculares graves. Isso pode incluir mudanças de estilo de vida, medicamentos ou outras intervenções conforme recomendado pelo seu médico."
+    }
+  ]
+}

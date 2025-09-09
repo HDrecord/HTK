@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Đánh giá chế độ ăn uống và sức khỏe",
+  "description": "Chế độ ăn uống cân đối là yếu tố quan trọng để duy trì sức khỏe tốt và ngăn ngừa các bệnh. Đánh giá thói quen ăn uống và lượng dinh dưỡng bạn tiêu thụ có thể cung cấp cái nhìn quý giá về tình trạng sức khỏe tổng quát. Bài tự đánh giá này cho phép bạn suy ngẫm về lựa chọn chế độ ăn uống của mình và xác định các lĩnh vực cần cải thiện. Hãy nhớ, đây không phải là chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có ăn ít nhất năm khẩu phần hoa quả và rau củ hàng ngày không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có hạn chế lượng đồ ăn ngọt và đồ uống đường không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có chọn ngũ cốc nguyên hạt thay vì ngũ cốc đã qua chế biến không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có bao gồm protein ít chất béo trong chế độ ăn, như thịt gà, cá, đậu hoặc đậu phụ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có tránh ăn thực phẩm chế biến và thức ăn nhanh không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có uống ít nhất tám ly nước mỗi ngày không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có hạn chế lượng thịt đỏ và thịt đã qua chế biến không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có chú ý đến kích cỡ phần ăn và tránh ăn quá nhiều không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có gồm cả chất béo lành mạnh trong chế độ ăn của mình, như chất béo từ bơ, hạnh nhân, và dầu ô liu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có tiêu thụ sản phẩm từ sữa hoặc các loại thay thế cho sữa một cách đều đặn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có hạn chế việc tiêu thụ muối và các thực phẩm chứa nhiều natri không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có lên kế hoạch cho các bữa ăn và bữa nhẹ để đảm bảo dinh dưỡng cân đối không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Thói quen ăn uống kém",
+      "description": "Các câu trả lời của bạn cho thấy thói quen ăn uống của bạn có thể không đang hỗ trợ tối ưu cho sức khỏe. Mặc dù luôn tốt khi ý thức về dinh dưỡng, nhưng câu trả lời của bạn cho thấy rằng có một số lĩnh vực bạn có thể cải thiện chế độ ăn uống của mình.",
+      "advice": "Cố gắng thay đổi dần chế độ ăn bằng cách bổ sung nhiều hoa quả, rau củ, ngũ cốc nguyên hạt, và protein ít chất béo hơn. Hạn chế tiêu thụ thực phẩm chứa đường, mặn, và thực phẩm chế biến cũng có thể là lợi ích. Tham khảo ý kiến ​​từ một chuyên viên y tế hoặc chuyên gia dinh dưỡng có thể cung cấp cho bạn lời khuyên và chiến lược cá nhân để cải thiện thói quen ăn uống của bạn."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Thói quen ăn uống trung bình",
+      "description": "Các câu trả lời của bạn cho thấy thói quen ăn uống của bạn đang hỗ trợ một cách vừa phải cho sức khỏe. Mặc dù bạn đã đưa ra một số lựa chọn tốt, nhưng có những lĩnh vực mà bạn có thể cải thiện dinh dưỡng để hỗ trợ tốt hơn cho sức khỏe tổng thể của mình.",
+      "advice": "Cải thiện chế độ ăn của bạn bằng cách thực sự gồm thêm nhiều hoa quả, rau củ, ngũ cốc nguyên hạt, và protein ít chất béo. Chú ý đến kích cỡ phần ăn và hạn chế tiêu thụ thức ăn chứa đường, mặn, và thức ăn chế biến. Tham khảo ý kiến ​​từ một chuyên viên y tế hoặc chuyên gia dinh dưỡng có thể cung cấp cho bạn lời khuyên và chiến lược cá nhân để cải thiện thêm thói quen ăn uống của bạn."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Thói quen ăn uống tốt",
+      "description": "Các câu trả lời của bạn cho thấy bạn có thói quen ăn uống tốt, hỗ trợ sức khỏe của bạn. Bạn đã đưa ra nhiều lựa chọn lợi ích góp phần vào sức khỏe của mình.",
+      "advice": "Tiếp tục duy trì thói quen ăn uống của bạn bằng cách thường xuyên bao gồm đa dạng hoa quả, rau củ, ngũ cốc nguyên hạt, protein ít chất béo, và chất béo tốt vào chế độ ăn của bạn. Tiếp tục công việc tốt lành này, và nhớ kiểm tra và điều chỉnh chế độ ăn uống của bạn theo thời gian để đảm bảo nó tiếp tục đáp ứng nhu cầu dinh dưỡng của bạn. Tham khảo ý kiến ​​từ một chuyên viên y tế hoặc chuyên gia dinh dưỡng có thể giúp bạn điều chỉnh chế độ ăn cho sức khỏe tối ưu."
+    }
+  ]
+}

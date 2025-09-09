@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Đánh giá hạnh phúc của bạn",
+  "description": "Hạnh phúc là một khía cạnh quan trọng của sự cố tồn vui vẻ, và hiểu được những gì cống hiến cho hạnh phúc của bạn có thể giúp bạn sống cuộc sống trọn vẹn hơn. Bạn đã từng tự hỏi mình hạnh phúc đến mức nào chưa? Bài kiểm tra này có thể giúp bạn đánh giá mức độ hạnh phúc hiện tại và xác định những vùng có thể cần sự chú ý. Nhớ rằng, đây không phải là chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hoặc sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn thường cảm thấy hài lòng với cuộc sống của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có cảm thấy một mục đích trong hoạt động hàng ngày của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn thường có quan điểm tích cực về cuộc sống không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có cảm thấy hài lòng với mối quan hệ cá nhân của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có cảm thấy một cảm giác thực hiện trong công việc hoặc dự án cá nhân của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có tìm thấy niềm vui trong hoạt động hàng ngày của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có cảm thấy hòa bình với những quyết định và kinh nghiệm trong quá khứ của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có cảm thấy bạn có quyền điều khiển cuộc sống và quyết định của mình không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Mức độ hạnh phúc thấp",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn đang trải qua một mức độ hạnh phúc thấp. Mặc dù luôn quan tâm đến sự vui vẻ cảm xúc của bạn, các câu trả lời của bạn cho thấy rằng bạn có thể hưởng lợi từ các chiến lược để cải thiện tổng thể hạnh phúc của mình.",
+      "advice": "Hãy xem xét việc tìm kiếm sự hỗ trợ từ một chuyên viên sức khỏe tâm thần để khám phá những cách thức để tăng cường hạnh phúc và sức khỏe toàn diện của mình. Họ có thể cung cấp hướng dẫn và chiến lược để giúp bạn đạt được một cuộc sống trọn vẹn và vui vẻ hơn."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Mức độ hạnh phúc trung bình",
+      "description": "Các câu trả lời của bạn cho thấy bạn có một mức độ hạnh phúc trung bình. Mặc dù bạn trải qua những khoảnh khắc của niềm vui và lòng hài lòng, có thể có những lĩnh vực trong cuộc sống của bạn mà bạn có thể hưởng lợi từ việc cải thiện.",
+      "advice": "Cân nhắc khám phá các hoạt động và thực hành làm tăng hạnh phúc của bạn, như sở thích, mối quan hệ xã hội và kỹ thuật chánh niệm. Nói chuyện với một chuyên viên sức khỏe tâm thần cũng có thể cung cấp thông tin qu valuable giá trị và hỗ trợ."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Mức độ hạnh phúc cao",
+      "description": "Các câu trả lời của bạn cho thấy bạn đang trải qua một mức độ hạnh phúc cao. Bạn dường như có một quan điểm tích cực về cuộc sống và cảm thấy hài lòng với nhiều khía cạnh của cuộc sống của bạn.",
+      "advice": "Tiếp tục nuôi dưỡng hạnh phúc của bạn bằng cách duy trì một sự cân bằng khoẻ mạnh trong cuộc sống, tham gia vào các hoạt động mang lại niềm vui cho bạn và chăm sóc mối quan hệ có ý nghĩa. Tiếp tục công việc tốt đẹp và tận hưởng trạng thái sức khỏe tích cực của bạn."
+    }
+  ]
+}

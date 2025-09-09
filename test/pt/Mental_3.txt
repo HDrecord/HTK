@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Autoavaliação de gestão emocional",
+  "description": "Gerir efetivamente as emoções é crucial para manter o bem-estar mental e relacionamentos saudáveis. Algumas pessoas naturalmente lidam melhor com suas emoções, enquanto outras podem lutar. Já se perguntou quanto bem você gerencia suas emoções? Esta autoavaliação pode ajudá-lo a entender suas habilidades de gestão emocional e identificar áreas para melhoria. Lembre-se, isso não é um diagnóstico profissional e não existem respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você costuma se sentir sobrecarregado com suas emoções?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você acha difícil controlar sua raiva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você acha difícil manter a calmante sob pressão?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você acha difícil expressar suas emoções de maneira saudável?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você luta com sentimentos de tristeza ou depressão?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você tem dificuldade em lidar com o stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você acha desafiador permanecer positivo em situações difíceis?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você evita enfrentar suas emoções?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você acha difícil se colocar no lugar dos outros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você se sente sobrecarregado com as emoções negativas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Você tem alterações de humor frequentes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Você acha difícil perdoar a si mesmo ou aos outros?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Você acha difícil superar experiências passadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Você se sente emocionalmente esgotado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Você acha difícil controlar suas emoções sob estresse?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Você costuma sentir que não pode controlar suas emoções?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Você sente que suas emoções estão afetando seus relacionamentos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Você acha desafiador expressar seus sentimentos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Você sente que lhe falta apoio emocional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Você acha difícil se recuperar após contratempos emocionais?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Boa gestão emocional",
+      "description": "Suas respostas sugerem que você gerencia suas emoções bem. Embora seja sempre bom estar atento à sua saúde emocional, suas respostas indicam que você lida efetivamente com as situações emocionais neste momento.",
+      "advice": "Continue a prática de boas técnicas de gestão emocional e autocuidado. Se você sentir alterações em sua regulação emocional, considere procurar um profissional de saúde mental para orientações."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Gestão emocional moderada",
+      "description": "Suas respostas sugerem que você pode estar enfrentando algumas dificuldades para gerenciar suas emoções. Algumas de suas respostas indicam que você está lutando com a regulação emocional.",
+      "advice": "Pode ser útil conversar com um profissional de saúde mental sobre seus sentimentos. Eles podem oferecer suporte e estratégias para ajudá-lo a melhorar suas habilidades de gestão emocional e bem-estar geral."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Fraca gestão emocional",
+      "description": "Suas respostas sugerem que você está enfrentando dificuldades significativas para gerenciar suas emoções. Muitas das suas respostas indicam que você está lutando com a regulação emocional.",
+      "advice": "É importante buscar a ajuda de um profissional de saúde mental o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para resolver suas dificuldades de gestão emocional."
+    }
+  ]
+}

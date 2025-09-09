@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Penilaian kesehatan jantung sendiri",
+  "description": "Mempertahankan kesehatan jantung yang baik sangat penting untuk kesejahteraan secara keseluruhan. Memahami kesehatan jantung Anda dapat membantu Anda mengambil langkah proaktif untuk mencegah masalah kardiovaskular. Pernahkah Anda bertanya-tanya tentang keadaan kesehatan jantung Anda? Penilaian diri ini dapat membantu Anda mengevaluasi kesehatan jantung Anda dan mengidentifikasi area yang mungkin perlu diperhatikan. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering mengalami sesak napas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa nyeri atau tidak nyaman di dada?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda mengalami detak jantung yang tidak teratur atau degupan jantung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa lelah atau lemas tanpa alasan yang jelas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda mengalami pembengkakan di kaki, pergelangan kaki, atau kaki Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda memiliki tekanan darah tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda memiliki kadar kolesterol tinggi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merokok atau menggunakan produk tembakau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda memiliki riwayat keluarga dengan penyakit jantung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda berpartisipasi dalam aktivitas fisik secara teratur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda mengikuti diet yang sehat untuk jantung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Risiko rendah terhadap masalah kesehatan jantung",
+      "description": "Jawaban Anda menunjukkan bahwa Anda berisiko rendah terhadap masalah kesehatan jantung. Meskipun selalu baik untuk memperhatikan kesehatan kardiovaskular Anda, jawaban Anda menunjukkan bahwa kesehatan jantung Anda saat ini dalam kondisi yang baik.",
+      "advice": "Terus pertahankan gaya hidup sehat untuk jantung dengan berpartisipasi dalam aktivitas fisik secara teratur, mengikuti diet seimbang, dan menghindari kebiasaan buruk seperti merokok. Pemeriksaan rutin dengan penyedia layanan kesehatan Anda dapat membantu Anda tetap berada di jalur yang tepat."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Risiko sedang terhadap masalah kesehatan jantung",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mungkin berisiko sedang terhadap masalah kesehatan jantung. Beberapa jawaban Anda menunjukkan bahwa ada area di mana Anda bisa meningkatkan kesehatan kardiovaskular Anda.",
+      "advice": "Pertimbangkan untuk melakukan perubahan gaya hidup seperti meningkatkan aktivitas fisik Anda, mengadopsi diet sehat untuk jantung, dan berhenti merokok jika berlaku. Berkonsultasi dengan penyedia layanan kesehatan dapat memberi Anda saran dan strategi pribadi untuk meningkatkan kesehatan jantung Anda."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Risiko tinggi terhadap masalah kesehatan jantung",
+      "description": "Jawaban Anda menunjukkan bahwa Anda berisiko tinggi terhadap masalah kesehatan jantung. Banyak jawaban Anda menunjukkan bahwa Anda mengalami gejala atau memiliki faktor risiko yang bisa mempengaruhi kesehatan kardiovaskular Anda.",
+      "advice": "Penting untuk mencari bantuan dari penyedia layanan kesehatan sesegera mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja sama dengan Anda untuk mengembangkan rencana pengobatan untuk mengatasi kesehatan jantung Anda dan mengurangi risiko masalah kardiovaskular yang serius."
+    }
+  ]
+}

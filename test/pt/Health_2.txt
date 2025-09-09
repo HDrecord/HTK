@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Autoavaliação de Dieta e Saúde",
+  "description": "Uma dieta equilibrada é fundamental para manter uma boa saúde e prevenir várias doenças. Avaliar seus hábitos alimentares e ingestão nutricional pode fornecer insights valiosos sobre seu bem-estar geral. Esta autoavaliação permite que você reflita sobre suas escolhas alimentares e identifique áreas para melhorias. Lembre-se, essa não é uma diagnóstico profissional, e não existe respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você come pelo menos cinco porções de frutas e vegetais por dia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você limita a ingestão de lanches e bebidas açucarados?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Você escolhe grãos integrais em vez de grãos refinados?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você inclui proteínas magras em sua dieta, como frango, peixe, feijão ou tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você evita alimentos processados e fast food?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você bebe pelo menos oito copos de água por dia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você limita a ingestão de carnes vermelhas e processadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você presta atenção ao tamanho das porções e evita comer demais?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você incorpora gorduras saudáveis em sua dieta, como as de abacates, nozes e azeite de oliva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você consome produtos lácteos ou alternativas ao leite regularmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Você limita a ingestão de sal e alimentos ricos em sódio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Você planeja suas refeições e lanches com antecedência para garantir uma nutrição equilibrada?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De maneira nenhuma",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Hábitos alimentares pobres",
+      "description": "Suas respostas sugerem que seus hábitos alimentares podem não estar apoiando uma saúde ótima. Embora seja sempre bom estar atento à sua nutrição, suas respostas indicam que existem várias áreas onde você poderia melhorar sua dieta.",
+      "advice": "Considere fazer mudanças graduais em sua dieta, incluindo mais frutas, vegetais, grãos integrais e proteínas magras. Reduzir a ingestão de alimentos açucarados, salgados e processados também pode ser benéfico. Consultar um profissional de saúde ou um nutricionista pode fornecer conselhos personalizados e estratégias para melhorar seus hábitos alimentares."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Hábitos alimentares moderados",
+      "description": "Suas respostas sugerem que seus hábitos alimentares estão moderadamente apoiando sua saúde. Embora você esteja fazendo algumas escolhas boas, existem áreas em que você poderia melhorar sua nutrição para apoiar melhor o seu bem-estar geral.",
+      "advice": "Considere melhorar sua dieta, incluindo consistentemente mais frutas, vegetais, grãos integrais e proteínas magras. Preste atenção ao tamanho das porções e limite a ingestão de alimentos açucarados, salgados e processados. Consultar um profissional de saúde ou um nutricionista pode fornecer-lhe conselhos personalizados e estratégias para melhorar ainda mais seus hábitos alimentares."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Bons hábitos alimentares",
+      "description": "Suas respostas sugerem que você tem bons hábitos alimentares que apoiam sua saúde geral. Você está fazendo muitas escolhas benéficas que contribuem para o seu bem-estar.",
+      "advice": "Continue mantendo seus hábitos alimentares saudáveis incluindo regularmente uma variedade de frutas, vegetais, grãos integrais, proteínas magras e gorduras saudáveis em sua dieta. Continue com o bom trabalho e lembre-se de revisar e ajustar sua dieta periodicamente, conforme necessário, para garantir que ela continue atendendo às suas necessidades nutricionais. Consultar um profissional de saúde ou um nutricionista pode ajudá-lo a ajustar seus hábitos alimentares para uma saúde ótima."
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "id": 11,
+  "title": "Selbsteinschätzung des Herzkrankheitsrisikos",
+  "description": "Herzkrankheiten sind weltweit eine der Hauptursachen für Gesundheitsprobleme, und es ist entscheidend, Ihre Risikofaktoren zu verstehen, um sie zu verhindern. Kennen Sie Ihr Risikolevel für Herzkrankheiten? Diese Selbsteinschätzung kann Ihnen helfen, Ihr Risiko zu bewerten und Lebensstiländerungen zu identifizieren, die es möglicherweise reduzieren können. Denken Sie daran, dies ist keine professionelle Diagnose, und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Haben Sie oft Atemnot?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Fühlen Sie Brustschmerzen oder Unbehagen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie unregelmäßige Herzschläge oder Herzrasen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie sich oft müde oder ermüdet ohne ersichtlichen Grund?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Haben Sie Schwellungen in den Beinen, Knöcheln oder Füßen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie hohen Blutdruck?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Haben Sie hohe Cholesterinwerte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rauchen Sie oder verwenden Sie Tabakprodukte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Haben Sie eine familiäre Vorgeschichte von Herzkrankheiten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Treiben Sie regelmäßig körperliche Aktivität?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Halten Sie sich an eine herzgesunde Ernährung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Können Sie Stress effektiv bewältigen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Haben Sie Diabetes oder hohen Blutzucker?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Geringes Risiko für Herzkrankheiten",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein geringes Risiko für Herzkrankheiten haben. Obwohl es immer gut ist, auf Ihre Herz-Gesundheit zu achten, deuten Ihre Antworten darauf hin, dass Ihre Herz-Gesundheit derzeit in gutem Zustand ist.",
+      "advice": "Setzen Sie fort, einen gesunden Lebensstil für das Herz aufrechtzuerhalten, indem Sie regelmäßig körperliche Aktivität ausüben, einer ausgewogenen Ernährung folgen, Stress effektiv bewältigen und schädliche Gewohnheiten wie Rauchen vermeiden. Regelmäßige Kontrollen bei Ihrem Gesundheitsdienstleister können Ihnen helfen, auf dem richtigen Weg zu bleiben."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Mäßiges Risiko für Herzkrankheiten",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mäßiges Risiko für Herzkrankheiten haben. Einige Ihrer Antworten zeigen, dass es Bereiche gibt, in denen Sie Ihre Herz-Gesundheit verbessern könnten.",
+      "advice": "Denken Sie darüber nach, Lebensstiländerungen vorzunehmen, wie zum Beispiel Ihre körperliche Aktivität zu steigern, sich an eine herzgesunde Ernährung zu halten, das Rauchen aufzugeben, falls zutreffend, und Stress effektiver zu bewältigen. Die Beratung mit einem Arzt kann Ihnen individuelle Ratschläge und Strategien zur Verbesserung Ihrer Herz-Gesundheit geben."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Hohes Risiko für Herzkrankheiten",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko für Herzkrankheiten haben. Viele Ihrer Antworten zeigen, dass Sie Symptome haben oder Risikofaktoren haben, die Ihre Herz-Gesundheit beeinträchtigen könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Arzt zu suchen. Sie können eine richtige Diagnose stellen und mit Ihnen zusammen einen Behandlungsplan erarbeiten, um Ihre Herz-Gesundheit zu verbessern und Ihr Risiko für ernsthafte Herz-Kreislauf-Probleme zu senken. Dies kann Lebensstiländerungen, Medikamente oder andere Eingriffe beinhalten, die Ihr Arzt empfiehlt."
+    }
+  ]
+}

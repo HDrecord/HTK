@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Alkoholkonsum und Gesundheitsselbsteinschätzung",
+  "description": "Das Verständnis Ihrer Alkoholkonsumgewohnheiten ist wichtig für die Erhaltung Ihrer Gesundheit und Ihres Wohlbefindens. Die Bewertung, wie oft und wie viel Sie trinken, kann Ihnen helfen, Muster und potenzielle Gesundheitsrisiken zu erkennen. Diese Selbsteinschätzung gibt Einblicke in Ihre Trinkgewohnheiten und wie sie sich auf Ihre allgemeine Gesundheit auswirken können. Denken Sie daran, dass dies keine professionelle Diagnose ist und es keine richtigen oder falschen Antworten gibt.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Wie oft konsumieren Sie alkoholische Getränke?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Einmal im Monat oder weniger",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Einmal pro Woche",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Täglich oder fast täglich",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Wie viele Drinks trinken Sie typischerweise an einem Tag, an dem Sie trinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 oder mehr",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Wie oft trinken Sie fünf oder mehr Getränke bei einer Gelegenheit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Seltener als monatlich",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Monatlich",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Wöchentlich oder häufiger",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Finden Sie es schwierig, aufzuhören zu trinken, sobald Sie angefangen haben?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Verspüren Sie Heißhunger oder ein starkes Verlangen zu trinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Finden Sie, dass Ihr Trinken Ihre Verantwortlichkeiten bei der Arbeit, in der Schule oder zu Hause beeinträchtigt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Haben Sie jemals versucht, Ihren Alkoholkonsum zu reduzieren, waren aber nicht in der Lage dazu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trinken Sie weiter, obwohl es Probleme mit Ihrer Gesundheit oder Beziehungen verursacht?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Haben Sie jemals aufgrund des Trinkens Gedächtnisverlust oder Blackouts erlebt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Fühlen Sie sich schuldig oder bereuen Sie Ihr Trinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Geringes Risiko für alkoholbedingte Gesundheitsprobleme",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein geringes Risiko haben, Gesundheitsprobleme im Zusammenhang mit Alkoholkonsum zu erleben. Obwohl es wichtig ist, gesunde Trinkgewohnheiten beizubehalten, deuten Ihre Antworten darauf hin, dass Ihr derzeitiger Konsum im Allgemeinen innerhalb sicherer Grenzen liegt.",
+      "advice": "Bleiben Sie weiterhin auf Ihren Alkoholkonsum achten und stellen Sie sicher, dass Sie eine gesunde Balance beibehalten. Wenn Sie Bedenken haben oder Änderungen in Ihren Trinkgewohnheiten bemerken, sollten Sie in Erwägung ziehen, sich an einen Gesundheitsdienstleister für eine individuelle Beratung zu wenden."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Mäßiges Risiko für alkoholbedingte Gesundheitsprobleme",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mäßiges Risiko haben, Gesundheitsprobleme im Zusammenhang mit Alkoholkonsum zu erleben. Einige Ihrer Antworten deuten darauf hin, dass es Bereiche gibt, in denen Sie Ihre Trinkgewohnheiten verbessern könnten.",
+      "advice": "Sie sollten in Erwägung ziehen, Ihren Alkoholkonsum zu reduzieren und sich Ihrer Trinkmuster bewusst zu sein. Die Begrenzung der Häufigkeit und Menge des konsumierten Alkohols kann dazu beitragen, Ihr Risiko für gesundheitliche Probleme zu verringern. Eine Beratung durch einen Gesundheitsdienstleister kann Ihnen individuelle Ratschläge und Strategien zur Verbesserung Ihrer Trinkgewohnheiten bieten."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Hohes Risiko für alkoholbedingte Gesundheitsprobleme",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko haben, gesundheitliche Probleme im Zusammenhang mit Alkoholkonsum zu erleben. Viele Ihrer Antworten deuten darauf hin, dass Sie möglicherweise Probleme aufgrund Ihrer Trinkgewohnheiten haben.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Gesundheitsdienstleister in Anspruch zu nehmen. Sie können eine ordnungsgemäße Diagnose stellen und mit Ihnen zusammenarbeiten, um einen Behandlungsplan zu erstellen, der Ihre Trinkgewohnheiten angeht und Ihr Risiko für ernsthafte Gesundheitsprobleme verringert. Dies kann Änderungen im Lebensstil, Beratung oder andere Eingriffe beinhalten, wie von Ihrem Arzt empfohlen."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Está propenso à depressão?",
+  "description": "Em nosso mundo acelerado, muitas pessoas experimentam tristeza e ansiedade, às vezes levando à depressão. Suspeita que possa estar propenso à depressão? Quer entender sua saúde mental e tomar uma atitude? Este questionário pode ajudá-lo a explorar seu estado emocional e ver se está propenso à depressão. Lembre-se, este não é um diagnóstico profissional, e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Você costuma se sentir triste ou sem esperança?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Você acha difícil desfrutar de atividades que antes gostava?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+     "id": 3,
+      "type": 1,
+      "question": "Você se sente cansado ou tem pouca energia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você tem dificuldades para se concentrar nas tarefas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você se sente culpado ou inútil?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você tem problemas para dormir ou dorme demais?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você se sente inquieto ou tem dificuldade em ficar parado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você tem pensamentos de automutilação ou suicídio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você tem dificuldade em tomar decisões?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você acha difícil sair da cama pela manhã?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "De modo nenhum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Às vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frequentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Baixo risco de depressão",
+      "description": "Suas respostas sugerem que você está atualmente com baixo risco de depressão. Embora seja sempre bom estar atento à sua saúde mental, suas respostas indicam que você não está experimentando sintomas significativos de depressão neste momento.",
+      "advice": "Continue a monitorar sua saúde mental e a praticar o autocuidado. Se você já sente mudanças em seu humor ou comportamento, considere procurar um profissional de saúde mental para obter conselhos."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Risco moderado de depressão",
+      "description": "Suas respostas sugerem que você pode estar em risco moderado de depressão. Algumas de suas respostas indicam que você está passando por sintomas que podem estar relacionados à depressão.",
+      "advice": "Pode ser útil conversar com um profissional de saúde mental sobre seus sentimentos. Eles podem oferecer apoio e estratégias para ajudá-lo a gerenciar seus sintomas e melhorar seu bem-estar mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Alto risco de depressão",
+      "description": "Suas respostas sugerem que você está em alto risco de depressão. Muitas de suas respostas indicam que você está experimentando sintomas significantes que podem estar relacionados à depressão.",
+      "advice": "É importante buscar ajuda de um profissional de saúde mental o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para lidar com seus sintomas."
+    }
+  ]
+}

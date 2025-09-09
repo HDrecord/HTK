@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Selbsteinschätzung zur Herzgesundheit",
+  "description": "Es ist von entscheidender Bedeutung, ein gesundes Herz zu erhalten, um das allgemeine Wohlbefinden zu erhalten. Das Verständnis Ihrer Herzgesundheit kann Ihnen helfen, Maßnahmen zu ergreifen, um Herz-Kreislauf-Probleme zu vermeiden. Haben Sie sich jemals über den Zustand Ihrer Herzgesundheit gewundert? Mit dieser Selbsteinschätzung können Sie Ihre Herzgesundheit bewerten und Bereiche identifizieren, die möglicherweise Aufmerksamkeit benötigen. Denken Sie daran, dies ist keine professionelle Diagnose, und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Haben Sie oft Atemnot?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Haben Sie Brustschmerzen oder Unbehagen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie unregelmäßige Herzschläge oder Herzrasen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie sich müde oder erschöpft, ohne offensichtlichen Grund?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Haben Sie Schwellungen in Ihren Beinen, Knöcheln oder Füßen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie einen hohen Blutdruck?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Haben Sie einen hohen Cholesterinspiegel?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rauchen Sie oder verwenden Sie Tabakprodukte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Haben Sie eine Familienanamnese von Herzkrankheiten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Treiben Sie regelmäßige körperliche Aktivität?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Halten Sie sich an eine herzgesunde Ernährung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Niedriges Risiko für Herzgesundheitsprobleme",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein geringes Risiko für Herzgesundheitsprobleme haben. Es ist immer gut, auf Ihre Herzgesundheit zu achten, aber Ihre Antworten zeigen, dass Ihre Herzgesundheit derzeit in gutem Zustand ist.",
+      "advice": "Bleiben Sie dabei, einen herzgesunden Lebensstil zu führen, indem Sie regelmäßige körperliche Aktivität betreiben, eine ausgewogene Ernährung einhalten und schädliche Gewohnheiten wie Rauchen vermeiden. Regelmäßige Untersuchungen bei Ihrem Gesundheitsdienstleister können Ihnen helfen, auf dem richtigen Weg zu bleiben."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Mäßiges Risiko für Herzgesundheitsprobleme.",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mäßiges Risiko für Herzgesundheitsprobleme haben. Einige Ihrer Antworten zeigen, dass es Bereiche gibt, in denen Sie Ihre Herzgesundheit verbessern könnten.",
+      "advice": "Überlegen Sie, ob Sie Lebensstiländerungen vornehmen möchten, wie zum Beispiel Ihre körperliche Aktivität zu erhöhen, eine herzgesunde Ernährung anzunehmen und das Rauchen aufzugeben, falls zutreffend. Eine Beratung durch einen Gesundheitsdienstleister kann Ihnen individuelle Ratschläge und Strategien zur Verbesserung Ihrer Herzgesundheit geben."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Hohes Risiko für Herzgesundheitsprobleme",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko für Herzgesundheitsprobleme haben. Viele Ihrer Antworten zeigen, dass Sie Symptome haben oder Risikofaktoren haben, die sich auf Ihre Herzgesundheit auswirken könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Gesundheitsdienstleister zu suchen. Diese können eine ordnungsgemäße Diagnose stellen und mit Ihnen zusammenarbeiten, um einen Behandlungsplan zu entwickeln, der Ihre Herzgesundheit adressiert und Ihr Risiko für ernsthafte Herz-Kreislauf-Probleme verringert."
+    }
+  ]
+}

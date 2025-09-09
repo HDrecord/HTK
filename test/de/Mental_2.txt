@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Selbsttest für Angstsymptome",
+  "description": "Angst kann sich auf verschiedene Weisen manifestieren, von ständiger Sorge bis hin zu körperlichen Symptomen wie einem rasenden Herzen. Es ist wichtig, diese Anzeichen frühzeitig zu erkennen, um sie effektiv zu bewältigen. Haben Sie sich jemals gefragt, ob Ihre Gefühle von Angst mehr als nur alltäglicher Stress sind? Dieser Selbsttest kann Ihnen helfen, häufige Angstsymptome zu identifizieren und einen Einblick in Ihr emotionales Wohlbefinden zu geben. Denken Sie daran, dass dieser Test keine professionelle Diagnose ist und es keine richtigen oder falschen Antworten gibt.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft nervös oder angespannt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Haben Sie Schwierigkeiten, Ihre Sorgfalt zu kontrollieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Finden Sie es schwierig, sich zu entspannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie sich unruhig oder können Sie nicht still sitzen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Werden Sie leicht gereizt oder ärgern Sie sich leicht?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie Angst, als ob etwas Schreckliches passieren könnte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Erleben Sie körperliche Symptome wie Schwitzen, Zittern oder ein rasendes Herz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Finden Sie es schwierig, sich aufgrund von Sorgen zu konzentrieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Vermeiden Sie Situationen, die Ihnen Angst machen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Haben Sie das Gefühl, dass Ihre Angst Ihr tägliches Leben beeinträchtigt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Niedriges Angstniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie derzeit ein niedriges Angstniveau haben. Obwohl es immer gut ist, sich um Ihre geistige Gesundheit zu kümmern, weisen Ihre Antworten darauf hin, dass Ihre Angst derzeit Ihr tägliches Leben nicht wesentlich beeinträchtigt.",
+      "advice": "Achten Sie weiterhin auf Ihre geistige Gesundheit und praktizieren Sie Selbstpflege. Wenn Sie jemals Veränderungen in Ihrer Stimmung oder Ihrem Verhalten bemerken, sollten Sie sich an einen Fachmann für psychische Gesundheit wenden."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Mäßiges Angstniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mäßiges Angstniveau haben. Einige Ihrer Antworten deuten darauf hin, dass Sie Symptome haben, die mit Angst verbunden sein könnten.",
+      "advice": "Es könnte hilfreich sein, mit einem Fachmann für psychische Gesundheit über Ihre Gefühle zu sprechen. Dieser kann Unterstützung und Strategien anbieten, um Ihre Symptome zu bewältigen und Ihr psychisches Wohlbefinden zu verbessern."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hohes Angstniveau",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Angstniveau haben. Viele Ihrer Antworten deuten darauf hin, dass Sie erhebliche Symptome haben, die mit Angst zusammenhängen könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Fachmann für psychische Gesundheit zu suchen. Dieser kann eine angemessene Diagnose stellen und mit Ihnen einen Behandlungsplan ausarbeiten, um Ihre Symptome zu behandeln."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Consommation d'alcool et auto-évaluation de la santé",
+  "description": "Comprendre vos habitudes de consommation d'alcool est important pour maintenir votre santé et votre bien-être. Évaluer combien de fois et combien vous buvez peut vous aider à reconnaître des motifs et des risques potentiels pour la santé. Cette auto-évaluation fournit des informations sur vos habitudes de boisson et comment elles peuvent affecter votre santé globale. Rappelez-vous, ce n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "À quelle fréquence consommez-vous des boissons alcoolisées?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Une fois par mois ou moins",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Une fois par semaine",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quotidiennement ou presque quotidiennement",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Combien de verres buvez-vous en moyenne lorsque vous buvez?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 ou plus",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "À quelle fréquence buvez-vous cinq verres ou plus en une occasion?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Moins d'une fois par mois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mensuellement",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hebdomadairement ou plus souvent",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Trouvez-vous difficile d'arrêter de boire une fois que vous avez commencé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ressentez-vous des envies ou un fort désir de boire?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trouvez-vous que votre consommation d'alcool interfère avec vos responsabilités au travail, à l'école ou à la maison?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Avez-vous déjà essayé de réduire votre consommation d'alcool mais en vain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Continuez-vous à boire même si cela cause des problèmes à votre santé ou à vos relations?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous déjà eu des pertes de mémoire ou des trous noirs à cause de la boisson?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Vous sentez-vous coupable ou regrettez-vous votre consommation d'alcool?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Risque faible de problèmes de santé liés à l'alcool",
+      "description": "Vos réponses suggèrent que vous avez un faible risque de rencontrer des problèmes de santé liés à la consommation d'alcool. Bien qu'il soit important de maintenir des habitudes de consommation d'alcool saines, vos réponses indiquent que vos niveaux de consommation actuels sont généralement dans des limites sûres.",
+      "advice": "Continuez à surveiller votre consommation d'alcool et assurez-vous de maintenir un équilibre sain. Si vous avez des préoccupations ou remarquez des changements dans vos habitudes de consommation d'alcool, envisagez de parler à un professionnel de la santé pour obtenir des conseils personnalisés."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Risque modéré de problèmes de santé liés à l'alcool",
+      "description": "Vos réponses suggèrent que vous pourriez être à un risque modéré de rencontrer des problèmes de santé liés à la consommation d'alcool. Certaines de vos réponses indiquent qu'il y a des domaines où vous pourriez améliorer vos habitudes de consommation d'alcool.",
+      "advice": "Envisagez de réduire votre consommation d'alcool et d'être conscient de vos habitudes de consommation. Limiter la fréquence et la quantité d'alcool consommé peut aider à diminuer votre risque de problèmes de santé. Consulter un professionnel de la santé peut vous donner des conseils personnalisés et des stratégies pour améliorer vos habitudes de consommation d'alcool."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Risque élevé de problèmes de santé liés à l'alcool",
+      "description": "Vos réponses suggèrent que vous courez un risque élevé de rencontrer des problèmes de santé liés à la consommation d'alcool. Beaucoup de vos réponses indiquent que vous pourriez rencontrer des problèmes en raison de vos habitudes de consommation d'alcool.",
+      "advice": "Il est important de demander l'aide d'un professionnel de la santé dès que possible. Ils peuvent poser un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour aborder vos habitudes de consommation d'alcool et réduire votre risque de problèmes de santé graves. Cela peut inclure des changements de mode de vie, une thérapie, ou d'autres interventions recommandées par votre médecin."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": 8,
+  "title": "Evaluación de estrés laboral",
+  "description": "El estrés relacionado con el trabajo puede impactar significativamente tanto en tu rendimiento profesional como en tu vida personal. Comprender el nivel de estrés que experimentas en el trabajo es crucial para manejarlo de manera efectiva. ¿Alguna vez te has sentido abrumado por tu trabajo? Esta evaluación puede ayudarte a evaluar tu estrés laboral y a identificar áreas que pueden necesitar atención. Recuerda, esta no es una diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes abrumado por tu carga de trabajo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Encuentras difícil cumplir con los plazos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Crees que tienes un buen equilibrio entre el trabajo y la vida personal?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Experimentas síntomas físicos como dolores de cabeza o de estómago debido al estrés laboral?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Te resulta difícil concentrarte en las tareas en el trabajo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Te sientes irritable o de mal humor en el trabajo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Evitas tareas o situaciones en el trabajo que te causan estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Te sientes ansioso por el trabajo incluso durante tu tiempo personal?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Te resulta difícil decir no a trabajos o tareas adicionales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te sientes apoyado por tus compañeros y superiores en el trabajo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Sientes que tu ambiente de trabajo contribuye positivamente a tu bienestar mental?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Sientes que el estrés está afectando tu rendimiento laboral general?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Bajo estrés laboral",
+      "description": "Tus respuestas sugieren que experimentas un bajo nivel de estrés en el trabajo. Aunque siempre es bueno estar atento a tus niveles de estrés, tus respuestas indican que manejas el estrés relacionado con el trabajo de manera efectiva en este momento.",
+      "advice": "Continúa practicando buenas técnicas de manejo del estrés y mantén un equilibrio saludable entre el trabajo y la vida personal. Si alguna vez sientes cambios en tus niveles de estrés, considera la posibilidad de buscar el consejo de un profesional de la salud mental."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Estrés laboral moderado",
+      "description": "Tus respuestas sugieren que puedes estar experimentando un nivel moderado de estrés en el trabajo. Algunas de tus respuestas indican que estás lidiando con estrés relacionado con el trabajo.",
+      "advice": "Podría ser útil hablar con un profesional de la salud mental acerca de tu estrés laboral. Pueden ofrecer apoyo y estrategias para ayudarte a mejorar tus habilidades de manejo del estrés y tu bienestar general."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Alto estrés laboral",
+      "description": "Tus respuestas sugieren que estás experimentando un alto nivel de estrés en el trabajo. Muchas de tus respuestas indican que estás lidiando significativamente con estrés relacionado con el trabajo.",
+      "advice": "Es importante buscar la ayuda de un profesional de la salud mental lo más pronto posible. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu estrés laboral y mejorar tu salud mental en general."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Consumo de alcohol y autoevaluación de la salud",
+  "description": "Entender tus hábitos de consumo de alcohol es importante para mantener tu salud y bienestar. Evaluar cuánto y con qué frecuencia bebes puede ayudarte a reconocer patrones y posibles riesgos para la salud. Esta autoevaluación proporciona información sobre tus hábitos de consumo de alcohol y cómo podrían afectar a tu salud en general. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Con qué frecuencia consumes bebidas alcohólicas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Una vez al mes o menos",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Una vez a la semana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Diariamente o casi diariamente",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Cuántas bebidas consumes en un día típico cuando estás bebiendo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 o más",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Con qué frecuencia consumes cinco o más bebidas en una sola ocasión?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Menos de una vez al mes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mensualmente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Semanalmente o más a menudo",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te resulta difícil dejar de beber una vez que has comenzado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Experimentas ansias o un fuerte deseo de beber?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Encuentras que tu bebida interfiere con tus responsabilidades en el trabajo, la escuela o la casa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Has intentado reducir tu consumo de alcohol, pero no has podido?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Continúas bebiendo aunque esto cause problemas con tu salud o relaciones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Has experimentado pérdida de memoria o desmayos debido a beber?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te sientes culpable o arrepentido por tu consumo de alcohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Bajo riesgo de problemas de salud relacionados con el alcohol",
+      "description": "Tus respuestas sugieren que tienes un bajo riesgo de experimentar problemas de salud relacionados con el consumo de alcohol. Aunque es importante mantener hábitos de consumo saludables, tus respuestas indican que tus niveles actuales de consumo están generalmente dentro de los límites seguros.",
+      "advice": "Continúa vigilando tu consumo de alcohol y asegurándote de mantener un equilibrio saludable. Si tienes alguna preocupación o notaste cambios en tus hábitos de consumo, considera hablar con un proveedor de atención médica para obtener asesoramiento personalizado."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Riesgo moderado de problemas de salud relacionados con el alcohol",
+      "description": "Tus respuestas sugieren que puedes estar en un riesgo moderado de experimentar problemas de salud relacionados con el consumo de alcohol. Algunas de tus respuestas indican que hay áreas en las que podrías mejorar tus hábitos de consumo.",
+      "advice": "Considera reducir tu consumo de alcohol y estar atento a tus patrones de consumo. Limitar la frecuencia y cantidad de alcohol consumido puede ayudarte a reducir tu riesgo de problemas de salud. Consultar con un proveedor de atención médica puede proporcionarte asesoramiento personalizado y estrategias para mejorar tus hábitos de consumo de alcohol."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Alto riesgo de problemas de salud relacionados con el alcohol",
+      "description": "Tus respuestas sugieren que tienes un alto riesgo de experimentar problemas de salud relacionados con el consumo de alcohol. Muchas de tus respuestas indican que puedes estar experimentando problemas debido a tus hábitos de consumo.",
+      "advice": "Es importante que busques la ayuda de un proveedor de atención médica lo antes posible. Ellos pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tus hábitos de consumo y reducir tu riesgo de problemas de salud graves. Esto puede incluir cambios en el estilo de vida, consejería, u otras intervenciones según lo recomendado por tu médico."
+    }
+  ]
+}

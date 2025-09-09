@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Êtes-vous sujet à la dépression?",
+  "description": "Dans notre monde rapide, beaucoup de gens éprouvent de la tristesse et de l'anxiété, qui peuvent parfois mener à la dépression. Soupçonnez-vous que vous pourriez être sujet à la dépression? Vous voulez comprendre votre santé mentale et prendre des mesures? Ce questionnaire peut vous aider à explorer votre état émotionnel et à voir si vous êtes sujet à la dépression. N'oubliez pas, il ne s'agit pas d'un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent triste ou sans espoir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Trouvez-vous difficile de profiter des activités que vous aimiez avant?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Vous sentez-vous fatigué ou avez-vous peu d'énergie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Avez-vous du mal à vous concentrer sur les tâches?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Vous sentez-vous coupable ou sans valeur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous du mal à dormir ou dormez-vous trop?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Vous sentez-vous agité ou avez-vous du mal à rester assis?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Avez-vous des pensées d'automutilation ou de suicide?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous du mal à prendre des décisions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Trouvez-vous difficile de sortir du lit le matin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Risque faible de dépression",
+      "description": "Vos réponses suggèrent que vous êtes actuellement à faible risque de dépression. Bien qu'il soit toujours bon de veiller à votre santé mentale, vos réponses indiquent que vous n'éprouvez pas de symptômes significatifs de dépression en ce moment.",
+      "advice": "Continuez à surveiller votre santé mentale et à prendre soin de vous. Si vous ressentez des changements dans votre humeur ou votre comportement, envisagez de consulter un professionnel de la santé mentale pour obtenir des conseils."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Risque modéré de dépression",
+      "description": "Vos réponses suggèrent que vous pouvez être à un risque modéré de dépression. Certaines de vos réponses indiquent que vous ressentez des symptômes qui pourraient être liés à la dépression.",
+      "advice": "Il pourrait être utile de parler à un professionnel de la santé mentale de vos sentiments. Ils peuvent offrir un soutien et des stratégies pour vous aider à gérer vos symptômes et améliorer votre bien-être mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Risque élevé de dépression",
+      "description": "Vos réponses suggèrent que vous courez un risque élevé de dépression. Beaucoup de vos réponses indiquent que vous ressentez des symptômes significatifs qui pourraient être liés à la dépression.",
+      "advice": "Il est important de demander de l'aide à un professionnel de la santé mentale dès que possible. Ils peuvent vous fournir un diagnostic approprié et travailler avec vous pour développer un plan de traitement pour traiter vos symptômes."
+    }
+  ]
+}

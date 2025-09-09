@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Kiểm tra tự đánh giá Stress Xã hội",
+  "description": "Các tương tác xã hội đôi khi có thể là một nguồn gây stress, ảnh hưởng đến sức khỏe tinh thần và cảm xúc của bạn. Việc nhận biết và quản lý hiệu quả stress xã hội là rất quan trọng. Bạn đã từng cảm thấy căng thẳng trong các hoàn cảnh xã hội chưa? Đánh giá tự đánh này có thể giúp bạn xác định mức độ stress xã hội mà bạn trải qua và cung cấp hiểu biết về những lĩnh vực có thể cần được chú ý. Hãy nhớ rằng, đây không phải là một chẩn đoán của chuyên gia, và không có câu trả lời đúng hoặc sai." ,
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có cảm thấy lo lắng hoặc bất an trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có tránh các buổi họp mặt xã hội vì sợ hãi hoặc lo lắng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có lo lắng quá mức về việc bị người khác đánh giá hay không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có thấy các triệu chứng vật lý như đổ mồ hôi, run rẩy, hoặc tim đập nhanh khi ở trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có thấy việc diễn thuyết hoặc biểu diễn trước mọi người khó khăn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có cảm thấy tự ti hoặc xấu hổ trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có cảm thấy kiệt sức hoặc mệt mỏi sau khi tương tác xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn khi trò chuyện phiếm hoặc tham gia vào các cuộc trò chuyện thông thường không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có tránh ánh mắt trong các tình huống xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có cảm thấy ngán ngẩm với việc tham dự các sự kiện xã hội không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Gần như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Mức độ stress xã hội thấp",
+      "description": "Các câu trả lời của bạn cho thấy bạn có mức độ stress xã hội thấp. Dù luôn tốt khi ý thức được về sức khỏe tâm lý của mình, nhưng câu trả lời của bạn cho thấy bạn nói chung cảm thấy thoải mái trong các tình huống xã hội.",
+      "advice": "Tiếp tục tham gia vào các hoạt động xã hội và duy trì mối quan hệ xã hội lành mạnh. Nếu bạn cảm thấy thay đổi về mức độ stress xã hội, hãy xem xét việc tìm kiếm sự giúp đỡ từ một chuyên gia tâm lý."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Mức độ stress xã hội trung bình",
+      "description": "Các câu trả lời của bạn cho thấy bạn có thể chịu đựng mức độ trung bình của stress xã hội. Một số câu trả lời của bạn cho thấy bạn có thể cảm thấy không thoải mái hoặc lo lắng trong một số tình huống xã hội.",
+      "advice": "Hãy xem xét việc thực hành các kỹ thuật thư giãn, chẳng hạn như thở sâu hoặc ý thức, để giúp quản lý stress của bạn. Việc tiếp xúc dần dần với các tình huống xã hội cũng có thể hữu ích. Thảo luận với một chuyên gia tâm lý có thể cung cấp cho bạn các chiến lược cá nhân hóa để cải thiện sự thoải mái và tự tin khi giao tiếp xã hội."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Mức độ stress xã hội cao",
+      "description": "Các câu trả lời của bạn cho thấy bạn chịu đựng một mức độ cao của stress xã hội. Nhiều câu trả lời của bạn cho thấy rằng bạn cảm thấy đáng kể lo lắng hoặc không thoải mái trong các tình huống xã hội.",
+      "advice": "Điều quan trọng là phải tìm sự giúp đỡ từ một chuyên gia tâm lý. Họ có thể cung cấp chẩn đoán chính xác và làm việc với bạn để phát triển kế hoạch điều trị để giải quyết stress xã hội của bạn. Điều này có thể bao gồm liệu pháp, thuốc, hoặc các can thiệp khác theo sự khuyến nghị của bác sĩ của bạn."
+    }
+  ]
+}

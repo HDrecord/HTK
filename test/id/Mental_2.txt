@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Cek sendiri gejala kecemasan",
+  "description": "Kecemasan dapat bermanifestasi dalam berbagai cara, dari kekhawatiran konstan hingga gejala fisik seperti jantung berdebar. Sangat penting untuk mengenali tanda-tanda ini lebih awal untuk mengelolanya dengan efektif. Pernahkah Anda bertanya-tanya apakah perasaan cemas Anda lebih dari sekadar stres sehari-hari? Kuis pengecekan diri ini dapat membantu Anda mengidentifikasi gejala kecemasan umum dan memberikan wawasan tentang kesejahteraan emosional Anda. Ingatlah, kuis ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa gugup atau tegang?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda memiliki kesulitan mengendalikan kekhawatiran Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk bersantai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa gelisah atau tidak dapat duduk diam?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda mudah merasa jengkel atau mudah marah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda merasa takut seolah-olah sesuatu yang buruk mungkin akan terjadi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda mengalami gejala fisik seperti berkeringat, gemetaran, atau jantung berdebar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berkonsentrasi karena kekhawatiran?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda menghindari situasi yang membuat Anda cemas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda merasa seolah-olah kecemasan Anda mengganggu kehidupan sehari-hari Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Tingkat kecemasan rendah",
+      "description": "Respons Anda menunjukkan bahwa Anda saat ini mengalami tingkat kecemasan yang rendah. Meskipun selalu baik untuk memperhatikan kesehatan mental Anda, jawaban Anda menunjukkan bahwa kecemasan Anda tidak secara signifikan mempengaruhi kehidupan sehari-hari Anda pada saat ini.",
+      "advice": "Terus pantau kesehatan mental Anda dan praktikkan perawatan diri. Jika Anda merasa perubahan dalam suasana hati atau perilaku, pertimbangkan untuk mencari saran dari profesional kesehatan mental."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Tingkat kecemasan sedang",
+      "description": "Respons Anda menunjukkan bahwa Anda mungkin mengalami tingkat kecemasan yang sedang. Beberapa jawaban Anda menunjukkan bahwa Anda mengalami gejala yang bisa terkait dengan kecemasan.",
+      "advice": "Mungkin akan berguna untuk berbicara dengan profesional kesehatan mental tentang perasaan Anda. Mereka dapat menawarkan dukungan dan strategi untuk membantu Anda mengelola gejala Anda dan meningkatkan kesejahteraan mental Anda."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Tingkat kecemasan tinggi",
+      "description": "Respons Anda menunjukkan bahwa Anda mengalami tingkat kecemasan yang tinggi. Banyak jawaban Anda menunjukkan bahwa Anda mengalami gejala signifikan yang bisa terkait dengan kecemasan.",
+      "advice": "Penting untuk mencari bantuan dari profesional kesehatan mental sesegera mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja sama dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi gejala Anda."
+    }
+  ]
+}

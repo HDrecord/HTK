@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Penilaian Diri Diet dan Kesehatan",
+  "description": "Diet yang seimbang adalah hal yang penting untuk mempertahankan kesehatan yang baik dan mencegah berbagai penyakit. Menilai kebiasaan makan dan asupan gizi Anda dapat memberikan wawasan berharga tentang kesejahteraan Anda secara keseluruhan. Penilaian diri ini memungkinkan Anda untuk merenungkan pilihan diet Anda dan mengidentifikasi area yang perlu ditingkatkan. Ingatlah, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda makan setidaknya lima porsi buah dan sayuran setiap hari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda membatasi asupan camilan dan minuman manis Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda memilih gandum utuh daripada gandum olahan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda memasukkan protein rendah lemak dalam diet Anda, seperti ayam, ikan, kacang-kacangan, atau tahu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda menghindari makanan olahan dan makanan cepat saji?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda minum setidaknya delapan gelas air setiap hari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda membatasi asupan daging merah dan daging olahan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda memperhatikan ukuran porsi dan menghindari makan berlebihan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda memasukkan lemak sehat ke dalam diet Anda, seperti dari alpukat, kacang-kacangan, dan minyak zaitun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda mengkonsumsi produk susu atau alternatif susu secara rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda membatasi asupan garam dan makanan yang kaya sodium?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apakah Anda merencanakan makanan dan camilan Anda terlebih dahulu untuk memastikan nutrisi yang seimbang?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Kebiasaan diet buruk",
+      "description": "Jawaban Anda menunjukkan bahwa kebiasaan diet Anda mungkin tidak mendukung kesehatan optimal. Meskipun selalu baik untuk memperhatikan gizi Anda, jawaban Anda menunjukkan bahwa ada beberapa area di mana Anda bisa memperbaiki diet Anda.",
+      "advice": "Pertimbangkan untuk melakukan perubahan bertahap pada diet Anda dengan memasukkan lebih banyak buah, sayuran, gandum utuh, dan protein rendah lemak. Mengurangi asupan makanan manis, asin, dan olahan juga bisa bermanfaat. Berkonsultasi dengan penyedia layanan kesehatan atau ahli gizi dapat memberikan nasihat dan strategi personal untuk meningkatkan kebiasaan makan Anda."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Kebiasaan diet sedang",
+      "description": "Jawaban Anda menunjukkan bahwa kebiasaan diet Anda mendukung kesehatan Anda sedang-sedang saja. Meskipun Anda membuat beberapa pilihan yang baik, ada area di mana Anda bisa memperbaiki nutrisi Anda untuk mendukung kesejahteraan Anda secara keseluruhan dengan lebih baik.",
+      "advice": "Pertimbangkan untuk meningkatkan diet Anda dengan secara konsisten memasukkan lebih banyak buah, sayuran, gandum utuh, dan protein rendah lemak. Perhatikan ukuran porsi dan batasi asupan makanan manis, asin, dan olahan Anda. Berkonsultasi dengan penyedia layanan kesehatan atau ahli gizi dapat memberikan Anda nasihat dan strategi personal untuk meningkatkan kebiasaan makan Anda."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Kebiasaan diet baik",
+      "description": "Jawaban Anda menunjukkan bahwa Anda memiliki kebiasaan diet yang baik yang mendukung kesehatan Anda secara keseluruhan. Anda membuat banyak pilihan bermanfaat yang berkontribusi pada kesejahteraan Anda.",
+      "advice": "Lanjutkan pemeliharaan kebiasaan makan sehat Anda dengan secara teratur memasukkan berbagai buah, sayuran, gandum utuh, protein rendah lemak, dan lemak sehat dalam diet Anda. Pertahankan pekerjaan yang baik, dan ingat untuk secara berkala mengkaji dan menyesuaikan diet Anda sesuai kebutuhan untuk memastikan ia terus memenuhi kebutuhan nutrisi Anda. Berkonsultasi dengan penyedia layanan kesehatan atau ahli gizi dapat membantu Anda menyesuaikan kebiasaan makan Anda untuk kesehatan yang optimal."
+    }
+  ]
+}

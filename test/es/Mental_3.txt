@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Autoevaluación de la gestión emocional",
+  "description": "Gestionar las emociones de manera efectiva es crucial para mantener el bienestar mental y las relaciones saludables. Algunas personas manejan naturalmente mejor sus emociones, mientras que otras pueden luchar. ¿Alguna vez te has preguntado qué tan bien manejas tus emociones? Esta autoevaluación puede ayudarte a entender tus habilidades de gestión emocional e identificar áreas de mejora. Recuerda, esto no es un diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes abrumado por tus emociones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Te resulta difícil controlar tu ira?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Te resulta difícil mantenerte tranquilo bajo presión?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te resulta difícil expresar tus emociones de una manera saludable?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Luchas con sentimientos de tristeza o depresión?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tienes dificultades para lidiar con el estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Te resulta desafiante mantener una actitud positiva en situaciones difíciles?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Evitas enfrentarte a tus emociones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Te resulta difícil empatizar con los demás?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te sientes abrumado por emociones negativas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Experimentas cambios de humor frecuentes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Te resulta difícil perdonarte a ti mismo o a los demás?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "¿Te resulta difícil seguir adelante después de experiencias pasadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+       {
+      "id": 14,
+      "type": 1,
+      "question": "¿Te sientes emocionalmente agotado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "¿Te resulta difícil manejar tus emociones cuando estás bajo estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "¿A menudo sientes que no puedes manejar tus emociones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "¿Sientes que tus emociones están afectando tus relaciones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "¿Te resulta desafiante comunicar tus sentimientos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "¿Sientes que te falta apoyo emocional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "¿Te resulta difícil recuperarte de contratiempos emocionales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Buena gestión emocional",
+      "description": "Tus respuestas sugieren que manejas tus emociones bien. Si bien siempre es bueno estar atento a tu salud emocional, tus respuestas indican que manejas las situaciones emocionales de manera efectiva en este momento.",
+      "advice": "Continúa practicando buenas técnicas de gestión emocional y autocuidado. Si alguna vez sientes cambios en tu regulación emocional, considera buscar el consejo de un profesional de la salud mental."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Gestión emocional moderada",
+      "description": "Tus respuestas sugieren que puedes estar experimentando algunas dificultades para manejar tus emociones. Algunas de tus respuestas indican que estás luchando con la regulación emocional.",
+      "advice": "Podría ser útil hablar con un profesional de la salud mental sobre tus sentimientos. Pueden ofrecer apoyo y estrategias para ayudarte a mejorar tus habilidades de gestión emocional y el bienestar general."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Mala gestión emocional",
+      "description": "Tus respuestas sugieren que estás experimentando dificultades significativas para manejar tus emociones. Muchas de tus respuestas indican que estás luchando con la regulación emocional.",
+      "advice": "Es importante buscar ayuda de un profesional de la salud mental lo antes posible. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tus dificultades de gestión emocional."
+    }
+  ]
+}

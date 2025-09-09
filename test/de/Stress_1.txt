@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Bewertung der Stressbewältigungsfähigkeit",
+  "description": "In unserer schnelllebigen Welt ist Stress eine häufige Erfahrung, aber wie wir damit umgehen, kann sich stark auf unser allgemeines Wohlbefinden auswirken. Wissen Sie, wie gut Sie Stress bewältigen? Diese Bewertung kann Ihnen helfen, Ihre Stressbewältigungsfähigkeiten zu bewerten und Einblicke in Verbesserungsbereiche zu bieten. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft von Stress überwältigt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Finden Sie es schwierig, sich nach einem stressigen Ereignis zu entspannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Haben Sie Schlafprobleme, wenn Sie gestresst sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Finden Sie es schwer, sich unter Stress zu konzentrieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Erleben Sie körperliche Symptome wie Kopfschmerzen oder Magenschmerzen, wenn Sie gestresst sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Fühlen Sie sich gereizt oder kurz angebunden, wenn Sie gestresst sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Vermeiden Sie Situationen, die Stress verursachen könnten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Finden Sie es schwierig, Arbeit und Privatleben in Einklang zu bringen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Verlassen Sie sich auf ungesunde Bewältigungsmechanismen (z.B. Rauchen, Trinken), um mit Stress umzugehen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Finden Sie es herausfordernd, positiv zu bleiben, wenn Sie unter Stress stehen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Fühlen Sie sich in stressigen Situationen ängstlich oder panisch?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Haben Sie das Gefühl, dass Stress Ihre allgemeine Gesundheit negativ beeinflusst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Gute Stressbewältigungsfähigkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie gut mit Stress umgehen. Obwohl es immer gut ist, auf Ihr Stressniveau zu achten, zeigen Ihre Antworten, dass Sie derzeit stressige Situationen effektiv bewältigen.",
+      "advice": "Fahren Sie fort, gute Stressmanagement-Techniken und Selbstfürsorge zu praktizieren. Wenn Sie jemals Veränderungen in Ihrer Stressbewältigungsfähigkeit spüren, ziehen Sie es in Erwägung, einen mentalen Gesundheitsfachmann um Rat zu fragen."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Mittlere Stressbewältigungsfähigkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise einige Schwierigkeiten bei der Bewältigung von Stress haben. Einige Ihrer Antworten zeigen, dass Sie mit dem Stressmanagement zu kämpfen haben.",
+      "advice": "Es könnte hilfreich sein, mit einem seelischen Gesundheitsberater über Ihr Stressniveau zu sprechen. Sie können Unterstützung und Strategien anbieten, um Ihre Stressmanagement-Fähigkeiten und Ihr allgemeines Wohlbefinden zu verbessern."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Schlechte Stressbewältigungsfähigkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie erhebliche Schwierigkeiten bei der Bewältigung von Stress haben. Viele Ihrer Antworten zeigen, dass Sie mit dem Stressmanagement zu kämpfen haben.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem seelischen Gesundheitsberater zu suchen. Sie können eine ordnungsgemäße Diagnose stellen und mit Ihnen einen Behandlungsplan zur Bewältigung Ihrer Stressbewältigungsprobleme erarbeiten."
+    }
+  ]
+}

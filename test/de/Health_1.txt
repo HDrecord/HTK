@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Selbsteinschätzung des Diabetesrisikos",
+  "description": "Diabetes ist weltweit eine wachsende Gesundheitsbesorgnis und das Verständnis Ihrer Risikofaktoren ist der Schlüssel zur Prävention und Behandlung. Diese Selbsteinschätzung hilft Ihnen, Ihren Lebensstil, Ihre genetische Veranlagung und andere Faktoren im Zusammenhang mit Diabetes zu beurteilen. Durch die Beantwortung dieses Tests können Sie wertvolle Einblicke in Ihr Risiko für die Entwicklung von Diabetes gewinnen und proaktiv Schritte zu einem gesünderen Leben unternehmen. Denken Sie daran, dieser Test stellt keine professionelle Diagnose dar und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Wie oft betätigen Sie sich für mindestens 30 Minuten körperlich?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Täglich",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 Mal pro Woche",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 Mal pro Woche",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Selten oder nie",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Wie oft konsumieren Sie zuckerhaltige Getränke oder Lebensmittel, die viel Zucker enthalten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Selten oder nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 Mal pro Woche",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 Mal pro Woche",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Täglich",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Wie oft essen Sie frisches Obst und Gemüse?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Täglich",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 Mal pro Woche",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 Mal pro Woche",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Selten oder nie",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Wie ist Ihr Body-Mass-Index (BMI)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Weniger als 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29,9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34,9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 oder höher",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Haben Sie eine Familiengeschichte von Diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nein",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, aber nur entfernte Verwandte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, nahe Verwandte (Eltern, Geschwister)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, mehrere nahe Verwandte",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Wurde bei Ihnen jemals Bluthochdruck diagnostiziert?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nein",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, aber kontrolliert durch Lebensstiländerungen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, kontrolliert mit Medikament",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, aber nicht gut kontrolliert",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Rauchen Sie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nein",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, gelegentlich",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, regelmäßig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, stark",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Wurde bei Ihnen jemals ein hoher Cholesterinspiegel diagnostiziert?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nein",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, aber kontrolliert durch Lebensstiländerungen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, kontrolliert mit Medikament",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, aber nicht gut kontrolliert",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Wie oft haben Sie eine ärztliche Untersuchung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jährlich",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Alle 2-3 Jahre",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Alle 4-5 Jahre",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Selten oder nie",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Wurde bei Ihnen jemals Prädiabetes oder Schwangerschaftsdiabetes diagnostiziert?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nein",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, Prädiabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, Schwangerschaftsdiabetes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, beides",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niedriges Risiko",
+      "description": "Ihr Risiko, Diabetes zu entwickeln, scheint gering zu sein. Machen Sie weiter mit Ihren gesunden Gewohnheiten.",
+      "advice": "Obwohl Ihr Risiko gering zu sein scheint, ist es wichtig, Ihre Gesundheit weiterhin zu beobachten und einen ausgeglichenen Lebensstil beizubehalten. Regelmäßige Kontrollen bei einem Gesundheitsfachmann werden empfohlen."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Mäßiges Risiko",
+      "description": "Sie haben ein mäßiges Risiko, Diabetes zu entwickeln.",
+      "advice": "Überlegen Sie, ob Sie Lebensstiländerungen vornehmen können, um Ihr Risiko zu senken, wie zum Beispiel mehr körperliche Aktivität und Verbesserung Ihrer Ernährung. Es kann hilfreich sein, sich bei einem Gesundheitsfachmann individuell beraten zu lassen."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Hohes Risiko",
+      "description": "Ihr Risiko für die Entwicklung von Diabetes ist hoch.",
+      "advice": "Es ist wichtig, sofortige Schritte zur Risikominderung zu unternehmen. Konsultieren Sie einen Gesundheitsfachmann, der Sie berät, wie Sie effektive Veränderungen in Ihrem Lebensstil und Gesundheitsmanagement vornehmen können."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Sehr hohes Risiko",
+      "description": "Ihr Risiko für die Entwicklung von Diabetes ist sehr hoch.",
+      "advice": "Es ist notwendig, sofort Maßnahmen zu ergreifen, um Ihr hohes Risiko anzugehen. Es ist entscheidend, professionelle Unterstützung zu suchen und signifikante Veränderungen in Ihrem Lebensstil vorzunehmen. Eine frühe Intervention kann Ihr Risiko stark reduzieren und Ihre Gesundheit verbessern."
+    }
+  ]
+}

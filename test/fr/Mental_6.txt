@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Évaluez votre bonheur",
+  "description": "Le bonheur est un aspect vital du bien-être général, et comprendre ce qui contribue à votre bonheur peut vous aider à mener une vie plus épanouissante. Vous êtes-vous déjà demandé à quel point vous êtes vraiment heureux? Ce quiz peut vous aider à évaluer votre niveau actuel de bonheur et à identifier les domaines qui pourraient nécessiter une attention. N'oubliez pas, ce n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent satisfait de votre vie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Ressentez-vous un sentiment de but dans vos activités quotidiennes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Avez-vous généralement une perspective positive sur la vie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Êtes-vous satisfait de vos relations personnelles?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ressentez-vous un sentiment d'accomplissement dans votre travail ou vos projets personnels?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trouvez-vous de la joie dans vos activités quotidiennes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Êtes-vous en paix avec vos décisions et expériences passées?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Avez-vous l'impression de contrôler votre vie et vos décisions?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Faible niveau de bonheur",
+      "description": "Vos réponses suggèrent que vous vivez un faible niveau de bonheur. Alors qu'il est toujours bon de faire attention à votre bien-être émotionnel, vos réponses indiquent que vous pourriez bénéficier de stratégies pour améliorer votre bonheur global.",
+      "advice": "Envisagez de chercher du soutien auprès d'un professionnel de la santé mentale pour explorer des façons d'améliorer votre bonheur et votre bien-être général. Ils peuvent vous fournir des conseils et des stratégies pour vous aider à mener une vie plus épanouissante et joyeuse."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Niveau modéré de bonheur",
+      "description": "Vos réponses suggèrent que vous avez un niveau de bonheur modéré. Bien que vous connaissiez des moments de joie et de contentement, il pourrait y avoir des domaines de votre vie où vous pourriez bénéficier d'une amélioration supplémentaire.",
+      "advice": "Envisagez d'explorer des activités et des pratiques qui améliorent votre bonheur, comme les loisirs, les connexions sociales, et les techniques de pleine conscience. Parler à un professionnel de la santé mentale peut également fournir des informations précieuses et un soutien."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Haut niveau de bonheur",
+      "description": "Vos réponses suggèrent que vous vivez un haut niveau de bonheur. Il semble que vous ayez une perspective positive sur la vie et que vous soyez satisfait de divers aspects de votre vie.",
+      "advice": "Continuez à nourrir votre bonheur en maintenant un équilibre sain dans votre vie, en vous engageant dans des activités qui vous apportent de la joie, et en entretenant des relations significatives. Continuez le bon travail et profitez de votre état positif de bien-être."
+    }
+  ]
+}

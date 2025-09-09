@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Bản đánh giá tự đánh giá về tình trạng cao huyết áp",
+  "description": "Quản lý chứng cao huyết áp là rất quan trọng để phòng ngừa các vấn đề sức khỏe nghiêm trọng. Kiểm tra huyết áp định kỳ và hiểu rõ các yếu tố nguy cơ của bạn có thể giúp bạn duy trì sức khỏe. Bảng câu hỏi này cho phép bạn đánh giá tình hình hiện tại của mình và đưa ra những thông tin sâu rộng trong việc duy trì mức huyết áp khỏe mạnh. Hãy nhớ, đây không phải là chuẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên bị đau đầu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có cảm thấy chóng mặt hoặc mệt mỏi không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có thường xuyên bị mờ mắt không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có cảm thấy thiếu hơi trong các hoạt động hàng ngày không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có cảm thấy cơn đau nhói ở ngực, cổ hoặc tai không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có khó ngủ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có gia đình có tiền sử mắc chứng cao huyết áp không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có hút thuốc hoặc sử dụng các sản phẩm thuốc lá không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có thường xuyên uống rượu không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có áp lực cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có tập thể dục định kỳ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có tuân theo chế độ ăn uống lành mạnh không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Bạn có mức cholesterol cao không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Bạn có đang sử dụng thuốc chữa cao huyết áp hay không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không hề",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Rủi ro mắc bệnh cao huyết áp thấp",
+      "description": "Các phản hồi của bạn cho thấy rằng bạn có rủi ro thấp về tình trạng cao huyết áp. Trong khi luôn tốt khi lưu ý về sức khỏe tim mạch của bạn, các câu trả lời của bạn cho thấy rằng huyết áp của bạn hiện đang ở trong một phạm vi khỏe mạnh.",
+      "advice": "Tiếp tục duy trì lối sống lành mạnh bằng cách tham gia hoạt động thể chất định kỳ, tuân theo chế độ ăn cân đối, quản lý căng thẳng một cách hiệu quả và tránh thói quen có hại như hút thuốc và uống rượu quá mức. Kiểm tra định kỳ với nhà cung cấp dịch vụ y tế của bạn có thể giúp bạn duy trì mục tiêu."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Rủi ro mắc bệnh cao huyết áp trung bình",
+      "description": "Các phản hồi của bạn cho thấy rằng bạn có thể có rủi ro trung bình về tình trạng cao huyết áp. Một số câu trả lời của bạn cho thấy rằng có những lĩnh vực mà bạn có thể cải thiện sức khỏe tim mạch của mình.",
+      "advice": "Xem xét thay đổi lối sống như tăng cường hoạt động thể chất, chuyển sang chế độ ăn uống lành mạnh hơn, bỏ thuốc lá nếu có, giảm tiêu thụ rượu và quản lý căng thẳng một cách hiệu quả hơn. Tư vấn với nhà cung cấp dịch vụ y tế có thể cung cấp cho bạn những lời khuyên và chiến lược cá nhân hóa để cải thiện huyết áp của bạn."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Rủi ro mắc bệnh cao huyết áp cao",
+      "description": "Các phản hồi của bạn cho thấy rằng bạn có rủi ro cao về tình trạng cao huyết áp. Nhiều câu trả lời của bạn cho thấy rằng bạn đang trải qua các triệu chứng hoặc có các yếu tố nguy cơ có thể ảnh hưởng đến sức khỏe tim mạch của bạn.",
+      "advice": "Quan trọng là bạn nên tìm sự giúp đỡ từ một nhà cung cấp dịch vụ y tế càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc cùng bạn để xây dựng kế hoạch điều trị để giải quyết vấn đề về huyết áp và giảm rủi ro mắc các vấn đề tim mạch nghiêm trọng của bạn. Điều này có thể bao gồm thay đổi lối sống, thuốc, hoặc các can thiệp khác như được bác sĩ của bạn khuyến nghị."
+    }
+  ]
+}

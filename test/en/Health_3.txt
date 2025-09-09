@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Alcohol consumption and health self-assessment",
+  "description": "Understanding your alcohol consumption habits is important for maintaining your health and well-being. Evaluating how often and how much you drink can help you recognize patterns and potential health risks. This self-assessment provides insights into your drinking habits and how they may affect your overall health. Remember, this is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "How often do you consume alcoholic beverages?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Once a month or less",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Once a week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Daily or almost daily",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "How many drinks do you have on a typical day when you are drinking?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 or more",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "How often do you have five or more drinks on one occasion?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Less than monthly",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Monthly",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Weekly or more often",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Do you find it difficult to stop drinking once you have started?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you experience cravings or a strong desire to drink?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Do you find that your drinking interferes with your responsibilities at work, school, or home?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Have you ever tried to cut down on your drinking but were unable to?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Do you continue to drink even though it causes problems with your health or relationships?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Have you ever experienced memory loss or blackouts due to drinking?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Do you feel guilty or remorseful about your drinking?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sometimes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Often",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Almost always",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Low risk of alcohol-related health issues",
+      "description": "Your responses suggest that you have a low risk of experiencing health issues related to alcohol consumption. While it's important to maintain healthy drinking habits, your answers indicate that your current consumption levels are generally within safe limits.",
+      "advice": "Continue to monitor your alcohol intake and ensure that you maintain a healthy balance. If you have any concerns or notice changes in your drinking habits, consider speaking with a healthcare provider for personalized advice."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Moderate risk of alcohol-related health issues",
+      "description": "Your responses suggest that you may be at a moderate risk of experiencing health issues related to alcohol consumption. Some of your answers indicate that there are areas where you could improve your drinking habits.",
+      "advice": "Consider reducing your alcohol intake and being mindful of your drinking patterns. Limiting the frequency and amount of alcohol consumed can help lower your risk of health problems. Consulting with a healthcare provider can provide you with personalized advice and strategies to improve your drinking habits."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "High risk of alcohol-related health issues",
+      "description": "Your responses suggest that you are at a high risk of experiencing health issues related to alcohol consumption. Many of your answers indicate that you may be experiencing problems due to your drinking habits.",
+      "advice": "It’s important to seek help from a healthcare provider as soon as possible. They can provide a proper diagnosis and work with you to develop a treatment plan to address your drinking habits and reduce your risk of serious health issues. This may include lifestyle changes, counseling, or other interventions as recommended by your doctor."
+    }
+  ]
+}

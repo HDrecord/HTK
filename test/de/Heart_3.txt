@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Selbsttest für koronare Herzkrankheit",
+  "description": "Die koronare Herzkrankheit (KHK) ist ein schwerwiegendes Leiden, das zu bedeutenden Gesundheitsproblemen führen kann, wenn sie nicht richtig verwaltet wird. Die frühzeitige Erkennung von Risikofaktoren ist der Schlüssel zur Prävention und Behandlung. Machen Sie sich Sorgen um Ihr Risiko für KHK? Dieser Selbsttest kann Ihnen helfen, potenzielle Risikofaktoren zu identifizieren und Ihr Herz besser zu verstehen. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Haben Sie oft Kurzatmigkeit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Verspüren Sie Brustschmerzen oder Unbehagen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Leiden Sie unter unregelmäßigem Herzschlag oder Herzrasen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie sich oft müde oder erschöpft ohne ersichtlichen Grund?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Verspüren Sie Schwellungen in Ihren Beinen, Knöcheln oder Füßen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Haben Sie Bluthochdruck?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Haben Sie hohe Cholesterinwerte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rauchen Sie oder verwenden Sie Tabakprodukte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Haben Sie eine Familiengeschichte von koronarer Herzkrankheit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Treiben Sie regelmäßig Sport?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Halten Sie sich an eine herzgesunde Ernährung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Gehen Sie effektiv mit Stress um?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Haben Sie Diabetes oder hohe Blutzuckerwerte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Haben Sie Schwindel oder Benommenheit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Niedriges Risiko für koronare Herzkrankheit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein geringes Risiko für eine koronare Herzkrankheit haben. Obwohl es immer gut ist, auf Ihre Herzgesundheit zu achten, deuten Ihre Antworten darauf hin, dass Ihre Herzgesundheit derzeit in gutem Zustand ist.",
+      "advice": "Setzen Sie weiterhin auf einen herzgesunden Lebensstil, indem Sie regelmäßig körperliche Aktivitäten ausüben, einer ausgeglichenen Ernährung folgen, effektiv mit Stress umgehen und schädliche Gewohnheiten wie das Rauchen vermeiden. Regelmäßige Vorsorgeuntersuchungen bei Ihrem Gesundheitsdienstleister können Ihnen dabei helfen, auf dem richtigen Weg zu bleiben."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Mäßiges Risiko für koronare Herzkrankheit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein mäßiges Risiko für eine koronare Herzkrankheit haben. Einige Ihrer Antworten deuten darauf hin, dass es Bereiche gibt, in denen Sie Ihre Herzgesundheit verbessern könnten.",
+      "advice": "Erwägen Sie, Lebensstiländerungen vorzunehmen, wie z.B. Ihre körperliche Aktivität zu steigern, eine herzgesunde Ernährung anzunehmen, das Rauchen einzustellen, wenn zutreffend, und Stress effektiver zu bewältigen. Eine Konsultation mit einem Gesundheitsdienstleister kann Ihnen personalisierte Ratschläge und Strategien zur Verbesserung Ihrer Herzgesundheit liefern."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Hohes Risiko für koronare Herzkrankheit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Risiko für eine koronare Herzkrankheit haben. Viele Ihrer Antworten weisen darauf hin, dass Sie Symptome haben oder Risikofaktoren vorliegen, die Ihre Herzgesundheit beeinträchtigen könnten.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Gesundheitsdienstleister zu suchen. Sie können eine korrekte Diagnose stellen und mit Ihnen zusammen einen Behandlungsplan erarbeiten, um Ihre Herzgesundheit zu verbessern und Ihr Risiko für schwere Herz-Kreislauf-Probleme zu reduzieren. Dies kann Lebensstiländerungen, Medikamente oder andere Interventionen beinhalten, wie von Ihrem Arzt empfohlen."
+    }
+  ]
+}

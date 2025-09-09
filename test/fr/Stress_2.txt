@@ -1,0 +1,354 @@
+{
+  "id": 8,
+  "title": "Évaluation du stress au travail",
+  "description": "Le stress lié au travail peut avoir un impact important sur votre performance professionnelle et votre vie personnelle. Comprendre le niveau de stress que vous ressentez au travail est crucial pour le gérer efficacement. Vous êtes-vous déjà senti dépassé par votre travail ? Cette évaluation peut vous aider à évaluer votre stress au travail et à identifier les domaines qui peuvent nécessiter une attention. N'oubliez pas, ce n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent débordé par votre charge de travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Avez-vous du mal à respecter les délais ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Pensez-vous avoir un bon équilibre entre vie professionnelle et vie privée ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ressentez-vous des symptômes physiques tels que des maux de tête ou des maux d'estomac en raison du stress au travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Avez-vous du mal à vous concentrer sur les tâches au travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Vous sentez-vous irritable ou à bout de nerfs au travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Évitez-vous les tâches ou les situations au travail qui vous causent du stress ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Êtes-vous anxieux au sujet du travail, même pendant votre temps personnel ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous du mal à dire non à des travaux ou des tâches supplémentaires ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Vous sentez-vous soutenu par vos collègues et supérieurs au travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Pensez-vous que votre environnement de travail contribue positivement à votre bien-être mental ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Pensez-vous que le stress affecte votre performance globale au travail ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Faible stress au travail",
+      "description": "Vos réponses suggèrent que vous ressentez un faible niveau de stress au travail. Même s'il est toujours bon de rester attentif à vos niveaux de stress, vos réponses indiquent que vous gérez efficacement le stress lié au travail en ce moment.",
+      "advice": "Continuez à pratiquer de bonnes techniques de gestion du stress et à maintenir un équilibre sain entre vie professionnelle et vie privée. Si vous ressentez des changements dans vos niveaux de stress, pensez à consulter un professionnel de la santé mentale pour obtenir des conseils."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Stress au travail modéré",
+      "description": "Vos réponses suggèrent que vous pouvez ressentir un niveau de stress modéré au travail. Certaines de vos réponses indiquent que vous avez du mal à gérer le stress lié au travail.",
+      "advice": "Il pourrait être utile de parler à un professionnel de la santé mentale de votre stress lié au travail. Ils peuvent offrir un soutien et des stratégies pour vous aider à améliorer vos compétences en gestion du stress et votre bien-être global."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Fort stress au travail",
+      "description": "Vos réponses suggèrent que vous ressentez un haut niveau de stress au travail. Beaucoup de vos réponses indiquent que vous avez beaucoup de mal à gérer le stress lié au travail.",
+      "advice": "Il est important de chercher de l'aide auprès d'un professionnel de la santé mentale dès que possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour gérer votre stress au travail et améliorer votre santé mentale globale."
+    }
+  ]
+}

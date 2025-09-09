@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Cuestionario de autoevaluación de hipertensión",
+  "description": "Controlar la presión arterial alta es fundamental para prevenir problemas de salud graves. Verificar regularmente su presión arterial y entender sus factores de riesgo puede ayudarlo a mantenerse saludable. Este cuestionario le permite evaluar su situación actual y obtener información valiosa para mantener niveles saludables de presión arterial. Recuerde, esto no es un diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Sufres frecuentemente de dolores de cabeza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Te sientes mareado o liviano?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Experimentas visión borrosa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te falta el aliento durante actividades cotidianas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Sientes palpitar en el pecho, cuello o oídos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Tienes dificultades para dormir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Tienes antecedentes familiares de presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Fumas o usas productos del tabaco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Consumes alcohol frecuentemente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Tienes altos niveles de estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Haces ejercicio regularmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Sigues una dieta saludable?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "¿Tienes altos niveles de colesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "¿Tomas medicamentos para la presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Bajo riesgo de hipertensión",
+      "description": "Tus respuestas sugieren que corres un bajo riesgo de hipertensión. Si bien siempre es bueno estar atento a la salud cardiovascular, tus respuestas indican que tu presión arterial actualmente está dentro de un rango saludable.",
+      "advice": "Continúa manteniendo un estilo de vida saludable mediante la participación en actividad física regular, siguiendo una dieta equilibrada, manejando el estrés de manera efectiva y evitando hábitos dañinos como fumar y el consumo excesivo de alcohol. Las consultas regulares con tu médico pueden ayudarte a mantener el rumbo."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Riesgo moderado de hipertensión",
+      "description": "Tus respuestas sugieren que puedes estar en un riesgo moderado de hipertensión. Algunas de tus respuestas indican que hay áreas en las que podrías mejorar tu salud cardiovascular.",
+      "advice": "Considera hacer cambios en el estilo de vida, como aumentar tu actividad física, adoptar una dieta más saludable, dejar de fumar si es aplicable, reducir el consumo de alcohol y manejar el estrés de manera más efectiva. Consultar con un proveedor de atención médica puede brindarte consejos personalizados y estrategias para mejorar tu presión arterial."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Alto riesgo de hipertensión",
+      "description": "Tus respuestas sugieren que corres un alto riesgo de hipertensión. Muchas de tus respuestas indican que estás experimentando síntomas o tienes factores de riesgo que podrían afectar tu salud cardiovascular.",
+      "advice": "Es importante buscar ayuda de un proveedor de atención médica lo más pronto posible. Pueden proporcionar un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tu presión arterial y reducir tu riesgo de problemas cardiovasculares graves. Esto puede incluir cambios en el estilo de vida, medicamentos u otras intervenciones según lo recomendado por tu médico."
+    }
+  ]
+}

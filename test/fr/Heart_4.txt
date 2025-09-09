@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Questionnaire d'auto-évaluation de l'hypertension",
+  "description": "Gérer l'hypertension est crucial pour prévenir de graves problèmes de santé. Vérifier régulièrement votre pression artérielle et comprendre vos facteurs de risque peut vous aider à rester en bonne santé. Ce questionnaire vous permet d'évaluer votre situation actuelle et d'obtenir des informations sur le maintien de niveaux de pression artérielle sains. N'oubliez pas, il ne s'agit pas d'un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Avez-vous souvent des maux de tête ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Vous sentez-vous étourdi ou avez-vous des vertiges?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Avez-vous une vision floue?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Avez-vous du mal à respirer pendant vos activités quotidiennes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ressentez-vous des battements dans votre poitrine, votre cou ou vos oreilles?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous du mal à dormir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Avez-vous des antécédents familiaux d'hypertension?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fumez-vous ou utilisez-vous des produits du tabac?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Consommez-vous fréquemment de l'alcool?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Avez-vous un haut niveau de stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Faites-vous régulièrement de l'exercice?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Suivez-vous un régime alimentaire sain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Avez-vous un taux de cholestérol élevé?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Prenez-vous des médicaments pour l'hypertension?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Risque faible d'hypertension",
+      "description": "Vos réponses suggèrent que vous présentez un faible risque d'hypertension. Bien qu'il soit toujours bon de surveiller votre santé cardiovasculaire, vos réponses indiquent que votre tension artérielle est actuellement dans une plage saine.",
+      "advice": "Continuez à maintenir un style de vie sain en pratiquant une activité physique régulière, en suivant un régime équilibré, en gérant efficacement le stress et en évitant les mauvaises habitudes comme le tabagisme et la consommation excessive d'alcool. Des contrôles réguliers chez votre professionnel de la santé peuvent vous aider à rester sur la bonne voie."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Risque modéré d'hypertension",
+      "description": "Vos réponses suggèrent que vous pourriez présenter un risque modéré d'hypertension. Certaines de vos réponses indiquent qu'il y a des domaines où vous pourriez améliorer votre santé cardiovasculaire.",
+      "advice": "Envisagez de faire des changements de style de vie tels qu'augmenter votre activité physique, adopter un régime alimentaire plus sain, arrêter de fumer si cela s'applique, réduire votre consommation d'alcool et gérer plus efficacement le stress. Une consultation avec un professionnel de la santé peut vous fournir des conseils personnalisés et des stratégies pour améliorer votre tension artérielle."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Risque élevé d'hypertension",
+      "description": "Vos réponses suggèrent que vous présentez un risque élevé d'hypertension. Beaucoup de vos réponses indiquent que vous éprouvez des symptômes ou avez des facteurs de risque qui pourraient affecter votre santé cardiovasculaire.",
+      "advice": "Il est important de chercher de l'aide auprès d'un professionnel de la santé le plus tôt possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour gérer votre tension artérielle et réduire votre risque de graves problèmes cardiovasculaires. Cela peut inclure des changements de style de vie, des médicaments ou d'autres interventions recommandées par votre médecin."
+    }
+  ]
+}

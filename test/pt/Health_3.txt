@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Consumo de álcool e autoavaliação de saúde",
+  "description": "Compreender os seus hábitos de consumo de álcool é importante para manter a sua saúde e bem-estar. Avaliar com que frequência e quanto você bebe pode ajudá-lo a reconhecer padrões e possíveis riscos à saúde. Esta autoavaliação fornece insights sobre seus hábitos de beber e como eles podem afetar sua saúde geral. Lembre-se, isso não é um diagnóstico profissional e não há respostas certas ou erradas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Com que frequência você consome bebidas alcoólicas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Uma vez por mês ou menos",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Uma vez por semana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Diariamente ou quase todos os dias",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Quantas bebidas você consome em um dia típico em que está bebendo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 ou mais",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Com que frequência você consome cinco ou mais bebidas em uma única ocasião?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Menos de uma vez por mês",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mensalmente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Semanalmente ou mais frequentemente",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Você acha difícil parar de beber uma vez que começou?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Você tem desejos ou uma forte vontade de beber?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Você percebe que o seu consumo de álcool interfere nas suas responsabilidades no trabalho, na escola ou em casa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Você já tentou diminuir o seu consumo de álcool, mas não conseguiu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Você continua a beber mesmo sabendo que isso causa problemas com a sua saúde ou relacionamentos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Você já teve perda de memória ou apagões devido ao consumo de álcool?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Você se sente culpado ou arrependido por consumir bebidas alcoólicas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Algumas vezes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Muitas vezes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quase sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Baixo risco de problemas de saúde relacionados com o álcool",
+      "description": "As suas respostas sugerem que você tem um baixo risco de ter problemas de saúde devido ao consumo de álcool. Embora seja importante manter hábitos saudáveis de bebida, suas respostas indicam que seus níveis de consumo atuais estão geralmente dentro dos limites seguros.",
+      "advice": "Continue a monitorar a sua ingestão de álcool e garanta que mantém um equilíbrio saudável. Se você tiver alguma preocupação ou notar mudanças nos seus hábitos de consumo de álcool, considere falar com um profissional de saúde para receber conselhos personalizados."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Risco moderado de problemas de saúde relacionados com o álcool",
+      "description": "As suas respostas sugerem que você pode estar em um risco moderado de ter problemas de saúde devido ao consumo de álcool. Algumas de suas respostas indicam que existem áreas em que você poderia melhorar seus hábitos de consumo de álcool.",
+      "advice": "Considere reduzir a sua ingestão de álcool e estar consciente dos seus padrões de consumo. Limitar a frequência e a quantidade de álcool consumido pode ajudar a reduzir o seu risco de problemas de saúde. Conversar com um profissional de saúde pode fornecer-lhe conselhos personalizados e estratégias para melhorar seus hábitos de consumo de álcool."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Alto risco de problemas de saúde relacionados com o álcool",
+      "description": "As suas respostas sugerem que você está em um alto risco de ter problemas de saúde devido ao consumo de álcool. Muitas das suas respostas indicam que você pode estar a ter problemas devido aos seus hábitos de consumo de álcool.",
+      "advice": "É importante que você procure ajuda de um profissional de saúde o mais rápido possível. Eles podem fornecer um diagnóstico adequado e trabalhar com você para desenvolver um plano de tratamento para abordar seus hábitos de consumo de álcool e reduzir o seu risco de sérios problemas de saúde. Isso pode incluir mudanças no estilo de vida, aconselhamento, ou outras intervenções recomendadas pelo seu médico."
+    }
+  ]
+}

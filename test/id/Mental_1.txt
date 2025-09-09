@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Apakah Anda cenderung mengalami depresi?",
+  "description": "Di dunia yang bergerak cepat ini, banyak orang mengalami kesedihan dan kecemasan, yang kadang-kadang berujung pada depresi. Apakah Anda merasa mungkin cenderung mengalami depresi? Ingin memahami kesehatan mental Anda dan bertindak? Kuis ini dapat membantu Anda mengeksplorasi kondisi emosional Anda dan melihat apakah Anda cenderung mengalami depresi. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa sedih atau putus asa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk menikmati kegiatan yang sebelumnya Anda sukai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasa lelah atau memiliki sedikit energi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda mengalami kesulitan dalam berkonsentrasi pada tugas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasa bersalah atau tidak berharga?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda mengalami kesulitan tidur atau tidur terlalu banyak?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda merasa gelisah atau memiliki kesulitan untuk duduk diam?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda memiliki pikiran untuk melukai diri sendiri atau bunuh diri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda mengalami kesulitan dalam mengambil keputusan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk bangun dari tempat tidur di pagi hari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Risiko rendah terkena depresi",
+      "description": "Jawaban Anda menunjukkan bahwa Anda saat ini memiliki risiko rendah untuk mengalami depresi. Meskipun selalu baik untuk mencermati kesehatan mental Anda, jawaban Anda menunjukkan bahwa Anda tidak mengalami gejala depresi yang signifikan saat ini.",
+      "advice": "Terus pantau kesehatan mental Anda dan praktikkan perawatan diri. Jika Anda pernah merasa perubahan dalam suasana hati atau perilaku, pertimbangkan untuk mencari saran dari profesional kesehatan mental."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Risiko moderat terkena depresi",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mungkin berisiko moderat untuk depresi. Beberapa jawaban Anda menunjukkan bahwa Anda mengalami gejala yang bisa terkait dengan depresi.",
+      "advice": "Mungkin akan membantu jika Anda berbicara dengan seorang profesional kesehatan mental tentang perasaan Anda. Mereka dapat menawarkan dukungan dan strategi untuk membantu Anda mengelola gejala Anda dan meningkatkan kesejahteraan mental Anda."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Risiko tinggi terkena depresi",
+      "description": "Jawaban Anda menunjukkan bahwa Anda berisiko tinggi untuk depresi. Banyak jawaban Anda menunjukkan bahwa Anda mengalami gejala signifikan yang bisa terkait dengan depresi.",
+      "advice": "Penting untuk mencari bantuan dari seorang profesional kesehatan mental secepat mungkin. Mereka dapat memberikan diagnosis yang tepat dan bekerja sama dengan Anda untuk merumuskan rencana pengobatan untuk mengatasi gejala Anda."
+    }
+  ]
+}

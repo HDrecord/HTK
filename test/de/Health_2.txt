@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Selbsteinschätzung von Ernährung und Gesundheit",
+  "description": "Eine ausgewogene Ernährung ist grundlegend für die Erhaltung einer guten Gesundheit und die Vorbeugung verschiedener Krankheiten. Eine Bewertung Ihrer Essgewohnheiten und Nährstoffaufnahme kann wertvolle Einblicke in Ihr allgemeines Wohlbefinden bieten. Diese Selbsteinschätzung ermöglicht es Ihnen, über Ihre Ernährungswahl nachzudenken und Verbesserungspotenzial zu ermitteln. Denken Sie daran, dies ist keine professionelle Diagnose und es gibt keine richtigen oder falschen Antworten.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Essen Sie täglich mindestens fünf Portionen Obst und Gemüse?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Begrenzen Sie Ihre Aufnahme von zuckerhaltigen Snacks und Getränken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ziehen Sie Vollkornprodukte raffinierten Getreideprodukten vor?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Beinhalten Sie magere Proteine in Ihrer Ernährung, wie Hühnchen, Fisch, Bohnen oder Tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Vermeiden Sie verarbeitete Lebensmittel und Fast Food?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trinken Sie mindestens acht Gläser Wasser pro Tag?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Begrenzen Sie Ihre Aufnahme von rotem und verarbeitetem Fleisch?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Achten Sie auf Portionsgrößen und vermeiden Sie Überessen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Integrieren Sie gesunde Fette in Ihre Ernährung, wie z. B. aus Avocados, Nüssen und Olivenöl?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Konsumieren Sie regelmäßig Milchprodukte oder Milchalternativen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Begrenzen Sie Ihre Aufnahme von Salz und natriumreichen Lebensmitteln?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Planen Sie Ihre Mahlzeiten und Snacks im Voraus, um eine ausgewogene Ernährung zu gewährleisten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Schlechte Essgewohnheiten",
+      "description": "Ihre Antworten legen nahe, dass Ihre Essgewohnheiten möglicherweise nicht Ihre optimale Gesundheit unterstützen. Obwohl es immer gut ist, auf Ihre Ernährung zu achten, zeigen Ihre Antworten, dass es mehrere Bereiche gibt, in denen Sie Ihre Ernährung verbessern könnten.",
+      "advice": "Erwägen Sie, allmähliche Änderungen an Ihrer Ernährung vorzunehmen, indem Sie mehr Obst, Gemüse, Vollkornprodukte und magere Proteine einbauen. Die Reduzierung Ihrer Aufnahme von zucker-, salz- und verarbeiteten Lebensmitteln kann auch vorteilhaft sein. Ein Gespräch mit einem medizinischen Anbieter oder einem Ernährungsberater kann individuelle Ratschläge und Strategien zur Verbesserung Ihrer Ernährungsgewohnheiten bieten."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Mäßige Essgewohnheiten",
+      "description": "Ihre Antworten legen nahe, dass Ihre Essgewohnheiten Ihre Gesundheit mäßig unterstützen. Während Sie einige gute Entscheidungen treffen, gibt es Bereiche, in denen Sie Ihre Ernährung verbessern könnten, um Ihr allgemeines Wohlbefinden besser zu unterstützen.",
+      "advice": "Erwägen Sie, Ihre Ernährung zu verbessern, indem Sie konsequent mehr Obst, Gemüse, Vollkornprodukte und magere Proteine einbauen. Achten Sie auf Portionsgrößen und beschränken Sie Ihre Aufnahme von zucker-, salz- und verarbeiteten Lebensmitteln. Ein Gespräch mit einem medizinischen Anbieter oder einem Ernährungsberater kann Ihnen individuelle Ratschläge und Strategien zur weiteren Verbesserung Ihrer Ernährungsgewohnheiten bieten."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Gute Essgewohnheiten",
+      "description": "Ihre Antworten legen nahe, dass Sie gute Essgewohnheiten haben, die Ihre allgemeine Gesundheit unterstützen. Sie treffen viele vorteilhafte Entscheidungen, die zu Ihrem Wohlbefinden beitragen.",
+      "advice": "Setzen Sie die Aufrechterhaltung Ihrer gesunden Essgewohnheiten fort, indem Sie regelmäßig eine Vielzahl von Obst, Gemüse, Vollkornprodukten, mageren Proteinen und gesunden Fetten in Ihre Ernährung einbauen. Machen Sie weiter so und überprüfen Sie regelmäßig Ihre Ernährung und passen Sie sie bei Bedarf an, um sicherzustellen, dass sie weiterhin Ihre Ernährungsbedürfnisse erfüllt. Ein Gespräch mit einem medizinischen Anbieter oder einem Ernährungsberater kann Ihnen dabei helfen, Ihre Ernährungsgewohnheiten für eine optimale Gesundheit zu optimieren."
+    }
+  ]
+}

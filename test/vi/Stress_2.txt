@@ -1,0 +1,354 @@
+{
+  "id": 8,
+  "title": "Đánh giá căng thẳng trong công việc",
+  "description": "Căng thẳng liên quan đến công việc có thể ảnh hưởng đáng kể đến cả hiệu suất làm việc chuyên nghiệp và cuộc sống cá nhân của bạn. Hiểu rõ mức độ căng thẳng mà bạn gặp phải trong công việc là quan trọng để quản lý nó một cách hiệu quả. Đã bao giờ bạn cảm thấy bị áp lực bởi công việc chưa? Cuộc đánh giá này có thể giúp bạn đánh giá căng thẳng trong công việc và xác định những lĩnh vực có thể cần chú ý. Hãy nhớ, đây không phải là một chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy bị áp lực bởi khối lượng công việc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn để hoàn thành công việc đúng hạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bạn có cảm thấy rằng bạn có sự cân đối giữa công việc và cuộc sống tốt không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Bạn có bị các triệu chứng vật lý như đau đầu hoặc đau bụng do căng thẳng căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bạn có thấy khó khăn trong việc tập trung vào công việc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bạn có cảm thấy khó chịu hoặc nóng tính trong công việc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có tránh những công việc hoặc tình huống trong công việc làm bạn cảm thấy căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có cảm thấy lo lắng về công việc ngay cả trong thời gian cá nhân không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có thấy khó nói không khi được yêu cầu làm thêm công việc hoặc nhiệm vụ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Bạn có cảm thấy được sự hỗ trợ từ đồng nghiệp và cấp trên tại nơi làm việc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Bạn có cảm thấy môi trường làm việc của mình có đóng góp tích cực cho sức khỏe tinh thần của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có cảm thấy căng thẳng đang ảnh hưởng đến hiệu suất công việc chung của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Không chút nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Căng thẳng trong công việc thấp",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn đang trải qua mức độ căng thẳng thấp trong công việc. Mặc dù việc nhận biết mức độ căng thẳng của mình luôn là điều tốt, các câu trả lời của bạn cho thấy rằng bạn đang quản lý căng thẳng liên quan đến công việc hiệu quả trong thời gian này.",
+      "advice": "Tiếp tục thực hành các kỹ thuật quản lý căng thẳng tốt và duy trì sự cân đối giữa công việc và cuộc sống. Nếu bạn cảm thấy thay đổi về mức độ căng thẳng của mình, hãy xem xét việc liên hệ với một chuyên gia về sức khỏe tâm thần để được tư vấn."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Căng thẳng trong công việc ở mức trung bình",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn có thể đang trải qua mức độ căng thẳng trung bình trong công việc. Một số câu trả lời của bạn cho thấy bạn đang gặp khó khăn với căng thẳng liên quan đến công việc.",
+      "advice": "Có thể sẽ hữu ích nếu bạn nói chuyện với một chuyên gia về sức khỏe tâm thần về căng thẳng liên quan đến công việc của bạn. Họ có thể cung cấp sự hỗ trợ và các chiến lược giúp bạn cải thiện kỹ năng quản lý căng thẳng và sức khỏe tổng quát."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Căng thẳng trong công việc cao",
+      "description": "Các câu trả lời của bạn cho thấy rằng bạn đang trải qua mức độ căng thẳng cao trong công việc. Nhiều câu trả lời của bạn cho thấy bạn đang gặp rất nhiều khó khăn với căng thẳng liên quan đến công việc.",
+      "advice": "Điều quan trọng là bạn nên tìm đến sự giúp đỡ từ một chuyên gia về sức khỏe tâm thần càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc cùng bạn để phát triển một kế hoạch điều trị để giải quyết căng thẳng trong công việc và cải thiện sức khỏe tâm thần của bạn."
+    }
+  ]
+}

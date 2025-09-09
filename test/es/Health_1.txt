@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Autoevaluación del riesgo de diabetes",
+  "description": "La diabetes es una creciente preocupación de salud en todo el mundo, y comprender sus factores de riesgo es clave para la prevención y el manejo. Esta autoevaluación te ayuda a evaluar tu estilo de vida, predisposición genética y otros factores relacionados con la diabetes. Al hacer este cuestionario, puedes obtener valiosos conocimientos sobre tu riesgo de desarrollar diabetes y tomar medidas proactivas hacia una vida más saludable. Recuerda, este cuestionario no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Con qué frecuencia realizas actividad física durante al menos 30 minutos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Diariamente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 veces a la semana",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 veces a la semana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Raramente o nunca",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Con qué frecuencia consumes bebidas azucaradas o alimentos altos en azúcar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Raramente o nunca",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 veces a la semana",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 veces a la semana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Diariamente",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Con qué frecuencia comes frutas y verduras frescas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Diariamente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 veces a la semana",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 veces a la semana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Raramente o nunca",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Cuál es tu índice de masa corporal (IMC)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Menos de 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 o más",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Tienes antecedentes familiares de diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sí, pero sólo parientes lejanos",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sí, parientes cercanos (padres, hermanos)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Sí, múltiples parientes cercanos",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Alguna vez te han diagnosticado con presión arterial alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sí, pero controlada con cambios en el estilo de vida",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sí, controlada con medicación",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Sí, pero no está bien controlada",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Fumas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sí, ocasionalmente",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sí, regularmente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Sí, fuertemente",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Alguna vez te han diagnosticado con colesterol alto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sí, pero controlado con cambios en el estilo de vida",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sí, controlado con medicación",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Sí, pero no está bien controlado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Con qué frecuencia tienes un chequeo médico?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Anualmente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Cada 2-3 años",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Cada 4-5 años",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Raramente o nunca",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Alguna vez te han diagnosticado prediabetes o diabetes gestacional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sí, prediabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sí, diabetes gestacional",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Sí, ambas",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Riesgo bajo",
+      "description": "Tu riesgo de desarrollar diabetes parece ser bajo. Continúa con tus hábitos saludables.",
+      "advice": "Aunque tu riesgo parece bajo, es importante seguir monitorizando tu salud y manteniendo un estilo de vida equilibrado. Se recomiendan chequeos regulares con un profesional de la salud."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Riesgo moderado",
+      "description": "Tienes un riesgo moderado de desarrollar diabetes.",
+      "advice": "Considera hacer cambios en tu estilo de vida para reducir tu riesgo, como aumentar la actividad física y mejorar tu dieta. Podría ser útil consultar con un profesional de la salud para obtener asesoramiento personalizado."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Riesgo alto",
+      "description": "Tu riesgo de desarrollar diabetes es alto.",
+      "advice": "Es importante tomar medidas inmediatas para reducir tu riesgo. Consulta con un profesional de la salud para obtener orientación sobre cómo hacer cambios efectivos en tu estilo de vida y manejo de la salud."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Riesgo muy alto",
+      "description": "Tu riesgo de desarrollar diabetes es muy alto.",
+      "advice": "Es necesario tomar medidas inmediatas para abordar tu alto riesgo. Es crucial buscar apoyo profesional y hacer cambios significativos en tu estilo de vida. La intervención temprana puede reducir enormemente tu riesgo y mejorar tu salud."
+    }
+  ]
+}

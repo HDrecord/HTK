@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Evaluación de la capacidad para manejar el estrés",
+  "description": "En nuestro mundo acelerado, el estrés es una experiencia común, pero la forma en que lo manejamos puede afectar en gran medida nuestro bienestar general. ¿Sabes qué tan bien manejas el estrés? Esta evaluación puede ayudarte a evaluar tus habilidades para manejar el estrés y proporcionar ideas para mejorar. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes abrumado por el estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Te resulta difícil relajarte después de un evento estresante?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Tienes problemas para dormir cuando estás estresado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te resulta difícil concentrarte cuando estás bajo estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Experimentas síntomas físicos como dolores de cabeza o de estómago cuando estás estresado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Te sientes irritable o de mal humor cuando estás estresado?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Evitas situaciones que podrían causar estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Te resulta difícil equilibrar el trabajo y la vida personal?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Dependes de mecanismos de afrontamiento poco saludables (por ejemplo, fumar, beber) para lidiar con el estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Te resulta difícil mantener una actitud positiva cuando estás bajo estrés?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Te sientes ansioso o panico en situaciones estresantes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Sientes que el estrés afecta negativamente a tu salud en general?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "En absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Buena capacidad para manejar el estrés",
+      "description": "Tus respuestas sugieren que manejas bien el estrés. Si bien siempre es bueno estar consciente de tus niveles de estrés, tus respuestas indican que manejas eficazmente las situaciones estresantes en este momento.",
+      "advice": "Continúa practicando buenas técnicas de manejo del estrés y autocuidado. Si alguna vez sientes cambios en tu capacidad para manejar el estrés, considera acudir a un profesional de la salud mental para obtener asesoramiento."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Capacidad moderada para manejar el estrés",
+      "description": "Tus respuestas sugieren que puedes estar experimentando algunas dificultades para manejar el estrés. Algunas de tus respuestas indican que estás luchando con la gestión del estrés.",
+      "advice": "Podría ser útil hablar con un profesional de salud mental acerca de tus niveles de estrés. Ellos pueden ofrecer apoyo y estrategias para ayudarte a mejorar tus habilidades de manejo del estrés y tu bienestar general."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Pobre capacidad para manejar el estrés",
+      "description": "Tus respuestas sugieren que estás experimentando dificultades significativas para manejar el estrés. Muchas de tus respuestas indican que estás luchando con la gestión del estrés.",
+      "advice": "Es importante que busques ayuda de un profesional de salud mental lo antes posible. Ellos pueden proporcionarte un diagnóstico adecuado y trabajar contigo para desarrollar un plan de tratamiento para abordar tus dificultades para manejar el estrés."
+    }
+  ]
+}

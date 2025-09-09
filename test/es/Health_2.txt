@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Autoevaluación de Dieta y Salud",
+  "description": "Una dieta equilibrada es fundamental para mantener una buena salud y prevenir diversas enfermedades. Evaluar tus hábitos alimenticios y tu ingesta nutricional puede proporcionar información valiosa sobre tu bienestar general. Esta autoevaluación te permite reflexionar sobre tus elecciones dietéticas e identificar áreas de mejora. Recuerda, esto no es un diagnóstico profesional y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿Comes al menos cinco porciones de frutas y verduras cada día?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Limitas tu consumo de snacks y bebidas azucaradas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Eliges granos enteros sobre granos refinados?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Incluyes proteínas magras en tu dieta, como pollo, pescado, frijoles o tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Evitas los alimentos procesados y rápidos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Bebes al menos ocho vasos de agua al día?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Limitas tu consumo de carnes rojas y procesadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Prestas atención al tamaño de las porciones y evitas comer en exceso?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "¿Incorporas grasas saludables en tu dieta, como las de los aguacates, nueces y aceite de oliva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "¿Consumes productos lácteos o alternativas a lácteos regularmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "¿Limitas tu consumo de sal y alimentos ricos en sodio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "¿Planeas tus comidas y snacks con anticipación para asegurarte una nutrición equilibrada?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nada en absoluto",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Frecuentemente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Hábitos dietéticos pobres",
+      "description": "Tus respuestas sugieren que tus hábitos dietéticos pueden no estar apoyando una salud óptima. Si bien siempre es bueno ser consciente de tu nutrición, tus respuestas indican que hay varias áreas donde podrías mejorar tu dieta.",
+      "advice": "Considera realizar cambios graduales en tu dieta incorporando más frutas, verduras, granos enteros y proteínas magras. Reducir tu ingesta de alimentos azucarados, salados y procesados también puede ser beneficioso. Consultar con un proveedor de atención médica o un dietista puede proporcionarte asesoramiento personalizado y estrategias para mejorar tus hábitos dietéticos."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Hábitos dietéticos moderados",
+      "description": "Tus respuestas sugieren que tus hábitos dietéticos están apoyando moderadamente tu salud. Aunque estás haciendo algunas buenas elecciones, hay áreas donde podrías mejorar tu nutrición para apoyar mejor tu bienestar general.",
+      "advice": "Considera mejorar tu dieta incluyendo de manera constante más frutas, verduras, granos enteros y proteínas magras. Presta atención a las porciones y limita tu ingesta de alimentos azucarados, salados y procesados. Consultar con un proveedor de atención médica o un dietista puede proporcionarte asesoramiento personalizado y estrategias para mejorar aún más tus hábitos dietéticos."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Buenos hábitos dietéticos",
+      "description": "Tus respuestas sugieren que tienes buenos hábitos dietéticos que apoyan tu salud en general. Estás tomando muchas decisiones beneficiosas que contribuyen a tu bienestar.",
+      "advice": "Continúa manteniendo tus hábitos dietéticos saludables incluyendo regularmente una variedad de frutas, verduras, granos enteros, proteínas magras y grasas saludables en tu dieta. Sigue con el buen trabajo y recuerda revisar y ajustar tu dieta periódicamente según sea necesario para asegurar que continúa satisfaciendo tus necesidades nutricionales. Consultar con un proveedor de atención médica o un dietista puede ayudarte a afinar tus hábitos dietéticos para una salud óptima."
+    }
+  ]
+}

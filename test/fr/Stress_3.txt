@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Auto-contrôle du stress social",
+  "description": "Les interactions sociales peuvent parfois être une source de stress, affectant votre bien-être mental et émotionnel. Il est important de reconnaître et de gérer efficacement le stress social. Avez-vous déjà ressenti du stress dans des situations sociales? Ce auto-contrôle peut vous aider à identifier le niveau de stress social que vous vivez et à fournir des éclairages sur les domaines qui peuvent nécessiter de l'attention. Rappelez-vous, il ne s'agit pas d'un diagnostic professionnel et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous nerveux ou anxieux dans des situations sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Évitez-vous les rassemblements sociaux par peur ou anxiété?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Vous inquiétez-vous excessivement d'être jugé ou évalué par les autres?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ressentez-vous des symptômes physiques tels que la transpiration, les tremblements ou une accélération du rythme cardiaque dans des situations sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Trouvez-vous difficile de parler ou de vous produire devant les autres?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Vous sentez-vous gêné ou embarrassé dans des situations sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Vous sentez-vous vidé ou épuisé après des interactions sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trouvez-vous difficile de faire la conversation ou de vous engager dans des conversations informelles?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Évitez-vous le contact visuel dans des situations sociales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Vous sentez-vous dépassé par la perspective d'assister à des événements sociaux?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Faible niveau de stress social",
+      "description": "Vos réponses suggèrent que vous éprouvez un faible niveau de stress social. Bien qu'il soit toujours bon d'être attentif à sa santé mentale, vos réponses indiquent que vous vous sentez généralement à l'aise dans les situations sociales.",
+      "advice": "Continuez à participer à des activités sociales et à maintenir des relations sociales saines. Si vous ressentez des changements dans votre niveau de stress social, pensez à consulter un professionnel de la santé mentale pour obtenir des conseils."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Niveau modéré de stress social",
+      "description": "Vos réponses suggèrent que vous pouvez éprouver un niveau de stress social modéré. Certaines de vos réponses indiquent que vous pourriez vous sentir mal à l'aise ou anxieux dans certaines situations sociales.",
+      "advice": "Envisagez de pratiquer des techniques de relaxation, comme la respiration profonde ou la pleine conscience, pour gérer votre stress. S'exposer progressivement aux situations sociales peut également être utile. Une consultation avec un professionnel de la santé mentale peut vous fournir des stratégies personnalisées pour améliorer votre confort et votre confiance en matière sociale."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Niveau élevé de stress social",
+      "description": "Vos réponses suggèrent que vous éprouvez un niveau élevé de stress social. Beaucoup de vos réponses indiquent que vous vous sentez significativement anxieux ou mal à l'aise dans les situations sociales.",
+      "advice": "Il est important de chercher de l'aide auprès d'un professionnel de la santé mentale. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour gérer votre stress social. Cela peut inclure une thérapie, des médicaments ou d'autres interventions recommandées par votre médecin."
+    }
+  ]
+}

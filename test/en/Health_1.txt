@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Self-assessment of diabetes risk",
+  "description": "Diabetes is a growing health concern worldwide, and understanding your risk factors is key to prevention and management. This self-assessment helps you evaluate your lifestyle, genetic predisposition, and other factors related to diabetes. By taking this quiz, you can gain valuable insights into your risk of developing diabetes and take proactive steps towards a healthier life. Remember, this quiz is not a professional diagnosis, and there are no right or wrong answers.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "How often do you engage in physical activity for at least 30 minutes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Daily",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 times a week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 times a week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarely or never",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "How often do you consume sugary beverages or foods high in sugar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Rarely or never",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 times a week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 times a week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Daily",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "How often do you eat fresh fruits and vegetables?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Daily",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 times a week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 times a week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarely or never",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "What is your body mass index (BMI)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Less than 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 or higher",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Do you have a family history of diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Yes, but only distant relatives",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Yes, close relatives (parents, siblings)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Yes, multiple close relatives",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Have you ever been diagnosed with high blood pressure?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Yes, but controlled with lifestyle changes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Yes, controlled with medication",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Yes, but not well controlled",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Do you smoke?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Yes, occasionally",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Yes, regularly",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Yes, heavily",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Have you ever been diagnosed with high cholesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Yes, but controlled with lifestyle changes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Yes, controlled with medication",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Yes, but not well controlled",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "How often do you have a medical check-up?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Annually",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Every 2-3 years",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Every 4-5 years",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarely or never",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Have you ever been diagnosed with prediabetes or gestational diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "No",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Yes, prediabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Yes, gestational diabetes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Yes, both",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Low risk",
+      "description": "Your risk of developing diabetes appears to be low. Keep up with your healthy habits.",
+      "advice": "Although your risk appears low, it’s important to continue monitoring your health and maintaining a balanced lifestyle. Regular check-ups with a healthcare professional are recommended."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Moderate risk",
+      "description": "You have a moderate risk of developing diabetes.",
+      "advice": "Consider making lifestyle changes to lower your risk, such as increasing physical activity and improving your diet. It might be helpful to consult with a healthcare professional for personalized advice."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "High risk",
+      "description": "Your risk of developing diabetes is high.",
+      "advice": "It’s important to take immediate steps to reduce your risk. Consult a healthcare professional for guidance on how to make effective changes to your lifestyle and health management."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Very high risk",
+      "description": "Your risk of developing diabetes is very high.",
+      "advice": "Immediate action is necessary to address your high risk. It’s crucial to seek professional support and make significant changes to your lifestyle. Early intervention can greatly reduce your risk and improve your health."
+    }
+  ]
+}

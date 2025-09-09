@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Evalúa tu felicidad",
+  "description": "La felicidad es un aspecto vital para el bienestar general, y entender lo que contribuye a tu felicidad puede ayudarte a vivir una vida más plena. ¿Alguna vez te has preguntado cuán feliz eres realmente? Este cuestionario puede ayudarte a evaluar tu nivel actual de felicidad e identificar áreas que podrían necesitar atención. Recuerda, esto no es un diagnóstico profesional, y no hay respuestas correctas o incorrectas.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "¿A menudo te sientes contento con tu vida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "¿Sientes un sentido de propósito en tus actividades diarias?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "¿Generalmente tienes una perspectiva positiva de la vida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "¿Te sientes satisfecho con tus relaciones personales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "¿Sientes un sentido de logro en tu trabajo o proyectos personales?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "¿Encuentras alegría en tus actividades diarias?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "¿Te sientes en paz con tus decisiones y experiencias pasadas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "¿Sientes que tienes control sobre tu vida y decisiones?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Para nada",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A veces",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "A menudo",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Casi siempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Nivel bajo de felicidad",
+      "description": "Tus respuestas sugieren que estás experimentando un nivel bajo de felicidad. Si bien siempre es bueno estar consciente de tu bienestar emocional, tus respuestas indican que podrías beneficiarte de estrategias para mejorar tu felicidad en general.",
+      "advice": "Considera buscar apoyo de un profesional de la salud mental para explorar formas de mejorar tu felicidad y bienestar general. Ellos pueden proporcionarte orientación y estrategias para ayudarte a alcanzar una vida más plena y alegre."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Nivel moderado de felicidad",
+      "description": "Tus respuestas sugieren que tienes un nivel moderado de felicidad. Aunque experimentas momentos de alegría y satisfacción, podría haber áreas en tu vida donde podrías beneficiarte de una mejora adicional.",
+      "advice": "Considera explorar actividades y prácticas que mejoren tu felicidad, como pasatiempos, conexiones sociales y técnicas de atención plena. Hablar con un profesional de la salud mental también puede proporcionar valiosos insights y apoyo."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Nivel alto de felicidad",
+      "description": "Tus respuestas sugieren que estás experimentando un alto nivel de felicidad. Pareces tener una perspectiva positiva de la vida y te sientes satisfecho con varios aspectos de tu vida.",
+      "advice": "Continúa nutriendo tu felicidad manteniendo un equilibrio saludable en tu vida, participando en actividades que te brinden alegría y fomentando relaciones significativas. Sigue con el buen trabajo y disfruta de tu positivo estado de bienestar."
+    }
+  ]
+}

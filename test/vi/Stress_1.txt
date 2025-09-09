@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Đánh giá khả năng đối phó với căng thẳng",
+  "description": "Trong thế giới nhanh chóng của chúng ta, căng thẳng là một trải nghiệm phổ biến, nhưng cách chúng ta đối phó với nó có thể ảnh hưởng rất lớn đến sức khỏe toàn diện của chúng ta. Bạn có biết bạn quản lý căng thẳng như thế nào không? Đánh giá này có thể giúp bạn đánh giá khả năng đối phó với căng thẳng của mình và cung cấp cái nhìn sâu hơn vào các lĩnh vực cần cải thiện. Hãy nhớ, đây không phải là một chẩn đoán chuyên nghiệp, và không có câu trả lời đúng hay sai.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Bạn có thường xuyên cảm thấy bị lấn át bởi căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Bạn có thấy khó thư giãn sau một sự kiện căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Khi căng thẳng, bạn có khó ngủ không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Khi bị căng thẳng, bạn có thấy khó tập trung không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Khi bị căng thẳng, bạn có thường xuyên cảm thấy có triệu chứng vật lý như đau đầu hoặc đau bụng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Khi bị căng thẳng, bạn thường xuyên cảm thấy cáu kỉnh hoặc bực dọc không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Bạn có tránh những tình huống có thể gây ra căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Bạn có thấy khó cân đối công việc và cuộc sống cá nhân không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Bạn có dựa vào các cơ chế đối phó không lành mạnh (ví dụ, hút thuốc, uống rượu) để đối phó với căng thẳng không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Khi bị căng thẳng, bạn có thấy khó khăn để giữ thai độ lạc quan không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Trong tình huống căng thẳng, bạn có cảm thấy lo lắng hoặc bị hoảng loạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Bạn có cảm thấy rằng căng thẳng đã ảnh hưởng tiêu cực đến sức khỏe của bạn không?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chẳng mấy khi hay không khi nào",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Đôi khi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Thường xuyên",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hầu như luôn luôn",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Khả năng đối phó với căng thẳng tốt",
+      "description": "Các phản hồi của bạn cho thấy bạn đang đối phó với căng thẳng tốt. Mặc dù luôn tốt khi ý thức được mức độ căng thẳng của mình, nhưng câu trả lời của bạn cho thấy bạn đã xử lý tình huống căng thẳng hiệu quả trong thời gian này.",
+      "advice": "Tiếp tục thực hành các kỹ năng quản lý căng thẳng tốt và tự chăm sóc bản thân. Nếu bạn cảm thấy thay đổi trong khả năng đối phó với căng thẳng, hãy xem xét việc tìm kiếm sự giúp đỡ từ một chuyên gia tâm lý."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Khả năng đối phó với căng thẳng trung bình",
+      "description": "Các phản hồi của bạn cho thấy bạn có thể đang gặp một số khó khăn trong việc đối phó với căng thẳng. Một số câu trả lời của bạn cho thấy bạn đang vất vả với việc quản lý căng thẳng.",
+      "advice": "Có thể sẽ hữu ích nếu bạn nói chuyện với một chuyên gia tâm lý về mức độ căng thẳng của mình. Họ có thể cung cấp sự hỗ trợ và các chiến lược để giúp bạn nâng cao kỹ năng quản lý căng thẳng và sức khỏe tổng thể."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Khả năng đối phó với căng thẳng kém",
+      "description": "Các phản hồi của bạn cho thấy bạn đang gặp phải nhiều khó khăn trong việc đối phó với căng thẳng. Nhiều câu trả lời của bạn cho thấy bạn đang vất vả với việc quản lý căng thẳng.",
+      "advice": "Quan trọng là phải tìm kiếm sự giúp đỡ từ một chuyên gia tâm lý càng sớm càng tốt. Họ có thể cung cấp một chẩn đoán chính xác và làm việc cùng bạn để phát triển một kế hoạch điều trị để giải quyết khó khăn của bạn trong việc đối phó với căng thẳng."
+    }
+  ]
+}

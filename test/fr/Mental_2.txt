@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Auto-vérification des symptômes de l'anxiété",
+  "description": "L'anxiété peut se manifester de diverses manières, de l'inquiétude constante aux symptômes physiques tels qu'un rythme cardiaque accéléré. Il est important de reconnaître ces signes tôt pour les gérer efficacement. Vous êtes-vous déjà demandé si vos sentiments d'anxiété sont plus que du stress quotidien? Ce quiz d'auto-vérification peut vous aider à identifier les symptômes courants de l'anxiété et à vous donner un aperçu de votre bien-être émotionnel. N'oubliez pas, ce quiz n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Vous sentez-vous souvent nerveux ou sur les nerfs?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Avez-vous du mal à contrôler vos inquiétudes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Trouvez-vous qu'il est difficile de vous détendre?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Vous sentez-vous agité ou incapable de rester assis sans bouger?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Vous irritez-vous facilement?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous peur qu'il se passe quelque chose de terrible?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Présentez-vous des symptômes physiques tels que sudation, tremblements ou un rythme cardiaque accéléré?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trouvez-vous qu'il est difficile de vous concentrer à cause de l'inquiétude?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Évitez-vous les situations qui vous rendent anxieux?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Avez-vous l'impression que votre anxiété interfère avec votre vie quotidienne?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Niveau d'anxiété faible",
+      "description": "Vos réponses suggèrent que vous vivez actuellement un faible niveau d'anxiété. Bien qu'il soit toujours bon d'être attentif à votre santé mentale, vos réponses indiquent que votre anxiété n'affecte pas significativement votre vie quotidienne en ce moment.",
+      "advice": "Continuez à surveiller votre santé mentale et à pratiquer l'auto-soin. Si vous ressentez des changements dans votre humeur ou votre comportement, envisagez de consulter un professionnel de la santé mentale pour obtenir des conseils."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Niveau d'anxiété modéré",
+      "description": "Vos réponses suggèrent que vous pouvez ressentir un niveau modéré d'anxiété. Certaines de vos réponses indiquent que vous éprouvez des symptômes qui pourraient être liés à l'anxiété.",
+      "advice": "Il pourrait être utile de parler à un professionnel de la santé mentale de vos sentiments. Ils peuvent offrir du soutien et des stratégies pour vous aider à gérer vos symptômes et améliorer votre bien-être mental."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Niveau d'anxiété élevé",
+      "description": "Vos réponses suggèrent que vous éprouvez un haut niveau d'anxiété. Plusieurs de vos réponses indiquent que vous présentez des symptômes significatifs qui pourraient être liés à l'anxiété.",
+      "advice": "Il est important de demander l’aide d’un professionnel de la santé mentale dès que possible. Ils peuvent poser un diagnostic précis et travailler avec vous pour élaborer un plan de traitement ciblant vos symptômes."
+    }
+  ]
+}

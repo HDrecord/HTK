@@ -1,0 +1,381 @@
+{
+  "id": 5,
+  "title": "Haben Sie Sozialphobie?",
+  "description": "Sozialphobie kann den Alltag überwältigend und stressig machen. Es ist wichtig, die Anzeichen zu erkennen und zu verstehen, wie es Ihr Leben beeinflusst. Haben Sie sich jemals übermäßig nervös in sozialen Situationen gefühlt? Dieser Test kann Ihnen helfen, Symptome einer Sozialphobie zu identifizieren und Einblick in Ihre sozialen Interaktionen zu geben. Denken Sie daran, dass dies keine professionelle Diagnose ist und es keine richtigen oder falschen Antworten gibt.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft nervös oder ängstlich in sozialen Situationen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Vermeiden Sie gesellschaftliche Zusammenkünfte aus Angst oder Nervosität?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Fühlen Sie sich in sozialen Situationen oft unsicher?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Machen Sie sich Sorgen, von anderen beurteilt oder bewertet zu werden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Haben Sie körperliche Symptome wie Schwitzen, Zittern oder Herzrasen in sozialen Situationen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Fällt es Ihnen schwer, vor anderen zu sprechen oder aufzutreten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Machen Sie sich übermäßig Sorgen, sich in sozialen Situationen zu blamieren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fühlen Sie sich unsicher, wenn Sie neue Leute treffen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Fällt es Ihnen schwer, anderen in die Augen zu schauen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Vermeiden Sie es, im Mittelpunkt der Aufmerksamkeit zu stehen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Fühlen Sie sich bei sozialen Interaktionen, auch mit vertrauten Personen, ängstlich?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Machen Sie sich Sorgen, in sozialen Situationen bloßgestellt oder beschämt zu werden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Fühlen Sie sich angespannt oder ängstlich, wenn Sie mit Autoritätspersonen sprechen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Niedriges Niveau von Sozialphobie",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein niedriges Maß an Sozialphobie erleben. Es ist immer gut, auf Ihre psychische Gesundheit zu achten, Ihre Antworten legen jedoch nahe, dass Sie sich in der Regel in sozialen Situationen wohl fühlen.",
+      "advice": "Bleiben Sie weiterhin in sozialen Aktivitäten engagiert und behalten Sie gesunde soziale Beziehungen bei. Wenn Sie Veränderungen in Ihrem Maß an Sozialphobie bemerken, ziehen Sie es in Betracht, einen Psychologen um Rat zu fragen."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Mittleres Niveau von Sozialphobie",
+      "description": "Ihre Antworten legen nahe, dass Sie möglicherweise ein mittleres Maß an Sozialphobie erleben. Einige Ihrer Antworten deuten darauf hin, dass Sie sich in bestimmten sozialen Situationen unwohl oder ängstlich fühlen könnten.",
+      "advice": "Überlegen Sie, Entspannungstechniken wie tiefe Atmung oder Achtsamkeit zu trainieren, um Ihre Angst zu bewältigen. Auch eine schrittweise Konfrontation mit sozialen Situationen kann hilfreich sein. Ein Gespräch mit einem Psychologen kann Ihnen personalisierte Strategien zur Verbesserung Ihres sozialen Komforts und Ihrer Selbstsicherheit bieten."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Hohes Niveau von Sozialphobie",
+      "description": "Ihre Antworten legen nahe, dass Sie ein hohes Maß an Sozialphobie erleben. Viele Ihrer Antworten deuten darauf hin, dass Sie sich in sozialen Situationen deutlich ängstlich oder unwohl fühlen.",
+      "advice": "Es ist wichtig, Hilfe von einem Psychologen zu suchen. Sie können eine richtige Diagnose stellen und mit Ihnen einen Behandlungsplan erstellen, um Ihre Sozialphobie anzugehen. Dies kann Therapie, Medikamente oder andere Interventionen umfassen, wie von Ihrem Arzt empfohlen."
+    }
+  ]
+}

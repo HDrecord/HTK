@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Evaluasi kebahagiaan Anda",
+  "description": "Kebahagiaan adalah aspek penting dari kesejahteraan keseluruhan, dan memahami apa yang berkontribusi pada kebahagiaan Anda dapat membantu Anda menjalani hidup yang lebih memuaskan. Pernahkah Anda bertanya-tanya seberapa bahagia Anda sebenarnya? Kuis ini dapat membantu Anda mengevaluasi tingkat kebahagiaan saat ini dan mengidentifikasi area yang mungkin perlu diperhatikan. Ingat, ini bukan diagnosis profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa puas dengan hidup Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda merasa memiliki tujuan dalam aktivitas sehari-hari Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda umumnya memiliki pandangan positif tentang hidup?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda merasa puas dengan hubungan personal Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda merasa memiliki rasa pencapaian dalam pekerjaan atau proyek pribadi Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda menemukan kegembiraan dalam aktivitas sehari-hari Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda merasa damai dengan keputusan dan pengalaman masa lalu Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merasa bahwa Anda memiliki kontrol atas kehidupan dan keputusan Anda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Sama sekali tidak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Tingkat kebahagiaan rendah",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda mengalami tingkat kebahagiaan yang rendah. Meskipun selalu baik untuk memperhatikan kesejahteraan emosional Anda, jawaban Anda menunjukkan bahwa Anda mungkin mendapatkan manfaat dari strategi untuk meningkatkan kebahagiaan keseluruhan Anda.",
+      "advice": "Pertimbangkan untuk mencari dukungan dari profesional kesehatan mental untuk mengeksplorasi cara-cara untuk meningkatkan kebahagiaan dan kesejahteraan keseluruhan Anda. Mereka dapat memberikan panduan dan strategi untuk membantu Anda mencapai hidup yang lebih memuaskan dan penuh kegembiraan."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Tingkat kebahagiaan sedang",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda memiliki tingkat kebahagiaan yang sedang. Meskipun Anda mengalami momen kegembiraan dan kepuasan, mungkin ada area dalam hidup Anda di mana Anda bisa mendapatkan manfaat dari peningkatan lebih lanjut.",
+      "advice": "Pertimbangkan untuk mengeksplorasi aktivitas dan praktik yang meningkatkan kebahagiaan Anda, seperti hobi, koneksi sosial, dan teknik kesadaran. Berbicara dengan seorang profesional kesehatan mental juga dapat memberikan wawasan dan dukungan yang berharga."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Tingkat kebahagiaan tinggi",
+      "description": "Tanggapan Anda menunjukkan bahwa Anda mengalami tingkat kebahagiaan yang tinggi. Anda tampaknya memiliki pandangan positif tentang hidup dan merasa puas dengan berbagai aspek dalam hidup Anda.",
+      "advice": "Teruskan merawat kebahagiaan Anda dengan menjaga keseimbangan yang sehat dalam hidup Anda, terlibat dalam aktivitas yang membuat Anda bahagia, dan membina hubungan yang berarti. Pertahankan pekerjaan baik itu dan nikmati keadaan kesejahteraan yang positif Anda."
+    }
+  ]
+}

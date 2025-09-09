@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Einsamkeitsselbsteinschätzung",
+  "description": "Einsamkeit kann jeden betreffen, unabhängig von Alter oder Hintergrund, und die Erkennung ihrer Anzeichen ist der erste Schritt, um sie anzusprechen. Fühlen Sie sich oft isoliert oder von anderen abgeschnitten? Diese Selbsteinschätzung kann Ihnen helfen, Ihre Gefühle der Einsamkeit zu bewerten und Ihre sozialen und emotionalen Bedürfnisse besser zu verstehen. Denken Sie daran, dass dieses Quiz keine professionelle Diagnose ist und es keine richtigen oder falschen Antworten gibt.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Fühlen Sie sich oft von anderen isoliert?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Fühlen Sie sich, als ob Ihnen Gesellschaft fehlt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Fühlen Sie sich ausgeschlossen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Fühlen Sie, dass Sie niemandem mehr nahe sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Fühlen Sie, dass Ihre Beziehungen zu anderen nicht bedeutungsvoll sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Fühlen Sie sich schüchtern oder zurückgezogen um andere?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Fühlen Sie, dass die Menschen um Sie herum nicht wirklich bei Ihnen sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fühlen Sie sich einsam, auch wenn Sie mit anderen Menschen zusammen sind?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Überhaupt nicht",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Manchmal",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oft",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Fast immer",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niedriges Level von Einsamkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein niedriges Maß an Einsamkeit erfahren. Obwohl es immer gut ist, sich Ihrer sozialen Verbindungen bewusst zu sein, lassen Ihre Antworten darauf schließen, dass Einsamkeit Ihr Leben derzeit nicht stark beeinflusst.",
+      "advice": "Pflegen Sie weiterhin Ihre Beziehungen und halten Sie soziale Kontakte aufrecht. Wenn Sie jemals Veränderungen in Ihren Gefühlen der Einsamkeit verspüren, sollten Sie sich an einen Fachmann für psychische Gesundheit wenden, um Rat zu bekommen."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Mittleres Level von Einsamkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie möglicherweise ein moderates Maß an Einsamkeit erleben. Einige Ihrer Antworten deuten darauf hin, dass Sie mit Gefühlen der Isolation zu kämpfen haben.",
+      "advice": "Es könnte hilfreich sein, mit einem Fachmann für psychische Gesundheit über Ihre Gefühle der Einsamkeit zu sprechen. Sie können Unterstützung und Strategien anbieten, um Ihre sozialen Verbindungen und Ihr emotionales Wohlbefinden zu verbessern."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Hohes Level von Einsamkeit",
+      "description": "Ihre Antworten deuten darauf hin, dass Sie ein hohes Maß an Einsamkeit erleben. Viele Ihrer Antworten weisen darauf hin, dass Sie erhebliche Probleme mit Gefühlen der Isolation haben.",
+      "advice": "Es ist wichtig, so schnell wie möglich Hilfe von einem Fachmann für psychische Gesundheit zu suchen. Sie können eine angemessene Diagnose stellen und mit Ihnen zusammen einen Behandlungsplan entwickeln, um Ihre Einsamkeit zu beeinflussen und Ihr allgemeines Wohlbefinden zu verbessern."
+    }
+  ]
+}

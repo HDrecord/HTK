@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Auto-évaluation du risque de diabète",
+  "description": "Le diabète est une préoccupation de santé croissante dans le monde entier, et comprendre vos facteurs de risque est essentiel pour la prévention et la gestion. Cette auto-évaluation vous aide à évaluer votre mode de vie, votre prédisposition génétique et d'autres facteurs liés au diabète. En prenant ce quiz, vous pouvez obtenir des informations précieuses sur votre risque de développer un diabète et prendre des mesures proactives vers une vie plus saine. N'oubliez pas, ce quiz n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "À quelle fréquence pratiquez-vous une activité physique pendant au moins 30 minutes ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tous les jours",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 fois par semaine",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 fois par semaine",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarement ou jamais",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "À quelle fréquence consommez-vous des boissons sucrées ou des aliments riches en sucre ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Rarement ou jamais",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 fois par semaine",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 fois par semaine",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Tous les jours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "À quelle fréquence mangez-vous des fruits et légumes frais ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tous les jours",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 fois par semaine",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 fois par semaine",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarement ou jamais",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Quel est votre indice de masse corporelle (IMC) ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Moins de 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 ou plus",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Avez-vous des antécédents familiaux de diabète ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Non",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Oui, mais seulement des parents éloignés",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oui, des parents proches (parents, frères et sœurs)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Oui, plusieurs parents proches",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous déjà été diagnostiqué avec une pression artérielle élevée ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Non",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Oui, mais contrôlée par des changements de mode de vie",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oui, contrôlée par des médicaments",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Oui, mais mal contrôlée",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Fumez-vous ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Non",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Oui, occasionnellement",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oui, régulièrement",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Oui, beaucoup",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Avez-vous déjà été diagnostiqué avec un taux de cholestérol élevé ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Non",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Oui, mais contrôlé par des changements de mode de vie",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oui, contrôlé par des médicaments",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Oui, mais mal contrôlé",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "À quelle fréquence faites-vous un bilan de santé ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chaque année",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Tous les 2-3 ans",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Tous les 4-5 ans",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Rarement ou jamais",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Avez-vous déjà été diagnostiqué avec un prédiabète ou un diabète gestationnel ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Non",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Oui, prédiabète",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Oui, diabète gestationnel",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Oui, les deux",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Risque faible",
+      "description": "Votre risque de développer un diabète semble être faible. Continuez avec vos habitudes saines.",
+      "advice": "Bien que votre risque semble faible, il est important de continuer à surveiller votre santé et à maintenir un mode de vie équilibré. Des contrôles réguliers avec un professionnel de la santé sont recommandés."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Risque modéré",
+      "description": "Vous avez un risque modéré de développer un diabète.",
+      "advice": "Envisagez de faire des changements de mode de vie pour réduire votre risque, tels que l'augmentation de l'activité physique et l'amélioration de votre alimentation. Il peut être utile de consulter un professionnel de la santé pour obtenir des conseils personnalisés."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Risque élevé",
+      "description": "Votre risque de développer un diabète est élevé.",
+      "advice": "Il est important de prendre des mesures immédiates pour réduire votre risque. Consultez un professionnel de la santé pour obtenir des conseils sur la façon de faire des changements efficaces à votre mode de vie et à votre gestion de la santé."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Risque très élevé",
+      "description": "Votre risque de développer un diabète est très élevé.",
+      "advice": "Une action immédiate est nécessaire pour faire face à votre risque élevé. Il est crucial de demander le soutien d'un professionnel et de faire des changements significatifs dans votre mode de vie. Une intervention précoce peut grandement réduire votre risque et améliorer votre santé."
+    }
+  ]
+}

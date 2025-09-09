@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Auto-évaluation de la santé du cœur",
+  "description": "Maintenir un cœur en bonne santé est essentiel pour le bien-être général. Comprendre la santé de votre cœur peut vous aider à prendre des mesures proactives pour prévenir les problèmes cardiovasculaires. Vous êtes-vous déjà demandé quelle est l'état de la santé de votre cœur ? Cette auto-évaluation peut vous aider à évaluer votre santé cardiaque et à identifier les zones qui peuvent nécessiter une attention. N'oubliez pas, ce n'est pas un diagnostic professionnel, et il n'y a pas de bonnes ou de mauvaises réponses.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Respirez-vous souvent avec difficulté ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Ressentez-vous des douleurs ou un inconfort thoracique ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Avez-vous des battements de coeur irréguliers ou des palpitations ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ressentez-vous une fatigue ou un épuisement sans raison apparente ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Avez-vous des gonflements au niveau des jambes, des chevilles ou des pieds ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Avez-vous une pression artérielle élevée ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Avez-vous un taux de cholestérol élevé ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fumez-vous ou utilisez-vous des produits du tabac ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Avez-vous des antécédents familiaux de maladies cardiaques ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Pratiquez-vous une activité physique régulière ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Suivez-vous une alimentation bonne pour le cœur ?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Pas du tout",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Parfois",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Souvent",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Presque toujours",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Risque faible de problèmes de santé cardiaque",
+      "description": "Vos réponses suggèrent que vous courez un faible risque de problèmes de santé cardiaque. Il est toujours bon de surveiller votre santé cardiovasculaire, mais vos réponses indiquent que votre santé cardiaque est actuellement en bon état.",
+      "advice": "Continuez à maintenir un mode de vie propice à la santé du cœur en pratiquant une activité physique régulière, en suivant une alimentation équilibrée et en évitant les habitudes néfastes comme le tabagisme. Des bilans réguliers avec votre professionnel de la santé peuvent vous aider à rester sur la bonne voie."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Risque modéré de problèmes de santé cardiaque",
+      "description": "Vos réponses suggèrent que vous courez un risque modéré de problèmes de santé cardiaque. Certaines de vos réponses indiquent qu'il y a des domaines où vous pourriez améliorer votre santé cardiovasculaire.",
+      "advice": "Envisagez de changer de mode de vie, par exemple en augmentant votre activité physique, en adoptant un régime alimentaire bénéfique pour le cœur et en arrêtant de fumer le cas échéant. Une consultation avec un professionnel de la santé peut vous fournir des conseils personnalisés et des stratégies pour améliorer votre santé cardiaque."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Risque élevé de problèmes de santé cardiaque",
+      "description": "Vos réponses suggèrent que vous courez un risque élevé de problèmes de santé cardiaque. Beaucoup de vos réponses indiquent que vous présentez des symptômes ou des facteurs de risque qui pourraient affecter votre santé cardiovasculaire.",
+      "advice": "Il est important de demander de l'aide à un professionnel de la santé le plus tôt possible. Ils peuvent fournir un diagnostic approprié et travailler avec vous pour élaborer un plan de traitement pour votre santé cardiaque et réduire votre risque de problèmes cardiovasculaires graves."
+    }
+  ]
+}

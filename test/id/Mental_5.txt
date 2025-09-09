@@ -1,0 +1,381 @@
+{
+  "id": 5,
+  "title": "Apakah Anda memiliki kecemasan sosial?",
+  "description": "Kecemasan sosial dapat membuat interaksi sehari-hari terasa begitu berat dan menekan. Sangat penting untuk mengenali tanda-tandanya dan memahami bagaimana hal itu mempengaruhi hidup Anda. Pernahkah Anda merasa sangat gugup dalam situasi sosial? Kuis ini dapat membantu Anda mengidentifikasi gejala kecemasan sosial dan memberikan wawasan tentang interaksi sosial Anda. Ingat, ini bukan diagnosa profesional, dan tidak ada jawaban yang benar atau salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apakah Anda sering merasa gugup atau cemas dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apakah Anda menghindari pertemuan sosial karena takut atau cemas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apakah Anda merasa cemas tentang diri sendiri dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apakah Anda khawatir akan dinilai atau dievaluasi oleh orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apakah Anda mengalami gejala fisik seperti berkeringat, gemetar, atau jantung berdebar dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk berbicara atau tampil di depan orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apakah Anda khawatir berlebihan tentang membuat diri Anda malu dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apakah Anda merasa tidak nyaman saat bertemu orang baru?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apakah Anda merasa sulit untuk melakukan kontak mata dengan orang lain?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apakah Anda menghindari menjadi pusat perhatian?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apakah Anda merasa cemas tentang interaksi sosial, bahkan dengan orang yang dikenal?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apakah Anda khawatir tentang akan merasa malu atau malu dalam situasi sosial?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apakah Anda merasa tegang atau cemas ketika berbicara dengan orang yang berwenang?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Tidak sama sekali",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadang-kadang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hampir selalu",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Tingkat kecemasan sosial rendah",
+      "description": "Jawaban Anda menunjukkan bahwa Anda memiliki tingkat kecemasan sosial yang rendah. Meskipun selalu baik untuk memperhatikan kesehatan mental Anda, jawaban Anda menunjukkan bahwa Anda umumnya merasa nyaman dalam situasi sosial.",
+      "advice": "Terus berpartisipasi dalam aktivitas sosial dan menjaga hubungan sosial yang sehat. Jika Anda pernah merasakan perubahan dalam tingkat kecemasan sosial Anda, pertimbangkan untuk mencari saran dari profesional kesehatan mental."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Tingkat kecemasan sosial sedang",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mungkin mengalami tingkat kecemasan sosial yang sedang. Beberapa jawaban Anda menunjukkan bahwa Anda mungkin merasa tidak nyaman atau cemas dalam beberapa situasi sosial.",
+      "advice": "Pertimbangkan untuk berlatih teknik relaksasi, seperti pernapasan dalam-dalam atau mindfulness, untuk membantu mengelola kecemasan Anda. Melakukan paparan bertahap terhadap situasi sosial juga mungkin membantu. Berkonsultasi dengan profesional kesehatan mental bisa memberikan strategi personal untuk meningkatkan kenyamanan dan kepercayaan diri sosial Anda."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Tingkat kecemasan sosial tinggi",
+      "description": "Jawaban Anda menunjukkan bahwa Anda mengalami tingkat kecemasan sosial yang tinggi. Banyak jawaban Anda menunjukkan bahwa Anda merasa cemas atau tidak nyaman secara signifikan dalam situasi sosial.",
+      "advice": "Penting untuk mencari bantuan dari profesional kesehatan mental. Mereka dapat memberikan diagnosis yang tepat dan bekerja dengan Anda untuk mengembangkan rencana perawatan untuk mengatasi kecemasan sosial Anda. Ini mungkin termasuk terapi, obat-obatan, atau intervensi lainnya sesuai rekomendasi dokter Anda."
+    }
+  ]
+}

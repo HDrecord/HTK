@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_1.webp",
+    "title": "Cos'è la pressione sanguigna e come si misura?",
+    "file": "article_1.md"
+  },
+  {
+    "id": 2,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_2.webp",
+    "title": "L'influenza dello stile di vita sulla pressione sanguigna",
+    "file": "article_2.md"
+  },
+  {
+    "id": 3,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_3.webp",
+    "title": "L'effetto della dieta sulla pressione sanguigna",
+    "file": "article_3.md"
+  },
+  {
+    "id": 4,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_4.webp",
+    "title": "Terapie non farmacologiche per l'ipertensione",
+    "file": "article_4.md"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_5.webp",
+    "title": "Lo stress influisce sulla pressione sanguigna?",
+    "file": "article_5.md"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_6.webp",
+    "title": "L'esercizio fisico può controllare la pressione sanguigna?",
+    "file": "article_6.md"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_7.webp",
+    "title": "È necessario un monitoraggio regolare?",
+    "file": "article_7.md"
+  },
+  {
+    "id": 8,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_8.webp",
+    "title": "I geni influenzano la pressione sanguigna?",
+    "file": "article_8.md"
+  },
+  {
+    "id": 9,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_9.webp",
+    "title": "La dieta può influenzare la pressione sanguigna?",
+    "file": "article_9.md"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_10.webp",
+    "title": "La relazione tra età e pressione sanguigna",
+    "file": "article_10.md"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_11.webp",
+    "title": "Come abbassare la pressione sanguigna?",
+    "file": "article_11.md"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_12.webp",
+    "title": "Cos'è la malattia cardiaca?",
+    "file": "article_12.md"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_13.webp",
+    "title": "Metriche chiave per la salute del cuore e il loro significato",
+    "file": "article_13.md"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_14.webp",
+    "title": "Quale esercizio per i pazienti ipertesi?",
+    "file": "article_14.md"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_15.webp",
+    "title": "Battito cardiaco e variabilità della frequenza cardiaca (HRV)",
+    "file": "article_15.md"
+  }
+]

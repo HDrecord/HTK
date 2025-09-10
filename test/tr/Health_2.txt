@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Diyet ve Sağlık Öz Değerlendirmesi",
+  "description": "Dengeli bir diyet, iyi sağlığı korumanın ve çeşitli hastalıkları önlemenin temelidir. Yeme alışkanlıklarınızı ve beslenme alımınızı değerlendirmek, genel refahınız hakkında değerli bilgiler sağlayabilir. Bu öz değerlendirme, diyet seçimlerinizi yansıtmanıza ve iyileştirme alanlarını belirlemenize olanak tanır. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Günde en az beş porsiyon meyve ve sebze yiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Şekerli atıştırmalıklar ve içecekler tüketiminizi sınırlıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Rafine tahıllar yerine tam tahılları mı tercih ediyorsunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Diyetinizde tavuk, balık, fasulye veya tofu gibi yağsız proteinler var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "İşlenmiş ve fast food yiyeceklerden kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Günde en az sekiz bardak su içiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Kırmızı ve işlenmiş et tüketiminizi sınırlıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Porsiyon boyutlarına dikkat ediyor ve aşırı yemekten kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Diyetinize avokado, fındık ve zeytinyağı gibi sağlıklı yağlar ekliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Düzenli olarak süt ürünleri veya süt alternatifleri tüketiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Tuz ve sodyum açısından zengin gıdaların alımını sınırlıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Dengeli beslenme için öğünlerinizi ve atıştırmalıklarınızı önceden planlıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Zayıf diyet alışkanlıkları",
+      "description": "Yanıtlarınız, diyet alışkanlıklarınızın optimal sağlığı desteklemediğini göstermektedir. Beslenmenize dikkat etmek her zaman iyidir, ancak cevaplarınız diyetinizi iyileştirebileceğiniz birkaç alan olduğunu göstermektedir.",
+      "advice": "Diyetinize daha fazla meyve, sebze, tam tahıl ve yağsız protein ekleyerek kademeli değişiklikler yapmayı düşünün. Şekerli, tuzlu ve işlenmiş gıdaların alımını azaltmak da faydalı olabilir. Bir sağlık uzmanına veya diyetisyene danışmak, diyet alışkanlıklarınızı iyileştirmek için kişiselleştirilmiş tavsiyeler ve stratejiler sağlayabilir."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Orta düzeyde diyet alışkanlıkları",
+      "description": "Yanıtlarınız, diyet alışkanlıklarınızın sağlığınızı orta düzeyde desteklediğini göstermektedir. Bazı iyi seçimler yapıyor olsanız da, genel refahınızı daha iyi desteklemek için beslenmenizi iyileştirebileceğiniz alanlar vardır.",
+      "advice": "Diyetinizi daha fazla meyve, sebze, tam tahıl ve yağsız protein ekleyerek tutarlı bir şekilde geliştirmeyi düşünün. Porsiyon boyutlarına dikkat edin ve şekerli, tuzlu ve işlenmiş gıdaların alımını sınırlayın. Bir sağlık uzmanına veya diyetisyene danışmak, diyet alışkanlıklarınızı daha da iyileştirmek için kişiselleştirilmiş tavsiyeler ve stratejiler sağlayabilir."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "İyi diyet alışkanlıkları",
+      "description": "Yanıtlarınız, genel sağlığınızı destekleyen iyi diyet alışkanlıklarınız olduğunu göstermektedir. Refahınıza katkıda bulunan birçok faydalı seçim yapıyorsunuz.",
+      "advice": "Diyetinize düzenli olarak çeşitli meyveler, sebzeler, tam tahıllar, yağsız proteinler ve sağlıklı yağlar ekleyerek sağlıklı diyet alışkanlıklarınızı sürdürün. İyi iş çıkarıyorsunuz ve beslenme ihtiyaçlarınızı karşılamaya devam etmek için diyetinizi periyodik olarak gözden geçirmeyi ve gerektiğinde ayarlamayı unutmayın. Bir sağlık uzmanına veya diyetisyene danışmak, optimal sağlık için diyet alışkanlıklarınızı hassas bir şekilde ayarlamanıza yardımcı olabilir."
+    }
+  ]
+}

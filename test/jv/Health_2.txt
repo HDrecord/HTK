@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Penilaian dhewe diet lan kesehatan",
+  "description": "Diet seimbang minangka dhasar kanggo njaga kesehatan sing apik lan nyegah macem-macem penyakit. Ngevaluasi kabiasaan mangan lan asupan nutrisi sampeyan bisa menehi wawasan sing migunani babagan kesejahteraan sampeyan sacara sakabèhé. Penilaian dhewe iki ngidini sampeyan ngevaluasi pilihan diet sampeyan lan nemokake area sing perlu ditingkatake. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan mangan paling ora limang porsi woh-wohan lan sayuran saben dina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan mbatesi asupan cemilan lan ombenan sing legi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan milih biji-bijian tinimbang biji-bijian olahan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan kalebu protein tanpa lemak ing diet sampeyan, kayata pitik, iwak, kacang-kacangan, utawa tahu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan nyingkiri panganan olahan lan panganan cepet?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apa sampeyan ngombe paling ora wolung gelas banyu saben dina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apa sampeyan mbatesi asupan daging abang lan daging olahan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apa sampeyan nggatekake ukuran porsi lan nyingkiri mangan sing kebangeten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apa sampeyan nggabungake lemak sehat ing diet sampeyan, kayata saka alpukat, kacang-kacangan, lan lenga zaitun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apa sampeyan ngonsumsi produk susu utawa alternatif susu kanthi rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apa sampeyan mbatesi asupan uyah lan panganan sing sugih natrium?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apa sampeyan ngrencanakake panganan lan cemilan sadurunge wektu kanggo mesthekake nutrisi sing seimbang?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Kabiasaan diet sing kurang apik",
+      "description": "Tanggapan sampeyan nuduhake yen kabiasaan diet sampeyan bisa uga ora ndhukung kesehatan sing optimal. Sanajan mesthi apik kanggo ngelingi nutrisi sampeyan, jawaban sampeyan nuduhake yen ana sawetara area sing bisa ditingkatake.",
+      "advice": "Pertimbangake nggawe owah-owahan bertahap kanggo diet sampeyan kanthi nggabungake luwih akeh woh-wohan, sayuran, biji-bijian, lan protein tanpa lemak. Nyuda asupan panganan sing legi, asin, lan olahan uga bisa migunani. Konsultasi karo dokter utawa ahli gizi bisa menehi saran lan strategi sing dipersonalisasi kanggo nambah kabiasaan diet sampeyan."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Kabiasaan diet moderat",
+      "description": "Tanggapan sampeyan nuduhake yen kabiasaan diet sampeyan moderat ndhukung kesehatan sampeyan. Nalika sampeyan nggawe sawetara pilihan sing apik, ana area sing bisa ditingkatake.",
+      "advice": "Pertimbangake nambah diet sampeyan kanthi konsisten kalebu luwih akeh woh-wohan, sayuran, biji-bijian, lan protein tanpa lemak. Priksa ukuran porsi lan watesi asupan panganan sing legi, asin, lan olahan. Konsultasi karo dokter utawa ahli gizi bisa menehi saran sing dipersonalisasi kanggo luwih nambah kabiasaan diet sampeyan."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Kabiasaan diet sing apik",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe kabiasaan diet sing apik sing ndhukung kesehatan sampeyan sacara sakabèhé. Sampeyan nggawe akeh pilihan sing migunani sing nyumbang kanggo kesejahteraan sampeyan.",
+      "advice": "Terusake njaga kabiasaan diet sehat kanthi rutin kalebu macem-macem woh-wohan, sayuran, biji-bijian, protein tanpa lemak, lan lemak sehat ing diet sampeyan. Terusake kerja sing apik, lan elinga kanggo mriksa lan nyetel diet sampeyan yen perlu kanggo mesthekake terus nyukupi kabutuhan nutrisi sampeyan. Konsultasi karo dokter utawa ahli gizi bisa mbantu sampeyan nyetel kabiasaan diet sampeyan kanggo kesehatan optimal."
+    }
+  ]
+}

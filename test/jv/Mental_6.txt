@@ -1,0 +1,165 @@
+{
+  "id": 6,
+  "title": "Penilaian dhewe kesejahteraan emosional",
+  "description": "Kesejahteraan emosional ngaruhi carane kita mikir, rasakake, lan tumindak ing urip saben dina. Ngerti kahanan emosional sampeyan bisa mbantu sampeyan njaga keseimbangan urip sing sehat. Kuesioner iki mbantu sampeyan ngevaluasi kesejahteraan emosional sampeyan. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngrasakake positif lan optimis babagan masa depan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan bisa ngatasi tantangan urip kanthi efektif?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan bisa ngrasakake kepuasan lan makna ing urip saben dina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan duwe hubungan sing ndhukung karo kulawarga lan kanca-kanca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan bisa ngrasakake tentrem lan tentrem ing ati?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Kesejahteraan emosional sing apik",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe kesejahteraan emosional sing apik lan bisa ngatasi tantangan urip kanthi efektif.",
+      "advice": "Terus njaga kabiasaan sing ndhukung kesejahteraan emosional, kayata njaga hubungan sosial sing sehat, melu kegiatan sing menehi makna, lan njaga keseimbangan urip. Elinga kanggo njaga kesehatan mental kaya penting karo kesehatan fisik."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Kesejahteraan emosional moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara tantangan ing kesejahteraan emosional sing bisa mengaruhi kualitas urip sampeyan.",
+      "advice": "Pertimbangake ngembangake strategi kanggo nambah kesejahteraan emosional, kayata meditasi, jurnal, utawa ngomong karo profesional kesehatan mental. Mencari kegiatan sing menehi makna lan kesenengan bisa mbantu."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Kesejahteraan emosional sing kurang",
+      "description": "Tanggapan sampeyan nuduhake tantangan signifikan ing kesejahteraan emosional sing bisa mengaruhi kualitas urip sampeyan.",
+      "advice": "Penting kanggo nggoleki bantuan profesional. Konsultasi karo dokter utawa spesialis kesehatan mental bisa menehi dhukungan lan perawatan sing tepat. Elinga yen nggoleki bantuan minangka langkah positif kanggo kesehatan sampeyan."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 4,
+  "title": "Yalnızlık hissi öz değerlendirmesi",
+  "description": "Yalnızlık, sosyal bağlantılarımızın kalitesi ve miktarıyla ilgili bir duygudur. İnsanlar bazen kalabalığın ortasında bile yalnız hissedebilirler. Kendinizi ne sıklıkla yalnız hissediyorsunuz? Bu öz değerlendirme, yalnızlık hissinizi anlamanıza ve sosyal bağlantılarınızı güçlendirmenin yollarını keşfetmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Kendinizi sık sık yalnız hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Başkalarıyla bağlantı kurmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Yakın arkadaşlarınız veya ailenizle düzenli olarak görüşüyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, düzenli olarak",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Arada bir",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç görüşmüyorum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Sosyal etkinliklere katılmaktan kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Başkaları tarafından anlaşılmadığınızı hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Yakın ilişkilerinizde kendinizi ifade etmekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Yeni insanlarla tanışmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Başkalarına güvenmekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Sosyal medyada çok zaman geçiriyor ama yine de yalnız hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Başkalarıyla zaman geçirmek yerine yalnız kalmayı tercih ediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Düşük yalnızlık hissi",
+      "description": "Yanıtlarınız, yalnızlık hissinizin düşük olduğunu göstermektedir. Sosyal bağlantılarınıza dikkat etmek her zaman iyi olsa da, cevaplarınız şu anda güçlü sosyal bağlantılarınız olduğunu göstermektedir.",
+      "advice": "Sosyal bağlantılarınızı sürdürmeye ve güçlendirmeye devam edin. Yalnızlık hislerinizde değişiklikler fark ederseniz, bir ruh sağlığı uzmanıyla konuşmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde yalnızlık hissi",
+      "description": "Yanıtlarınız, orta düzeyde yalnızlık hissi yaşıyor olabileceğinizi göstermektedir. Bazı cevaplarınız, sosyal bağlantılarınızı güçlendirmeniz gereken alanlar olduğunu göstermektedir.",
+      "advice": "Yeni sosyal etkinliklere katılmayı, mevcut ilişkilerinizi derinleştirmeyi veya bir ruh sağlığı uzmanıyla konuşmayı düşünün. Sosyal becerilerinizi geliştirmek için destek alabilirsiniz."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Yüksek yalnızlık hissi",
+      "description": "Yanıtlarınız, yüksek düzeyde yalnızlık hissi yaşadığınızı göstermektedir. Cevaplarınızın çoğu, sosyal bağlantılarınızda önemli zorluklar yaşadığınızı göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir ruh sağlığı uzmanından yardım almanız önemlidir. Sosyal becerilerinizi geliştirmenize ve yalnızlık hissinizi azaltmanıza yardımcı olacak stratejiler sunabilirler."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Depresyona yatkın mısınız?",
+  "description": "Hızlı tempolu dünyamızda birçok insan üzüntü ve kaygı yaşar, bu bazen depresyona yol açabilir. Depresyona yatkın olabileceğinizden şüpheleniyor musunuz? Ruh sağlığınızı anlamak ve harekete geçmek ister misiniz? Bu test, duygusal durumunuzu keşfetmenize ve depresyona yatkın olup olmadığınızı görmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sık sık üzgün veya umutsuz hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Eskiden sevdiğiniz aktivitelerden zevk almakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Yorgun veya enerjiniz düşük hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Görevlere odaklanmakta zorluk çekiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Suçlu veya değersiz hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Uyumakta zorluk çekiyor veya çok fazla uyuyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Huzursuz veya yerinde duramıyor gibi hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Kendine zarar verme veya intihar düşünceleriniz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Karar vermekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Sabahları yataktan kalkmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Depresyon için düşük risk",
+      "description": "Yanıtlarınız, şu anda depresyon için düşük risk altında olduğunuzu göstermektedir. Ruh sağlığınıza dikkat etmek her zaman iyi olsa da, cevaplarınız şu anda önemli depresyon belirtileri yaşamadığınızı göstermektedir.",
+      "advice": "Ruh sağlığınızı izlemeye ve öz bakım uygulamaya devam edin. Duygu veya davranışlarınızda değişiklikler hissederseniz, tavsiye için bir ruh sağlığı uzmanına başvurmayı düşünün."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Depresyon için orta risk",
+      "description": "Yanıtlarınız, depresyon için orta düzeyde risk altında olabileceğinizi göstermektedir. Bazı cevaplarınız, depresyonla ilişkili olabilecek semptomlar yaşadığınızı göstermektedir.",
+      "advice": "Duygularınız hakkında bir ruh sağlığı uzmanıyla konuşmak faydalı olabilir. Size destek sunabilir ve semptomlarınızı yönetmenize ve zihinsel iyilik halinizi iyileştirmenize yardımcı olacak stratejiler önerebilirler."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Depresyon için yüksek risk",
+      "description": "Yanıtlarınız, depresyon için yüksek risk altında olduğunuzu göstermektedir. Cevaplarınızın çoğu, depresyonla ilişkili olabilecek önemli semptomlar yaşadığınızı göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir ruh sağlığı uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve semptomlarınızı ele almak için sizinle birlikte bir tedavi planı geliştirebilirler."
+    }
+  ]
+}

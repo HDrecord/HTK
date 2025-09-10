@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Anksiyete belirtileri öz kontrolü",
+  "description": "Anksiyete, sürekli endişeden kalp çarpıntısı gibi fiziksel belirtilere kadar çeşitli şekillerde ortaya çıkabilir. Bu belirtileri erken fark etmek, onları yönetmek için çok önemlidir. Günlük stresin ötesinde anksiyete hisleriniz olup olmadığını hiç merak ettiniz mi? Bu öz kontrol testi, yaygın anksiyete belirtilerini tanımlamanıza ve duygusal refahınız hakkında fikir edinmenize yardımcı olabilir. Unutmayın, bu test profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sosyal durumlarda sık sık gergin veya endişeli hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Korku veya endişe nedeniyle sosyal toplantılardan kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Sosyal durumlarda kendinizi bilinçli hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Başkaları tarafından yargılanma veya değerlendirilme konusunda aşırı endişeleniyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sosyal durumlarda terleme, titreme veya çarpıntı gibi fiziksel belirtiler yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Başkalarının önünde konuşmakta veya performans sergilemekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Sosyal durumlarda kendinizi utandırmaktan aşırı endişeleniyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Yeni insanlarla tanışırken huzursuz hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Başkalarıyla göz teması kurmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "İlgi odağı olmaktan kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Düşük düzeyde anksiyete",
+      "description": "Yanıtlarınız, şu anda düşük düzeyde anksiyete yaşadığınızı göstermektedir. Ruh sağlığınıza dikkat etmek her zaman iyi olsa da, cevaplarınız anksiyetenin günlük yaşamınızı önemli ölçüde etkilemediğini göstermektedir.",
+      "advice": "Ruh sağlığınızı izlemeye ve öz bakım uygulamaya devam edin. Duygu veya davranışlarınızda değişiklikler hissederseniz, tavsiye için bir ruh sağlığı uzmanına başvurmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde anksiyete",
+      "description": "Yanıtlarınız, orta düzeyde anksiyete yaşıyor olabileceğinizi göstermektedir. Bazı cevaplarınız, anksiyete ile ilişkili olabilecek belirtiler yaşadığınızı göstermektedir.",
+      "advice": "Duygularınız hakkında bir ruh sağlığı uzmanıyla konuşmak faydalı olabilir. Size destek sunabilir ve belirtilerinizi yönetmenize ve zihinsel iyilik halinizi iyileştirmenize yardımcı olacak stratejiler önerebilirler."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Yüksek düzeyde anksiyete",
+      "description": "Yanıtlarınız, yüksek düzeyde anksiyete yaşadığınızı göstermektedir. Cevaplarınızın çoğu, anksiyete ile ilişkili olabilecek önemli belirtiler yaşadığınızı göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir ruh sağlığı uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve belirtilerinizi ele almak için sizinle birlikte bir tedavi planı geliştirebilirler."
+    }
+  ]
+}

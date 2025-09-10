@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Penilaian dhewe konsumsi alkohol lan kesehatan",
+  "description": "Mangerteni kabiasaan konsumsi alkohol sampeyan penting kanggo njaga kesehatan lan kesejahteraan sampeyan. Ngevaluasi kerepe lan kakehan sampeyan ngombe bisa mbantu sampeyan ngerti pola lan risiko kesehatan potensial. Penilaian dhewe iki menehi wawasan babagan kabiasaan ngombe sampeyan lan carane bisa mengaruhi kesehatan sampeyan sacara sakabèhé. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan ngombe ombenan beralkohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sekali sewulan utawa kurang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sekali seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Saben dina utawa meh saben dina",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Pira ombenan sing sampeyan entuk nalika sampeyan ngombe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 utawa luwih",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan ngombe lima utawa luwih ombenan ing siji kesempatan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kurang saka saben wulan",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Saben wulan",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Saben minggu utawa luwih kerep",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel mandheg ngombe sawise sampeyan miwiti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngalami ngidam utawa kepingin banget ngombe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apa sampeyan nemokake yen ngombe sampeyan ngganggu tanggung jawab ing kerja, sekolah, utawa omah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apa sampeyan wis nyoba ngurangi ngombe nanging ora bisa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apa sampeyan terus ngombe sanajan nyebabake masalah kesehatan utawa hubungan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apa sampeyan tau ngalami ilang memori utawa blackout amarga ngombe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apa sampeyan rumangsa luput utawa nyesel babagan ngombe sampeyan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Risiko rendah masalah kesehatan sing gegandhengan karo alkohol",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko rendah ngalami masalah kesehatan sing gegandhengan karo konsumsi alkohol. Sanajan penting kanggo njaga kabiasaan ngombe sing sehat, jawaban sampeyan nuduhake yen tingkat konsumsi saiki umume ing watesan sing aman.",
+      "advice": "Terus ngawasi asupan alkohol sampeyan lan mesthekake yen sampeyan njaga keseimbangan sing sehat. Yen sampeyan duwe kekarepan utawa ngerti owah-owahan ing kabiasaan ngombe sampeyan, pertimbangake ngomong karo profesional kesehatan kanggo saran sing dipersonalisasi."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Risiko moderat masalah kesehatan sing gegandhengan karo alkohol",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan bisa uga duwe risiko moderat ngalami masalah kesehatan sing gegandhengan karo alkohol. Sawetara jawaban sampeyan nuduhake yen ana area sing bisa ditingkatake.",
+      "advice": "Pertimbangake nyuda asupan alkohol lan ngati-ati karo pola ngombe sampeyan. Watesan frekuensi lan jumlah alkohol sing dikonsumsi bisa mbantu nyuda risiko masalah kesehatan. Konsultasi karo profesional kesehatan bisa menehi saran lan strategi sing dipersonalisasi kanggo nambah kabiasaan ngombe sampeyan."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Risiko dhuwur masalah kesehatan sing gegandhengan karo alkohol",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko dhuwur ngalami masalah kesehatan sing gegandhengan karo alkohol. Akeh jawaban sampeyan nuduhake yen sampeyan bisa uga ngalami masalah amarga kabiasaan ngombe sampeyan.",
+      "advice": "Penting banget kanggo nggoleki bantuan saka profesional kesehatan sanalika bisa. Dheweke bisa menehi diagnosis sing bener lan kerja bareng sampeyan kanggo ngembangake rencana perawatan kanggo ngatasi kabiasaan ngombe sampeyan lan nyuda risiko masalah kesehatan sing serius. Iki bisa uga kalebu owah-owahan gaya urip, konseling, utawa intervensi liyane sing disaranake dening dokter sampeyan."
+    }
+  ]
+}

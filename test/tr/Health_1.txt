@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Diyabet riski öz değerlendirmesi",
+  "description": "Diyabet dünya çapında artan bir sağlık sorunudur ve risk faktörlerinizi anlamak önleme ve yönetim için anahtardır. Bu öz değerlendirme, diyabetle ilgili yaşam tarzınızı, genetik yatkınlığınızı ve diğer faktörleri değerlendirmenize yardımcı olur. Bu testi yaparak, diyabet geliştirme riskiniz hakkında değerli bilgiler edinebilir ve daha sağlıklı bir yaşam için proaktif adımlar atabilirsiniz. Unutmayın, bu test profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "En az 30 dakika fiziksel aktivite yapıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Günlük",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Haftada 3-5 kez",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Haftada 1-2 kez",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Nadiren veya hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Şekerli içecekler veya yüksek şekerli gıdalar tüketiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nadiren veya hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Haftada 1-2 kez",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Haftada 3-4 kez",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Günlük",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Taze meyve ve sebze yiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Günlük",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Haftada 3-5 kez",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Haftada 1-2 kez",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Nadiren veya hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Vücut kitle indeksiniz (BMI) nedir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "25'ten az",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 veya daha fazla",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ailenizde diyabet öyküsü var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hayır",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Evet, ama sadece uzak akrabalar",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Evet, yakın akrabalar (ebeveynler, kardeşler)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Evet, birden fazla yakın akraba",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Hiç yüksek tansiyon teşhisi konuldu mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hayır",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Evet, ama yaşam tarzı değişiklikleriyle kontrol altında",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Evet, ilaçlarla kontrol altında",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Evet, ama iyi kontrol edilmiyor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Sigara içiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hayır",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Evet, ara sıra",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Evet, düzenli olarak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Evet, aşırı",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Hiç yüksek kolesterol teşhisi konuldu mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hayır",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Evet, ama yaşam tarzı değişiklikleriyle kontrol altında",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Evet, ilaçlarla kontrol altında",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Evet, ama iyi kontrol edilmiyor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Ne sıklıkla sağlık kontrolü yaptırıyorsunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Yıllık",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "2-3 yılda bir",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "4-5 yılda bir",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Nadiren veya hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Hiç prediyabet veya gestasyonel diyabet teşhisi konuldu mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hayır",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Evet, prediyabet",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Evet, gestasyonel diyabet",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Evet, her ikisi",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Düşük risk",
+      "description": "Diyabet geliştirme riskiniz düşük görünüyor. Sağlıklı alışkanlıklarınızı sürdürün.",
+      "advice": "Riskiniz düşük görünse de, sağlığınızı izlemeye ve dengeli bir yaşam tarzı sürdürmeye devam etmek önemlidir. Bir sağlık uzmanıyla düzenli kontroller yaptırmanız önerilir."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Orta risk",
+      "description": "Diyabet geliştirme riskiniz orta düzeyde.",
+      "advice": "Riskinizi azaltmak için fiziksel aktiviteyi artırmak ve diyetinizi iyileştirmek gibi yaşam tarzı değişiklikleri yapmayı düşünün. Kişiselleştirilmiş tavsiye için bir sağlık uzmanına danışmak faydalı olabilir."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Yüksek risk",
+      "description": "Diyabet geliştirme riskiniz yüksek.",
+      "advice": "Riskinizi azaltmak için derhal adımlar atmanız önemlidir. Etkili yaşam tarzı ve sağlık yönetimi değişiklikleri için bir sağlık uzmanından rehberlik alın."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Çok yüksek risk",
+      "description": "Diyabet geliştirme riskiniz çok yüksek.",
+      "advice": "Yüksek riskinizi ele almak için acil eylem gereklidir. Profesyonel destek almak ve yaşam tarzınızda önemli değişiklikler yapmak çok önemlidir. Erken müdahale riskinizi büyük ölçüde azaltabilir ve sağlığınızı iyileştirebilir."
+    }
+  ]
+}

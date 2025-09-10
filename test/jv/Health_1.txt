@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Penilaian dhewe risiko diabetes",
+  "description": "Diabetes minangka masalah kesehatan sing terus berkembang ing saindenging jagad, lan mangerteni faktor risiko sampeyan minangka kunci kanggo pencegahan lan manajemen. Penilaian dhewe iki mbantu sampeyan ngevaluasi gaya urip, predisposisi genetik, lan faktor liyane sing gegandhengan karo diabetes. Kanthi njupuk kuis iki, sampeyan bisa entuk wawasan sing migunani babagan risiko sampeyan ngembangake diabetes lan njupuk langkah proaktif menyang urip sing luwih sehat. Elinga, kuis iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan melu kegiatan fisik paling ora 30 menit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Saben dina",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 kaping seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 kaping seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Arang utawa ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan ngonsumsi ombenan utawa panganan sing legi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Arang utawa ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 kaping seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 kaping seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Saben dina",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan mangan woh-wohan lan sayuran seger?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Saben dina",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 kaping seminggu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 kaping seminggu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Arang utawa ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa indeks massa awak (BMI) sampeyan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kurang saka 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 utawa luwih dhuwur",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan duwe riwayat kulawarga diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, nanging mung sedulur sing adoh",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, sedulur cedhak (wong tuwa, sadulur)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, akeh sedulur cedhak",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apa sampeyan tau didiagnosis tekanan darah dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, nanging dikontrol kanthi owah-owahan gaya urip",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, dikontrol kanthi obat",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, nanging ora dikontrol kanthi apik",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apa sampeyan ngerokok?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, rutin",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, abot",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apa sampeyan tau didiagnosis kolesterol dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, nanging dikontrol kanthi owah-owahan gaya urip",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, dikontrol kanthi obat",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, nanging ora dikontrol kanthi apik",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Kepiye kerepe sampeyan duwe pemeriksaan medis?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Saben taun",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Saben 2-3 taun",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Saben 4-5 taun",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Arang utawa ora tau",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apa sampeyan tau didiagnosis prediabetes utawa diabetes gestasional?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ya, prediabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ya, diabetes gestasional",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ya, loro-lorone",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Risiko rendah",
+      "description": "Risiko sampeyan ngembangake diabetes katon rendah. Terusake kabiasaan sehat sampeyan.",
+      "advice": "Sanajan risiko sampeyan katon rendah, penting kanggo terus ngawasi kesehatan sampeyan lan njaga gaya urip sing seimbang. Pemeriksaan rutin karo profesional kesehatan disaranake."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Risiko moderat",
+      "description": "Sampeyan duwe risiko moderat ngembangake diabetes.",
+      "advice": "Pertimbangake nggawe owah-owahan gaya urip kanggo nyuda risiko sampeyan, kayata nambah kegiatan fisik lan nambah diet sampeyan. Bisa uga migunani kanggo konsultasi karo profesional kesehatan kanggo saran sing dipersonalisasi."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Risiko dhuwur",
+      "description": "Risiko sampeyan ngembangake diabetes dhuwur.",
+      "advice": "Penting kanggo njupuk langkah langsung kanggo nyuda risiko sampeyan. Konsultasi karo profesional kesehatan kanggo pandhuan babagan cara nggawe owah-owahan sing efektif kanggo gaya urip lan manajemen kesehatan sampeyan."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Risiko banget dhuwur",
+      "description": "Risiko sampeyan ngembangake diabetes banget dhuwur.",
+      "advice": "Tumindak langsung dibutuhake kanggo ngatasi risiko dhuwur sampeyan. Penting banget kanggo nggoleki dhukungan profesional lan nggawe owah-owahan sing signifikan kanggo gaya urip sampeyan. Intervensi awal bisa nyuda risiko sampeyan lan nambah kesehatan sampeyan."
+    }
+  ]
+}

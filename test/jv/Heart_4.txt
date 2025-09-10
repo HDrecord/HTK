@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Kuesioner penilaian dhewe hipertensi",
+  "description": "Ngatur tekanan darah dhuwur penting kanggo nyegah masalah kesehatan sing serius. Mriksa tekanan darah kanthi rutin lan mangerteni faktor risiko sampeyan bisa mbantu sampeyan tetep sehat. Kuesioner iki ngidini sampeyan nganalisis kahanan saiki lan entuk wawasan babagan njaga tingkat tekanan darah sing sehat. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngalami sakit sirah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake pusing utawa entheng ing sirah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan ngalami penglihatan kabur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake sesak napas sajrone kegiatan rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake deg-degan ing dada, gulu, utawa kuping?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apa sampeyan duwe kesulitan turu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apa sampeyan duwe riwayat kulawarga tekanan darah dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apa sampeyan ngerokok utawa nggunakake produk tembakau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apa sampeyan ngombe alkohol kanthi kerep?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apa sampeyan duwe tingkat stres sing dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apa sampeyan olahraga kanthi rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apa sampeyan ngetutake diet sing sehat?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apa sampeyan duwe tingkat kolesterol dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Apa sampeyan njupuk obat kanggo tekanan darah dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Risiko rendah hipertensi",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko rendah kanggo hipertensi. Sanajan mesthi apik kanggo ngelingi kesehatan kardiovaskular sampeyan, jawaban sampeyan nuduhake yen tekanan darah sampeyan saiki ana ing kisaran sing sehat.",
+      "advice": "Terus njaga gaya urip sehat kanthi melu kegiatan fisik kanthi rutin, ngetutake diet sing seimbang, ngatur stres kanthi efektif, lan nyingkiri kabiasaan mbebayani kayata ngerokok lan ngombe alkohol sing berlebihan. Pemeriksaan rutin karo dokter sampeyan bisa mbantu sampeyan tetep ing jalur."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Risiko moderat hipertensi",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan bisa uga duwe risiko moderat kanggo hipertensi. Sawetara jawaban sampeyan nuduhake yen ana area sing bisa ditingkatake.",
+      "advice": "Pertimbangake nggawe owah-owahan gaya urip kayata nambah kegiatan fisik, ngadopsi diet sing luwih sehat, mandheg ngerokok yen perlu, nyuda asupan alkohol, lan ngatur stres kanthi luwih efektif. Konsultasi karo dokter bisa menehi saran lan strategi sing dipersonalisasi kanggo nambah tekanan darah sampeyan."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Risiko dhuwur hipertensi",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko dhuwur kanggo hipertensi. Akeh jawaban sampeyan nuduhake yen sampeyan ngalami gejala utawa duwe faktor risiko sing bisa mengaruhi tekanan darah sampeyan.",
+      "advice": "Penting banget kanggo nggoleki bantuan saka dokter sanalika bisa. Dheweke bisa menehi diagnosis sing bener lan kerja bareng sampeyan kanggo ngembangake rencana perawatan kanggo ngatasi tekanan darah sampeyan lan nyuda risiko masalah kardiovaskular sing serius. Iki bisa uga kalebu owah-owahan gaya urip, obat-obatan, utawa intervensi liyane sing disaranake dening dokter sampeyan."
+    }
+  ]
+}

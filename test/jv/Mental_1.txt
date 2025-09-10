@@ -1,0 +1,165 @@
+{
+  "id": 1,
+  "title": "Penilaian dhewe kesehatan mental",
+  "description": "Kesehatan mental minangka aspek penting saka kesejahteraan sakabèhé. Ngerti kahanan emosional lan psikologis sampeyan bisa mbantu sampeyan njaga keseimbangan urip sing sehat. Kuesioner iki dirancang kanggo menehi gambaran umum babagan kesejahteraan mental sampeyan. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngrasakake sedhih utawa ora duwe pangarepan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel fokus utawa ngrampungake tugas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan ngalami gangguan turu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake kuatir utawa gelisah sing berlebihan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake kurang semangat utawa energi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Kesejahteraan mental sing apik",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe kesejahteraan mental sing apik. Sampeyan katon bisa ngatasi tantangan urip kanthi efektif lan njaga keseimbangan emosional.",
+      "advice": "Terus njaga kabiasaan sehat sing ndhukung kesejahteraan mental, kayata olahraga rutin, diet seimbang, lan hubungan sosial sing positif. Yen sampeyan ngalami owah-owahan gedhe ing urip, bisa migunani kanggo ngomong karo profesional kesehatan mental."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Kesejahteraan mental moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara tandha-tandha sing bisa nuduhake masalah kesehatan mental. Sampeyan bisa uga ngalami tantangan tartamtu ing ngatur emosi utawa stres.",
+      "advice": "Pertimbangake nggoleki dhukungan sosial lan ngembangake strategi ngatasi stres sing sehat. Yen gejala terus-terusan utawa ngganggu urip saben dina, bisa migunani kanggo konsultasi karo profesional kesehatan mental."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Kesejahteraan mental sing kurang",
+      "description": "Tanggapan sampeyan nuduhake tandha-tandha masalah kesehatan mental sing bisa mengaruhi kualitas urip sampeyan. Sampeyan bisa uga ngalami tantangan emosional sing signifikan.",
+      "advice": "Penting kanggo nggoleki bantuan profesional. Konsultasi karo dokter utawa spesialis kesehatan mental bisa menehi dhukungan lan perawatan sing dibutuhake. Elinga yen nggoleki bantuan minangka tandha kekuatan, dudu kelemahan."
+    }
+  ]
+}

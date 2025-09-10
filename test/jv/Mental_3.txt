@@ -1,0 +1,165 @@
+{
+  "id": 3,
+  "title": "Penilaian dhewe depresi",
+  "description": "Depresi minangka kondisi kesehatan mental sing serius sing bisa mengaruhi kabeh aspek urip. Ngerti gejala lan tandha bisa mbantu sampeyan njupuk langkah kanggo nggoleki bantuan sing dibutuhake. Kuesioner iki dirancang kanggo menehi gambaran umum babagan kahanan emosional sampeyan. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngrasakake sedhih utawa kosong?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan ilang kapentingan utawa kesenengan ing kegiatan sing biasane disenengi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan ngalami owah-owahan gedhe ing napsu mangan utawa bobot awak?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngalami gangguan turu (turu kebangeten utawa angel turu)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake lemes utawa kurang energi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Gejala depresi minimal",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe gejala depresi sing minimal utawa ora ana.",
+      "advice": "Terus njaga kabiasaan sehat sing ndhukung kesejahteraan mental, kayata olahraga rutin, diet seimbang, lan hubungan sosial sing positif. Yen sampeyan ngalami owah-owahan gedhe ing urip, bisa migunani kanggo ngomong karo profesional kesehatan mental."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Gejala depresi moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara gejala depresi sing bisa mengaruhi urip saben dina.",
+      "advice": "Pertimbangake nggoleki dhukungan sosial lan ngembangake strategi ngatasi stres sing sehat. Yen gejala terus-terusan utawa ngganggu urip saben dina, bisa migunani kanggo konsultasi karo profesional kesehatan mental."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Gejala depresi signifikan",
+      "description": "Tanggapan sampeyan nuduhake gejala depresi sing signifikan sing bisa mengaruhi kualitas urip sampeyan.",
+      "advice": "Penting kanggo nggoleki bantuan profesional. Konsultasi karo dokter utawa spesialis kesehatan mental bisa menehi dhukungan lan perawatan sing dibutuhake. Elinga yen nggoleki bantuan minangka tandha kekuatan, dudu kelemahan."
+    }
+  ]
+}

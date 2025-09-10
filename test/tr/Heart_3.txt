@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Koroner kalp hastalığı öz kontrolü",
+  "description": "Koroner kalp hastalığı (KKH), düzgün yönetilmezse önemli sağlık sorunlarına yol açabilecek ciddi bir durumdur. Risk faktörlerinin erken tespiti, önleme ve tedavi için anahtardır. KKH riskiniz konusunda endişeleriniz var mı? Bu öz kontrol, potansiyel risk faktörlerini belirlemenize ve kalp sağlığınızı daha iyi anlamanıza yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sık sık nefes darlığı yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Göğüs ağrısı veya rahatsızlık hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Düzensiz kalp atışları veya çarpıntı yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Belirgin bir neden olmadan yorgun veya bitkin hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Bacaklarınızda, ayak bileklerinizde veya ayaklarınızda şişlik oluyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Yüksek tansiyonunuz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Yüksek kolesterol seviyeleriniz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Sigara veya tütün ürünleri kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Ailenizde koroner kalp hastalığı öyküsü var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Düzenli fiziksel aktivite yapıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Kalp-sağlıklı bir diyet uyguluyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Stresi etkili bir şekilde yönetiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Diyabetiniz veya yüksek kan şekeri seviyeleriniz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Baş dönmesi veya sersemlik yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Koroner kalp hastalığı için düşük risk",
+      "description": "Yanıtlarınız, koroner kalp hastalığı için düşük risk altında olduğunuzu göstermektedir. Kardiyovasküler sağlığınıza dikkat etmek her zaman iyi olsa da, cevaplarınız kalp sağlığınızın şu anda iyi durumda olduğunu göstermektedir.",
+      "advice": "Düzenli fiziksel aktivite yaparak, dengeli bir diyet uygulayarak, stresi etkili bir şekilde yöneterek ve sigara içmek gibi zararlı alışkanlıklardan kaçınarak kalp-sağlıklı bir yaşam tarzını sürdürün. Sağlık uzmanınızla düzenli kontroller yaptırmak sizi doğru yolda tutmanıza yardımcı olabilir."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Koroner kalp hastalığı için orta risk",
+      "description": "Yanıtlarınız, koroner kalp hastalığı için orta düzeyde risk altında olabileceğinizi göstermektedir. Bazı cevaplarınız, kardiyovasküler sağlığınızı iyileştirebileceğiniz alanlar olduğunu göstermektedir.",
+      "advice": "Fiziksel aktivitenizi artırmak, kalp-sağlıklı bir diyet benimsemek, uygunsa sigarayı bırakmak ve stresi daha etkili bir şekilde yönetmek gibi yaşam tarzı değişiklikleri yapmayı düşünün. Bir sağlık uzmanına danışmak, kalp sağlığınızı iyileştirmek için kişiselleştirilmiş tavsiyeler ve stratejiler sağlayabilir."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Koroner kalp hastalığı için yüksek risk",
+      "description": "Yanıtlarınız, koroner kalp hastalığı için yüksek risk altında olduğunuzu göstermektedir. Cevaplarınızın çoğu, kardiyovasküler sağlığınızı etkileyebilecek semptomlar veya risk faktörleri yaşadığınızı göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir sağlık uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve kalp sağlığınızı ele almak ve ciddi kardiyovasküler sorunlar riskinizi azaltmak için sizinle birlikte bir tedavi planı geliştirebilirler. Bu, doktorunuzun önerdiği gibi yaşam tarzı değişiklikleri, ilaçlar veya diğer müdahaleleri içerebilir."
+    }
+  ]
+}

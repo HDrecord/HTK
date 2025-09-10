@@ -1,0 +1,165 @@
+{
+  "id": 5,
+  "title": "Penilaian dhewe kualitas turu",
+  "description": "Turu sing cukup lan berkualitas penting kanggo kesehatan fisik lan mental. Masalah turu bisa mengaruhi energi, suasana ati, lan produktivitas sampeyan. Kuesioner iki mbantu sampeyan ngevaluasi kebiasaan turu lan kualitas turu sampeyan. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel turu nalika arep turu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan kerep tangi ing tengah wengi lan angel turu maneh?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan kerep tangi sadurunge wektu sing dikarepake lan ora bisa turu maneh?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake ora seger nalika tangi ing wayah esuk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake ngantuk sajrone dina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Kualitas turu sing apik",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe kualitas turu sing apik lan cukup turu.",
+      "advice": "Terus njaga kabiasaan turu sing sehat, kayata jadwal turu sing konsisten, lingkungan turu sing nyaman, lan ngindari stimulan sadurunge turu. Elinga yen turu sing cukup penting kanggo kesehatan sakabèhé."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Kualitas turu moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara masalah turu sing bisa mengaruhi energi lan kesejahteraan sampeyan.",
+      "advice": "Pertimbangake nggawe owah-owahan ing rutinitas turu sampeyan, kayata ngurangi kafein, nggawe lingkungan turu sing luwih nyaman, utawa nyoba teknik relaksasi sadurunge turu. Yen masalah terus-terusan, konsultasi karo dokter bisa migunani."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Kualitas turu sing kurang",
+      "description": "Tanggapan sampeyan nuduhake masalah turu sing signifikan sing bisa mengaruhi kesehatan fisik lan mental sampeyan.",
+      "advice": "Penting kanggo nggoleki bantuan profesional kanggo masalah turu sampeyan. Dokter utawa spesialis turu bisa menehi saran lan perawatan sing tepat. Masalah turu kronis bisa dadi gejala saka kondisi kesehatan liyane, mula penting kanggo mriksa."
+    }
+  ]
+}

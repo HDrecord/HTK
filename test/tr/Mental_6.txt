@@ -1,0 +1,300 @@
+{
+  "id": 6,
+  "title": "Duygusal dayanıklılık öz değerlendirmesi",
+  "description": "Duygusal dayanıklılık, zorluklarla başa çıkma ve stresli durumlardan güçlenerek çıkma yeteneğidir. Bu beceri, yaşamın zorluklarıyla başa çıkmada çok önemlidir. Duygusal dayanıklılığınız hakkında ne düşünüyorsunuz? Bu öz değerlendirme, duygusal dayanıklılığınızı anlamanıza ve geliştirmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Zor durumlarda sakin kalabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Başarısızlıklardan sonra hızla toparlanabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Değişime kolay uyum sağlayabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Stresli durumlarda olumlu kalabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Zorlukları fırsata çevirebiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Destek almak için başkalarına ulaşabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Kendinize karşı şefkatli misiniz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Zor zamanlarda anlam bulabiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Esnek düşünebiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Zorluklardan öğrenebiliyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Yüksek duygusal dayanıklılık",
+      "description": "Yanıtlarınız, yüksek duygusal dayanıklılığa sahip olduğunuzu göstermektedir. Bu, zorluklarla etkili bir şekilde başa çıkabildiğinizi ve stresli durumlardan güçlenerek çıkabildiğinizi gösterir.",
+      "advice": "Duygusal dayanıklılığınızı sürdürmek için öz bakım uygulamalarına ve destek sistemlerinizi güçlendirmeye devam edin."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde duygusal dayanıklılık",
+      "description": "Yanıtlarınız, orta düzeyde duygusal dayanıklılığa sahip olduğunuzu göstermektedir. Bazı durumlarda iyi başa çıkabilirken, diğerlerinde zorlanabilirsiniz.",
+      "advice": "Duygusal dayanıklılığınızı geliştirmek için stres yönetimi tekniklerini öğrenmeyi ve destek ağınızı genişletmeyi düşünün."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Düşük duygusal dayanıklılık",
+      "description": "Yanıtlarınız, duygusal dayanıklılığınızın düşük olduğunu göstermektedir. Zorluklarla başa çıkmakta ve stresli durumlardan toparlanmakta zorlanıyor olabilirsiniz.",
+      "advice": "Bir ruh sağlığı uzmanından destek almayı düşünün. Duygusal dayanıklılığınızı geliştirmek için size stratejiler ve araçlar sağlayabilirler."
+    }
+  ]
+}

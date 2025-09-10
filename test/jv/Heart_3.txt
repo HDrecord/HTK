@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Priksa dhewe penyakit jantung koroner",
+  "description": "Penyakit jantung koroner (PJK) minangka kondisi serius sing bisa nyebabake masalah kesehatan sing signifikan yen ora dikelola kanthi bener. Deteksi dini faktor risiko minangka kunci kanggo pencegahan lan perawatan. Apa sampeyan prihatin babagan risiko PJK sampeyan? Priksa dhewe iki bisa mbantu sampeyan nemokake faktor risiko potensial lan ngerti kesehatan jantung sampeyan luwih apik. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngalami sesak napas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake nyeri utawa ora nyaman ing dada?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan ngalami detak jantung sing ora teratur utawa palpitasi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake kesel utawa lemes tanpa alasan sing jelas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngalami bengkak ing sikil, tungkak, utawa sikil?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Apa sampeyan duwe tekanan darah dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Apa sampeyan duwe tingkat kolesterol dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Apa sampeyan ngerokok utawa nggunakake produk tembakau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Apa sampeyan duwe riwayat kulawarga penyakit jantung koroner?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Apa sampeyan melu kegiatan fisik kanthi rutin?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Apa sampeyan ngetutake diet sing sehat kanggo jantung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Apa sampeyan ngatur stres kanthi efektif?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Apa sampeyan duwe diabetes utawa tingkat gula darah dhuwur?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Apa sampeyan ngalami pusing utawa rasa entheng ing sirah?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Risiko rendah penyakit jantung koroner",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko rendah kanggo penyakit jantung koroner. Sanajan mesthi apik kanggo ngelingi kesehatan kardiovaskular sampeyan, jawaban sampeyan nuduhake yen kesehatan jantung sampeyan saiki ana ing kahanan sing apik.",
+      "advice": "Terus njaga gaya urip sing sehat kanggo jantung kanthi melu kegiatan fisik kanthi rutin, ngetutake diet sing seimbang, ngatur stres kanthi efektif, lan nyingkiri kabiasaan sing mbebayani kayata ngerokok. Pemeriksaan rutin karo dokter sampeyan bisa mbantu sampeyan tetep ing jalur."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Risiko moderat penyakit jantung koroner",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan bisa uga duwe risiko moderat kanggo penyakit jantung koroner. Sawetara jawaban sampeyan nuduhake yen ana area sing bisa ditingkatake.",
+      "advice": "Pertimbangake nggawe owah-owahan gaya urip kayata nambah kegiatan fisik, ngadopsi diet sing sehat kanggo jantung, mandheg ngerokok yen perlu, lan ngatur stres kanthi luwih efektif. Konsultasi karo dokter bisa menehi saran lan strategi sing dipersonalisasi kanggo nambah kesehatan jantung sampeyan."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Risiko dhuwur penyakit jantung koroner",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe risiko dhuwur kanggo penyakit jantung koroner. Akeh jawaban sampeyan nuduhake yen sampeyan ngalami gejala utawa duwe faktor risiko sing bisa mengaruhi kesehatan kardiovaskular sampeyan.",
+      "advice": "Penting banget kanggo nggoleki bantuan saka dokter sanalika bisa. Dheweke bisa menehi diagnosis sing bener lan kerja bareng sampeyan kanggo ngembangake rencana perawatan kanggo ngatasi kesehatan jantung sampeyan lan nyuda risiko masalah kardiovaskular sing serius. Iki bisa uga kalebu owah-owahan gaya urip, obat-obatan, utawa intervensi liyane sing disaranake dening dokter sampeyan."
+    }
+  ]
+}

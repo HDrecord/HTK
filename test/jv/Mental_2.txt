@@ -1,0 +1,165 @@
+{
+  "id": 2,
+  "title": "Penilaian dhewe gangguan kuatir",
+  "description": "Kuatir minangka respon normal kanggo stres, nanging nalika dadi berlebihan bisa mengaruhi kualitas urip. Kuesioner iki mbantu sampeyan ngevaluasi tingkat kuatir sampeyan lan nemokake cara kanggo ngatur kanthi luwih efektif. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngrasakake kuatir sing berlebihan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel ngendhaleni rasa kuatir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan ngalami gejala fisik kuatir (kayata deg-degan, tangan lembab, utawa sesak napas)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa kuatir sampeyan ngganggu kegiatan saben dina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngindari situasi tartamtu amarga kuatir?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Tingkat kuatir normal",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe tingkat kuatir sing normal lan bisa ngatur stres kanthi efektif.",
+      "advice": "Terus njaga kabiasaan sehat sing mbantu ngatur stres, kayata olahraga rutin, teknik relaksasi, lan dhukungan sosial. Yen sampeyan ngalami periode stres sing tambah, teknik pernapasan jero bisa mbantu."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Tingkat kuatir moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara tandha kuatir sing bisa mengaruhi urip saben dina.",
+      "advice": "Pertimbangake ngembangake strategi ngatasi stres sing luwih efektif. Teknik mindfulness, meditasi, utawa ngomong karo profesional kesehatan mental bisa mbantu sampeyan ngelola kuatir kanthi luwih apik."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Tingkat kuatir dhuwur",
+      "description": "Tanggapan sampeyan nuduhake tingkat kuatir sing signifikan sing bisa mengaruhi kualitas urip sampeyan.",
+      "advice": "Penting kanggo nggoleki bantuan profesional. Konsultasi karo dokter utawa spesialis kesehatan mental bisa menehi dhukungan lan perawatan sing tepat. Elinga yen nggoleki bantuan minangka langkah positif kanggo kesehatan sampeyan."
+    }
+  ]
+}

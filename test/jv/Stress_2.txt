@@ -1,0 +1,165 @@
+{
+  "id": 8,
+  "title": "Penilaian dhewe koping stres",
+  "description": "Cara kita ngatasi stres bisa mengaruhi kesejahteraan sakabèhé. Ngerti strategi koping sampeyan bisa mbantu sampeyan ngembangake cara sing luwih sehat kanggo ngatasi tantangan urip. Kuesioner iki mbantu sampeyan ngevaluasi strategi koping saiki. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngindari masalah tinimbang ngadhepi langsung?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan ngalami gejala fisik stres (kayata sakit sirah, nyeri otot, utawa gangguan pencernaan)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel turu amarga pikiran sing terus-terusan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake angel fokus utawa ngrampungake tugas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake angel ngendhaleni emosi (kayata gampang nesu utawa nangis)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Strategi koping sehat",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe strategi koping sing sehat kanggo ngatasi stres.",
+      "advice": "Terus njaga kabiasaan sehat sing mbantu ngatur stres, kayata olahraga rutin, teknik relaksasi, lan dhukungan sosial. Elinga yen ngadhepi masalah kanthi langsung lan ngomong karo wong liya bisa mbantu."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Strategi koping moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara strategi koping sing kurang efektif sing bisa mengaruhi kesejahteraan sampeyan.",
+      "advice": "Pertimbangake ngembangake strategi koping sing luwih sehat, kayata ngomong karo wong sing dipercaya, nggunakake teknik relaksasi, utawa nggoleki bantuan profesional yen perlu."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Strategi koping sing kurang sehat",
+      "description": "Tanggapan sampeyan nuduhake strategi koping sing kurang sehat sing bisa nambah tingkat stres sampeyan.",
+      "advice": "Penting kanggo ngembangake strategi koping sing luwih sehat. Konsultasi karo profesional kesehatan mental bisa menehi dhukungan lan strategi sing tepat kanggo ngatasi stres kanthi efektif."
+    }
+  ]
+}

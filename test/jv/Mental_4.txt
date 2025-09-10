@@ -1,0 +1,165 @@
+{
+  "id": 4,
+  "title": "Penilaian dhewe stres",
+  "description": "Stres minangka bagean normal saka urip, nanging nalika dadi kronis bisa mengaruhi kesehatan fisik lan mental. Ngerti tingkat stres sampeyan bisa mbantu sampeyan ngembangake strategi ngatasi sing efektif. Kuesioner iki mbantu sampeyan ngevaluasi kahanan saiki lan nemokake cara kanggo ngatur stres kanthi luwih apik. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngrasakake kewalahan utawa kewalahan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan ngalami gejala fisik stres (kayata sakit sirah, nyeri otot, utawa gangguan pencernaan)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel turu amarga pikiran sing terus-terusan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake angel fokus utawa ngrampungake tugas?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake angel ngendhaleni emosi (kayata gampang nesu utawa nangis)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Tingkat stres rendah",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan ngalami tingkat stres sing rendah lan bisa ngatasi tantangan urip kanthi efektif.",
+      "advice": "Terus njaga kabiasaan sehat sing mbantu ngatur stres, kayata olahraga rutin, teknik relaksasi, lan dhukungan sosial. Elinga kanggo njaga keseimbangan antarane kerja lan urip pribadi."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Tingkat stres moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara tandha stres sing bisa mengaruhi urip saben dina.",
+      "advice": "Pertimbangake ngembangake strategi ngatasi stres sing luwih efektif. Teknik mindfulness, meditasi, utawa ngomong karo profesional kesehatan mental bisa mbantu sampeyan ngelola stres kanthi luwih apik. Priksa maneh prioritas lan komitmen sampeyan."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Tingkat stres dhuwur",
+      "description": "Tanggapan sampeyan nuduhake tingkat stres sing signifikan sing bisa mengaruhi kesehatan fisik lan mental sampeyan.",
+      "advice": "Penting kanggo njupuk langkah kanggo ngurangi stres sampeyan. Konsultasi karo dokter utawa spesialis kesehatan mental bisa menehi dhukungan lan strategi sing tepat. Elinga yen njaga kesehatan sampeyan minangka prioritas."
+    }
+  ]
+}

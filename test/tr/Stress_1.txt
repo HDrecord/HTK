@@ -1,0 +1,300 @@
+{
+  "id": 7,
+  "title": "Stres düzeyi öz değerlendirmesi",
+  "description": "Stres, modern yaşamın kaçınılmaz bir parçasıdır, ancak aşırı stres sağlığımızı ve refahımızı etkileyebilir. Stres seviyeniz hakkında ne düşünüyorsunuz? Bu öz değerlendirme, stres düzeyinizi anlamanıza ve yönetmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sık sık gergin veya stresli hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Uyumakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Baş ağrısı veya kas gerginliği yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "İştahınızda değişiklikler oluyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Konsantre olmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Kolayca sinirleniyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Eskiden zevk aldığınız aktivitelerden artık zevk almıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Yorgun veya bitkin hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Sık sık endişeli hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Stresle başa çıkmak için sağlıksız yöntemler kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Düşük stres düzeyi",
+      "description": "Yanıtlarınız, düşük stres düzeyine sahip olduğunuzu göstermektedir. Stres yönetimi becerileriniz iyi görünüyor ve stresin günlük yaşamınızı önemli ölçüde etkilemediğini gösteriyor.",
+      "advice": "Stres yönetimi becerilerinizi sürdürmeye devam edin. Stres seviyenizde değişiklikler fark ederseniz, stres yönetimi tekniklerini gözden geçirmeyi düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde stres",
+      "description": "Yanıtlarınız, orta düzeyde stres yaşadığınızı göstermektedir. Bazı durumlarda stresle başa çıkabilirken, diğerlerinde zorlanıyor olabilirsiniz.",
+      "advice": "Stres yönetimi tekniklerini öğrenmek ve uygulamak faydalı olabilir. Derin nefes egzersizleri, meditasyon veya fiziksel aktivite gibi sağlıklı başa çıkma stratejilerini deneyin."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Yüksek stres düzeyi",
+      "description": "Yanıtlarınız, yüksek stres düzeyine sahip olduğunuzu göstermektedir. Stres, günlük yaşamınızı ve refahınızı önemli ölçüde etkiliyor olabilir.",
+      "advice": "Bir sağlık uzmanından veya ruh sağlığı profesyonelinden destek almayı düşünün. Stres yönetimi için size kişiselleştirilmiş stratejiler ve destek sunabilirler."
+    }
+  ]
+}

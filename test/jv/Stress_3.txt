@@ -1,0 +1,165 @@
+{
+  "id": 9,
+  "title": "Penilaian dhewe keseimbangan urip",
+  "description": "Keseimbangan antarane kerja, kulawarga, lan urip pribadi penting kanggo kesejahteraan sakabèhé. Kuesioner iki mbantu sampeyan ngevaluasi keseimbangan urip sampeyan lan nemokake area sing bisa ditingkatake. Elinga, iki dudu diagnosis profesional, lan ora ana jawaban sing bener utawa salah.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel nemokake wektu kanggo kegiatan pribadi utawa hobi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Apa sampeyan kerep ngerasakake kerja kebangeten utawa kewalahan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Apa sampeyan nemokake angel nemokake wektu kanggo kulawarga lan kanca-kanca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake angel ngurus kesehatan fisik lan mental sampeyan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ora tau",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kadhang-kadhang",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sering",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Meh tansah",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Apa sampeyan ngrasakake puas karo keseimbangan urip sampeyan saiki?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Meh tansah",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sering",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kadhang-kadhang",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ora tau",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "Keseimbangan urip sing apik",
+      "description": "Tanggapan sampeyan nuduhake yen sampeyan duwe keseimbangan urip sing apik antarane kerja, kulawarga, lan urip pribadi.",
+      "advice": "Terus njaga kabiasaan sehat sing ndhukung keseimbangan urip sampeyan. Elinga kanggo njaga prioritas lan wektu kanggo kegiatan sing menehi makna lan kesenengan."
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "Keseimbangan urip moderat",
+      "description": "Tanggapan sampeyan nuduhake sawetara tantangan ing njaga keseimbangan urip sing sehat.",
+      "advice": "Pertimbangake nggawe owah-owahan cilik kanggo nambah keseimbangan, kayata ngetokake wektu khusus kanggo urip pribadi utawa ngurangi komitmen sing ora perlu. Priksa maneh prioritas sampeyan."
+    },
+    {
+      "start": 11,
+      "end": 15,
+      "title": "Keseimbangan urip sing kurang",
+      "description": "Tanggapan sampeyan nuduhake tantangan signifikan ing njaga keseimbangan urip sing sehat.",
+      "advice": "Penting kanggo njupuk langkah kanggo nambah keseimbangan urip sampeyan. Konsultasi karo profesional bisa menehi saran lan strategi sing tepat. Elinga yen kesehatan lan kesejahteraan sampeyan minangka prioritas."
+    }
+  ]
+}

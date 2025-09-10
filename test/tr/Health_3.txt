@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Alkol tüketimi ve sağlık öz değerlendirmesi",
+  "description": "Alkol tüketim alışkanlıklarınızı anlamak, sağlığınızı ve refahınızı korumak için önemlidir. Ne sıklıkla ve ne kadar içtiğinizi değerlendirmek, kalıpları ve potansiyel sağlık risklerini tanımanıza yardımcı olabilir. Bu öz değerlendirme, içme alışkanlıklarınız hakkında bilgi sağlar ve genel sağlığınızı nasıl etkileyebileceklerini anlamanıza yardımcı olur. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Alkol içeren içecekleri ne sıklıkla tüketiyorsunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ayda bir veya daha az",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Haftada bir",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Günlük veya neredeyse günlük",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "İçtiğiniz tipik bir günde kaç içki tüketiyorsunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 veya daha fazla",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bir seferde beş veya daha fazla içki içtiğiniz oluyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ayda bir",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ayda bir",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Haftalık veya daha sık",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "İçmeye başladıktan sonra durmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "İçme isteği veya güçlü bir içme arzusu yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "İçki içmeniz iş, okul veya evdeki sorumluluklarınızı engelliyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "İçki içmeyi azaltmayı deneyip başarısız olduğunuz oldu mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Sağlığınıza veya ilişkilerinize zarar verdiği halde içmeye devam ediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "İçki nedeniyle hafıza kaybı veya bayılma yaşadınız mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "İçki içtiğiniz için suçlu veya pişman hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Alkolle ilgili sağlık sorunları için düşük risk",
+      "description": "Yanıtlarınız, alkol tüketimiyle ilgili sağlık sorunları yaşama riskinizin düşük olduğunu göstermektedir. Sağlıklı içme alışkanlıklarını sürdürmek önemli olsa da, cevaplarınız mevcut tüketim seviyelerinizin genellikle güvenli sınırlar içinde olduğunu göstermektedir.",
+      "advice": "Alkol alımınızı izlemeye devam edin ve sağlıklı bir denge sağladığınızdan emin olun. İçme alışkanlıklarınızda değişiklikler fark ederseniz veya endişeleriniz varsa, kişiselleştirilmiş tavsiye için bir sağlık uzmanıyla konuşmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Alkolle ilgili sağlık sorunları için orta risk",
+      "description": "Yanıtlarınız, alkol tüketimiyle ilgili sağlık sorunları yaşama riskinizin orta düzeyde olabileceğini göstermektedir. Bazı cevaplarınız, içme alışkanlıklarınızı iyileştirebileceğiniz alanlar olduğunu göstermektedir.",
+      "advice": "Alkol alımınızı azaltmayı ve içme kalıplarınıza dikkat etmeyi düşünün. Alkol tüketiminin sıklığını ve miktarını sınırlamak, sağlık sorunları riskinizi azaltmaya yardımcı olabilir. Bir sağlık uzmanına danışmak, içme alışkanlıklarınızı iyileştirmek için kişiselleştirilmiş tavsiyeler ve stratejiler sağlayabilir."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Alkolle ilgili sağlık sorunları için yüksek risk",
+      "description": "Yanıtlarınız, alkol tüketimiyle ilgili sağlık sorunları yaşama riskinizin yüksek olduğunu göstermektedir. Cevaplarınızın çoğu, içme alışkanlıklarınız nedeniyle sorunlar yaşıyor olabileceğinizi göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir sağlık uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve içme alışkanlıklarınızı ele almak ve ciddi sağlık sorunları riskinizi azaltmak için sizinle birlikte bir tedavi planı geliştirebilirler. Bu, doktorunuzun önerdiği gibi yaşam tarzı değişiklikleri, danışmanlık veya diğer müdahaleleri içerebilir."
+    }
+  ]
+}

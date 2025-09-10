@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Hipertansiyon öz değerlendirme anketi",
+  "description": "Yüksek tansiyonu yönetmek, ciddi sağlık sorunlarını önlemek için çok önemlidir. Tansiyonunuzu düzenli olarak kontrol etmek ve risk faktörlerinizi anlamak sağlıklı kalmanıza yardımcı olabilir. Tansiyonunuzun durumu hakkında endişeleriniz var mı? Bu anket, mevcut durumunuzu değerlendirmenize ve sağlıklı tansiyon seviyelerini korumanın yollarını anlamanıza yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sık sık baş ağrısı yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Baş dönmesi veya sersemlik hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Bulanık görme yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Rutin aktiviteler sırasında nefes darlığı çekiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Göğsünüzde, boynunuzda veya kulaklarınızda çarpıntı hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Uyumakta zorluk çekiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Ailenizde yüksek tansiyon öyküsü var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Sigara veya tütün ürünleri kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Sık sık alkol tüketiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Yüksek stres seviyeleriniz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Düzenli egzersiz yapıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Sağlıklı bir diyet uyguluyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Yüksek kolesterol seviyeleriniz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Yüksek tansiyon için ilaç kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Hipertansiyon için düşük risk",
+      "description": "Yanıtlarınız, hipertansiyon için düşük risk altında olduğunuzu göstermektedir. Kardiyovasküler sağlığınıza dikkat etmek her zaman iyi olsa da, cevaplarınız tansiyonunuzun şu anda sağlıklı bir aralıkta olduğunu göstermektedir.",
+      "advice": "Düzenli fiziksel aktivite yaparak, dengeli bir diyet uygulayarak, stresi etkili bir şekilde yöneterek ve aşırı alkol tüketimi ve sigara gibi zararlı alışkanlıklardan kaçınarak sağlıklı bir yaşam tarzını sürdürün. Sağlık uzmanınızla düzenli kontroller yaptırmak sizi doğru yolda tutmanıza yardımcı olabilir."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Hipertansiyon için orta risk",
+      "description": "Yanıtlarınız, hipertansiyon için orta düzeyde risk altında olabileceğinizi göstermektedir. Bazı cevaplarınız, kardiyovasküler sağlığınızı iyileştirebileceğiniz alanlar olduğunu göstermektedir.",
+      "advice": "Fiziksel aktivitenizi artırmak, daha sağlıklı bir diyet benimsemek, uygunsa sigarayı bırakmak, alkol alımını azaltmak ve stresi daha etkili bir şekilde yönetmek gibi yaşam tarzı değişiklikleri yapmayı düşünün. Bir sağlık uzmanına danışmak, tansiyonunuzu iyileştirmek için kişiselleştirilmiş tavsiyeler ve stratejiler sağlayabilir."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Hipertansiyon için yüksek risk",
+      "description": "Yanıtlarınız, hipertansiyon için yüksek risk altında olduğunuzu göstermektedir. Cevaplarınızın çoğu, kardiyovasküler sağlığınızı etkileyebilecek semptomlar veya risk faktörleri yaşadığınızı göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir sağlık uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve tansiyonunuzu ele almak ve ciddi kardiyovasküler sorunlar riskinizi azaltmak için sizinle birlikte bir tedavi planı geliştirebilirler. Bu, doktorunuzun önerdiği gibi yaşam tarzı değişiklikleri, ilaçlar veya diğer müdahaleleri içerebilir."
+    }
+  ]
+}

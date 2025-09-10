@@ -1,0 +1,300 @@
+{
+  "id": 8,
+  "title": "İş stresi öz değerlendirmesi",
+  "description": "İş stresi, modern çalışma hayatının yaygın bir parçasıdır ve yönetilmediğinde sağlığımızı etkileyebilir. İş yerindeki stres seviyeniz hakkında ne düşünüyorsunuz? Bu öz değerlendirme, iş stresinizi anlamanıza ve yönetmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "İş yerinde sık sık gergin hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "İş yükünüzü yönetilemez buluyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "İş-yaşam dengesini sağlamakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "İş yerinde destek eksikliği hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "İş yerinde belirsizlikler sizi strese sokuyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "İş yerinde çatışmalar yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "İşinizde yeterli kontrol hissi olmadığını düşünüyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "İşiniz sizi duygusal olarak tüketiyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "İşiniz hakkında sık sık endişeleniyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "İşiniz fiziksel sağlığınızı etkiliyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Düşük iş stresi",
+      "description": "Yanıtlarınız, iş yerinde düşük stres seviyesine sahip olduğunuzu göstermektedir. İş stresiniz yönetilebilir görünüyor ve günlük yaşamınızı önemli ölçüde etkilemiyor.",
+      "advice": "İş-yaşam dengesini korumaya ve stres yönetimi becerilerinizi sürdürmeye devam edin. Stres seviyenizde değişiklikler fark ederseniz, işvereninizle veya bir sağlık uzmanıyla konuşmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde iş stresi",
+      "description": "Yanıtlarınız, iş yerinde orta düzeyde stres yaşadığınızı göstermektedir. Bazı durumlarda iş stresiyle başa çıkabilirken, diğerlerinde zorlanıyor olabilirsiniz.",
+      "advice": "Zaman yönetimi tekniklerini geliştirmek, iş-yaşam dengesini iyileştirmek ve işvereninizle iletişim kurmak faydalı olabilir. Stres yönetimi stratejilerini öğrenmek için kaynaklara başvurun."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Yüksek iş stresi",
+      "description": "Yanıtlarınız, iş yerinde yüksek stres seviyesine sahip olduğunuzu göstermektedir. İş stresiniz, sağlığınızı ve refahınızı önemli ölçüde etkiliyor olabilir.",
+      "advice": "Bir sağlık uzmanından veya insan kaynakları departmanından destek almayı düşünün. İş yükünüzü azaltmak, iş-yaşam dengesini iyileştirmek veya gerekirse mesleki değişiklik yapmak için stratejiler geliştirmenize yardımcı olabilirler."
+    }
+  ]
+}

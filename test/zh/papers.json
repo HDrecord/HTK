@@ -3,7 +3,7 @@
     "id": 1,
     "type": "1",
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
-    "title": "您容易抑郁吗？",
+    "title": "你容易抑郁吗？",
     "minutes": 3,
     "countOfQuestions": 10,
     "file": "Mental_1.txt"
@@ -30,7 +30,7 @@
     "id": 4,
     "type": "1",
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
-    "title": "孤独感自测",
+    "title": "孤独感自我评估",
     "minutes": 2,
     "countOfQuestions": 8,
     "file": "Mental_4.txt"
@@ -39,7 +39,7 @@
     "id": 5,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
     "type": "1",
-    "title": "您有社交焦虑吗？",
+    "title": "你有社交焦虑吗？",
     "minutes": 5,
     "countOfQuestions": 13,
     "file": "Mental_5.txt"
@@ -48,7 +48,7 @@
     "id": 6,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
     "type": "1",
-    "title": "评估您的幸福感",
+    "title": "评估你的幸福感",
     "minutes": 2,
     "countOfQuestions": 8,
     "file": "Mental_6.txt"
@@ -75,7 +75,7 @@
     "id": 9,
     "type": "2",
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
-    "title": "社交压力自测",
+    "title": "社交压力自我检查",
     "minutes": 3,
     "countOfQuestions": 10,
     "file": "Stress_3.txt"
@@ -84,7 +84,7 @@
     "id": 10,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
     "type": "3",
-    "title": "心脏健康自测",
+    "title": "心脏健康自我评估",
     "minutes": 3,
     "countOfQuestions": 11,
     "file": "Heart_1.txt"
@@ -93,7 +93,7 @@
     "id": 11,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
     "type": "3",
-    "title": "心脏病风险自测",
+    "title": "心脏病风险自我评估",
     "minutes": 5,
     "countOfQuestions": 13,
     "file": "Heart_2.txt"
@@ -102,7 +102,7 @@
     "id": 12,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
     "type": "3",
-    "title": "冠心病自测",
+    "title": "冠心病自我检查",
     "minutes": 5,
     "countOfQuestions":14,
     "file": "Heart_3.txt"
@@ -111,7 +111,7 @@
     "id": 13,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
     "type": "3",
-    "title": "高血压自测问卷",
+    "title": "高血压自我评估问卷",
     "minutes": 5,
     "countOfQuestions": 14,
     "file": "Heart_4.txt"
@@ -120,7 +120,7 @@
     "id": 14,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
     "type": "4",
-    "title": "糖尿病风险自测",
+    "title": "自我健康评估问卷",
     "minutes": 3,
     "countOfQuestions": 10,
     "file": "Health_1.txt"
@@ -129,10 +129,7 @@
     "id": 15,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
     "type": "4",
-    "title": "饮食与健康自测",
-    "minutes": 4,
-    "countOfQuestions": 12,
-    "title": "饮食与健康自测",
+    "title": "饮食健康评估问卷",
     "minutes": 4,
     "countOfQuestions": 12,
     "file": "Health_2.txt"
@@ -141,8 +138,8 @@
     "id": 16,
     "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
     "type": "4",
-    "title": "饮酒与健康自测",
-    "minutes":3 ,
+    "title": "运动习惯评估问卷",
+    "minutes":3,
     "countOfQuestions": 10,
     "file": "Health_3.txt"
   }

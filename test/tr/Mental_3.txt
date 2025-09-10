@@ -1,0 +1,300 @@
+{
+  "id": 3,
+  "title": "Duygusal yönetim öz değerlendirmesi",
+  "description": "Duyguları etkili bir şekilde yönetmek, zihinsel refahı ve sağlıklı ilişkileri sürdürmek için çok önemlidir. Bazı insanlar doğal olarak duygularını daha iyi yönetirken, diğerleri mücadele edebilir. Duygularınızı ne kadar iyi yönettiğinizi hiç merak ettiniz mi? Bu öz değerlendirme, duygusal yönetim becerilerinizi anlamanıza ve iyileştirme alanlarını belirlemenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Duygularınız tarafından sık sık bunalmış hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Öfkenizi kontrol etmekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Baskı altında sakin kalmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Duygularınızı sağlıklı bir şekilde ifade etmekte zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Üzüntü veya depresyon duygularıyla mücadele ediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Stresle başa çıkmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Zor durumlarda olumlu kalmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Duygularınızla yüzleşmekten kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Başkalarına empati yapmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Olumsuz duygular tarafından bunalmış hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "İyi duygusal yönetim",
+      "description": "Yanıtlarınız, duygularınızı iyi yönettiğinizi göstermektedir. Duygusal sağlığınıza dikkat etmek her zaman iyi olsa da, cevaplarınız duygusal durumları şu anda etkili bir şekilde ele aldığınızı göstermektedir.",
+      "advice": "İyi duygusal yönetim teknikleri ve öz bakım uygulamaya devam edin. Duygusal düzenlemenizde değişiklikler hissederseniz, tavsiye için bir ruh sağlığı uzmanına başvurmayı düşünün."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Orta düzeyde duygusal yönetim",
+      "description": "Yanıtlarınız, duygularınızı yönetmede bazı zorluklar yaşıyor olabileceğinizi göstermektedir. Bazı cevaplarınız, duygusal düzenleme ile mücadele ettiğinizi göstermektedir.",
+      "advice": "Duygularınız hakkında bir ruh sağlığı uzmanıyla konuşmak faydalı olabilir. Size duygusal yönetim becerilerinizi ve genel refahınızı iyileştirmenize yardımcı olacak destek ve stratejiler sunabilirler."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Zayıf duygusal yönetim",
+      "description": "Yanıtlarınız, duygularınızı yönetmede önemli zorluklar yaşadığınızı göstermektedir. Cevaplarınızın çoğu, duygusal düzenleme ile mücadele ettiğinizi göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir ruh sağlığı uzmanından yardım almanız önemlidir. Uygun bir teşhis koyabilir ve duygusal yönetim zorluklarınızı ele almak için sizinle birlikte bir tedavi planı geliştirebilirler."
+    }
+  ]
+}

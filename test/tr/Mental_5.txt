@@ -1,0 +1,300 @@
+{
+  "id": 5,
+  "title": "Uyku kalitesi öz değerlendirmesi",
+  "description": "Kaliteli uyku, fiziksel ve zihinsel sağlık için çok önemlidir. Uyku sorunları günlük yaşamınızı, ruh halinizi ve genel refahınızı etkileyebilir. Uyku kaliteniz hakkında endişeleriniz var mı? Bu öz değerlendirme, uyku alışkanlıklarınızı ve kalitenizi anlamanıza yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Uykuya dalmakta zorlanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Gece boyunca uyanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Sabahları dinlenmiş uyanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Gün içinde uykulu hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Uyku saatleriniz düzensiz mi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Uyumadan önce elektronik cihaz kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Uyumadan önce kafein tüketiyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Uyku apnesi veya horlama sorununuz var mı?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Uyku ilacı kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Uyku süreniz yeterli mi? (7-9 saat)",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Evet, her zaman",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Nadiren",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hiç",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "İyi uyku kalitesi",
+      "description": "Yanıtlarınız, iyi uyku kalitesine sahip olduğunuzu göstermektedir. Uyku alışkanlıklarınıza dikkat etmek her zaman iyi olsa da, cevaplarınız şu anda sağlıklı bir uyku düzeniniz olduğunu göstermektedir.",
+      "advice": "İyi uyku hijyeni uygulamalarını sürdürün. Uyku kalitenizde değişiklikler fark ederseniz, bir sağlık uzmanıyla konuşmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde uyku sorunları",
+      "description": "Yanıtlarınız, orta düzeyde uyku sorunları yaşıyor olabileceğinizi göstermektedir. Bazı cevaplarınız, uyku alışkanlıklarınızı iyileştirmeniz gereken alanlar olduğunu göstermektedir.",
+      "advice": "Uyku hijyeninizi iyileştirmek için adımlar atmayı düşünün. Düzenli bir uyku programı oluşturun, yatak odanızı uyku için optimize edin ve uyumadan önce elektronik cihaz kullanımını sınırlayın. Sorunlar devam ederse bir uyku uzmanına danışın."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Ciddi uyku sorunları",
+      "description": "Yanıtlarınız, ciddi uyku sorunları yaşadığınızı göstermektedir. Cevaplarınızın çoğu, uyku kalitenizin düşük olduğunu ve günlük yaşamınızı etkileyebileceğini göstermektedir.",
+      "advice": "Mümkün olan en kısa sürede bir uyku uzmanından yardım almanız önemlidir. Uyku bozukluklarını teşhis edebilir ve uyku kalitenizi iyileştirmek için sizinle birlikte bir tedavi planı geliştirebilirler."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Sosyal stres öz değerlendirmesi",
+  "description": "Sosyal durumlar bazen stresli olabilir ve bu durumlar bazı insanlar için özellikle zorlayıcı olabilir. Sosyal stres seviyeniz hakkında ne düşünüyorsunuz? Bu öz değerlendirme, sosyal stresinizi anlamanıza ve yönetmenize yardımcı olabilir. Unutmayın, bu profesyonel bir teşhis değildir ve doğru veya yanlış cevaplar yoktur.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Yeni insanlarla tanışırken gergin hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Topluluk önünde konuşmaktan korkuyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Sosyal etkinliklerden kaçınıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Başkalarının sizi yargılayacağından endişeleniyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sosyal durumlarda terleme, titreme veya çarpıntı yaşıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Sosyal durumlarda kendinizi izleniyor gibi hissediyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Sosyal durumlarda kendinizi utandırmaktan korkuyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Sosyal durumlardan sonra kendinizi analiz edip duruyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Sosyal durumlarda alkol veya diğer maddeleri rahatlamak için kullanıyor musunuz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Sosyal durumlar günlük yaşamınızı etkiliyor mu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hiç",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Bazen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sık sık",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Neredeyse her zaman",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Düşük sosyal stres",
+      "description": "Yanıtlarınız, sosyal durumlarda düşük stres seviyesine sahip olduğunuzu göstermektedir. Sosyal etkileşimlerinizde rahat görünüyorsunuz ve bu durumlar günlük yaşamınızı önemli ölçüde etkilemiyor.",
+      "advice": "Sosyal becerilerinizi sürdürmeye ve geliştirmeye devam edin. Sosyal stres seviyenizde değişiklikler fark ederseniz, bir ruh sağlığı uzmanıyla konuşmayı düşünün."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Orta düzeyde sosyal stres",
+      "description": "Yanıtlarınız, sosyal durumlarda orta düzeyde stres yaşadığınızı göstermektedir. Bazı sosyal durumlarda rahat hissederken, diğerlerinde zorlanıyor olabilirsiniz.",
+      "advice": "Sosyal beceri eğitimleri veya destek gruplarına katılmayı düşünün. Yavaş yavaş kendinizi daha rahat hissettiğiniz sosyal durumlara maruz bırakmak, sosyal stresinizi azaltmanıza yardımcı olabilir."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Yüksek sosyal stres",
+      "description": "Yanıtlarınız, sosyal durumlarda yüksek stres seviyesine sahip olduğunuzu göstermektedir. Sosyal etkileşimler, günlük yaşamınızı önemli ölçüde etkiliyor olabilir.",
+      "advice": "Bir ruh sağlığı uzmanından destek almayı düşünün. Sosyal anksiyete veya sosyal fobi gibi durumlar için etkili tedaviler mevcuttur ve bir profesyonel size uygun stratejiler sunabilir."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Autovalutazione della solitudine",
+  "description": "La solitudine può colpire chiunque, indipendentemente dall'età o dal background, e riconoscerne i segni è il primo passo per affrontarla. Ti senti spesso isolato o disconnesso dagli altri? Questa autovalutazione può aiutarti a valutare i tuoi sentimenti di solitudine e comprendere meglio i tuoi bisogni sociali ed emotivi. Ricorda, questo quiz non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso isolato dagli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Senti di non avere compagnia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ti senti escluso?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Senti di non essere più vicino a nessuno?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Senti che le tue relazioni con gli altri non sono significative?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Ti senti timido o ritirato in presenza di altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Senti che le persone intorno a te non sono veramente con te?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Ti senti solo anche quando sei con altre persone?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Basso livello di solitudine",
+      "description": "Le tue risposte suggeriscono che sperimenti un basso livello di solitudine. Sebbene sia sempre bene prestare attenzione alle tue connessioni sociali, le tue risposte indicano che la solitudine non sta influenzando significativamente la tua vita in questo momento.",
+      "advice": "Continua a coltivare le tue relazioni e mantieni le connessioni sociali. Se mai dovessi notare cambiamenti nei tuoi sentimenti di solitudine, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Livello moderato di solitudine",
+      "description": "Le tue risposte suggeriscono che potresti sperimentare un livello moderato di solitudine. Alcune delle tue risposte indicano che stai lottando con sentimenti di isolamento.",
+      "advice": "Potrebbe essere utile parlare con un professionista della salute mentale dei tuoi sentimenti di solitudine. Possono offrire supporto e strategie per aiutarti a migliorare le tue connessioni sociali e il tuo benessere emotivo."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Alto livello di solitudine",
+      "description": "Le tue risposte suggeriscono che stai sperimentando un alto livello di solitudine. Molte delle tue risposte indicano che stai lottando significativamente con sentimenti di isolamento.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare la tua solitudine e migliorare il tuo benessere generale."
+    }
+  ]
+}

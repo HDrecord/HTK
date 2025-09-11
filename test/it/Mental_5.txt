@@ -1,0 +1,381 @@
+{
+  "id": 5,
+  "title": "Hai ansia sociale?",
+  "description": "L'ansia sociale può rendere le interazioni quotidiane opprimenti e stressanti. È importante riconoscere i segni e capire come influisce sulla tua vita. Ti sei mai sentito eccessivamente nervoso in situazioni sociali? Questo quiz può aiutarti a identificare i sintomi dell'ansia sociale e fornire approfondimenti sulle tue interazioni sociali. Ricorda, questo non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso nervoso o ansioso in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Eviti incontri sociali a causa della paura o dell'ansia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ti senti autocosciente in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ti preoccupi di essere giudicato o valutato dagli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sperimenti sintomi fisici come sudorazione, tremori o battito cardiaco accelerato in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trovi difficile parlare o esibirti di fronte agli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Ti preoccupi eccessivamente di metterti in imbarazzo in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Ti senti a disagio quando incontri nuove persone?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Trovi difficile mantenere il contatto visivo con gli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Eviti di essere al centro dell'attenzione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Ti senti ansioso riguardo alle interazioni sociali, anche con persone familiari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Ti preoccupi di essere umiliato o imbarazzato in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Ti senti teso o ansioso quando parli con persone in posizione di autorità?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Basso livello di ansia sociale",
+      "description": "Le tue risposte suggeriscono che sperimenti un basso livello di ansia sociale. Sebbene sia sempre bene prestare attenzione alla tua salute mentale, le tue risposte indicano che generalmente ti senti a tuo agio in situazioni sociali.",
+      "advice": "Continua a partecipare ad attività sociali e mantieni relazioni sociali sane. Se mai dovessi notare cambiamenti nel tuo livello di ansia sociale, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Livello moderato di ansia sociale",
+      "description": "Le tue risposte suggeriscono che potresti sperimentare un livello moderato di ansia sociale. Alcune delle tue risposte indicano che potresti sentirti a disagio o ansioso in determinate situazioni sociali.",
+      "advice": "Considera di praticare tecniche di rilassamento, come la respirazione profonda o la mindfulness, per aiutare a gestire la tua ansia. L'esposizione graduale a situazioni sociali può anche essere utile. Consultare un professionista della salute mentale può fornirti strategie personalizzate per migliorare il tuo comfort e la tua fiducia sociale."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Alto livello di ansia sociale",
+      "description": "Le tue risposte suggeriscono che sperimenti un alto livello di ansia sociale. Molte delle tue risposte indicano che ti senti significativamente ansioso o a disagio in situazioni sociali.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare la tua ansia sociale. Questo può includere terapia, farmaci o altri interventi come raccomandato dal tuo medico."
+    }
+  ]
+}

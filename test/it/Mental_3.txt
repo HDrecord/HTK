@@ -1,0 +1,570 @@
+{
+  "id": 3,
+  "title": "Autovalutazione della gestione emotiva",
+  "description": "Gestire efficacemente le emozioni è fondamentale per mantenere il benessere mentale e relazioni sane. Alcune persone gestiscono naturalmente meglio le proprie emozioni, mentre altre possono avere difficoltà. Ti sei mai chiesto quanto bene gestisci le tue emozioni? Questa autovalutazione può aiutarti a comprendere le tue capacità di gestione emotiva e identificare aree di miglioramento. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso sopraffatto dalle tue emozioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Trovi difficile controllare la tua rabbia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Trovi difficile rimanere calmo sotto pressione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Trovi difficile esprimere le tue emozioni in modo sano?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Hai difficoltà con sentimenti di tristezza o depressione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Hai difficoltà a gestire lo stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Trovi difficile rimanere positivo in situazioni difficili?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Eviti di confrontare le tue emozioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Trovi difficile empatizzare con gli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Ti senti sopraffatto dalle emozioni negative?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Sperimenti frequenti sbalzi d'umore?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Trovi difficile perdonare te stesso o gli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Trovi difficile superare esperienze passate?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Ti senti emotivamente esausto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Trovi difficile gestire le tue emozioni sotto stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Senti spesso di non poter gestire le tue emozioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Senti che le tue emozioni stanno influenzando le tue relazioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Trovi difficile comunicare i tuoi sentimenti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Senti di non avere supporto emotivo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Trovi difficile riprenderti da battute d'arresto emotive?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 19,
+      "title": "Buona gestione emotiva",
+      "description": "Le tue risposte suggeriscono che gestisci bene le tue emozioni. Sebbene sia sempre bene prestare attenzione alla tua salute emotiva, le tue risposte indicano che gestisci efficacemente le situazioni emotive in questo momento.",
+      "advice": "Continua a praticare buone tecniche di gestione emotiva e cura di te stesso. Se mai dovessi notare cambiamenti nella tua regolazione emotiva, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 20,
+      "end": 39,
+      "title": "Gestione emotiva moderata",
+      "description": "Le tue risposte suggeriscono che potresti avere alcune difficoltà nel gestire le tue emozioni. Alcune delle tue risposte indicano che stai lottando con la regolazione emotiva.",
+      "advice": "Potrebbe essere utile parlare con un professionista della salute mentale dei tuoi sentimenti. Possono offrire supporto e strategie per aiutarti a migliorare le tue capacità di gestione emotiva e il tuo benessere generale."
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "title": "Scarsa gestione emotiva",
+      "description": "Le tue risposte suggeriscono che stai vivendo significative difficoltà nel gestire le tue emozioni. Molte delle tue risposte indicano che stai lottando con la regolazione emotiva.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare le tue difficoltà di gestione emotiva."
+    }
+  ]
+}

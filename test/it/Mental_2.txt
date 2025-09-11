@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Autocontrollo dei sintomi d'ansia",
+  "description": "L'ansia può manifestarsi in vari modi, da una preoccupazione costante a sintomi fisici come un cuore che batte forte. È importante riconoscere questi segni precocemente per gestirli efficacemente. Ti sei mai chiesto se i tuoi sentimenti di ansia siano più del semplice stress quotidiano? Questo quiz di autocontrollo può aiutarti a identificare i sintomi comuni dell'ansia e fornire approfondimenti sul tuo benessere emotivo. Ricorda, questo quiz non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso nervoso o teso?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Hai difficoltà a controllare la tua preoccupazione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Trovi difficile rilassarti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ti senti irrequieto o incapace di stare fermo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ti irriti facilmente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Ti senti come se potesse accadere qualcosa di terribile?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Sperimenti sintomi fisici come sudorazione, tremori o battito cardiaco accelerato?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trovi difficile concentrarti a causa della preoccupazione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Eviti situazioni che ti rendono ansioso?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Senti che la tua ansia interferisce con la tua vita quotidiana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Basso livello di ansia",
+      "description": "Le tue risposte suggeriscono che attualmente stai sperimentando un basso livello di ansia. Sebbene sia sempre bene prestare attenzione alla tua salute mentale, le tue risposte indicano che la tua ansia non sta influenzando significativamente la tua vita quotidiana in questo momento.",
+      "advice": "Continua a monitorare la tua salute mentale e pratica la cura di te stesso. Se mai dovessi notare cambiamenti nel tuo umore o comportamento, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Livello moderato di ansia",
+      "description": "Le tue risposte suggeriscono che potresti sperimentare un livello moderato di ansia. Alcune delle tue risposte indicano che stai vivendo sintomi che potrebbero essere correlati all'ansia.",
+      "advice": "Potrebbe essere utile parlare con un professionista della salute mentale dei tuoi sentimenti. Possono offrire supporto e strategie per aiutarti a gestire i tuoi sintomi e migliorare il tuo benessere mentale."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Alto livello di ansia",
+      "description": "Le tue risposte suggeriscono che stai sperimentando un alto livello di ansia. Molte delle tue risposte indicano che stai vivendo sintomi significativi che potrebbero essere correlati all'ansia.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare i tuoi sintomi."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": 7,
+  "title": "Valutazione della capacità di gestione dello stress",
+  "description": "Nel nostro mondo frenetico, lo stress è un'esperienza comune, ma il modo in cui lo gestiamo può influire notevolmente sul nostro benessere generale. Sai quanto bene gestisci lo stress? Questa valutazione può aiutarti a valutare le tue capacità di gestione dello stress e fornire spunti per aree di miglioramento. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso sopraffatto dallo stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Trovi difficile rilassarti dopo un evento stressante?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Hai problemi a dormire quando sei stressato?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Trovi difficile concentrarti quando sei sotto stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sperimenti sintomi fisici come mal di testa o mal di stomaco quando sei stressato?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Ti senti irritabile o irascibile quando sei stressato?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Eviti situazioni che potrebbero causare stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trovi difficile bilanciare lavoro e vita personale?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Fai affidamento su meccanismi di coping non salutari (es. fumo, alcol) per gestire lo stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Trovi difficile mantenere un atteggiamento positivo quando sei sotto stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Ti senti ansioso o in preda al panico in situazioni stressanti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Ritieni che lo stress influisca negativamente sulla tua salute generale?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Buona capacità di gestione dello stress",
+      "description": "Le tue risposte suggeriscono che gestisci bene lo stress. Sebbene sia sempre bene essere consapevoli dei tuoi livelli di stress, le tue risposte indicano che al momento gestisci efficacemente le situazioni stressanti.",
+      "advice": "Continua a praticare buone tecniche di gestione dello stress e cura di te stesso. Se mai noti cambiamenti nella tua capacità di gestire lo stress, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Capacità moderata di gestione dello stress",
+      "description": "Le tue risposte suggeriscono che potresti avere alcune difficoltà nel gestire lo stress. Alcune delle tue risposte indicano che stai affrontando difficoltà nella gestione dello stress.",
+      "advice": "Potrebbe essere utile parlare con un professionista della salute mentale dei tuoi livelli di stress. Possono offrire supporto e strategie per aiutarti a migliorare le tue capacità di gestione dello stress e il tuo benessere generale."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Scarsa capacità di gestione dello stress",
+      "description": "Le tue risposte suggeriscono che stai vivendo significative difficoltà nel gestire lo stress. Molte delle tue risposte indicano che stai affrontando difficoltà nella gestione dello stress.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale il prima possibile. Possono fornire una diagnosi corretta e lavorare con te per sviluppare un piano di trattamento per affrontare le tue difficoltà nella gestione dello stress."
+    }
+  ]
+}

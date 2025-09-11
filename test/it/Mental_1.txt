@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Sei incline alla depressione?",
+  "description": "Nel nostro mondo frenetico, molte persone sperimentano tristezza e ansia, a volte portando alla depressione. Sospetti di poter essere incline alla depressione? Vuoi comprendere la tua salute mentale e agire? Questo quiz può aiutarti a esplorare il tuo stato emotivo e vedere se sei incline alla depressione. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso triste o senza speranza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Trovi difficile godere di attività che una volta ti piacevano?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ti senti stanco o con poca energia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Hai difficoltà a concentrarti sui compiti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ti senti in colpa o senza valore?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Hai problemi a dormire o dormi troppo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Ti senti irrequieto o hai difficoltà a stare fermo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Hai pensieri di autolesionismo o suicidio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Hai difficoltà a prendere decisioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Trovi difficile alzarti dal letto la mattina?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Basso rischio di depressione",
+      "description": "Le tue risposte suggeriscono che attualmente sei a basso rischio di depressione. Sebbene sia sempre bene prestare attenzione alla tua salute mentale, le tue risposte indicano che non stai sperimentando sintomi significativi di depressione in questo momento.",
+      "advice": "Continua a monitorare la tua salute mentale e pratica la cura di te stesso. Se mai dovessi notare cambiamenti nel tuo umore o comportamento, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Rischio moderato di depressione",
+      "description": "Le tue risposte suggeriscono che potresti essere a rischio moderato di depressione. Alcune delle tue risposte indicano che stai sperimentando sintomi che potrebbero essere correlati alla depressione.",
+      "advice": "Potrebbe essere utile parlare con un professionista della salute mentale dei tuoi sentimenti. Possono offrire supporto e strategie per aiutarti a gestire i tuoi sintomi e migliorare il tuo benessere mentale."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Alto rischio di depressione",
+      "description": "Le tue risposte suggeriscono che sei ad alto rischio di depressione. Molte delle tue risposte indicano che stai sperimentando sintomi significativi che potrebbero essere correlati alla depressione.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare i tuoi sintomi."
+    }
+  ]
+}

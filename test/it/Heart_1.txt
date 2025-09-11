@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Autovalutazione della salute del cuore",
+  "description": "Mantenere un cuore sano è vitale per il benessere generale. Comprendere la salute del tuo cuore può aiutarti a intraprendere azioni proattive per prevenire problemi cardiovascolari. Ti sei mai chiesto come sta la salute del tuo cuore? Questa autovalutazione può aiutarti a valutare la salute del tuo cuore e identificare aree che potrebbero aver bisogno di attenzione. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Sperimenti spesso mancanza di respiro?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Senti dolore o fastidio al petto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Sperimenta battiti cardiaci irregolari o palpitazioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ti senti stanco o affaticato senza una ragione apparente?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sperimenta gonfiore alle gambe, alle caviglie o ai piedi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Hai la pressione alta?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Hai livelli di colesterolo alti?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Fumi o usi prodotti del tabacco?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Hai una storia familiare di malattie cardiache?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Fai attività fisica regolare?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Segui una dieta salutare per il cuore?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Basso rischio di problemi cardiaci",
+      "description": "Le tue risposte suggeriscono che sei a basso rischio per problemi di salute cardiaca. Sebbene sia sempre bene prestare attenzione alla tua salute cardiovascolare, le tue risposte indicano che la salute del tuo cuore è attualmente in buone condizioni.",
+      "advice": "Continua a mantenere uno stile di vita salutare per il cuore facendo attività fisica regolare, seguendo una dieta equilibrata ed evitando abitudini dannose come il fumo. Controlli regolari con il tuo medico possono aiutarti a rimanere sulla buona strada."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Rischio moderato di problemi cardiaci",
+      "description": "Le tue risposte suggeriscono che potresti essere a rischio moderato per problemi di salute cardiaca. Alcune delle tue risposte indicano che ci sono aree in cui potresti migliorare la tua salute cardiovascolare.",
+      "advice": "Considera di apportare cambiamenti allo stile di vita come aumentare l'attività fisica, adottare una dieta salutare per il cuore e smettere di fumare se applicabile. Consultare un medico può fornirti consigli e strategie personalizzati per migliorare la salute del tuo cuore."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Alto rischio di problemi cardiaci",
+      "description": "Le tue risposte suggeriscono che sei ad alto rischio per problemi di salute cardiaca. Molte delle tue risposte indicano che stai sperimentando sintomi o hai fattori di rischio che potrebbero influire sulla tua salute cardiovascolare.",
+      "advice": "È importante cercare aiuto da un medico il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare la salute del tuo cuore e ridurre il rischio di gravi problemi cardiovascolari."
+    }
+  ]
+}

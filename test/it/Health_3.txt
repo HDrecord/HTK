@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Autovalutazione del consumo di alcol e della salute",
+  "description": "Comprendere le tue abitudini di consumo di alcol è importante per mantenere la tua salute e il tuo benessere. Valutare quanto spesso e quanto bevi può aiutarti a riconoscere schemi e potenziali rischi per la salute. Questa autovalutazione fornisce approfondimenti sulle tue abitudini di consumo e su come possono influire sulla tua salute generale. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Con quale frequenza consumi bevande alcoliche?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Una volta al mese o meno",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Una volta a settimana",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quotidiano o quasi quotidiano",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Quanti drink consumi in un giorno tipico in cui bevi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 o più",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Con quale frequenza consumi cinque o più drink in una sola occasione?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Meno di una volta al mese",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mensilmente",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Settimanalmente o più spesso",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Trovi difficile smettere di bere una volta iniziato?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Sperimenti voglie o un forte desiderio di bere?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trovi che il tuo consumo di alcol interferisca con le tue responsabilità al lavoro, a scuola o a casa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Hai mai provato a ridurre il tuo consumo di alcol senza riuscirci?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Continui a bere anche se causa problemi alla tua salute o alle tue relazioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Hai mai sperimentato perdita di memoria o blackout a causa del bere?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Ti senti in colpa o rimpiangente riguardo al tuo bere?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mai",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Basso rischio di problemi di salute legati all'alcol",
+      "description": "Le tue risposte suggeriscono che hai un basso rischio di sperimentare problemi di salute legati al consumo di alcol. Sebbene sia importante mantenere abitudini di consumo sane, le tue risposte indicano che i tuoi attuali livelli di consumo sono generalmente entro limiti sicuri.",
+      "advice": "Continua a monitorare il tuo consumo di alcol e assicurati di mantenere un equilibrio sano. Se hai dubbi o noti cambiamenti nelle tue abitudini di consumo, considera di parlare con un operatore sanitario per un consiglio personalizzato."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Rischio moderato di problemi di salute legati all'alcol",
+      "description": "Le tue risposte suggeriscono che potresti essere a un rischio moderato di sperimentare problemi di salute legati al consumo di alcol. Alcune delle tue risposte indicano che ci sono aree in cui potresti migliorare le tue abitudini di consumo.",
+      "advice": "Considera di ridurre il tuo consumo di alcol e di essere consapevole dei tuoi schemi di consumo. Limitare la frequenza e la quantità di alcol consumato può aiutare a ridurre il rischio di problemi di salute. Consultare un operatore sanitario può fornirti consigli e strategie personalizzati per migliorare le tue abitudini di consumo."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Alto rischio di problemi di salute legati all'alcol",
+      "description": "Le tue risposte suggeriscono che sei ad alto rischio di sperimentare problemi di salute legati al consumo di alcol. Molte delle tue risposte indicano che potresti avere problemi a causa delle tue abitudini di consumo.",
+      "advice": "È importante cercare aiuto da un operatore sanitario il prima possibile. Possono fornire una diagnosi appropriata e lavorare con te per sviluppare un piano di trattamento per affrontare le tue abitudini di consumo e ridurre il rischio di gravi problemi di salute. Questo può includere cambiamenti nello stile di vita, consulenza o altri interventi come raccomandato dal tuo medico."
+    }
+  ]
+}

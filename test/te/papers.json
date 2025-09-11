@@ -1,0 +1,84 @@
+{
+  "papers": [
+    {
+      "id": 1,
+      "title": "మానసిక ఆరోగ్య అంచనా",
+      "file": "Mental_1.txt"
+    },
+    {
+      "id": 2,
+      "title": "ఆందోళన స్థాయి",
+      "file": "Mental_2.txt"
+    },
+    {
+      "id": 3,
+      "title": "భావోద్వేగ స్థిరత్వం",
+      "file": "Mental_3.txt"
+    },
+    {
+      "id": 4,
+      "title": "ఒంటరితనం",
+      "file": "Mental_4.txt"
+    },
+    {
+      "id": 5,
+      "title": "సామాజిక సంబంధాలు",
+      "file": "Mental_5.txt"
+    },
+    {
+      "id": 6,
+      "title": "మానసిక స్థితి మూల్యాంకనం",
+      "file": "Mental_6.txt"
+    },
+    {
+      "id": 7,
+      "title": "ఒత్తిడి స్థాయి",
+      "file": "Stress_1.txt"
+    },
+    {
+      "id": 8,
+      "title": "ఒత్తిడి కారణాలు",
+      "file": "Stress_2.txt"
+    },
+    {
+      "id": 9,
+      "title": "సామాజిక ఒత్తిడి",
+      "file": "Stress_3.txt"
+    },
+    {
+      "id": 10,
+      "title": "హృదయ ఆరోగ్యం",
+      "file": "Heart_1.txt"
+    },
+    {
+      "id": 11,
+      "title": "హృదయ స్పందన",
+      "file": "Heart_2.txt"
+    },
+    {
+      "id": 12,
+      "title": "హృదయ వ్యాయామం",
+      "file": "Heart_3.txt"
+    },
+    {
+      "id": 13,
+      "title": "హృదయ పీడనం",
+      "file": "Heart_4.txt"
+    },
+    {
+      "id": 14,
+      "title": "స్వస్థత పరీక్ష",
+      "file": "Health_1.txt"
+    },
+    {
+      "id": 15,
+      "title": "ఆహార అలవాట్లు",
+      "file": "Health_2.txt"
+    },
+    {
+      "id": 16,
+      "title": "ఆరోగ్య అవగాహన",
+      "file": "Health_3.txt"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Autovalutazione dello stress sociale",
+  "description": "Le interazioni sociali possono talvolta essere una fonte di stress, influenzando il tuo benessere mentale ed emotivo. È importante riconoscere e gestire efficacemente lo stress sociale. Ti sei mai sentito stressato in situazioni sociali? Questo autovalutazione può aiutarti a identificare il livello di stress sociale che sperimenti e fornire spunti su aree che potrebbero aver bisogno di attenzione. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti nervoso o ansioso in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Eviti incontri sociali a causa di paura o ansia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ti preoccupi eccessivamente di essere giudicato o valutato dagli altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Sperimenti sintomi fisici come sudorazione, tremori o battito cardiaco accelerato in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Trovi difficile parlare o esibirti di fronte ad altri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Ti senti a disagio o imbarazzato in contesti sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Ti senti esausto o svuotato dopo interazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Trovi difficile fare conversazioni informali o parlare del più e del meno?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Eviti il contatto visivo in situazioni sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Ti senti sopraffatto dalla prospettiva di partecipare a eventi sociali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Basso livello di stress sociale",
+      "description": "Le tue risposte suggeriscono che sperimenti un basso livello di stress sociale. Sebbene sia sempre bene essere consapevoli della tua salute mentale, le tue risposte indicano che generalmente ti senti a tuo agio in situazioni sociali.",
+      "advice": "Continua a partecipare ad attività sociali e mantieni relazioni sociali sane. Se mai noti cambiamenti nel tuo livello di stress sociale, considera di contattare un professionista della salute mentale per un consiglio."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Livello moderato di stress sociale",
+      "description": "Le tue risposte suggeriscono che potresti sperimentare un livello moderato di stress sociale. Alcune delle tue risposte indicano che potresti sentirti a disagio o ansioso in determinate situazioni sociali.",
+      "advice": "Considera di praticare tecniche di rilassamento, come respirazione profonda o mindfulness, per aiutarti a gestire lo stress. Partecipare gradualmente a situazioni sociali può anche essere utile. Consultare un professionista della salute mentale può fornirti strategie personalizzate per migliorare il tuo comfort e la tua fiducia sociale."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Alto livello di stress sociale",
+      "description": "Le tue risposte suggeriscono che sperimenti un alto livello di stress sociale. Molte delle tue risposte indicano che ti senti significativamente ansioso o a disagio in situazioni sociali.",
+      "advice": "È importante cercare aiuto da un professionista della salute mentale. Possono fornire una diagnosi corretta e lavorare con te per sviluppare un piano di trattamento per affrontare il tuo stress sociale. Questo può includere terapia, farmaci o altri interventi come raccomandato dal tuo medico."
+    }
+  ]
+}

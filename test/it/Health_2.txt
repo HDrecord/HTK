@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Autovalutazione della dieta e della salute",
+  "description": "Una dieta equilibrata è fondamentale per mantenere una buona salute e prevenire varie malattie. Valutare le tue abitudini alimentari e l'apporto nutrizionale può fornire preziose informazioni sul tuo benessere generale. Questa autovalutazione ti permette di riflettere sulle tue scelte alimentari e identificare aree di miglioramento. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Mangi almeno cinque porzioni di frutta e verdura al giorno?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Limiti il consumo di snack e bevande zuccherate?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Preferisci i cereali integrali a quelli raffinati?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Includi proteine magre nella tua dieta, come pollo, pesce, fagioli o tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Eviti cibi processati e fast food?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Bevi almeno otto bicchieri d'acqua al giorno?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Limiti il consumo di carni rosse e processate?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Presti attenzione alle porzioni ed eviti di mangiare troppo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Includi grassi sani nella tua dieta, come quelli di avocado, noci e olio d'oliva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Consumi regolarmente latticini o alternative ai latticini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Limiti il consumo di sale e cibi ricchi di sodio?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Piani i tuoi pasti e spuntini in anticipo per garantire un'alimentazione equilibrata?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Abitudini alimentari scadenti",
+      "description": "Le tue risposte suggeriscono che le tue abitudini alimentari potrebbero non supportare una salute ottimale. Sebbene sia sempre bene prestare attenzione alla tua alimentazione, le tue risposte indicano che ci sono diverse aree in cui potresti migliorare la tua dieta.",
+      "advice": "Considera di apportare cambiamenti graduali alla tua dieta includendo più frutta, verdura, cereali integrali e proteine magre. Ridurre il consumo di cibi zuccherati, salati e processati può anche essere benefico. Consultare un operatore sanitario o un dietista può fornirti consigli e strategie personalizzati per migliorare le tue abitudini alimentari."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Abitudini alimentari moderate",
+      "description": "Le tue risposte suggeriscono che le tue abitudini alimentari stanno moderatamente supportando la tua salute. Sebbene tu stia facendo alcune buone scelte, ci sono aree in cui potresti migliorare la tua alimentazione per supportare meglio il tuo benessere generale.",
+      "advice": "Considera di migliorare la tua dieta includendo costantemente più frutta, verdura, cereali integrali e proteine magre. Presta attenzione alle porzioni e limita il consumo di cibi zuccherati, salati e processati. Consultare un operatore sanitario o un dietista può fornirti consigli e strategie personalizzati per migliorare ulteriormente le tue abitudini alimentari."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Buone abitudini alimentari",
+      "description": "Le tue risposte suggeriscono che hai buone abitudini alimentari che supportano la tua salute generale. Stai facendo molte scelte benefiche che contribuiscono al tuo benessere.",
+      "advice": "Continua a mantenere le tue sane abitudini alimentari includendo regolarmente una varietà di frutta, verdura, cereali integrali, proteine magre e grassi sani nella tua dieta. Continua così e ricorda di rivedere e adattare periodicamente la tua dieta secondo necessità per garantire che continui a soddisfare le tue esigenze nutrizionali. Consultare un operatore sanitario o un dietista può aiutarti a perfezionare le tue abitudini alimentari per una salute ottimale."
+    }
+  ]
+}

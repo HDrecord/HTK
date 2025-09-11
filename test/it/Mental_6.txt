@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Valuta la tua felicità",
+  "description": "La felicità è un aspetto vitale del benessere generale e comprendere cosa contribuisce alla tua felicità può aiutarti a vivere una vita più appagante. Ti sei mai chiesto quanto sei veramente felice? Questo quiz può aiutarti a valutare il tuo attuale livello di felicità e identificare aree che potrebbero aver bisogno di attenzione. Ricorda, questa non è una diagnosi professionale e non ci sono risposte giuste o sbagliate.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Ti senti spesso soddisfatto della tua vita?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Senti un senso di scopo nelle tue attività quotidiane?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Hai generalmente una visione positiva della vita?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Sei soddisfatto delle tue relazioni personali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Senti un senso di realizzazione nel tuo lavoro o nei tuoi progetti personali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Trovi gioia nelle tue attività quotidiane?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Sei in pace con le tue decisioni ed esperienze passate?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Senti di avere il controllo sulla tua vita e sulle tue decisioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Per niente",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "A volte",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Spesso",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Quasi sempre",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Basso livello di felicità",
+      "description": "Le tue risposte suggeriscono che stai sperimentando un basso livello di felicità. Sebbene sia sempre bene prestare attenzione al tuo benessere emotivo, le tue risposte indicano che potresti trarre beneficio da strategie per migliorare la tua felicità generale.",
+      "advice": "Considera di cercare supporto da un professionista della salute mentale per esplorare modi per migliorare la tua felicità e il tuo benessere generale. Possono fornire guida e strategie per aiutarti a raggiungere una vita più appagante e gioiosa."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Livello moderato di felicità",
+      "description": "Le tue risposte suggeriscono che hai un livello moderato di felicità. Sebbene sperimenti momenti di gioia e soddisfazione, potrebbero esserci aree della tua vita in cui potresti trarre beneficio da ulteriori miglioramenti.",
+      "advice": "Considera di esplorare attività e pratiche che migliorano la tua felicità, come hobby, connessioni sociali e tecniche di mindfulness. Parlare con un professionista della salute mentale può anche fornire preziose intuizioni e supporto."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Alto livello di felicità",
+      "description": "Le tue risposte suggeriscono che stai sperimentando un alto livello di felicità. Sembri avere una visione positiva della vita e ti senti soddisfatto di vari aspetti della tua vita.",
+      "advice": "Continua a coltivare la tua felicità mantenendo un sano equilibrio nella tua vita, impegnandoti in attività che ti portano gioia e coltivando relazioni significative. Continua così e goditi il tuo stato positivo di benessere."
+    }
+  ]
+}

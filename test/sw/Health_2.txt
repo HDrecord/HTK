@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Tathmini ya Lishe na Afya",
+  "description": "Lishe yenye usawa ni muhimu kwa kudumisha afya njema na kuzuia magonjwa mbalimbali. Kutathmini tabia zako za kula na ulaji wa virutubisho kunaweza kutoa ufahamu wa thamani kuhusu ustawi wako wa jumla. Tathmini hii ya kibinafsi inakuruhusu kutafakari juu ya chaguo lako la lishe na kutambua maeneo ambayo yanaweza kuhitaji kuboreshwa. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, unakula angalau sehemu tano za matunda na mboga kila siku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unapunguza ulaji wako wa vitafunwa vyenye sukari au vinywaji?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unachagua nafaka nzima badala ya nafaka zilizosafishwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unajumuisha protini nyepesi katika lishe yako, kama vile kuku, samaki, maharagwe, au tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unaepuka vyakula vilivyochakatwa na vyakula vya haraka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unakunywa angalau glasi nane za maji kila siku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unapunguza ulaji wako wa nyama nyekundu na nyama zilizochakatwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unazingatia ukubwa wa sehemu na kuepuka kula kupita kiasi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unajumuisha mafuta yenye afya katika lishe yako, kama vile yale kutoka kwa parachichi, karanga, na mafuta ya zeituni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unakula bidhaa za maziwa au vinginevyo vya maziwa mara kwa mara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unapunguza ulaji wako wa chumvi na vyakula vilivyo na sodiamu nyingi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Je, unapanga mlo wako na vitafunwa mapema ili kuhakikisha lishe yenye usawa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Tabia mbaya za lishe",
+      "description": "Majibu yako yanaonyesha kuwa tabia zako za lishe zinaweza kusaidia afya bora. Ingawa ni vizuri kuwa makini kuhusu lishe yako, majibu yako yanaonyesha kuwa kuna maeneo kadhaa ambayo unaweza kuboresha lishe yako.",
+      "advice": "Fikiria kufanya mabadiliko ya hatua kwa hatua kwa lishe yako kwa kujumuisha zaidi matunda, mboga, nafaka nzima, na protini nyepesi. Kupunguza ulaji wako wa vyakula vilivyo na sukari, chumvi, na vilivyochakatwa pia kunaweza kuwa na manufaa. Kushauriana na mtaalamu wa afya au mtaalamu wa lishe kunaweza kutoa ushauri wa kibinafsi na mikakati ya kuboresha tabia zako za lishe."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Tabia za wastani za lishe",
+      "description": "Majibu yako yanaonyesha kuwa tabia zako za lishe zinasaidia kwa kiasi afya yako. Ingawa unafanya baadhi ya chaguo nzuri, kuna maeneo ambapo unaweza kuboresha lishe yako ili kusaidia zaidi ustawi wako wa jumla.",
+      "advice": "Fikiria kuboresha lishe yako kwa kujumuisha kwa uthabiti zaidi matunda, mboga, nafaka nzima, na protini nyepesi. Zingatia ukubwa wa sehemu na kuepuka vyakula vilivyo na sukari, chumvi, na vilivyochakatwa. Kushauriana na mtaalamu wa afya au mtaalamu wa lishe kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuendelea kuboresha tabia zako za lishe."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Tabia nzuri za lishe",
+      "description": "Majibu yako yanaonyesha kuwa una tabia nzuri za lishe zinazosaidia afya yako ya jumla. Unafanya chaguo nzuri nyingi ambazo zinachangia kwa ustawi wako.",
+      "advice": "Endelea kudumisha tabia zako nzuri za lishe kwa kujumuisha kwa mara kwa mara aina mbalimbali za matunda, mboga, nafaka nzima, protini nyepesi, na mafuta yenye afya katika lishe yako. Endelea kazi nzuri, na kumbuka kukagua na kurekebisha lishe yako kadri inavyohitajika ili kuhakikisha inaendelea kukidhi mahitaji yako ya lishe. Kushauriana na mtaalamu wa afya au mtaalamu wa lishe kunaweza kukusaidia kuboresha zaidi tabia zako za lishe kwa afya bora."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Tathmini ya mfadhaiko na wasiwasi",
+  "description": "Mfadhaiko na wasiwasi ni sehemu ya kawaida ya maisha, lakini inapozidi kunaweza kuathiri afya yako ya akili na mwili. Kuelewa kiwango chako cha mfadhaiko na wasiwasi kunaweza kukusaidia kutambua wakati wa kutafuta msaada. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini kiwango chako cha sasa cha mfadhaiko na wasiwasi. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi kuwa una mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kuwa una wasiwasi au hofu bila sababu ya wazi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kudhibiti mawazo yako ya wasiwasi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuwa mawazo yako ya wasiwasi yanakusumbua?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kukabiliana na mfadhaiko wako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakusumbua?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya kazi vizuri licha ya mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufurahia mambo licha ya mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kukumbuka mambo vizuri licha ya mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya maamuzi mazuri licha ya mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Kiwango cha chini cha mfadhaiko na wasiwasi",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha chini cha mfadhaiko na wasiwasi. Unaweza kukabiliana na mfadhaiko na wasiwasi kwa urahisi, na unaweza kufanya kazi vizuri licha ya mfadhaiko.",
+      "advice": "Endelea kudumisha mwenendo wako wa maisha yenye afya kwa kufanya shughuli za kimwili mara kwa mara, kufuata lishe bora, na kudhibiti mafadhaiko kwa ufanisi. Uchunguzi wa mara kwa mara na mtaalamu wako wa afya ya akili unaweza kukusaidia kukaa kwenye njia."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Kiwango cha wastani cha mfadhaiko na wasiwasi",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha wastani cha mfadhaiko na wasiwasi. Unaweza kukabiliana na mfadhaiko na wasiwasi, lakini kuna maeneo ambayo yanaweza kuhitaji umakini zaidi.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama vile kuongeza shughuli zako za kimwili, kufuata lishe yenye afya, na kudhibiti mafadhaiko zaidi. Kushauriana na mtaalamu wa afya ya akili kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha uwezo wako wa kukabiliana na mfadhaiko na wasiwasi."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Kiwango cha juu cha mfadhaiko na wasiwasi",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha juu cha mfadhaiko na wasiwasi. Unaweza kuwa na shida ya kukabiliana na mfadhaiko na wasiwasi, na unaweza kuwa na shida ya kufanya kazi vizuri licha ya mfadhaiko.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia mfadhaiko na wasiwasi na kuboresha uwezo wako wa kukabiliana na mafadhaiko."
+    }
+  ]
+}

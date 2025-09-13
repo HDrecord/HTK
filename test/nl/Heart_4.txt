@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Zelfevaluatie vragenlijst voor hypertensie",
+  "description": "Het beheersen van hoge bloeddruk is cruciaal om ernstige gezondheidsproblemen te voorkomen. Regelmatig uw bloeddruk controleren en uw risicofactoren begrijpen kan u helpen gezond te blijven. Deze vragenlijst stelt u in staat uw huidige situatie te beoordelen en inzichten te krijgen in het behoud van gezonde bloeddrukwaarden. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Heeft u vaak last van hoofdpijn?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Voelt u zich duizelig of licht in het hoofd?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ervaart u wazig zien?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Voelt u zich kortademig tijdens routineactiviteiten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Voelt u een bonzend gevoel in uw borst, nek of oren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u moeite met slapen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u een familiegeschiedenis van hoge bloeddruk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rookt u of gebruikt u tabaksproducten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Drinkt u frequent alcohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Heeft u veel stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Sport u regelmatig?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Volgt u een gezond dieet?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Heeft u een hoog cholesterolgehalte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Gebruikt u medicijnen voor hoge bloeddruk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Laag risico op hypertensie",
+      "description": "Uw antwoorden suggereren dat u een laag risico loopt op hypertensie. Hoewel het altijd goed is om bewust te zijn van uw cardiovasculaire gezondheid, geven uw antwoorden aan dat uw bloeddruk momenteel binnen een gezond bereik valt.",
+      "advice": "Blijf een gezonde levensstijl behouden door regelmatig te bewegen, een gebalanceerd dieet te volgen, stress effectief te beheren en schadelijke gewoonten zoals roken en overmatig alcoholgebruik te vermijden. Regelmatige controles bij uw zorgverlener kunnen u helpen op koers te blijven."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Matig risico op hypertensie",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op hypertensie. Sommige van uw antwoorden geven aan dat er gebieden zijn waar u uw cardiovasculaire gezondheid zou kunnen verbeteren.",
+      "advice": "Overweeg levensstijlveranderingen zoals het verhogen van uw fysieke activiteit, het aannemen van een gezonder dieet, stoppen met roken indien van toepassing, het verminderen van alcoholgebruik en effectiever omgaan met stress. Overleg met een zorgverlener kan u voorzien van persoonlijk advies en strategieën om uw bloeddruk te verbeteren."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Hoog risico op hypertensie",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op hypertensie. Veel van uw antwoorden geven aan dat u symptomen of risicofactoren ervaart die uw cardiovasculaire gezondheid kunnen beïnvloeden.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een zorgverlener. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw bloeddruk aan te pakken en uw risico op ernstige cardiovasculaire problemen te verminderen. Dit kan levensstijlveranderingen, medicatie of andere interventies omvatten zoals aanbevolen door uw arts."
+    }
+  ]
+}

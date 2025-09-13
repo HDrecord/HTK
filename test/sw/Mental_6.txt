@@ -1,0 +1,300 @@
+{
+  "id": 6,
+  "title": "Tathmini ya mwenendo wa chakula na lishe",
+  "description": "Mwenendo wa chakula na lishe ni muhimu kwa afya yako ya jumla. Kuelewa mwenendo wako wa sasa wa chakula na lishe kunaweza kukusaidia kutambua maeneo ambayo yanaweza kuhitaji mabadiliko. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini mwenendo wako wa chakula na lishe. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, unakula vyakula vya afya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unakula matunda na mboga za kutosha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unakula vyakula vya protini kwa kutosha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unakula vyakula vya wanga kwa kutosha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unakula vyakula vya mafuta ya afya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unakunywa maji ya kutosha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unakula vyakula vya mafuta mengi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana, kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara chache",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unakula vyakula vya sukari nyingi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana, kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara chache",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unakula vyakula vya chumvi nyingi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana, kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara chache",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unakula vyakula vya kutosha kwa siku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Mwenendo mzuri wa chakula na lishe",
+      "description": "Majibu yako yanaonyesha kuwa una mwenendo mzuri wa chakula na lishe. Unakula vyakula vya afya na kwa kiasi cha kutosha.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa chakula na lishe kwa kufuata mlo kamili na wenye afya, na kuhakikisha unakula vyakula vya aina mbalimbali."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Mwenendo wa wastani wa chakula na lishe",
+      "description": "Majibu yako yanaonyesha kuwa una mwenendo wa wastani wa chakula na lishe. Unakula baadhi ya vyakula vya afya, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
+      "advice": "Fikiria kuboresha mwenendo wako wa chakula na lishe kwa kuongeza matunda na mboga, kupunguza vyakula vya mafuta na sukari, na kuhakikisha unakula vyakula vya aina mbalimbali."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Mwenendo duni wa chakula na lishe",
+      "description": "Majibu yako yanaonyesha kuwa una mwenendo duni wa chakula na lishe. Unaweza kuwa na shida ya kula vyakula vya afya au kwa kiasi cha kutosha.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa lishe haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha mwenendo wako wa chakula na lishe."
+    }
+  ]
+}

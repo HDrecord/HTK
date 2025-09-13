@@ -1,0 +1,300 @@
+{
+  "id": 3,
+  "title": "Tathmini ya usingizi",
+  "description": "Usingizi wa kutosha ni muhimu kwa afya yako ya akili na mwili. Kukosa usingizi wa kutosha kunaweza kuathiri utendaji wako wa kila siku na uwezo wako wa kukabiliana na mafadhaiko. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini hali yako ya sasa ya usingizi. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, unapata usingizi wa kutosha kila usiku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila usiku",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kupumzika baada ya kulala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, una shida ya kuanza kulala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, una shida ya kuendelea kulala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unamwaga usingizi wakati wa mchana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa usingizi wako hautoshi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa usingizi wako hauna ubora?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa usingizi wako hauna muda wa kutosha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa usingizi wako hauna ufanisi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa usingizi wako hauna matokeo mazuri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Usingizi wa kutosha na wa ubora",
+      "description": "Majibu yako yanaonyesha kuwa unapata usingizi wa kutosha na wa ubora. Unaweza kupumzika vizuri na kuwa na nishati ya kutosha kwa shughuli za kila siku.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa usingizi kwa kufuata ratiba ya kulala na kuamka, kuepuka vifaa vya elektroniki kabla ya kulala, na kuhakikisha mazingira yako ya kulala yana ukomo na utulivu."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Usingizi wa wastani",
+      "description": "Majibu yako yanaonyesha kuwa unapata usingizi wa wastani. Unaweza kupata usingizi wa kutosha, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
+      "advice": "Fikiria kuboresha mwenendo wako wa usingizi kwa kufuata ratiba ya kulala, kupunguza matumizi ya vifaa vya elektroniki kabla ya kulala, na kuhakikisha mazingira yako ya kulala yana ukomo na utulivu."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Shida ya usingizi",
+      "description": "Majibu yako yanaonyesha kuwa una shida ya usingizi. Unaweza kuwa na shida ya kupata usingizi wa kutosha au wa ubora, na hii inaweza kuathiri utendaji wako wa kila siku.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa usingizi haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha ubora na muda wa usingizi wako."
+    }
+  ]
+}

@@ -1,31 +1,31 @@
 {
   "id": 3,
-  "title": "情绪管理自我评估",
-  "description": "有效管理情绪对于保持心理健康和健康关系至关重要。有些人天生能更好地处理情绪，而有些人可能会遇到困难。你是否曾想过自己管理情绪的能力如何？这个自我评估可以帮助你了解自己的情绪管理技能，并找出需要改进的地方。请记住，这不是专业诊断，也没有对错之分。",
+  "title": "Samocena zarządzania emocjami",
+  "description": "Skuteczne zarządzanie emocjami jest kluczowe dla utrzymania dobrego samopoczucia psychicznego i zdrowych relacji. Niektórzy ludzie naturalnie lepiej radzą sobie ze swoimi emocjami, podczas gdy inni mogą mieć trudności. Czy kiedykolwiek zastanawiałeś się, jak dobrze radzisz sobie ze swoimi emocjami? Ta samocena może pomóc Ci zrozumieć Twoje umiejętności zarządzania emocjami i zidentyfikować obszary wymagające poprawy. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
   "questions": [
     {
       "id": 1,
       "type": 1,
-      "question": "你是否经常感到被情绪压垮？",
+      "question": "Czy często czujesz się przytłoczony swoimi emocjami?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -33,26 +33,26 @@
     {
       "id": 2,
       "type": 1,
-      "question": "你是否难以控制自己的愤怒？",
+      "question": "Czy trudno Ci kontrolować swój gniew?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -60,26 +60,26 @@
     {
       "id": 3,
       "type": 1,
-      "question": "你是否在压力下难以保持冷静？",
+      "question": "Czy trudno Ci zachować spokój pod presją?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -87,26 +87,26 @@
     {
       "id": 4,
       "type": 1,
-      "question": "你是否发现难以用健康的方式表达情绪？",
+      "question": "Czy trudno Ci wyrażać swoje emocje w zdrowy sposób?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Cczasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -114,26 +114,26 @@
     {
       "id": 5,
       "type": 1,
-      "question": "你是否与悲伤或抑郁的感觉作斗争？",
+      "question": "Czy zmagasz się z uczuciem smutku lub depresji?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -141,26 +141,26 @@
     {
       "id": 6,
       "type": 1,
-      "question": "你是否难以应对压力？",
+      "question": "Czy masz trudności z radzeniem sobie ze stresem?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -168,26 +168,26 @@
     {
       "id": 7,
       "type": 1,
-      "question": "你是否发现在困难情况下难以保持积极态度？",
+      "question": "Czy trudno Ci zachować pozytywne nastawienie w trudnych sytuacjach?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -195,26 +195,26 @@
     {
       "id": 8,
       "type": 1,
-      "question": "你是否回避面对自己的情绪？",
+      "question": "Czy unikasz konfrontacji ze swoimi emocjami?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -222,26 +222,26 @@
     {
       "id": 9,
       "type": 1,
-      "question": "你是否发现难以与他人共情？",
+      "question": "Czy trudno Ci współczuć innym?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -249,26 +249,26 @@
     {
       "id": 10,
       "type": 1,
-      "question": "你是否被负面情绪压垮？",
+      "question": "Czy czujesz się przytłoczony negatywnymi emocjami?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -276,26 +276,26 @@
     {
       "id": 11,
       "type": 1,
-      "question": "你是否经常有情绪波动？",
+      "question": "Czy doświadczasz częstych wahań nastroju?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -303,26 +303,26 @@
     {
       "id": 12,
       "type": 1,
-      "question": "你是否难以原谅自己或他人？",
+      "question": "Czy trudno Ci wybaczyć sobie lub innym?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -330,26 +330,26 @@
     {
       "id": 13,
       "type": 1,
-      "question": "你是否难以从过去的经历中走出来？",
+      "question": "Czy trudno Ci przejść do porządku dziennego nad przeszłymi doświadczeniami?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -357,26 +357,26 @@
     {
       "id": 14,
       "type": 1,
-      "question": "你是否感到情绪上精疲力尽？",
+      "question": "Czy czujesz się emocjonalnie wyczerpany?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -384,26 +384,26 @@
     {
       "id": 15,
       "type": 1,
-      "question": "在压力下你是否难以管理情绪？",
+      "question": "Czy trudno Ci zarządzać swoimi emocjami pod wpływem stresu?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -411,26 +411,26 @@
     {
       "id": 16,
       "type": 1,
-      "question": "你是否经常觉得无法控制自己的情绪？",
+      "question": "Czy często czujesz, że nie radzisz sobie ze swoimi emocjami?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -438,26 +438,26 @@
     {
       "id": 17,
       "type": 1,
-      "question": "你是否觉得情绪影响了你的关系？",
+      "question": "Czy czujesz, że Twoje emocje wpływają na Twoje relacje?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -465,26 +465,26 @@
     {
       "id": 18,
       "type": 1,
-      "question": "你是否难以表达自己的感受？",
+      "question": "Czy trudno Ci komunikować swoje uczucia?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -492,26 +492,26 @@
     {
       "id": 19,
       "type": 1,
-      "question": "你是否感到缺乏情感支持？",
+      "question": "Czy czujesz, że brakuje Ci wsparcia emocjonalnego?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -519,26 +519,26 @@
     {
       "id": 20,
       "type": 1,
-      "question": "你是否难以从情感挫折中恢复？",
+      "question": "Czy trudno Ci odzyskać równowagę po emocjonalnych porażkach?",
       "answers": [
         {
           "id": 1,
-          "answer": "完全没有",
+          "answer": "Wcale nie",
           "score": 0
         },
         {
           "id": 2,
-          "answer": "有时",
+          "answer": "Czasami",
           "score": 1
         },
         {
           "id": 3,
-          "answer": "经常",
+          "answer": "Często",
           "score": 2
         },
         {
           "id": 4,
-          "answer": "几乎总是",
+          "answer": "Prawie zawsze",
           "score": 3
         }
       ]
@@ -548,23 +548,23 @@
     {
       "start": 0,
       "end": 19,
-      "title": "良好的情绪管理",
-      "description": "你的回答表明你能够很好地管理情绪。虽然关注情绪健康总是好的，但你的答案表明你目前能有效处理情绪状况。",
-      "advice": "继续练习良好的情绪管理技巧和自我照顾。如果你感到情绪调节有任何变化，考虑寻求心理健康专业人士的建议。"
+      "title": "Dobre zarządzanie emocjami",
+      "description": "Twoje odpowiedzi sugerują, że dobrze radzisz sobie ze swoimi emocjami. Chociaż zawsze warto być świadomym swojego zdrowia emocjonalnego, Twoje odpowiedzi wskazują, że skutecznie radzisz sobie z sytuacjami emocjonalnymi w tym czasie.",
+      "advice": "Kontynuuj praktykowanie dobrych technik zarządzania emocjami i dbanie o siebie. Jeśli kiedykolwiek poczujesz zmiany w regulacji emocji, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
     },
     {
       "start": 20,
       "end": 39,
-      "title": "中等的情绪管理",
-      "description": "你的回答表明你可能在管理情绪方面遇到一些困难。你的一些答案表明你在情绪调节方面遇到困难。",
-      "advice": "与心理健康专业人士谈谈你的感受可能会有所帮助。他们可以提供支持并帮助你提高情绪管理技能和整体幸福感。"
+      "title": "Umiarkowane zarządzanie emocjami",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać pewnych trudności w zarządzaniu swoimi emocjami. Niektóre z Twoich odpowiedzi wskazują, że zmagasz się z regulacją emocji.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o swoich uczuciach. Mogą zaoferować wsparcie i strategie pomagające w poprawie umiejętności zarządzania emocjami i ogólnego samopoczucia."
     },
     {
       "start": 40,
       "end": 60,
-      "title": "较差的情绪管理",
-      "description": "你的回答表明你在管理情绪方面遇到显著困难。你的许多答案表明你在情绪调节方面遇到困难。",
-      "advice": "尽快寻求心理健康专业人士的帮助非常重要。他们可以提供正确的诊断并与你一起制定治疗计划来解决你的情绪管理困难。"
+      "title": "Słabe zarządzanie emocjami",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz znaczących trudności w zarządzaniu swoimi emocjami. Wiele Twoich odpowiedzi wskazuje, że zmagasz się z regulacją emocji.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia."
     }
   ]
 }

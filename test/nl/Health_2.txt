@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Zelfevaluatie van voeding en gezondheid",
+  "description": "Een gebalanceerd dieet is essentieel voor het behoud van een goede gezondheid en het voorkomen van verschillende ziekten. Het evalueren van uw eetgewoonten en voedingsinname kan waardevolle inzichten geven in uw algehele welzijn. Deze zelfevaluatie stelt u in staat om na te denken over uw voedingskeuzes en gebieden voor verbetering te identificeren. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Eet u dagelijks minstens vijf porties fruit en groenten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Beperkt u uw inname van suikerhoudende snacks en dranken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Kiest u volkoren producten boven geraffineerde granen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Neemt u magere eiwitten op in uw dieet, zoals kip, vis, bonen of tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Vermijdt u bewerkte en fastfood?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Drinkt u minstens acht glazen water per dag?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Beperkt u uw inname van rood en bewerkt vlees?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Let u op portiegroottes en vermijdt u te veel eten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Neemt u gezonde vetten op in uw dieet, zoals avocado's, noten en olijfolie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Consumeert u regelmatig zuivelproducten of zuivelalternatieven?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Beperkt u uw inname van zout en zoutrijk voedsel?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Plant u uw maaltijden en snacks van tevoren om een gebalanceerde voeding te garanderen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Slechte voedingsgewoonten",
+      "description": "Uw antwoorden suggereren dat uw voedingsgewoonten mogelijk niet optimaal zijn voor uw gezondheid. Hoewel het altijd goed is om bewust te zijn van uw voeding, geven uw antwoorden aan dat er verschillende gebieden zijn waar u uw dieet zou kunnen verbeteren.",
+      "advice": "Overweeg geleidelijke veranderingen in uw dieet door meer fruit, groenten, volkoren producten en magere eiwitten op te nemen. Het verminderen van uw inname van suikerrijk, zout en bewerkt voedsel kan ook gunstig zijn. Overleg met een zorgverlener of diëtist kan persoonlijk advies en strategieën bieden om uw voedingsgewoonten te verbeteren."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Matige voedingsgewoonten",
+      "description": "Uw antwoorden suggereren dat uw voedingsgewoonten matig ondersteunend zijn voor uw gezondheid. Hoewel u enkele goede keuzes maakt, zijn er gebieden waar u uw voeding zou kunnen verbeteren om uw algehele welzijn beter te ondersteunen.",
+      "advice": "Overweeg uw dieet te verbeteren door consequent meer fruit, groenten, volkoren producten en magere eiwitten op te nemen. Let op portiegroottes en beperk uw inname van suikerrijk, zout en bewerkt voedsel. Overleg met een zorgverlener of diëtist kan u voorzien van persoonlijk advies en strategieën om uw voedingsgewoonten verder te verbeteren."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Goede voedingsgewoonten",
+      "description": "Uw antwoorden suggereren dat u goede voedingsgewoonten heeft die uw algehele gezondheid ondersteunen. U maakt veel gunstige keuzes die bijdragen aan uw welzijn.",
+      "advice": "Blijf uw gezonde voedingsgewoonten behouden door regelmatig een verscheidenheid aan fruit, groenten, volkoren producten, magere eiwitten en gezonde vetten in uw dieet op te nemen. Ga zo door en onthoud om uw dieet periodiek te evalueren en aan te passen om ervoor te zorgen dat het blijft voldoen aan uw voedingsbehoeften. Overleg met een zorgverlener of diëtist kan u helpen uw voedingsgewoonten te verfijnen voor een optimale gezondheid."
+    }
+  ]
+}

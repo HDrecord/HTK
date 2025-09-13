@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Samokontrola choroby wieńcowej",
+  "description": "Choroba wieńcowa (CHD) to poważny stan, który może prowadzić do znaczących problemów zdrowotnych, jeśli nie jest odpowiednio zarządzany. Wczesne wykrycie czynników ryzyka jest kluczowe dla zapobiegania i leczenia. Czy martwisz się o swoje ryzyko wystąpienia CHD? Ta samokontrola może pomóc Ci zidentyfikować potencjalne czynniki ryzyka i lepiej zrozumieć zdrowie swojego serca. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często doświadczasz duszności?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy odczuwasz ból lub dyskomfort w klatce piersiowej?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy doświadczasz nieregularnego bicia serca lub kołatania serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy czujesz się zmęczony/a lub wyczerpany/a bez wyraźnego powodu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy doświadczasz obrzęków nóg, kostek lub stóp?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy masz wysokie ciśnienie krwi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy masz wysoki poziom cholesterolu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy palisz lub używasz wyrobów tytoniowych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy w Twojej rodzinie występowała choroba wieńcowa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy regularnie uprawiasz aktywność fizyczną?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy stosujesz dietę korzystną dla serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy skutecznie radzisz sobie ze stresem?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Czy masz cukrzycę lub wysoki poziom cukru we krwi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Czy doświadczasz zawrotów głowy lub uczucia omdlewania?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Niskie ryzyko choroby wieńcowej",
+      "description": "Twoje odpowiedzi sugerują, że masz niskie ryzyko wystąpienia choroby wieńcowej. Chociaż zawsze warto być świadomym swojego zdrowia sercowo-naczyniowego, Twoje odpowiedzi wskazują, że zdrowie Twojego serca jest obecnie w dobrej kondycji.",
+      "advice": "Kontynuuj prowadzenie zdrowego stylu życia poprzez regularną aktywność fizyczną, zbilansowaną dietę, skuteczne zarządzanie stresem i unikanie szkodliwych nawyków, takich jak palenie. Regularne badania kontrolne u lekarza mogą pomóc Ci utrzymać dobrą kondycję."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Umiarkowane ryzyko choroby wieńcowej",
+      "description": "Twoje odpowiedzi sugerują, że możesz być narażony/a na umiarkowane ryzyko wystąpienia choroby wieńcowej. Niektóre z Twoich odpowiedzi wskazują, że istnieją obszary, w których możesz poprawić zdrowie swojego serca.",
+      "advice": "Rozważ wprowadzenie zmian w stylu życia, takich jak zwiększenie aktywności fizycznej, przyjęcie diety korzystnej dla serca, rzucenie palenia, jeśli dotyczy, i bardziej skuteczne zarządzanie stresem. Konsultacja z lekarzem może dostarczyć indywidualnych porad i strategii poprawy zdrowia serca."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Wysokie ryzyko choroby wieńcowej",
+      "description": "Twoje odpowiedzi sugerują, że jesteś narażony/a na wysokie ryzyko wystąpienia choroby wieńcowej. Wiele Twoich odpowiedzi wskazuje, że doświadczasz objawów lub masz czynniki ryzyka, które mogą wpływać na zdrowie Twojego serca.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do lekarza. Mogą oni postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia, który pomoże w rozwiązaniu problemów z sercem i zmniejszeniu ryzyka poważnych problemów sercowo-naczyniowych. Może to obejmować zmiany stylu życia, leki lub inne interwencje zalecane przez lekarza."
+    }
+  ]
+}

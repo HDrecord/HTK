@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Samokontrola objawów lękowych",
+  "description": "Lęk może objawiać się na różne sposoby, od ciągłego niepokoju po fizyczne objawy, takie jak przyspieszone bicie serca. Ważne jest, aby wcześnie rozpoznać te oznaki, aby skutecznie nimi zarządzać. Czy kiedykolwiek zastanawiałeś się, czy Twoje uczucie niepokoju to coś więcej niż codzienny stres? Ten quiz samokontroli może pomóc Ci zidentyfikować typowe objawy lękowe i zapewnić wgląd w Twoje samopoczucie emocjonalne. Pamiętaj, że ten quiz nie jest profesjonalną diagnozą i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się nerwowy lub spięty?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy masz trudności z kontrolowaniem swojego niepokoju?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy trudno Ci się zrelaksować?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy czujesz się niespokojny lub nie jesteś w stanie usiedzieć w miejscu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy łatwo się denerwujesz lub irytujesz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy czujesz strach, jakby miało się wydarzyć coś strasznego?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy doświadczasz fizycznych objawów, takich jak pocenie się, drżenie lub przyspieszone bicie serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy masz trudności z koncentracją z powodu niepokoju?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Cczasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy unikasz sytuacji, które wywołują u Ciebie niepokój?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy czujesz, że Twój niepokój zakłóca Twoje codzienne życie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Niski poziom lęku",
+      "description": "Twoje odpowiedzi sugerują, że obecnie doświadczasz niskiego poziomu lęku. Chociaż zawsze warto być świadomym swojego zdrowia psychicznego, Twoje odpowiedzi wskazują, że Twój lęk nie wpływa znacząco na Twoje codzienne życie w tym czasie.",
+      "advice": "Nadal monitoruj swoje zdrowie psychiczne i dbaj o siebie. Jeśli kiedykolwiek poczujesz zmiany w nastroju lub zachowaniu, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Umiarkowany poziom lęku",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać umiarkowanego poziomu lęku. Niektóre z Twoich odpowiedzi wskazują, że doświadczasz objawów, które mogą być związane z lękiem.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o swoich uczuciach. Mogą zaoferować wsparcie i strategie pomagające w zarządzaniu objawami i poprawie samopoczucia psychicznego."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Wysoki poziom lęku",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz wysokiego poziomu lęku. Wiele Twoich odpowiedzi wskazuje, że doświadczasz znaczących objawów, które mogą być związane z lękiem.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Tathmini ya afya ya akili",
+  "description": "Afya ya akili ni sehemu muhimu ya ustawi wako wa jumla. Kuelewa hali yako ya sasa ya afya ya akili kunaweza kukusaidia kutambua maeneo ambayo yanaweza kuhitaji umakini zaidi. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini hali yako ya afya ya akili na kupata ufahamu wa kimsingi wa jinsi unavyohisi na kufanya kazi. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi furaha na utulivu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kuwa una nguvu za kufanya mambo unayotaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo kwa urahisi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya maamuzi mazuri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kukabiliana na mabadiliko ya maisha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kukabiliana na mafadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya kazi vizuri kwa siku nzima?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mambo kwa urahisi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mazoezi ya kimwili?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya kazi vizuri kwa siku nzima?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Afya nzuri ya akili",
+      "description": "Majibu yako yanaonyesha kuwa una afya nzuri ya akili. Unaweza kukabiliana na mafadhaiko na mabadiliko ya maisha kwa urahisi, na unaweza kufanya kazi vizuri kwa siku nzima.",
+      "advice": "Endelea kudumisha mwenendo wako wa maisha yenye afya kwa kufanya shughuli za kimwili mara kwa mara, kufuata lishe bora, na kudhibiti mafadhaiko kwa ufanisi. Uchunguzi wa mara kwa mara na mtaalamu wako wa afya ya akili unaweza kukusaidia kukaa kwenye njia."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Afya ya wastani ya akili",
+      "description": "Majibu yako yanaonyesha kuwa una afya ya wastani ya akili. Unaweza kukabiliana na mafadhaiko na mabadiliko ya maisha, lakini kuna maeneo ambayo yanaweza kuhitaji umakini zaidi.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama vile kuongeza shughuli zako za kimwili, kufuata lishe yenye afya, na kudhibiti mafadhaiko zaidi. Kushauriana na mtaalamu wa afya ya akili kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha afya yako ya akili."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Afya duni ya akili",
+      "description": "Majibu yako yanaonyesha kuwa una afya duni ya akili. Unaweza kuwa na shida ya kukabiliana na mafadhaiko na mabadiliko ya maisha, na unaweza kuwa na shida ya kufanya kazi vizuri kwa siku nzima.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia afya yako ya akili na kuboresha uwezo wako wa kukabiliana na mafadhaiko na mabadiliko ya maisha."
+    }
+  ]
+}

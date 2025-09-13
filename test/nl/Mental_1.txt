@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Bent u vatbaar voor depressie?",
+  "description": "In onze snelle wereld ervaren veel mensen verdriet en angst, wat soms kan leiden tot depressie. Vermoedt u dat u vatbaar zou kunnen zijn voor depressie? Wilt u uw mentale gezondheid begrijpen en actie ondernemen? Deze test kan u helpen uw emotionele toestand te verkennen en te zien of u vatbaar bent voor depressie. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Voelt u zich vaak verdrietig of hopeloos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Vindt u het moeilijk om te genieten van activiteiten waar u vroeger van hield?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Voelt u zich moe of heeft u weinig energie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Heeft u moeite om u te concentreren op taken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Voelt u zich schuldig of waardeloos?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u slaapproblemen of slaapt u te veel?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Voelt u zich rusteloos of heeft u moeite om stil te zitten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Heeft u gedachten aan zelfbeschadiging of zelfmoord?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u moeite met beslissingen nemen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Vindt u het moeilijk om 's ochtends uit bed te komen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag risico op depressie",
+      "description": "Uw antwoorden suggereren dat u momenteel een laag risico loopt op depressie. Hoewel het altijd goed is om bewust te zijn van uw mentale gezondheid, geven uw antwoorden aan dat u op dit moment geen significante symptomen van depressie ervaart.",
+      "advice": "Blijf uw mentale gezondheid monitoren en beoefen zelfzorg. Als u ooit veranderingen in uw stemming of gedrag voelt, overweeg dan om contact op te nemen met een geestelijke gezondheidsprofessional voor advies."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig risico op depressie",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op depressie. Sommige van uw antwoorden geven aan dat u symptomen ervaart die gerelateerd kunnen zijn aan depressie.",
+      "advice": "Het kan nuttig zijn om met een geestelijke gezondheidsprofessional over uw gevoelens te praten. Zij kunnen ondersteuning bieden en strategieën aanreiken om u te helpen uw symptomen te beheren en uw mentaal welzijn te verbeteren."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog risico op depressie",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op depressie. Veel van uw antwoorden geven aan dat u significante symptomen ervaart die gerelateerd kunnen zijn aan depressie.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een geestelijke gezondheidsprofessional. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw symptomen aan te pakken."
+    }
+  ]
+}

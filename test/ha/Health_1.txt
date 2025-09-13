@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Kima na kai da haɗarin ciwon sukari",
+  "description": "Ciwon sukari yana ƙara zama matsala a duniya, kuma fahimtar abubuwan haɗarinku shine mabuɗin rigakafi da sarrafawa. Wannan kima na kai zai taimaka muku kimanta salon rayuwa, yawan jini, da sauran abubuwan da suka shafi ciwon sukari. Ta hanyar yin wannan tambayoyin, za ku iya samun haske game da haɗarin ku na ciwon sukari kuma ku ɗauki matakan rigakafi. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke yin motsa jiki na aƙalla minti 30?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kullum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sau 3-5 a mako",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau 1-2 a mako",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Da wuya ko ba zata",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke sha abubuwan sha masu sukari ko abinci mai yawan sukari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Da wuya ko ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sau 1-2 a mako",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau 3-4 a mako",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke cin 'ya'yan itatuwa da kayan lambu masu sabo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kullum",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sau 3-5 a mako",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau 1-2 a mako",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Da wuya ko ba zata",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Menene ma'aunin nauyin jikinku (BMI)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kasa da 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 ko sama da haka",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Kuna da tarihin iyali na ciwon sukari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A'a",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ee, amma kawai dangi masu nisa",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ee, dangi na kusa (iyaye, 'yan'uwa)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ee, dangi na kusa da yawa",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "An taba gano ku da hauhawar jini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A'a",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ee, amma an sarrafa shi ta hanyar canjin salon rayuwa",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ee, an sarrafa shi da magani",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ee, amma ba a sarrafa shi da kyau ba",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Kuna shan taba?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A'a",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ee, lokaci-lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ee, akai-akai",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ee, sosai",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "An taba gano ku da hauhawan cholesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A'a",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ee, amma an sarrafa shi ta hanyar canjin salon rayuwa",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ee, an sarrafa shi da magani",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ee, amma ba a sarrafa shi da kyau ba",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke yin gwajin lafiya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kowace shekara",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kowane shekara 2-3",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kowane shekara 4-5",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Da wuya ko ba zata",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "An taba gano ku da prediabetes ko ciwon sukari na ciki?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A'a",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ee, prediabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ee, ciwon sukari na ciki",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ee, duka biyun",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Ƙaramin haɗari",
+      "description": "Amsoshin ku sun nuna cewa kuna da ƙaramin haɗarin ciwon sukari. Duk da yake yana da kyau a kiyaye lafiyar ku, amsoshin ku sun nuna cewa haɗarinku na ciwon sukari yana cikin yanayi mai kyau a yanzu.",
+      "advice": "Duk da yake haɗarinku ya bayyana ƙasa, yana da muhimmanci ku ci gaba da sa ido kan lafiyar ku da kuma kiyaye salon rayuwa mai daidaito. Ana ba da shawarar yin gwaje-gwaje na yau da kullun tare da ƙwararren kiwon lafiya."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Matsakaicin haɗari",
+      "description": "Amsoshin ku sun nuna cewa kuna da matsakaicin haɗarin ciwon sukari.",
+      "advice": "Yi la'akari da yin canje-canje na salon rayuwa don rage haɗarinku, kamar ƙara motsa jiki da inganta abincin ku. Yana iya zama da amfani a tuntubi ƙwararren kiwon lafiya don shawara ta musamman."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Babban haɗari",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗarin ciwon sukari.",
+      "advice": "Yana da muhimmanci ku ɗauki matakan gaggawa don rage haɗarinku. Nemi taimakon ƙwararren kiwon lafiya don jagora kan yadda za ku yi canje-canje masu tasiri ga salon rayuwarku da sarrafa lafiyar ku."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Babban haɗari sosai",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗarin ciwon sukari sosai.",
+      "advice": "Matakan gaggawa sun zama dole don magance babban haɗarinku. Yana da muhimmanci ku nemi tallafin ƙwararru kuma ku yi canje-canje masu mahimmanci ga salon rayuwa. Matakin farko na iya rage haɗarinku da yawa kuma ya inganta lafiyar ku."
+    }
+  ]
+}

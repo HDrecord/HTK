@@ -1,0 +1,300 @@
+{
+  "id": 5,
+  "title": "Tathmini ya uwezo wa kukumbuka na kufanya maamuzi",
+  "description": "Uwezo wa kukumbuka na kufanya maamuzi ni muhimu kwa utendaji wako wa kila siku. Kuelewa hali yako ya sasa ya uwezo huu kunaweza kukusaidia kutambua maeneo ambayo yanaweza kuhitaji umakini zaidi. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini uwezo wako wa kukumbuka na kufanya maamuzi. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo kwa urahisi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka majina ya watu au mahali ulipo weka vitu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unaweza kufanya maamuzi kwa urahisi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unaweza kufanya maamuzi magumu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unaweza kufanya maamuzi haraka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unaweza kufanya maamuzi sahihi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo uliyofanya jana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo uliyosoma au kusikia hivi karibuni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo uliyojifunza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unaweza kukumbuka mambo uliyopanga kufanya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Uwezo mzuri wa kukumbuka na kufanya maamuzi",
+      "description": "Majibu yako yanaonyesha kuwa una uwezo mzuri wa kukumbuka na kufanya maamuzi. Unaweza kukumbuka mambo kwa urahisi na kufanya maamuzi sahihi.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa kukumbuka na kufanya maamuzi kwa kufanya mazoezi ya akili, kufuata lishe bora, na kudumisha usingizi wa kutosha."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Uwezo wa wastani wa kukumbuka na kufanya maamuzi",
+      "description": "Majibu yako yanaonyesha kuwa una uwezo wa wastani wa kukumbuka na kufanya maamuzi. Unaweza kuwa na uwezo mzuri katika baadhi ya maeneo, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
+      "advice": "Fikiria kufanya mazoezi ya akili, kufuata lishe bora, na kupata usingizi wa kutosha ili kuboresha uwezo wako wa kukumbuka na kufanya maamuzi."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Uwezo duni wa kukumbuka na kufanya maamuzi",
+      "description": "Majibu yako yanaonyesha kuwa una uwezo duni wa kukumbuka na kufanya maamuzi. Unaweza kuwa na shida ya kukumbuka mambo au kufanya maamuzi sahihi.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha uwezo wako wa kukumbuka na kufanya maamuzi."
+    }
+  ]
+}

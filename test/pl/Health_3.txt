@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Samodzielna ocena spożycia alkoholu i zdrowia",
+  "description": "Zrozumienie swoich nawyków związanych ze spożyciem alkoholu jest ważne dla utrzymania zdrowia i dobrego samopoczucia. Ocena częstotliwości i ilości spożywanego alkoholu może pomóc w identyfikacji wzorców i potencjalnych zagrożeń dla zdrowia. Ta samoocena dostarcza informacji na temat Twoich nawyków picia i ich wpływu na ogólny stan zdrowia. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Jak często spożywasz napoje alkoholowe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Raz w miesiącu lub rzadziej",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Raz w tygodniu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Codziennie lub prawie codziennie",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Ile drinków spożywasz w typowy dzień, kiedy pijesz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 lub więcej",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Jak często spożywasz pięć lub więcej drinków przy jednej okazji?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Rzadziej niż raz w miesiącu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Raz w miesiącu",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Co tydzień lub częściej",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy masz trudności z zaprzestaniem picia po jego rozpoczęciu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy odczuwasz silną potrzebę lub pragnienie picia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy picie alkoholu zakłóca Twoje obowiązki w pracy, szkole lub w domu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy próbowałeś/aś ograniczyć picie, ale nie udało Ci się?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy nadal pijesz, mimo że powoduje to problemy zdrowotne lub w relacjach?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy doświadczyłeś/aś utraty pamięci lub omdleń z powodu picia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy czujesz się winny/a lub żałujesz z powodu picia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nigdy",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Niskie ryzyko problemów zdrowotnych związanych z alkoholem",
+      "description": "Twoje odpowiedzi sugerują, że masz niskie ryzyko wystąpienia problemów zdrowotnych związanych ze spożyciem alkoholu. Chociaż ważne jest, aby monitorować spożycie alkoholu, Twoje odpowiedzi wskazują, że obecne poziomy spożycia są ogólnie w bezpiecznych granicach.",
+      "advice": "Kontynuuj monitorowanie spożycia alkoholu i utrzymuj zdrową równowagę. Jeśli masz jakiekolwiek obawy lub zauważysz zmiany w swoich nawykach picia, rozważ rozmowę z lekarzem w celu uzyskania indywidualnych porad."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Umiarkowane ryzyko problemów zdrowotnych związanych z alkoholem",
+      "description": "Twoje odpowiedzi sugerują, że możesz być narażony/a na umiarkowane ryzyko wystąpienia problemów zdrowotnych związanych ze spożyciem alkoholu. Niektóre z Twoich odpowiedzi wskazują, że istnieją obszary, w których możesz poprawić swoje nawyki picia.",
+      "advice": "Rozważ zmniejszenie spożycia alkoholu i zwracaj uwagę na wzorce picia. Ograniczenie częstotliwości i ilości spożywanego alkoholu może pomóc w zmniejszeniu ryzyka problemów zdrowotnych. Konsultacja z lekarzem może dostarczyć indywidualnych porad i strategii poprawy nawyków picia."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Wysokie ryzyko problemów zdrowotnych związanych z alkoholem",
+      "description": "Twoje odpowiedzi sugerują, że jesteś narażony/a na wysokie ryzyko wystąpienia problemów zdrowotnych związanych ze spożyciem alkoholu. Wiele Twoich odpowiedzi wskazuje, że możesz doświadczać problemów związanych z nawykami picia.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do lekarza. Mogą oni postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia, który pomoże w rozwiązaniu problemów z piciem i zmniejszeniu ryzyka poważnych problemów zdrowotnych. Może to obejmować zmiany stylu życia, poradnictwo lub inne interwencje zalecane przez lekarza."
+    }
+  ]
+}

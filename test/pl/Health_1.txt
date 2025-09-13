@@ -1,0 +1,147 @@
+{
+  "id": 14,
+  "title": "Samodzielna ocena ryzyka cukrzycy",
+  "description": "Cukrzyca to rosnący problem zdrowotny na całym świecie, a zrozumienie czynników ryzyka jest kluczowe dla zapobiegania i leczenia. Ta samodzielna ocena pomaga Ci ocenić swój styl życia, predyspozycje genetyczne i inne czynniki związane z cukrzycą. Poprzez wzięcie udziału w tym quizie możesz uzyskać cenne informacje na temat swojego ryzyka rozwoju cukrzycy i podjąć proaktywne kroki ku zdrowszemu życiu. Pamiętaj, że ten quiz nie jest profesjonalną diagnozą, a odpowiedzi nie mają charakteru prawdziwych ani fałszywych.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Jak często angażujesz się w aktywność fizyczną przez co najmniej 30 minut?",
+      "answers": [
+        {"id": 1, "answer": "Codziennie", "score": 0},
+        {"id": 2, "answer": "3-5 razy w tygodniu", "score": 1},
+        {"id": 3, "answer": "1-2 razy w tygodniu", "score": 2},
+        {"id": 4, "answer": "Rzadko lub nigdy", "score": 3}
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Jak często spożywasz słodzone napoje lub produkty bogate w cukier?",
+      "answers": [
+        {"id": 1, "answer": "Rzadko lub nigdy", "score": 0},
+        {"id": 2, "answer": "1-2 razy w tygodniu", "score": 1},
+        {"id": 3, "answer": "3-4 razy w tygodniu", "score": 2},
+        {"id": 4, "answer": "Codziennie", "score": 3}
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Jak często jesz świeże owoce и warzywa?",
+      "answers": [
+        {"id": 1, "answer": "Codziennie", "score": 0},
+        {"id": 2, "answer": "3-5 razy w tygodniu", "score": 1},
+        {"id": 3, "answer": "1-2 razy w tygodniu", "score": 2},
+        {"id": 4, "answer": "Rzadko lub nigdy", "score": 3}
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Jaki jest twój wskaźnik masy ciała (BMI)?",
+      "answers": [
+        {"id": 1, "answer": "Poniżej 25", "score": 0},
+        {"id": 2, "answer": "25-29.9", "score": 1},
+        {"id": 3, "answer": "30-34.9", "score": 2},
+        {"id": 4, "answer": "35 lub wyższy", "score": 3}
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy masz rodzinne historie cukrzycy?",
+      "answers": [
+        {"id": 1, "answer": "Nie", "score": 0},
+        {"id": 2, "answer": "Tak, ale tylko w odległym pokoleniu", "score": 1},
+        {"id": 3, "answer": "Tak, wśród bliskich krewnych (rodzice, rodzeństwo)", "score": 2},
+        {"id": 4, "answer": "Tak, wielu bliskich krewnych", "score": 3}
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy kiedykolwiek zostałeś/aś zdiagnozowany/a z wysokim ciśnieniem krwi?",
+      "answers": [
+        {"id": 1, "answer": "Nie", "score": 0},
+        {"id": 2, "answer": "Tak, ale kontrolowane zmianami stylu życia", "score": 1},
+        {"id": 3, "answer": "Tak, kontrolowane lekami", "score": 2},
+        {"id": 4, "answer": "Tak, ale nie dobrze kontrolowane", "score": 3}
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy palisz?",
+      "answers": [
+        {"id": 1, "answer": "Nie", "score": 0},
+        {"id": 2, "answer": "Tak, od czasu do czasu", "score": 1},
+        {"id": 3, "answer": "Tak, regularnie", "score": 2},
+        {"id": 4, "answer": "Tak, intensywnie", "score": 3}
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy kiedykolwiek zostałeś/aś zdiagnozowany/a z wysokim poziomem cholesterolu?",
+      "answers": [
+        {"id": 1, "answer": "Nie", "score": 0},
+        {"id": 2, "answer": "Tak, ale kontrolowane zmianami stylu życia", "score": 1},
+        {"id": 3, "answer": "Tak, kontrolowane lekami", "score": 2},
+        {"id": 4, "answer": "Tak, ale nie dobrze kontrolowane", "score": 3}
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Jak często masz badania lekarskie?",
+      "answers": [
+        {"id": 1, "answer": "Rocznie", "score": 0},
+        {"id": 2, "answer": "Co 2-3 lata", "score": 1},
+        {"id": 3, "answer": "Co 4-5 lat", "score": 2},
+        {"id": 4, "answer": "Rzadko lub nigdy", "score": 3}
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy kiedykolwiek zostałeś/aś zdiagnozowany/a z przedcukrzycą lub cukrzycą ciążową?",
+      "answers": [
+        {"id": 1, "answer": "Nie", "score": 0},
+        {"id": 2, "answer": "Tak, przedcukrzycą", "score": 1},
+        {"id": 3, "answer": "Tak, cukrzycą ciążową", "score": 2},
+        {"id": 4, "answer": "Tak, obiema", "score": 3}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niskie ryzyko",
+      "description": "Twój ryzyko rozwoju cukrzycy wydaje się być niskie. Kontynuuj swoje zdrowe nawyki.",
+      "advice": "Chociaż Twoje ryzyko wydaje się niskie, ważne jest, aby nadal monitorować swoje zdrowie i utrzymywać zrównoważony styl życia. Zaleca się regularne badania lekarskie."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Średnie ryzyko",
+      "description": "Masz umiarkowane ryzyko rozwoju cukrzycy.",
+      "advice": "Rozważ wprowadzenie zmian stylu życia, aby obniżyć ryzyko, takich jak zwiększenie aktywności fizycznej i poprawa diety. Może być pomocne skonsultowanie się z lekarzem ds. indywidualnych porad."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Wysokie ryzyko",
+      "description": "Twoje ryzyko rozwoju cukrzycy jest wysokie.",
+      "advice": "Ważne jest, aby natychmiast podjąć kroki w celu zmniejszenia ryzyka. Skonsultuj się z lekarzem ds. wskazówek dotyczących skutecznych zmian stylu życia i zarządzania zdrowiem."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Bardzo wysokie ryzyko",
+      "description": "Twoje ryzyko rozwoju cukrzycy jest bardzo wysokie.",
+      "advice": "Konieczna jest natychmiastowa akcja w celu rozwiązania wysokiego ryzyka. Kluczowe jest poszukiwanie profesjonalnego wsparcia i wprowadzenie znaczących zmian w stylu życia. Wczesna interwencja może znacznie zmniejszyć ryzyko i poprawić Twoje zdrowie."
+    }
+  ]
+}

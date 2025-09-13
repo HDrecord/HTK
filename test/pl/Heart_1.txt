@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Samoocena zdrowia serca",
+  "description": "Utrzymanie zdrowego serca jest kluczowe dla ogólnego dobrego samopoczucia. Zrozumienie stanu zdrowia Twojego serca może pomóc w podjęciu proaktywnych kroków w celu zapobiegania problemom sercowo-naczyniowym. Czy kiedykolwiek zastanawiałeś/aś się nad stanem zdrowia swojego serca? Ta samoocena może pomóc Ci ocenić zdrowie Twojego serca i zidentyfikować obszary wymagające uwagi. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często doświadczasz duszności?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy odczuwasz ból lub dyskomfort w klatce piersiowej?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy doświadczasz nieregularnego bicia serca lub kołatania serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy czujesz się zmęczony/a lub wyczerpany/a bez wyraźnego powodu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy doświadczasz obrzęków nóg, kostek lub stóp?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy masz wysokie ciśnienie krwi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy masz wysoki poziom cholesterolu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy palisz lub używasz wyrobów tytoniowych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy w Twojej rodzinie występowały choroby serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy regularnie uprawiasz aktywność fizyczną?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy stosujesz dietę korzystną dla serca?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Niskie ryzyko problemów z sercem",
+      "description": "Twoje odpowiedzi sugerują, że masz niskie ryzyko wystąpienia problemów z sercem. Chociaż zawsze warto być świadomym swojego zdrowia sercowo-naczyniowego, Twoje odpowiedzi wskazują, że zdrowie Twojego serca jest obecnie w dobrej kondycji.",
+      "advice": "Kontynuuj prowadzenie zdrowego stylu życia poprzez regularną aktywność fizyczną, zbilansowaną dietę i unikanie szkodliwych nawyków, takich jak palenie. Regularne badania kontrolne u lekarza mogą pomóc Ci utrzymać dobrą kondycję."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Umiarkowane ryzyko problemów z sercem",
+      "description": "Twoje odpowiedzi sugerują, że możesz być narażony/a na umiarkowane ryzyko wystąpienia problemów z sercem. Niektóre z Twoich odpowiedzi wskazują, że istnieją obszary, w których możesz poprawić zdrowie swojego serca.",
+      "advice": "Rozważ wprowadzenie zmian w stylu życia, takich jak zwiększenie aktywności fizycznej, przyjęcie diety korzystnej dla serca i rzucenie palenia, jeśli dotyczy. Konsultacja z lekarzem może dostarczyć indywidualnych porad i strategii poprawy zdrowia serca."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Wysokie ryzyko problemów z sercem",
+      "description": "Twoje odpowiedzi sugerują, że jesteś narażony/a na wysokie ryzyko wystąpienia problemów z sercem. Wiele Twoich odpowiedzi wskazuje, że doświadczasz objawów lub masz czynniki ryzyka, które mogą wpływać na zdrowie Twojego serca.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do lekarza. Mogą oni postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia, który pomoże w rozwiązaniu problemów z sercem i zmniejszeniu ryzyka poważnych problemów sercowo-naczyniowych."
+    }
+  ]
+}

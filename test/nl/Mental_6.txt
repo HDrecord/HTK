@@ -1,0 +1,300 @@
+{
+  "id": 6,
+  "title": "Heeft u symptomen van een bipolaire stoornis?",
+  "description": "Een bipolaire stoornis wordt gekenmerkt door extreme stemmingswisselingen. Maakt u zich zorgen over periodes van extreme opwinding of depressie? Deze test kan u helpen mogelijke symptomen te herkennen en te bepalen of professionele ondersteuning nuttig zou kunnen zijn. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Heeft u periodes van extreme opwinding of euforie gehad?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Heeft u periodes gehad waarin u veel minder slaap nodig had?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Heeft u periodes gehad van zeer snelle gedachten of spraak?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Heeft u periodes gehad van roekeloos gedrag of impulsieve beslissingen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u periodes gehad van extreme productiviteit of creativiteit?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u periodes gehad van diepe depressie of hopeloosheid?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u periodes gehad van verlies van interesse in activiteiten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Heeft u periodes gehad van veranderingen in eetlust of gewicht?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u periodes gehad van gevoelens van waardeloosheid of schuld?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Heeft u gedachten gehad aan zelfbeschadiging of zelfmoord?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag risico op bipolaire stoornis",
+      "description": "Uw antwoorden suggereren dat u momenteel een laag risico loopt op een bipolaire stoornis. Hoewel het altijd goed is om bewust te zijn van uw mentale gezondheid, geven uw antwoorden aan dat u op dit moment geen significante symptomen van een bipolaire stoornis ervaart.",
+      "advice": "Blijf uw stemmingswisselingen monitoren. Als u ooit extreme veranderingen in uw stemming of energieniveau opmerkt, overweeg dan om contact op te nemen met een geestelijke gezondheidsprofessional voor advies."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig risico op bipolaire stoornis",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op een bipolaire stoornis. Sommige van uw antwoorden geven aan dat u symptomen ervaart die gerelateerd kunnen zijn aan een bipolaire stoornis.",
+      "advice": "Het kan nuttig zijn om met een geestelijke gezondheidsprofessional over uw ervaringen te praten. Zij kunnen ondersteuning bieden en strategieën aanreiken om u te helpen uw symptomen te beheren en uw emotioneel welzijn te verbeteren."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog risico op bipolaire stoornis",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op een bipolaire stoornis. Veel van uw antwoorden geven aan dat u significante symptomen ervaart die gerelateerd kunnen zijn aan een bipolaire stoornis.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een geestelijke gezondheidsprofessional. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw symptomen aan te pakken en uw kwaliteit van leven te verbeteren."
+    }
+  ]
+}

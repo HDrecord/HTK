@@ -1,0 +1,381 @@
+{
+  "id": 5,
+  "title": "Czy masz lęk społeczny?",
+  "description": "Lęk społeczny może sprawić, że codzienne interakcje będą przytłaczające i stresujące. Ważne jest, aby rozpoznać objawy i zrozumieć, jak wpływają na Twoje życie. Czy kiedykolwiek czułeś się nadmiernie nerwowy w sytuacjach społecznych? Ten quiz może pomóc Ci zidentyfikować objawy lęku społecznego i zapewnić wgląd w Twoje interakcje społeczne. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się nerwowy lub niespokojny w sytuacjach społecznych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy unikasz spotkań towarzyskich z powodu strachu lub niepokoju?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy czujesz się niepewnie w sytuacjach społecznych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy martwisz się, że jesteś oceniany przez innych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy doświadczasz fizycznych objawów, takich jak pocenie się, drżenie lub przyspieszone bicie serca w sytuacjach społecznych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy trudno Ci mówić lub występować przed innymi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy nadmiernie martwisz się, że zawstydzisz się w sytuacjach społecznych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy czujesz się nieswojo, poznając nowych ludzi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy trudno Ci nawiązać kontakt wzrokowy z innymi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy unikasz bycia w centrum uwagi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy czujesz niepokój w interakcjach społecznych, nawet z osobami, które znasz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy martwisz się, że zostaniesz upokorzony lub zawstydzony w sytuacjach społecznych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Cczasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Czy czujesz się spięty lub niespokojny, rozmawiając z osobami na stanowiskach?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 13,
+      "title": "Niski poziom lęku społecznego",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz niskiego poziomu lęku społecznego. Chociaż zawsze warto dbać o swoje zdrowie psychiczne, Twoje odpowiedzi wskazują, że ogólnie czujesz się komfortowo w sytuacjach społecznych.",
+      "advice": "Kontynuuj udział w aktywnościach społecznych i utrzymuj zdrowe relacje społeczne. Jeśli kiedykolwiek poczujesz zmiany w poziomie lęku społecznego, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 14,
+      "end": 26,
+      "title": "Umiarkowany poziom lęku społecznego",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać umiarkowanego poziomu lęku społecznego. Niektóre z Twoich odpowiedzi wskazują, że możesz czuć się niekomfortowo lub niespokojnie w pewnych sytuacjach społecznych.",
+      "advice": "Rozważ praktykowanie technik relaksacyjnych, takich jak głębokie oddychanie lub mindfulness, aby pomóc w zarządzaniu lękiem. Stopniowe wystawianie się na sytuacje społeczne również może być pomocne. Konsultacja z profesjonalistą od zdrowia psychicznego może zapewnić Ci spersonalizowane strategie poprawy komfortu i pewności siebie w sytuacjach społecznych."
+    },
+    {
+      "start": 27,
+      "end": 39,
+      "title": "Wysoki poziom lęku społecznego",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz wysokiego poziomu lęku społecznego. Wiele Twoich odpowiedzi wskazuje, że czujesz się znacząco niespokojny lub niekomfortowo w sytuacjach społecznych.",
+      "advice": "Ważne jest, aby zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia lęku społecznego. Może to obejmować terapię, leki lub inne interwencje zalecane przez lekarza."
+    }
+  ]
+}

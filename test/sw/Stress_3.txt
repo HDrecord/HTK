@@ -1,0 +1,300 @@
+{
+  "id": 9,
+  "title": "Tathmini ya ushawishi wa mfadhaiko kwa afya",
+  "description": "Mfadhaiko unaweza kuwa na ushawishi mkubwa kwa afya yako ya kimwili na ya akili. Kuelewa jinsi mfadhaiko unavyokushughulikia kunaweza kukusaidia kutambua maeneo ambayo yanaweza kuhitaji umakini zaidi. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini ushawishi wa mfadhaiko kwa afya yako. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua kichwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua tumbo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua usingizi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua moyo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua misuli?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua ngozi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua mfumo wa kinga?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua mfumo wa mishipa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua mfumo wa damu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unakusumbua mfumo wa neva?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Ushawishi mdogo wa mfadhaiko kwa afya",
+      "description": "Majibu yako yanaonyesha kuwa mfadhaiko una ushawishi mdogo kwa afya yako ya kimwili. Unaweza kuwa na dalili chache au hakuna dalili za kimwili kutokana na mfadhaiko.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa kukabiliana na mfadhaiko na kuhakikisha unafanya mazoezi ya kawaida ya kimwili na kula vyakula vya afya."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Ushawishi wa wastani wa mfadhaiko kwa afya",
+      "description": "Majibu yako yanaonyesha kuwa mfadhaiko una ushawishi wa wastani kwa afya yako ya kimwili. Unaweza kuwa na baadhi ya dalili za kimwili kutokana na mfadhaiko.",
+      "advice": "Fikiria kuboresha mbinu zako za kukabiliana na mfadhaiko na kutafuta msaada ikiwa dalili za kimwili zinazidi."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Ushawishi mkubwa wa mfadhaiko kwa afya",
+      "description": "Majibu yako yanaonyesha kuwa mfadhaiko una ushawishi mkubwa kwa afya yako ya kimwili. Unaweza kuwa na dalili nyingi za kimwili kutokana na mfadhaiko.",
+      "advice": "Ni muhimu kutafuta msaada wa matibabu haraka iwezekanavyo. Mtaalamu wa afya anaweza kukusaidia kushughulikia athari za mfadhaiko kwa mwili wako."
+    }
+  ]
+}

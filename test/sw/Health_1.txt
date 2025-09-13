@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Tathmini ya hatari ya kisukari",
+  "description": "Kisukari ni wasiwasi wa afya unaokua duniani kote, na kuelewa mambo yanayoweza kuongeza hatari yako ni muhimu kwa kuzuia na kudhibiti. Tathmini hii ya kibinafsi inakusaidia kutathmini mtindo wako wa maisha, uwezekano wa kurithi, na mambo mengine yanayohusiana na kisukari. Kwa kufanya jaribio hili, unaweza kupata ufahamu wa thamani kuhusu hatari yako ya kupata kisukari na kuchukua hatua za kukabiliana kwa maisha yenye afya zaidi. Kumbuka, jaribio hili sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Mara ngapi unafanya mazoezi ya mwili kwa angalau dakika 30?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kila siku",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara 3-5 kwa wiki",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara 1-2 kwa wiki",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Mara chache au kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Mara ngapi unakunywa vinywaji vyenye sukari au vyakula vilivyo na sukari nyingi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Mara chache au kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara 1-2 kwa wiki",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara 3-4 kwa wiki",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kila siku",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Mara ngapi unakula matunda na mboga mboga?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kila siku",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara 3-5 kwa wiki",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara 1-2 kwa wiki",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Mara chache au kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, kiwango chako cha uzito cha mwili (BMI) ni nini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Chini ya 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 au zaidi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, una historia ya familia ya kisukari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ndiyo, lakini ni ndugu wa mbali tu",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ndiyo, ndugu wa karibu (wazazi, ndugu)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, ndugu wengi wa karibu",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, umewahi kutambuliwa kuwa na shinikizo la damu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ndiyo, lakini limekadiriwa na mabadiliko ya maisha",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ndiyo, limekadiriwa na dawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, lakini halijakadiriwa vizuri",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unavuta sigara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ndiyo, mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, sana",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, umewahi kutambuliwa kuwa na kolesteroli ya juu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ndiyo, lakini limekadiriwa na mabadiliko ya maisha",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ndiyo, limekadiriwa na dawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, lakini halijakadiriwa vizuri",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Mara ngapi unafanya uchunguzi wa matibabu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kila mwaka",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kila miaka 2-3",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kila miaka 4-5",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Mara chache au kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, umewahi kutambuliwa kuwa na kisukari kabla ya mimba au kisukari cha mimba?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ndiyo, kisukari kabla ya mimba",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ndiyo, kisukari cha mimba",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ndiyo, zote mbili",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Hatari ya chini",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya chini ya kupata kisukari. Ingawa ni vizuri kuwa makini kuhusu afya yako, majibu yako yanaonyesha kuwa hatari yako ya sasa ni ya chini.",
+      "advice": "Endelea kudumisha mwenendo wa maisha yenye afya kwa kufanya mazoezi ya mara kwa mara, kufuata lishe bora, na kuepuka tabia hatari kama kuvuta sigara. Uchunguzi wa mara kwa mara na mtaalamu wa afya unapendekezwa."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Hatari ya wastani",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na hatari ya wastani ya kupata kisukari.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama kuongeza shughuli za mwili na kuboresha lishe yako. Inaweza kuwa muhimu kushauriana na mtaalamu wa afya kwa ushauri wa kibinafsi."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Hatari ya juu",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya juu ya kupata kisukari.",
+      "advice": "Ni muhimu kuchukua hatua za haraka kwa kupunguza hatari yako. Tafuta ushauri wa mtaalamu wa afya kwa mwongozo juu ya jinsi ya kufanya mabadiliko ya ufanisi kwa mtindo wako wa maisha na usimamizi wa afya."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Hatari ya juu sana",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya juu sana ya kupata kisukari.",
+      "advice": "Hatua za haraka zinahitajika kushughulikia hatari yako ya juu. Ni muhimu kutafuta msaada wa kitaalamu na kufanya mabadiliko makubwa kwa mtindo wako wa maisha. Uingiliaji wa mapema kunaweza kupunguza kwa kiasi kikubwa hatari yako na kuboresha afya yako."
+    }
+  ]
+}

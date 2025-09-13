@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Hoeveel werkgerelateerde stress ervaart u?",
+  "description": "Werk kan een belangrijke bron van stress zijn. Hoe goed gaat u om met werkgerelateerde stress? Deze test kan u helpen uw huidige werkstressniveau te beoordelen en gebieden te identificeren waar u mogelijk uw copingstrategieën kunt verbeteren. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Voelt u zich overweldigd door uw werklast?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Heeft u moeite om na het werk te ontspannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Voelt u zich emotioneel uitgeput door uw werk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Heeft u het gevoel dat u weinig controle heeft over uw werk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ervaart u conflicten met collega's of leidinggevenden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u last van lichamelijke klachten door werkstress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Vindt u het moeilijk om uw werk los te laten tijdens vrije tijd?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Heeft u het gevoel dat uw werk weinig erkenning of beloning krijgt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Overweegt u van baan te veranderen vanwege stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Heeft uw werkstress invloed op uw persoonlijke relaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag werkstressniveau - Goede balans",
+      "description": "Uw antwoorden suggereren dat u over het algemeen goed omgaat met werkgerelateerde stress. U ervaart mogelijk normale niveaus van werkstress, maar heeft effectieve strategieën om hiermee om te gaan.",
+      "advice": "Blijf gezonde werkgewoonten behouden, zoals het stellen van grenzen, het nemen van pauzes en het scheiden van werk en privé. Het is altijd goed om uw stressmanagementvaardigheden te blijven ontwikkelen."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig werkstressniveau - Enige uitdagingen",
+      "description": "Uw antwoorden suggereren dat u matige niveaus van werkstress ervaart en soms moeite heeft om hiermee om te gaan. Er zijn mogelijk gebieden waar u uw copingstrategieën kunt verbeteren.",
+      "advice": "Overweeg nieuwe manieren om met werkstress om te gaan, zoals tijdmanagementtechnieken, communicatie met leidinggevenden over uw werklast, of het zoeken van professionele begeleiding. Werk-privébalans is essentieel."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog werkstressniveau - Significante uitdagingen",
+      "description": "Uw antwoorden suggereren dat u hoge niveaus van werkstress ervaart en aanzienlijke moeite heeft om hiermee om te gaan. Deze mate van stress kan leiden tot burn-out en andere gezondheidsproblemen.",
+      "advice": "Het is belangrijk om onmiddellijk actie te ondernemen. Overweeg om met HR of een leidinggevende te praten over uw werkomstandigheden, zoek professionele hulp voor stressmanagement, of evalueer of uw huidige baan duurzaam is voor uw gezondheid."
+    }
+  ]
+}

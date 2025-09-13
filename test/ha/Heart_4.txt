@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Tambayoyin kima na kai game da hauhawar jini",
+  "description": "Sarrafa hauhawar jini yana da mahimmanci don hana matsalolin lafiya masu tsanani. Yin gwajin jinin ku akai-akai da fahimtar abubuwan haɗarinku na iya taimaka muku kiyaye lafiya. Wannan tambayoyin kima na kai yana ba ku damar tantance yanayin ku na yanzu da samun haske game da kiyaye matakan hauhawar jini masu kyau. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Shin sau da yawa kuke samun ciwon kai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Shin kuna jin jiri ko rashin ƙarfin gani?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Shin kuna samun rashin gani mai kyau?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna jin rashin numfashi yayin ayyukan yau da kullun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna jin bugun zuciya a cikin ƙirji, wuya, ko kunne?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin kuna da matsalar barci?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kuna da tarihin iyali na hauhawar jini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna shan taba ko amfani da kayayyakin taba?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kuna sha giya akai-akai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna da matsanancin damuwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Shin kuna yin motsa jiki akai-akai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Shin kuna bin abinci mai lafiya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Shin kuna da hauhawan cholesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Shin kuna ɗaukar magungunan hauhawar jini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Ƙaramin haɗarin hauhawar jini",
+      "description": "Amsoshin ku sun nuna cewa kuna da ƙaramin haɗari ga hauhawar jini. Duk da yake yana da kyau a kiyaye lafiyar ku, amsoshin ku sun nuna cewa matakin hauhawar jinin ku yana cikin iyakokin lafiya a yanzu.",
+      "advice": "Ci gaba da kiyaye salon rayuwa mai lafiya ta hanyar shiga cikin ayyukan motsa jiki na yau da kullun, bin abinci mai daidaito, sarrafa damuwa yadda ya kamata, da guje wa halaye masu cutarwa kamar shan taba da yawan giya. Gwaje-gwaje na yau da kullun tare da ƙwararren kiwon lafiya na iya taimaka muku ci gaba da bin hanya."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Matsakaicin haɗarin hauhawar jini",
+      "description": "Amsoshin ku sun nuna cewa kuna da matsakaicin haɗari ga hauhawar jini. Wasu daga cikin amsoshin ku sun nuna cewa akwai wuraren da za ku iya inganta lafiyar ku.",
+      "advice": "Yi la'akari da yin canje-canje na salon rayuwa kamar ƙara motsa jiki, ɗaukar abinci mai lafiya, daina shan taba idan ya dace, rage yawan giya, da kuma sarrafa damuwa da kyau. Tuntubar ƙwararren kiwon lafiya na iya ba ku shawara ta musamman da dabarun don inganta matakin hauhawar jinin ku."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Babban haɗarin hauhawar jini",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗari ga hauhawar jini. Yawancin amsoshin ku sun nuna cewa kuna fuskantar alamomi ko kuma kuna da abubuwan haɗari waɗanda zasu iya shafar lafiyar ku.",
+      "advice": "Yana da mahimmanci ku nemi taimakon ƙwararren kiwon lafiya da gaggawa. Suna iya ba da bincike mai kyau kuma suyi aiki tare da ku don tsara tsarin magani don magance hauhawar jinin ku da rage haɗarin matsaloli masu tsanani. Wannan na iya haɗa da canje-canje na salon rayuwa, magunguna, ko wasu hanyoyin da likitan ku zai ba da shawara."
+    }
+  ]
+}

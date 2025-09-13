@@ -1,0 +1,300 @@
+{
+  "id": 3,
+  "title": "Hoeveel financiële stress ervaart u?",
+  "description": "Financiële problemen kunnen een belangrijke bron van stress zijn. Hoe goed gaat u om met financiële stress? Deze test kan u helpen uw huidige financiële stressniveau te beoordelen en gebieden te identificeren waar u mogelijk verbeteringen kunt aanbrengen. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Maakt u zich vaak zorgen over uw financiële situatie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Heeft u moeite om aan het einde van de maand rond te komen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Heeft u schulden die u niet gemakkelijk kunt aflossen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Slaapt u slecht door financiële zorgen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Vermijdt u het controleren van uw bankrekening vanwege stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u financiële problemen besproken met vrienden of familie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u financiële beslissingen uitgesteld vanwege angst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Heeft u financiële problemen die uw relaties beïnvloeden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u overwogen om extra werk aan te nemen vanwege financiële stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Voelt u zich hopeloos over uw financiële toekomst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag financiële stress - Goede controle",
+      "description": "Uw antwoorden suggereren dat u over het algemeen goed omgaat met financiële zaken. U ervaart mogelijk normale niveaus van financiële stress, maar heeft effectieve strategieën om hiermee om te gaan.",
+      "advice": "Blijf gezonde financiële gewoonten behouden, zoals budgetteren, sparen en verstandige uitgaven. Het is altijd goed om uw financiële kennis te blijven ontwikkelen."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig financiële stress - Enige uitdagingen",
+      "description": "Uw antwoorden suggereren dat u matige niveaus van financiële stress ervaart en soms moeite heeft om hiermee om te gaan. Er zijn mogelijk gebieden waar u uw financiële management kunt verbeteren.",
+      "advice": "Overweeg professioneel financieel advies, maak een realistisch budget en ontwikkel een plan om eventuele schulden aan te pakken. Kleine veranderingen kunnen een groot verschil maken."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog financiële stress - Significante uitdagingen",
+      "description": "Uw antwoorden suggereren dat u hoge niveaus van financiële stress ervaart en aanzienlijke moeite heeft om hiermee om te gaan. Deze mate van stress kan schadelijk zijn voor uw gezondheid en welzijn.",
+      "advice": "Zoek onmiddellijk professionele hulp. Een financieel adviseur of schuldhulpverlener kan u helpen een plan te ontwikkelen om uw situatie te verbeteren. Vergeet niet dat er altijd oplossingen en hulpbronnen beschikbaar zijn."
+    }
+  ]
+}

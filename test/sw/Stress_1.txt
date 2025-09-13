@@ -1,0 +1,300 @@
+{
+  "id": 7,
+  "title": "Tathmini ya mfadhaiko wa kila siku",
+  "description": "Mfadhaiko ni sehemu ya kawaida ya maisha, lakini inapozidi kunaweza kuathiri afya yako ya akili na mwili. Kuelewa kiwango chako cha mfadhaiko kunaweza kukusaidia kutambua wakati wa kutafuta msaida. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini kiwango chako cha sasa cha mfadhaiko. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi kuwa una mfadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakusumbua?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kudhibiti mfadhaiko wako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, kila wakati",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara nyingi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara kwa mara",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kufanya kazi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kufurahia maisha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kulala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kukumbuka mambo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kufanya maamuzi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha mahusiano yako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko wako unakwamisha kufanya shughuli za kimwili?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Kiwango cha chini cha mfadhaiko",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha chini cha mfadhaiko. Unaweza kukabiliana na mfadhaiko kwa urahisi na kuwa na uwezo wa kufanya kazi vizuri.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa kukabiliana na mfadhaiko kwa kufanya shughuli za kupunguza mfadhaiko kama vile mazoezi ya kupumua, meditesheni, na shughuli za kimwili."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Kiwango cha wastani cha mfadhaiko",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha wastani cha mfadhaiko. Unaweza kuwa na uwezo wa kukabiliana na mfadhaiko, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama vile kupunguza mzigo wa kazi, kuongeza muda wa kupumzika, na kushiriki katika shughuli za kupunguza mfadhaiko."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Kiwango cha juu cha mfadhaiko",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha juu cha mfadhaiko. Unaweza kuwa na shida ya kukabiliana na mfadhaiko na hii inaweza kuathiri utendaji wako wa kila siku.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kukabiliana na mfadhaiko na kupunguza athari zake kwa maisha yako."
+    }
+  ]
+}

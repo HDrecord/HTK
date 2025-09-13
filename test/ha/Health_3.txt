@@ -1,0 +1,293 @@
+{
+  "id": 16,
+  "title": "Kima na kai game da shan giya da lafiya",
+  "description": "Fahimtar halayen shan giya yana da muhimmanci ga kiyaye lafiyar ku da jin daɗin ku. Kimanta yadda kuke sha da yawa zai iya taimaka muku gane alamu da haɗarin lafiya. Wannan kima na kai yana ba ku damar tantance halayen shan giya da yadda zasu iya shafar lafiyar ku gabaɗaya. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke sha abubuwan sha masu barasa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Sau ɗaya a wata ko ƙasa da haka",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau ɗaya a mako",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kullum ko kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Nawa ne adadin abubuwan sha da kuke sha a rana lokacin da kuke sha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 ko fiye",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Yaya sau da yawa kuke sha biyar ko fiye a lokaci guda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Kasa da kowane wata",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kowane wata",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kowane mako ko fiye",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna samun wahalar tsayar da shan giya idan kun fara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna jin sha'awar sha ko kwadayin sha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin shan giya yana shafar ayyukanku na aiki, makaranta, ko gida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kun taɓa ƙoƙarin rage shan giya amma kuka kasa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna ci gaba da sha duk da matsalolin lafiya ko dangantaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kun taɓa samun asarar ƙwaƙwalwa ko baƙin ciki saboda shan giya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna jin laifin ko nadama game da shan giya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba zata",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Ƙaramin haɗarin matsalolin lafiya da suka shafi giya",
+      "description": "Amsoshin ku sun nuna cewa kuna da ƙaramin haɗarin fuskantar matsalolin lafiya da suka shafi shan giya. Duk da yake yana da kyau a kiyaye halayen shan giya, amsoshin ku sun nuna cewa yawan shan ku yana cikin iyakokin aminci a yanzu.",
+      "advice": "Ci gaba da sa ido kan shan giya kuma tabbatar cewa kuna kiyaye ma'auni mai kyau. Idan kun ga canje-canje a halayen shan giya, yi la'akarin tuntuɓar ƙwararren kiwon lafiya don shawara ta musamman."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Matsakaicin haɗarin matsalolin lafiya da suka shafi giya",
+      "description": "Amsoshin ku sun nuna cewa kuna da matsakaicin haɗarin fuskantar matsalolin lafiya da suka shafi shan giya. Wasu daga cikin amsoshin ku sun nuna cewa akwai wuraren da za ku iya inganta halayen shan giya.",
+      "advice": "Yi la'akari da rage shan giya da kuma lura da halayen shan ku. Iyakance yawan shan giya da adadin lokutan da kuke sha na iya taimaka wajen rage haɗarinku. Tuntubar ƙwararren kiwon lafiya"
+    }
+  ]
+}

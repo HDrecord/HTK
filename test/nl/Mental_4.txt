@@ -1,0 +1,300 @@
+{
+  "id": 4,
+  "title": "Heeft u last van dwangmatige gedachten of gedragingen?",
+  "description": "Dwangmatige gedachten en gedragingen kunnen het dagelijks leven verstoren. Maakt u zich zorgen over terugkerende gedachten of routines? Deze test kan u helpen uw symptomen te beoordelen en te bepalen of u mogelijk baat zou hebben bij professionele ondersteuning. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Heeft u ongewenste, terugkerende gedachten die u niet kunt stoppen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Voelt u zich gedwongen om bepaalde handelingen te herhalen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Besteedt u veel tijd aan schoonmaken of wassen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Controleert u dingen herhaaldelijk (zoals deuren, apparaten)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u behoefte aan symmetrie of exacte ordening?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u last van tellen of herhalen van woorden in uw hoofd?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u angst voor besmetting of ziekte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Heeft u last van agressieve of schokkende gedachten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Verzamelt u dingen die u niet nodig heeft?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Verstoort uw routine uw dagelijks functioneren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag risico op dwangstoornis",
+      "description": "Uw antwoorden suggereren dat u momenteel een laag risico loopt op een dwangstoornis. Hoewel het altijd goed is om bewust te zijn van uw mentale gezondheid, geven uw antwoorden aan dat u op dit moment geen significante symptomen van dwang ervaart.",
+      "advice": "Blijf uw mentale gezondheid monitoren en beoefen zelfzorg. Als u ooit veranderingen in uw gedachten of gedragingen opmerkt, overweeg dan om contact op te nemen met een geestelijke gezondheidsprofessional voor advies."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig risico op dwangstoornis",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op een dwangstoornis. Sommige van uw antwoorden geven aan dat u symptomen ervaart die gerelateerd kunnen zijn aan dwang.",
+      "advice": "Het kan nuttig zijn om met een geestelijke gezondheidsprofessional over uw ervaringen te praten. Zij kunnen ondersteuning bieden en strategieën aanreiken om u te helpen uw symptomen te beheren en uw kwaliteit van leven te verbeteren."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog risico op dwangstoornis",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op een dwangstoornis. Veel van uw antwoorden geven aan dat u significante symptomen ervaart die gerelateerd kunnen zijn aan dwang.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een geestelijke gezondheidsprofessional. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw symptomen aan te pakken en uw dagelijks functioneren te verbeteren."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": 12,
+  "title": "Zelfcontrole voor coronaire hartziekte",
+  "description": "Coronaire hartziekte (CHD) is een ernstige aandoening die kan leiden tot aanzienlijke gezondheidsproblemen als deze niet goed wordt beheerd. Vroege detectie van risicofactoren is essentieel voor preventie en behandeling. Maakt u zich zorgen over uw risico op CHD? Deze zelfcontrole kan u helpen potentiële risicofactoren te identificeren en uw hartgezondheid beter te begrijpen. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Heeft u vaak last van kortademigheid?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Voelt u pijn of ongemak op de borst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Ervaart u onregelmatige hartslagen of hartkloppingen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Voelt u zich moe of uitgeput zonder duidelijke reden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ervaart u zwelling in uw benen, enkels of voeten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u een hoge bloeddruk?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u een hoog cholesterolgehalte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Rookt u of gebruikt u tabaksproducten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u een familiegeschiedenis van coronaire hartziekte?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Doet u regelmatig aan lichaamsbeweging?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Volgt u een hart-gezond dieet?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Beheert u stress effectief?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Heeft u diabetes of hoge bloedsuikerwaarden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Ervaart u duizeligheid of lichtheid in het hoofd?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Laag risico op coronaire hartziekte",
+      "description": "Uw antwoorden suggereren dat u een laag risico loopt op coronaire hartziekte. Hoewel het altijd goed is om bewust te zijn van uw cardiovasculaire gezondheid, geven uw antwoorden aan dat uw hartgezondheid momenteel in goede conditie is.",
+      "advice": "Blijf een hart-gezonde levensstijl behouden door regelmatig te bewegen, een gebalanceerd dieet te volgen, stress effectief te beheren en schadelijke gewoonten zoals roken te vermijden. Regelmatige controles bij uw zorgverlener kunnen u helpen op koers te blijven."
+    },
+    {
+      "start": 15,
+      "end": 29,
+      "title": "Matig risico op coronaire hartziekte",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op coronaire hartziekte. Sommige van uw antwoorden geven aan dat er gebieden zijn waar u uw cardiovasculaire gezondheid zou kunnen verbeteren.",
+      "advice": "Overweeg levensstijlveranderingen zoals het verhogen van uw fysieke activiteit, het aannemen van een hart-gezond dieet, stoppen met roken indien van toepassing en effectiever omgaan met stress. Overleg met een zorgverlener kan u voorzien van persoonlijk advies en strategieën om uw hartgezondheid te verbeteren."
+    },
+    {
+      "start": 30,
+      "end": 42,
+      "title": "Hoog risico op coronaire hartziekte",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op coronaire hartziekte. Veel van uw antwoorden geven aan dat u symptomen of risicofactoren ervaart die uw cardiovasculaire gezondheid kunnen beïnvloeden.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij a zorgverlener. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw hartgezondheid aan te pakken en uw risico op ernstige cardiovasculaire problemen te verminderen. Dit kan levensstijlveranderingen, medicatie of andere interventies omvatten zoals aanbevolen door uw arts."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Tathmini ya kibinafsi ya matumizi ya pombe na afya",
+  "description": "Kuelewa tabia zako za kunywa pombe ni muhimu kwa kudumisha afya na ustawi wako. Kutathmini mara ngapi na kiasi gani unakunywa kunaweza kukusaidia kutambua mwenendo na hatari zinazoweza kuhusiana na afya yako. Tathmini hii ya kibinafsi inatoa ufahamu kuhusu tabia zako za kunywa pombe na jinsi zinavyoweza kuathiri afya yako ya jumla. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Mara ngapi unakunywa vinywaji vya pombe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara moja kwa mwezi au chini",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara moja kwa wiki",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kila siku au karibu kila siku",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Vinywaji ngapi unakunywa kwa kawaida kwa siku unapokunywa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 au zaidi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Mara ngapi unakunywa vinywaji tano au zaidi kwa tukio moja?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Chini ya mara moja kwa mwezi",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Kila mwezi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kila wiki au mara nyingi zaidi",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unapata shida ya kusimamisha kunywa mara moja ukianza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi tamaa au hamu kubwa ya kunywa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa kunywa kwako kunakwamisha majukumu yako kazini, shuleni, au nyumbani?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, umewahi kujaribu kupunguza kunywa lakini hukuweza?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unaendelea kunywa hata kama inasababisha matatizo kwa afya yako au mahusiano?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, umewahi kupata upotezaji wa kumbukumbu au kuzimia kwa sababu ya kunywa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kosa au majuto kuhusu kunywa kwako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Kamwe",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Hatari ya chini ya matatizo ya afya yanayohusiana na pombe",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya chini ya kupata matatizo ya afya yanayohusiana na matumizi ya pombe. Ingawa ni vizuri kuwa makini kuhusu matumizi yako ya pombe, majibu yako yanaonyesha kuwa viwango vya sasa vya matumizi yako viko kwa kiwango cha salama.",
+      "advice": "Endelea kufuatilia ulaji wako wa pombe na kuhakikisha kuwa unadumisha mwenendo wa afya. Ikiwa utagundua mabadiliko yoyote katika tabia zako za kunywa, fikiria kuzungumza na mtaalamu wa afya kwa ushauri wa kibinafsi."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Hatari ya wastani ya matatizo ya afya yanayohusiana na pombe",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na hatari ya wastani ya kupata matatizo ya afya yanayohusiana na matumizi ya pombe. Baadhi ya majibu yako yanaonyesha kuwa kuna maeneo ambapo unaweza kuboresha tabia zako za kunywa.",
+      "advice": "Fikiria kupunguza ulaji wako wa pombe na kuwa makini zaidi kuhusu mwenendo wako wa kunywa. Kupunguza mara na kiasi cha pombe unachokunywa kunaweza kusaidia kupunguza hatari yako ya matatizo ya afya. Kushauriana na mtaalamu wa afya kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha tabia zako za kunywa."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Hatari ya juu ya matatizo ya afya yanayohusiana na pombe",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya juu ya kupata matatizo ya afya yanayohusiana na matumizi ya pombe. Majibu yako mengi yanaonyesha kuwa unaweza kuwa na matatizo kutokana na tabia zako za kunywa.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia tabia zako za kunywa na kupunguza hatari yako ya matatizo makubwa ya afya. Hii inaweza kujumuisha mabadiliko ya maisha, dawa, au uingiliaji kati mwingine kama ilivyopendekezwa na daktari wako."
+    }
+  ]
+}

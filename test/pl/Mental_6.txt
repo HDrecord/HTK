@@ -1,0 +1,246 @@
+{
+  "id": 6,
+  "title": "Oceń swoje szczęście",
+  "description": "Szczęście jest istotnym aspektem ogólnego dobrostanu, a zrozumienie, co przyczynia się do Twojego szczęścia, może pomóc Ci wieść bardziej satysfakcjonujące życie. Czy kiedykolwiek zastanawiałeś się, jak naprawdę jesteś szczęśliwy? Ten quiz może pomóc Ci ocenić Twój obecny poziom szczęścia i zidentyfikować obszary, które mogą wymagać uwagi. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się zadowolony ze swojego życia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy czujesz, że Twoje codzienne aktywności mają sens?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy ogólnie masz pozytywne nastawienie do życia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy jesteś zadowolony ze swoich relacji osobistych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy czujesz satysfakcję z pracy lub osobistych projektów?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy znajdujesz radość w codziennych aktywnościach?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy czujesz się pogodzony z przeszłymi decyzjami i doświadczeniami?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy czujesz, że masz kontrolę nad swoim życiem i decyzjami?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niski poziom szczęścia",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz niskiego poziomu szczęścia. Chociaż zawsze warto być świadomym swojego dobrostanu emocjonalnego, Twoje odpowiedzi wskazują, że możesz skorzystać ze strategii poprawiających ogólne poczucie szczęścia.",
+      "advice": "Rozważ skorzystanie z pomocy profesjonalisty od zdrowia psychicznego, aby zbadać sposoby na zwiększenie szczęścia i ogólnego dobrostanu. Mogą zapewnić wskazówki i strategie, które pomogą Ci osiągnąć bardziej satysfakcjonujące i radosne życie."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Umiarkowany poziom szczęścia",
+      "description": "Twoje odpowiedzi sugerują, że masz umiarkowany poziom szczęścia. Chociaż doświadczasz momentów radości i zadowolenia, mogą istnieć obszary w Twoim życiu, w których możesz skorzystać z dalszej poprawy.",
+      "advice": "Rozważ eksplorowanie aktywności i praktyk, które zwiększają Twoje szczęście, takich jak hobby, kontakty społeczne i techniki mindfulness. Rozmowa z profesjonalistą od zdrowia psychicznego może również zapewnić cenne spostrzeżenia i wsparcie."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Wysoki poziom szczęścia",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz wysokiego poziomu szczęścia. Wydajesz się mieć pozytywne nastawienie do życia i czuć zadowolenie z różnych aspektów swojego życia.",
+      "advice": "Kontynuuj pielęgnowanie swojego szczęścia poprzez utrzymywanie zdrowej równowagi w życiu, angażowanie się w aktywności, które przynoszą Ci radość, i rozwijanie znaczących relacji. Tak trzymaj i ciesz się swoim pozytywnym stanem dobrostanu."
+    }
+  ]
+}

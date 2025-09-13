@@ -1,0 +1,300 @@
+{
+  "id": 2,
+  "title": "Hebt u last van angstsymptomen?",
+  "description": "Angst is een natuurlijke reactie op stress, maar wanneer het overweldigend wordt, kan het uw dagelijks leven verstoren. Maakt u zich zorgen over uw angstniveau? Deze test kan u helpen uw angstsymptomen te beoordelen en te bepalen of u mogelijk baat zou hebben bij professionele ondersteuning. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Voelt u zich vaak nerveus, angstig of gespannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Heeft u moeite om u zorgen te maken onder controle te houden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Voelt u zich rusteloos of heeft u moeite om te ontspannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Ervaart u lichamelijke symptomen zoals zweten, trillen of duizeligheid?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u moeite met slapen of blijft u 's nachts wakker door piekeren?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Voelt u zich snel geïrriteerd of prikkelbaar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u last van paniekaanvallen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Vermijdt u situaties omdat ze u angstig maken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u moeite om u te concentreren door angst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Voelt u zich vaak overweldigd door angst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag risico op angststoornis",
+      "description": "Uw antwoorden suggereren dat u momenteel een laag risico loopt op een angststoornis. Hoewel het altijd goed is om bewust te zijn van uw mentale gezondheid, geven uw antwoorden aan dat u op dit moment geen significante symptomen van angst ervaart.",
+      "advice": "Blijf uw mentale gezondheid monitoren en beoefen zelfzorg. Als u ooit veranderingen in uw angstniveau voelt, overweeg dan om contact op te nemen met een geestelijke gezondheidsprofessional voor advies."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig risico op angststoornis",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op een angststoornis. Sommige van uw antwoorden geven aan dat u symptomen ervaart die gerelateerd kunnen zijn aan angst.",
+      "advice": "Het kan nuttig zijn om met een geestelijke gezondheidsprofessional over uw gevoelens te praten. Zij kunnen ondersteuning bieden en strategieën aanreiken om u te helpen uw symptomen te beheren en uw mentaal welzijn te verbeteren."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog risico op angststoornis",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op een angststoornis. Veel van uw antwoorden geven aan dat u significante symptomen ervaart die gerelateerd kunnen zijn aan angst.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een geestelijke gezondheidsprofessional. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw symptomen aan te pakken."
+    }
+  ]
+}

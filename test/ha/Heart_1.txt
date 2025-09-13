@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Kima na kai game da lafiyar zuciya",
+  "description": "Kiyaye lafiyar zuciya yana da mahimmanci ga jin daɗin ku gabaɗaya. Fahimtar yanayin lafiyar zuciyarku zai iya taimaka muku ɗaukar matakan rigakafi don hana matsalolin zuciya. Shin kun taɓa yin mamakin yanayin lafiyar zuciyarku? Wannan kima na kai zai taimaka muku kimanta lafiyar zuciyarku da gano wuraren da zasu buƙaci kulawa. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Shin sau da yawa kuke samun matsalar numfashi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Shin kuna jin ciwon ƙirji ko rashin jin daɗi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Shin kuna samun bugun zuciya mara tsari ko bugun zuciya mai ƙarfi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna jin gajiya ko rashin ƙarfi ba tare da wani dalili ba?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna samun kumburi a ƙafafu, idon sawu, ko ƙafafu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin kuna da hauhawar jini?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kuna da hauhawan cholesterol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna shan taba ko amfani da kayayyakin taba?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kuna da tarihin iyali na cututtukan zuciya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna shiga cikin ayyukan motsa jiki na yau da kullun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Shin kuna bin abinci mai lafiyar zuciya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Ƙaramin haɗarin matsalolin lafiyar zuciya",
+      "description": "Amsoshin ku sun nuna cewa kuna da ƙaramin haɗari ga matsalolin lafiyar zuciya. Duk da yake yana da kyau a kiyaye lafiyar zuciyarku, amsoshin ku sun nuna cewa lafiyar zuciyarku tana cikin yanayi mai kyau a yanzu.",
+      "advice": "Ci gaba da kiyaye salon rayuwa mai lafiyar zuciya ta hanyar shiga cikin ayyukan motsa jiki na yau da kullun, bin abinci mai daidaito, da guje wa halaye masu cutarwa kamar shan taba. Gwaje-gwaje na yau da kullun tare da ƙwararren kiwon lafiya na iya taimaka muku ci gaba da bin hanya."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Matsakaicin haɗarin matsalolin lafiyar zuciya",
+      "description": "Amsoshin ku sun nuna cewa kuna da matsakaicin haɗari ga matsalolin lafiyar zuciya. Wasu daga cikin amsoshin ku sun nuna cewa akwai wuraren da za ku iya inganta lafiyar zuciyarku.",
+      "advice": "Yi la'akari da yin canje-canje na salon rayuwa kamar ƙara motsa jiki, ɗaukar abinci mai lafiyar zuciya, da daina shan taba idan ya dace. Tuntubar ƙwararren kiwon lafiya na iya ba ku shawara ta musamman da dabarun don inganta lafiyar zuciyarku."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Babban haɗarin matsalolin lafiyar zuciya",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗari ga matsalolin lafiyar zuciya. Yawancin amsoshin ku sun nuna cewa kuna fuskantar alamomi ko kuma kuna da abubuwan haɗari waɗanda zasu iya shafar lafiyar zuciyarku.",
+      "advice": "Yana da mahimmanci ku nemi taimakon ƙwararren kiwon lafiya da gaggawa. Suna iya ba da bincike mai kyau kuma suyi aiki tare da ku don tsara tsarin magani don magance lafiyar zuciyarku da rage haɗarin matsaloli masu tsanani na zuciya."
+    }
+  ]
+}

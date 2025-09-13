@@ -1,0 +1,300 @@
+{
+  "id": 16,
+  "title": "Zelfevaluatie van alcoholgebruik en gezondheid",
+  "description": "Het begrijpen van uw alcoholconsumptiegewoonten is belangrijk voor het behoud van uw gezondheid en welzijn. Het evalueren van hoe vaak en hoeveel u drinkt, kan u helpen patronen en potentiële gezondheidsrisico's te herkennen. Deze zelfevaluatie biedt inzichten in uw drinkgewoonten en hoe deze uw algehele gezondheid kunnen beïnvloeden. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Hoe vaak consumeert u alcoholische dranken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Eens per maand of minder",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Eens per week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Dagelijks of bijna dagelijks",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Hoeveel drankjes heeft u op een typische dag dat u drinkt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1-2",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-4",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "5-6",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "7 of meer",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Hoe vaak heeft u vijf of meer drankjes bij één gelegenheid?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Minder dan maandelijks",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Maandelijks",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Wekelijks of vaker",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Vindt u het moeilijk om te stoppen met drinken zodra u bent begonnen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Ervaart u cravings of een sterke drang om te drinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Voelt u dat uw drinken interfereert met uw verantwoordelijkheden op werk, school of thuis?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u ooit geprobeerd minder te drinken maar was u niet in staat om dit vol te houden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Blijft u drinken ook al veroorzaakt het problemen met uw gezondheid of relaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u ooit geheugenverlies of blackouts ervaren door drinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Voelt u zich schuldig of berouwvol over uw drinken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Laag risico op alcoholgerelateerde gezondheidsproblemen",
+      "description": "Uw antwoorden suggereren dat u een laag risico loopt op gezondheidsproblemen gerelateerd aan alcoholgebruik. Hoewel het belangrijk is om uw alcoholinname te blijven monitoren, geven uw antwoorden aan dat uw huidige consumptieniveaus over het algemeen binnen veilige grenzen vallen.",
+      "advice": "Blijf uw alcoholinname monitoren en zorg ervoor dat u een gezond evenwicht behoudt. Als u zorgen heeft of veranderingen in uw drinkgewoonten opmerkt, overweeg dan om met een zorgverlener te praten voor persoonlijk advies."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Matig risico op alcoholgerelateerde gezondheidsproblemen",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op gezondheidsproblemen gerelateerd aan alcoholgebruik. Sommige van uw antwoorden geven aan dat er gebieden zijn waar u uw drinkgewoonten zou kunnen verbeteren.",
+      "advice": "Overweeg uw alcoholinname te verminderen en wees bewust van uw drinkpatronen. Het beperken van de frequentie en hoeveelheid alcohol die u consumeert, kan helpen uw risico op gezondheidsproblemen te verlagen. Overleg met een zorgverlener kan u voorzien van persoonlijk advies en strategieën om uw drinkgewoonten te verbeteren."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Hoog risico op alcoholgerelateerde gezondheidsproblemen",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op gezondheidsproblemen gerelateerd aan alcoholgebruik. Veel van uw antwoorden geven aan dat u mogelijk problemen ervaart door uw drinkgewoonten.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een zorgverlener. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw drinkgewoonten aan te pakken en uw risico op ernstige gezondheidsproblemen te verminderen. Dit kan levensstijlveranderingen, counseling of andere interventies omvatten zoals aanbevolen door uw arts."
+    }
+  ]
+}

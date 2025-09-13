@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Shin kuna da saurin kamuwa da baƙin ciki?",
+  "description": "A cikin duniyarmu mai sauri, mutane da yawa suna fuskantar baƙin ciki da damuwa, wani lokaci kuma ya haifar da baƙin ciki. Shin kuna zaton za ku iya zama mai saurin kamuwa da baƙin ciki? Kuna son fahimtar lafiyar ku ta hankali da ɗaukar mataki? Wannan tambayoyin zai taimaka muku bincika yanayin ku na tunani da ganin ko kuna da saurin kamuwa da baƙin ciki. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Shin sau da yawa kuna jin baƙin ciki ko rashin bege?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Shin kuna samun wahalar jin daɗin abubuwan da kuka kasance kuna son yi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Shin kuna jin gajiya ko ƙarancin kuzari?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna samun matsalar maida hankali kan ayyuka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna jin laifi ko rashin daraja?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin kuna samun matsalar barci ko yawan barci?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kuna jin rashin natsuwa ko matsalar zaman lafiya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna da tunanin cutar kanka ko kashe kanka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kuna samun matsalar yin shawara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna samun matsalar tashi daga gado da safe?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Ƙaramin haɗarin baƙin ciki",
+      "description": "Amsoshin ku sun nuna cewa a halin yanzu kuna da ƙaramin haɗari ga baƙin ciki. Duk da yake yana da kyau a kiyaye lafiyar ku ta hankali, amsoshin ku sun nuna cewa ba ku fuskantar alamomin baƙin ciki a wannan lokacin.",
+      "advice": "Ci gaba da sa ido kan lafiyar ku ta hankali da kuma yin kulawar kai. Idan kun ga canje-canje a yanayin ku ko halayen ku, yi la'akarin tuntuɓar ƙwararren lafiyar hankali don shawara."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matsakaicin haɗarin baƙin ciki",
+      "description": "Amsoshin ku sun nuna cewa kuna iya zama a matsakaicin haɗari ga baƙin ciki. Wasu daga cikin amsoshin ku sun nuna cewa kuna fuskantar alamomin da za su iya kasancewa masu alaƙa da baƙin ciki.",
+      "advice": "Zai iya zama da amfani ku yi magana da ƙwararren lafiyar hankali game da abin da kuke ji. Suna iya ba da tallafi da dabarun don taimaka muku sarrafa alamomin ku da inganta jin daɗin ku na hankali."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Babban haɗarin baƙin ciki",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗari ga baƙin ciki. Yawancin amsoshin ku sun nuna cewa kuna fuskantar alamomi masu mahimmanci waɗanda za su iya kasancewa masu alaƙa da baƙin ciki.",
+      "advice": "Yana da mahimmanci ku nemi taimakon ƙwararren lafiyar hankali da gaggawa. Suna iya ba da bincike mai kyau kuma suyi aiki tare da ku don tsara tsarin magani don magance alamomin ku."
+    }
+  ]
+}

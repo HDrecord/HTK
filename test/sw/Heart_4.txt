@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Tathmini ya kibinafsi ya shinikizo la damu",
+  "description": "Kudhibiti shinikizo la damu ni muhimu kwa kuzuia matatizo makubwa ya afya. Kufuatilia kwa mara kwa mara shinikizo lako la damu na kuelewa mambo yanayoweza kuongeza hatari yako kunaweza kukusaidia kukaa na afya. Jaribio hili linaweza kukusaidia kutathmini hali yako ya sasa na kupata ufahamu wa kudumisha viwango vya shinikizo la damu yenye afya. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unapata maumivu ya kichwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kizunguzungu au kichwa kupanda?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unapata macho kufifia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kupumua kwa shida wakati wa shughuli za kawaida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kupigwa kifuani, shingoni, au masikioni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, una shida ya kulala?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, una historia ya familia ya shinikizo la damu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unavuta sigara au matumizi ya bidhaa za tumbaku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unakunywa pombe mara kwa mara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, una viwango vya juu vya mafadhaiko?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unafanya mazoezi ya mara kwa mara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Je, unafuata lishe bora?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Je, una viwango vya juu vya kolesteroli?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Je, unatumia dawa za shinikizo la damu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Hatari ya chini ya shinikizo la damu",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya chini ya kupata shinikizo la damu. Ingawa ni vizuri kuwa makini kuhusu afya yako ya moyo, majibu yako yanaonyesha kuwa shinikizo lako la damu liko katika safu ya afya kwa sasa.",
+      "advice": "Endelea kudumisha mwenendo wa maisha yenye afya kwa kufanya shughuli za kimwili mara kwa mara, kufuata lishe bora, kudhibiti mafadhaiko kwa ufanisi, na kuepuka tabia hatari kama kuvuta sigara na kunywa pombe kupita kiasi. Uchunguzi wa mara kwa mara na mtaalamu wako wa afya unaweza kukusaidia kukaa kwenye njia."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Hatari ya wastani ya shinikizo la damu",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na hatari ya wastani ya kupata shinikizo la damu. Baadhi ya majibu yako yanaonyesha kuwa kuna maeneo ambayo unaweza kuboresha afya yako ya moyo.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama vile kuongeza shughuli zako za kimwili, kufuata lishe yenye afya, kuvuta sigara ikiwa inatumika, kupunguza ulaji wa pombe, na kudhibiti mafadhaiko zaidi. Kushauriana na mtaalamu wa afya kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha udhibiti wa shinikizo lako la damu."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Hatari ya juu ya shinikizo la damu",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya juu ya kupata shinikizo la damu. Majibu yako mengi yanaonyesha kuwa unapata dalili au una mambo yanayoweza kuathiri udhibiti wa shinikizo lako la damu.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia shinikizo lako la damu na kupunguza hatari yako ya matatizo makubwa ya afya. Hii inaweza kujumuisha mabadiliko ya maisha, dawa, au uingiliaji kati mwingine kama ilivyopendekezwa na daktari wako."
+    }
+  ]
+}

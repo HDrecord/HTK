@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Czy jesteś podatny na depresję?",
+  "description": "W naszym szybkim świecie wiele osób doświadcza smutku i niepokoju, co czasami prowadzi do depresji. Czy podejrzewasz, że możesz być podatny na depresję? Chcesz zrozumieć swoje zdrowie psychiczne i podjąć działania? Ten quiz może pomóc Ci zbadać Twój stan emocjonalny i sprawdzić, czy jesteś podatny na depresję. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Często czujesz się smutny lub beznadziejny?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy trudno Ci cieszyć się aktywnościami, które kiedyś lubiłeś?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy czujesz się zmęczony lub masz mało energii?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy masz trudności z koncentracją na zadaniach?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy czujesz się winny lub bezwartościowy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy masz problemy ze snem lub śpisz za dużo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy czujesz się niespokojny lub masz trudności z siedzeniem w miejscu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy masz myśli o samookaleczeniu lub samobójstwie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy masz trudności z podejmowaniem decyzji?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy trudno Ci wstać z łóżka rano?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Niskie ryzyko depresji",
+      "description": "Twoje odpowiedzi sugerują, że obecnie masz niskie ryzyko depresji. Chociaż zawsze warto być świadomym swojego zdrowia psychicznego, Twoje odpowiedzi wskazują, że obecnie nie doświadczasz znaczących objawów depresji.",
+      "advice": "Nadal monitoruj swoje zdrowie psychiczne i dbaj o siebie. Jeśli kiedykolwiek poczujesz zmiany w nastroju lub zachowaniu, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Umiarkowane ryzyko depresji",
+      "description": "Twoje odpowiedzi sugerują, że możesz być narażony na umiarkowane ryzyko depresji. Niektóre z Twoich odpowiedzi wskazują, że doświadczasz objawów, które mogą być związane z depresją.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o swoich uczuciach. Mogą zaoferować wsparcie i strategie pomagające w zarządzaniu objawami i poprawie samopoczucia psychicznego."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Wysokie ryzyko depresji",
+      "description": "Twoje odpowiedzi sugerują, że jesteś narażony na wysokie ryzyko depresji. Wiele Twoich odpowiedzi wskazuje, że doświadczasz znaczących objawów, które mogą być związane z depresją.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 7,
+  "title": "Ocena zdolności radzenia sobie ze stresem",
+  "description": "W naszym szybkim świecie stres jest powszechnym doświadczeniem, ale to, jak sobie z nim radzimy, może znacznie wpłynąć na nasz ogólny dobrostan. Czy wiesz, jak dobrze radzisz sobie ze stresem? Ta ocena może pomóc Ci ocenić Twoje zdolności radzenia sobie ze stresem i zapewnić wgląd w obszary wymagające poprawy. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się przytłoczony stresem?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy trudno Ci się zrelaksować po stresującym wydarzeniu?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy masz problemy ze snem, gdy jesteś zestresowany?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy trudno Ci się skoncentrować pod wpływem stresu?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy doświadczasz fizycznych objawów, takich jak bóle głowy lub brzucha, gdy jesteś zestresowany?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy czujesz się rozdrażniony lub wybuchowy pod wpływem stresu?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy unikasz sytuacji, które mogą powodować stres?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy trudno Ci zachować równowagę między pracą a życiem osobistym?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy polegasz na niezdrowych mechanizmach radzenia sobie (np. palenie, picie), aby poradzić sobie ze stresem?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy trudno Ci zachować pozytywne nastawienie pod wpływem stresu?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy czujesz niepokój lub panikę w stresujących sytuacjach?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy czujesz, że stres negatywnie wpływa na Twoje ogólne zdrowie?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Dobra zdolność radzenia sobie ze stresem",
+      "description": "Twoje odpowiedzi sugerują, że dobrze radzisz sobie ze stresem. Chociaż zawsze warto być świadomym poziomu stresu, Twoje odpowiedzi wskazują, że skutecznie radzisz sobie ze stresującymi sytuacjami w tym czasie.",
+      "advice": "Kontynuuj praktykowanie dobrych technik zarządzania stresem i dbanie o siebie. Jeśli kiedykolwiek poczujesz zmiany w zdolności radzenia sobie ze stresem, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Umiarkowana zdolność radzenia sobie ze stresem",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać pewnych trudności w radzeniu sobie ze stresem. Niektóre z Twoich odpowiedzi wskazują, że zmagasz się z zarządzaniem stresem.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o poziomie stresu. Mogą zaoferować wsparcie i strategie pomagające w poprawie umiejętności zarządzania stresem i ogólnego samopoczucia."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Słaba zdolność radzenia sobie ze stresem",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz znaczących trudności w radzeniu sobie ze stresem. Wiele Twoich odpowiedzi wskazuje, że zmagasz się z zarządzaniem stresem.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia trudności w radzeniu sobie ze stresem."
+    }
+  ]
+}

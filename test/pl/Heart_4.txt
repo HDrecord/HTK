@@ -1,0 +1,408 @@
+{
+  "id": 13,
+  "title": "Kwestionariusz samooceny nadciśnienia",
+  "description": "Zarządzanie wysokim ciśnieniem krwi jest kluczowe dla zapobiegania poważnym problemom zdrowotnym. Regularne sprawdzanie ciśnienia krwi i zrozumienie czynników ryzyka może pomóc w utrzymaniu zdrowia. Ten kwestionariusz pozwala ocenić Twoją obecną sytuację i uzyskać informacje na temat utrzymania prawidłowego ciśnienia krwi. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często doświadczasz bólów głowy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy czujesz się zawroty głowy lub oszołomienie?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy doświadczasz niewyraźnego widzenia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy czujesz duszności podczas rutynowych czynności?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy czujesz kołatanie w klatce piersiowej, szyi lub uszach?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy masz trudności ze snem?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy w Twojej rodzinie występowało wysokie ciśnienie krwi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy palisz lub używasz wyrobów tytoniowych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy często spożywasz alkohol?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy masz wysoki poziom stresu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy regularnie ćwiczysz?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy stosujesz zdrową dietę?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Czy masz wysoki poziom cholesterolu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Czy przyjmujesz leki na wysokie ciśnienie krwi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 14,
+      "title": "Niskie ryzyko nadciśnienia",
+      "description": "Twoje odpowiedzi sugerują, że masz niskie ryzyko wystąpienia nadciśnienia. Chociaż zawsze warto być świadomym swojego zdrowia sercowo-naczyniowego, Twoje odpowiedzi wskazują, że Twoje ciśnienie krwi jest obecnie w zdrowym zakresie.",
+      "advice": "Kontynuuj prowadzenie zdrowego stylu życia poprzez regularną aktywność fizyczną, zbilansowaną dietę, skuteczne zarządzanie stresem i unikanie szkodliwych nawyków, takich jak palenie i nadmierne spożycie alkoholu. Regularne badania kontrolne u lekarza mogą pomóc Ci utrzymać dobrą kondycję."
+    },
+    {
+      "start": 15,
+      "end": 28,
+      "title": "Umiarkowane ryzyko nadciśnienia",
+      "description": "Twoje odpowiedzi sugerują, że możesz być narażony/a na umiarkowane ryzyko wystąpienia nadciśnienia. Niektóre z Twoich odpowiedzi wskazują, że istnieją obszary, w których możesz poprawić zdrowie swojego układu krążenia.",
+      "advice": "Rozważ wprowadzenie zmian w stylu życia, takich jak zwiększenie aktywności fizycznej, przyjęcie zdrowszej diety, rzucenie palenia, jeśli dotyczy, ograniczenie spożycia alkoholu i bardziej skuteczne zarządzanie stresem. Konsultacja z lekarzem może dostarczyć indywidualnych porad i strategii poprawy ciśnienia krwi."
+    },
+    {
+      "start": 29,
+      "end": 42,
+      "title": "Wysokie ryzyko nadciśnienia",
+      "description": "Twoje odpowiedzi sugerują, że jesteś narażony/a na wysokie ryzyko wystąpienia nadciśnienia. Wiele Twoich odpowiedzi wskazuje, że doświadczasz objawów lub masz czynniki ryzyka, które mogą wpływać na zdrowie Twojego układu krążenia.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do lekarza. Mogą oni postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia, który pomoże w rozwiązaniu problemów z ciśnieniem krwi i zmniejszeniu ryzyka poważnych problemów sercowo-naczyniowych. Może to obejmować zmiany stylu życia, leki lub inne interwencje zalecane przez lekarza."
+    }
+  ]
+}

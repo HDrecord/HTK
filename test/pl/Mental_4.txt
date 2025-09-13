@@ -1,0 +1,246 @@
+{
+  "id": 4,
+  "title": "Samocena poczucia samotności",
+  "description": "Samotność może dotknąć każdego, niezależnie od wieku czy pochodzenia, a rozpoznanie jej oznak to pierwszy krok w kierunku rozwiązania problemu. Czy często czujesz się odizolowany lub odłączony od innych? Ta samocena może pomóc Ci ocenić Twoje uczucie samotności i lepiej zrozumieć Twoje społeczne i emocjonalne potrzeby. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się odizolowany od innych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy czujesz, że brakuje Ci towarzystwa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy czujesz się pominięty?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy czujesz, że nie jesteś już blisko z nikim?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy czujesz, że Twoje relacje z innymi nie są znaczące?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy czujesz się nieśmiały lub wycofany wśród innych?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy czujesz, że ludzie wokół Ciebie nie są naprawdę z Tobą?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy czujesz się samotny nawet wśród innych ludzi?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Niski poziom samotności",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz niskiego poziomu samotności. Chociaż zawsze warto dbać o swoje kontakty społeczne, Twoje odpowiedzi wskazują, że samotność nie wpływa znacząco na Twoje życie w tym czasie.",
+      "advice": "Kontynuuj pielęgnowanie swoich relacji i utrzymywanie kontaktów społecznych. Jeśli kiedykolwiek poczujesz zmiany w uczuciu samotności, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Umiarkowany poziom samotności",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać umiarkowanego poziomu samotności. Niektóre z Twoich odpowiedzi wskazują, że zmagasz się z uczuciem izolacji.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o swoim uczuciu samotności. Mogą zaoferować wsparcie i strategie pomagające w poprawie Twoich kontaktów społecznych i samopoczucia emocjonalnego."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "title": "Wysoki poziom samotności",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz wysokiego poziomu samotności. Wiele Twoich odpowiedzi wskazuje, że znacząco zmagasz się z uczuciem izolacji.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia."
+    }
+  ]
+}

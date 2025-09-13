@@ -1,0 +1,300 @@
+{
+  "id": 4,
+  "title": "Tathmini ya hali ya furaha na matumaini",
+  "description": "Hali ya furaha na matumaini ni muhimu kwa afya yako ya akili na ustawi wako wa jumla. Kuelewa hali yako ya sasa ya furaha na matumaini kunaweza kukusaidia kutambua maeneo ambayo yanaweza kuhitaji umakini zaidi. Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini hali yako ya furaha na matumaini. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi furaha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi kuwa una matumaini kuhusu wakati ujao?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mambo unayotaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kukabiliana na changamoto?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mabadiliko mazuri maishani mwako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufurahia mambo unayofanya?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya kazi vizuri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mazoezi ya kimwili?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mambo unayotaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unahisi kuwa unaweza kufanya mambo unayotaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Hali nzuri ya furaha na matumaini",
+      "description": "Majibu yako yanaonyesha kuwa una hali nzuri ya furaha na matumaini. Unaweza kufurahia maisha na kuwa na matumaini kuhusu wakati ujao.",
+      "advice": "Endelea kudumisha mwenendo wako mzuri wa maisha kwa kufanya shughuli unazozipenda, kushiriki katika shughuli za kijamii, na kudumisha uhusiano mzuri na wengine."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "title": "Hali ya wastani ya furaha na matumaini",
+      "description": "Majibu yako yanaonyesha kuwa una hali ya wastani ya furaha na matumaini. Unaweza kuwa na wakati mzuri, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
+      "advice": "Fikiria kufanya mabadiliko madogo ya maisha kama vile kuanzisha shughuli mpya, kushiriki katika shughuli za kijamii, au kutafuta msaada kutoka kwa wengine."
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "title": "Hali duni ya furaha na matumaini",
+      "description": "Majibu yako yanaonyesha kuwa una hali duni ya furaha na matumaini. Unaweza kuwa na shida ya kufurahia maisha au kuwa na matumaini kuhusu wakati ujao.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha hali yako ya furaha na matumaini."
+    }
+  ]
+}

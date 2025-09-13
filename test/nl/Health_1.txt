@@ -1,0 +1,307 @@
+{
+  "id": 14,
+  "title": "Zelfevaluatie van diabetesrisico",
+  "description": "Diabetes is een groeiend gezondheidsprobleem wereldwijd, en het begrijpen van uw risicofactoren is essentieel voor preventie en beheer. Deze zelfevaluatie helpt u uw levensstijl, genetische aanleg en andere diabetesgerelateerde factoren te beoordelen. Door deze test te doen, krijgt u waardevolle inzichten in uw risico op diabetes en kunt u proactieve stappen nemen naar een gezonder leven. Onthoud dat deze test geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Hoe vaak doet u minstens 30 minuten aan lichaamsbeweging?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Dagelijks",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 keer per week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 keer per week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Zelden of nooit",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Hoe vaak consumeert u suikerhoudende dranken of voedsel met veel suiker?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Zelden of nooit",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "1-2 keer per week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "3-4 keer per week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Dagelijks",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Hoe vaak eet u vers fruit en groenten?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Dagelijks",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "3-5 keer per week",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "1-2 keer per week",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Zelden of nooit",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Wat is uw body mass index (BMI)?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Minder dan 25",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "25-29.9",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "30-34.9",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "35 of hoger",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u een familiegeschiedenis van diabetes?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nee",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, maar alleen verre familieleden",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, naaste familieleden (ouders, broers/zussen)",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, meerdere naaste familieleden",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Is bij u ooit een hoge bloeddruk vastgesteld?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nee",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, maar onder controle met levensstijlveranderingen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, onder controle met medicatie",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, maar niet goed onder controle",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Rookt u?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nee",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, af en toe",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, regelmatig",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, veel",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Is bij u ooit een hoog cholesterolgehalte vastgesteld?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nee",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, maar onder controle met levensstijlveranderingen",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, onder controle met medicatie",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, maar niet goed onder controle",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Hoe vaak heeft u een medische controle?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Jaarlijks",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Elke 2-3 jaar",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Elke 4-5 jaar",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Zelden of nooit",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Is bij u ooit prediabetes of zwangerschapsdiabetes vastgesteld?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Nee",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Ja, prediabetes",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Ja, zwangerschapsdiabetes",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Ja, beide",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 7,
+      "title": "Laag risico",
+      "description": "Uw antwoorden suggereren dat u een laag risico loopt om diabetes te ontwikkelen. Houd uw gezonde gewoonten aan.",
+      "advice": "Hoewel uw risico laag lijkt, is het belangrijk om uw gezondheid te blijven monitoren en een gebalanceerde levensstijl aan te houden. Regelmatige controles bij een zorgverlener worden aanbevolen."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "title": "Matig risico",
+      "description": "Uw antwoorden suggereren dat u een matig risico loopt om diabetes te ontwikkelen.",
+      "advice": "Overweeg levensstijlveranderingen zoals meer lichaamsbeweging en een gezonder dieet. Het kan nuttig zijn om een zorgverlener te raadplegen voor persoonlijk advies."
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "title": "Hoog risico",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt om diabetes te ontwikkelen.",
+      "advice": "Het is belangrijk om direct actie te ondernemen om uw risico te verlagen. Zoek professionele ondersteuning en maak significante veranderingen in uw levensstijl. Vroege interventie kan uw risico aanzienlijk verlagen en uw gezondheid verbeteren."
+    },
+    {
+      "start": 24,
+      "end": 30,
+      "title": "Zeer hoog risico",
+      "description": "Uw antwoorden suggereren dat u een zeer hoog risico loopt om diabetes te ontwikkelen.",
+      "advice": "Directe actie is noodzakelijk om uw hoge risico aan te pakken. Het is cruciaal om professionele ondersteuning te zoeken en significante veranderingen in uw levensstijl aan te brengen. Vroege interventie kan uw risico aanzienlijk verlagen en uw gezondheid verbeteren."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": 10,
+  "title": "Tathmini ya afya ya moyo",
+  "description": "Kudumisha moyo mzima ni muhimu kwa ustawi wa jumla. Kuelewa hali ya afya ya moyo wako kunaweza kukusaidia kuchukua hatua za kuzuia matatizo ya moyo na mishipa. Je, umewahi kujiuliza kuhusu hali ya afya ya moyo wako? Tathmini hii ya kibinafsi inaweza kukusaidia kutathmini afya ya moyo wako na kutambua maeneo ambayo yanaweza kuhitaji umakini. Kumbuka, hii sio utambuzi wa kitaalamu, na hakuna majibu sahihi au yasiyo sahihi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi kupumua kwa shida?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Je, unahisi maumivu ya kifua au usumbufu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Je, unapata mapigo ya moyo yasiyo ya kawaida au kusisimua?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Je, unahisi kuchoka au kukata tamaa bila sababu yoyote ya dhahiri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Je, unapata uvimbe kwenye miguu yako, kifundoni, au miguuni?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Je, una shinikizo la damu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Je, una viwango vya juu vya kolesteroli?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Je, unavuta sigara au matumizi ya bidhaa za tumbaku?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Je, una historia ya familia ya ugonjwa wa moyo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Je, unajihusisha na shughuli za kimwili mara kwa mara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unafuata lishe yenye afya kwa moyo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "Hatari ya chini ya matatizo ya afya ya moyo",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya chini ya kupata matatizo ya afya ya moyo. Ingawa ni vizuri kuwa makini kuhusu afya yako ya moyo, majibu yako yanaonyesha kuwa afya ya moyo wako iko katika hali nzuri kwa sasa.",
+      "advice": "Endelea kudumisha mwenendo wa maisha yenye afya kwa kufanya shughuli za kimwili mara kwa mara, kufuata lishe bora, na kuepuka tabia hatari kama kuvuta sigara. Uchunguzi wa mara kwa mara na mtaalamu wako wa afya unaweza kukusaidia kukaa kwenye njia."
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "Hatari ya wastani ya matatizo ya afya ya moyo",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na hatari ya wastani ya kupata matatizo ya afya ya moyo. Baadhi ya majibu yako yanaonyesha kuwa kuna maeneo ambayo unaweza kuboresha afya yako ya moyo.",
+      "advice": "Fikiria kufanya mabadiliko ya maisha kama vile kuongeza shughuli zako za kimwili, kufuata lishe yenye afya kwa moyo, na kuvuta sigara ikiwa inatumika. Kushauriana na mtaalamu wa afya kunaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha afya yako ya moyo."
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "Hatari ya juu ya matatizo ya afya ya moyo",
+      "description": "Majibu yako yanaonyesha kuwa una hatari ya juu ya kupata matatizo ya afya ya moyo. Majibu yako mengi yanaonyesha kuwa unapata dalili au una mambo yanayoweza kuathiri afya yako ya moyo.",
+      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia afya yako ya moyo na kupunguza hatari yako ya matatizo makubwa ya moyo."
+    }
+  ]
+}

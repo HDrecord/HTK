@@ -1,0 +1,116 @@
+{
+  "papers": [
+    {
+      "id": 1,
+      "title": "Bent u vatbaar voor depressie?",
+      "description": "Depressie zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_1.txt"
+    },
+    {
+      "id": 2,
+      "title": "Hebt u last van angstsymptomen?",
+      "description": "Angst zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_2.txt"
+    },
+    {
+      "id": 3,
+      "title": "Heeft u last van sociale angst?",
+      "description": "Sociale angst zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_3.txt"
+    },
+    {
+      "id": 4,
+      "title": "Heeft u last van dwangmatige gedachten of gedragingen?",
+      "description": "Dwangstoornis zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_4.txt"
+    },
+    {
+      "id": 5,
+      "title": "Heeft u symptomen van posttraumatische stress?",
+      "description": "PTSS zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_5.txt"
+    },
+    {
+      "id": 6,
+      "title": "Heeft u symptomen van een bipolaire stoornis?",
+      "description": "Bipolaire stoornis zelfevaluatie vragenlijst",
+      "category": "Mental Health",
+      "file": "Mental_6.txt"
+    },
+    {
+      "id": 7,
+      "title": "Hoe goed gaat u om met stress?",
+      "description": "Algemene stress zelfevaluatie vragenlijst",
+      "category": "Stress Management",
+      "file": "Stress_1.txt"
+    },
+    {
+      "id": 8,
+      "title": "Hoeveel werkgerelateerde stress ervaart u?",
+      "description": "Werkstress zelfevaluatie vragenlijst",
+      "category": "Stress Management",
+      "file": "Stress_2.txt"
+    },
+    {
+      "id": 9,
+      "title": "Hoeveel financiële stress ervaart u?",
+      "description": "Financiële stress zelfevaluatie vragenlijst",
+      "category": "Stress Management",
+      "file": "Stress_3.txt"
+    },
+    {
+      "id": 10,
+      "title": "Zelfevaluatie van hartgezondheid",
+      "description": "Hartgezondheid zelfevaluatie vragenlijst",
+      "category": "Heart Health",
+      "file": "Heart_1.txt"
+    },
+    {
+      "id": 11,
+      "title": "Zelfevaluatie van risico op hartaandoeningen",
+      "description": "Risico op hartaandoeningen zelfevaluatie vragenlijst",
+      "category": "Heart Health",
+      "file": "Heart_2.txt"
+    },
+    {
+      "id": 12,
+      "title": "Zelfcontrole voor coronaire hartziekte",
+      "description": "Coronaire hartziekte zelfevaluatie vragenlijst",
+      "category": "Heart Health",
+      "file": "Heart_3.txt"
+    },
+    {
+      "id": 13,
+      "title": "Zelfevaluatie vragenlijst voor hypertensie",
+      "description": "Hoge bloeddruk zelfevaluatie vragenlijst",
+      "category": "Heart Health",
+      "file": "Heart_4.txt"
+    },
+    {
+      "id": 14,
+      "title": "Samodzielna ocena ryzyka...",
+      "description": "Diabetes zelfevaluatie vragenlijst",
+      "category": "Health Assessment",
+      "file": "Health_1.txt"
+    },
+    {
+      "id": 15,
+      "title": "Samodzielna ocena zdrowi...",
+      "description": "Voeding zelfevaluatie vragenlijst",
+      "category": "Health Assessment",
+      "file": "Health_2.txt"
+    },
+    {
+      "id": 16,
+      "title": "Samodzielna ocena alcoho...",
+      "description": "Alcoholgebruik zelfevaluatie vragenlijst",
+      "category": "Health Assessment",
+      "file": "Health_3.txt"
+    }
+  ]
+}

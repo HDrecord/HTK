@@ -1,0 +1,300 @@
+{
+  "id": 3,
+  "title": "Heeft u last van sociale angst?",
+  "description": "Sociale angst kan het moeilijk maken om met anderen om te gaan en deel te nemen aan sociale activiteiten. Maakt u zich zorgen over uw comfortniveau in sociale situaties? Deze test kan u helpen uw sociale angstniveau te beoordelen en te bepalen of u mogelijk baat zou hebben bij professionele ondersteuning. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Voelt u zich nerveus in sociale situaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Maakt u zich zorgen over wat anderen van u denken?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Vermijdt u sociale bijeenkomsten vanwege angst?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Voelt u zich ongemakkelijk wanneer u het middelpunt van aandacht bent?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u moeite met spreken in het openbaar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Voelt u zich bezorgd over het maken van fouten in sociale situaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Heeft u last van trillen of zweten in sociale situaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Vindt u het moeilijk om oogcontact te maken met anderen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Voelt u zich ongemakkelijk bij het eten of drinken in het openbaar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Heeft u het gevoel dat anderen u voortdurend beoordelen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag risico op sociale angststoornis",
+      "description": "Uw antwoorden suggereren dat u momenteel een laag risico loopt op een sociale angststoornis. Hoewel het altijd goed is om bewust te zijn van uw mentale gezondheid, geven uw antwoorden aan dat u op dit moment geen significante symptomen van sociale angst ervaart.",
+      "advice": "Blijf uw mentale gezondheid monitoren en beoefen zelfzorg. Als u ooit veranderingen in uw comfortniveau in sociale situaties voelt, overweeg dan om contact op te nemen met een geestelijke gezondheidsprofessional voor advies."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig risico op sociale angststoornis",
+      "description": "Uw antwoorden suggereren dat u mogelijk een matig risico loopt op een sociale angststoornis. Sommige van uw antwoorden geven aan dat u symptomen ervaart die gerelateerd kunnen zijn aan sociale angst.",
+      "advice": "Het kan nuttig zijn om met een geestelijke gezondheidsprofessional over uw gevoelens te praten. Zij kunnen ondersteuning bieden en strategieën aanreiken om u te helpen uw symptomen te beheren en uw comfort in sociale situaties te verbeteren."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog risico op sociale angststoornis",
+      "description": "Uw antwoorden suggereren dat u een hoog risico loopt op een sociale angststoornis. Veel van uw antwoorden geven aan dat u significante symptomen ervaart die gerelateerd kunnen zijn aan sociale angst.",
+      "advice": "Het is belangrijk om zo snel mogelijk hulp te zoeken bij een geestelijke gezondheidsprofessional. Zij kunnen een juiste diagnose stellen en met u samenwerken om een behandelplan te ontwikkelen om uw symptomen aan te pakken en uw kwaliteit van leven te verbeteren."
+    }
+  ]
+}

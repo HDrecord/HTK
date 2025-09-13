@@ -1,0 +1,354 @@
+{
+  "id": 8,
+  "title": "Ocena stresu w pracy",
+  "description": "Stres związany z pracą może znacząco wpłynąć zarówno na Twoje wyniki zawodowe, jak i życie osobiste. Zrozumienie poziomu stresu, którego doświadczasz w pracy, jest kluczowe dla skutecznego zarządzania nim. Czy kiedykolwiek czułeś się przytłoczony swoją pracą? Ta ocena może pomóc Ci ocenić Twój stres w pracy i zidentyfikować obszary, które mogą wymagać uwagi. Pamiętaj, że to nie jest profesjonalna diagnoza i nie ma dobrych ani złych odpowiedzi.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy często czujesz się przytłoczony swoim obciążeniem pracą?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy trudno Ci dotrzymać terminów?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy czujesz, że masz dobrą równowagę między pracą a życiem osobistym?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy doświadczasz fizycznych objawów, takich jak bóle głowy lub brzucha, z powodu stresu w pracy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy trudno Ci się skoncentrować na zadaniach w pracy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy czujesz się rozdrażniony lub wybuchowy w pracy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy unikasz zadań lub sytuacji w pracy, które powodują u Ciebie stres?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy czujesz niepokój związany z pracą nawet w czasie wolnym?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy trudno Ci odmówić dodatkowej pracy lub zadań?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy czujesz się wspierany przez współpracowników i przełożonych w pracy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy czujesz, że Twoje środowisko pracy pozytywnie wpływa na Twoje samopoczucie psychiczne?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy czujesz, że stres wpływa na Twoje ogólne wyniki w pracy?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Wcale nie",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Czasami",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Często",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Prawie zawsze",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 11,
+      "title": "Niski poziom stresu w pracy",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz niskiego poziomu stresu w pracy. Chociaż zawsze warto być świadomym poziomu stresu, Twoje odpowiedzi wskazują, że skutecznie radzisz sobie ze stresem związanym z pracą w tym czasie.",
+      "advice": "Kontynuuj praktykowanie dobrych technik zarządzania stresem i utrzymywanie zdrowej równowagi między pracą a życiem osobistym. Jeśli kiedykolwiek poczujesz zmiany w poziomie stresu, rozważ skontaktowanie się z profesjonalistą od zdrowia psychicznego."
+    },
+    {
+      "start": 12,
+      "end": 23,
+      "title": "Umiarkowany poziom stresu w pracy",
+      "description": "Twoje odpowiedzi sugerują, że możesz doświadczać umiarkowanego poziomu stresu w pracy. Niektóre z Twoich odpowiedzi wskazują, że zmagasz się ze stresem związanym z pracą.",
+      "advice": "Może być pomocne rozmawianie z profesjonalistą od zdrowia psychicznego o stresie związanym z pracą. Mogą zaoferować wsparcie i strategie pomagające w poprawie umiejętności zarządzania stresem i ogólnego samopoczucia."
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "title": "Wysoki poziom stresu w pracy",
+      "description": "Twoje odpowiedzi sugerują, że doświadczasz wysokiego poziomu stresu w pracy. Wiele Twoich odpowiedzi wskazuje, że znacząco zmagasz się ze stresem związanym z pracą.",
+      "advice": "Ważne jest, aby jak najszybciej zwrócić się o pomoc do profesjonalisty od zdrowia psychicznego. Mogą postawić właściwą diagnozę i współpracować z Tobą w celu opracowania planu leczenia stresu w pracy i poprawy ogólnego zdrowia psychicznego."
+    }
+  ]
+}

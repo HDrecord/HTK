@@ -1,0 +1,300 @@
+{
+  "id": 1,
+  "title": "Hoe goed gaat u om met stress?",
+  "description": "Stress is een normaal onderdeel van het leven, maar te veel stress kan schadelijk zijn voor uw gezondheid. Hoe goed gaat u om met de stress in uw leven? Deze test kan u helpen uw huidige stressniveau te beoordelen en gebieden te identificeren waar u mogelijk uw copingstrategieën kunt verbeteren. Onthoud dat dit geen professionele diagnose is en er geen goede of foute antwoorden zijn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Voelt u zich vaak overweldigd door uw verantwoordelijkheden?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Heeft u moeite om te ontspannen?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Heeft u last van slaapproblemen door stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Voelt u zich vaak geïrriteerd of prikkelbaar?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Heeft u last van spierspanning of hoofdpijn?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Heeft u moeite met concentreren door stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Eet u meer of minder dan normaal wanneer u gestrest bent?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Voelt u zich vaak angstig of bezorgd?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Heeft u het gevoel dat u geen controle heeft over uw leven?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Gebruikt u alcohol, drugs of medicijnen om met stress om te gaan?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Laag stressniveau - Goede copingvaardigheden",
+      "description": "Uw antwoorden suggereren dat u over het algemeen goed omgaat met stress. U ervaart mogelijk normale niveaus van stress, maar heeft effectieve strategieën om hiermee om te gaan.",
+      "advice": "Blijf gezonde copingmechanismen gebruiken, zoals lichaamsbeweging, ontspanningstechnieken en tijd voor uzelf nemen. Het is altijd goed om uw stressmanagementvaardigheden te blijven ontwikkelen."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matig stressniveau - Enige copinguitdagingen",
+      "description": "Uw antwoorden suggereren dat u matige niveaus van stress ervaart en soms moeite heeft om hiermee om te gaan. Er zijn mogelijk gebieden waar u uw copingstrategieën kunt verbeteren.",
+      "advice": "Overweeg nieuwe manieren om met stress om te gaan, zoals meditatie, ademhalingsoefeningen of het zoeken van sociale steun. Het kan nuttig zijn om met een professional te praten over stressmanagementtechnieken."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Hoog stressniveau - Significante copinguitdagingen",
+      "description": "Uw antwoorden suggereren dat u hoge niveaus van stress ervaart en aanzienlijke moeite heeft om hiermee om te gaan. Deze mate van stress kan schadelijk zijn voor uw fysieke en mentale gezondheid.",
+      "advice": "Het is belangrijk om professionele hulp te zoeken om uw stressniveaus te beheren. Een zorgverlener of therapeut kan u helpen effectieve copingstrategieën te ontwikkelen en mogelijke onderliggende problemen aan te pakken."
+    }
+  ]
+}

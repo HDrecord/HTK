@@ -1,0 +1,354 @@
+{
+  "id": 15,
+  "title": "Kima na kai game da abinci da lafiya",
+  "description": "Abinci mai daidaito yana da muhimmanci ga kiyaye lafiya mai kyau da hana cututtuka daban-daban. Kimanta abubuwan abincin ku da abubuwan gina jiki na iya ba ku haske game da yanayin lafiyar ku gabaɗaya. Wannan kima na kai yana ba ku damar yin tunani game da zaɓin abincin ku da gano wuraren da za a inganta. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Shin kuna cin aƙalla rabi biyar na 'ya'yan itatuwa da kayan lambu kowace rana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Shin kuna iyakance cin abubuwan ciye-ciye masu sukari ko abubuwan sha?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Shin kuna zaɓar hatsi gabaɗaya maimakon hatsi da aka tsarkake?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna haɗa ƙananan furotin a cikin abincin ku, kamar kaza, kifi, wake, ko tofu?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna guje wa abinci da aka sarrafa da abinci mai sauri?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin kuna sha aƙalla gilashin ruwa takwas a rana?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kuna iyakance cin nama mai ja da aka sarrafa?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna kula da girman ɗabi'a kuma kuna guje wa yawan ci?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kuna haɗa kitse mai lafiya a cikin abincin ku, kamar na avocado, gyada, da man zaitun?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna cin kayayyakin kiwo ko madadin kiwo akai-akai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Shin kuna iyakance cin gishiri da abinci mai yawan sodium?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Shin kuna tsara abincin ku da ciye-ciye a gabance don tabbatar da abinci mai daidaito?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Munanan halayen abinci",
+      "description": "Amsoshin ku sun nuna cewa halayen abincin ku bazai tallafawa lafiyar ku mai kyau ba. Duk da yake yana da kyau a kiyaye abincin ku, amsoshin ku sun nuna cewa akwai wurare da yawa da za ku iya inganta abincin ku.",
+      "advice": "Yi la'akari da yin canje-canje a hankali ga abincin ku ta hanyar haɗa ƙarin 'ya'yan itatuwa, kayan lambu, hatsi gabaɗaya, da ƙananan furotin. Rage cin abinci mai sukari, gishiri, da aka sarrafa kuma na iya zama da amfani. Tuntubar mai ba da kiwon lafiya ko masanin abinci na iya ba da shawara ta musamman da dabarun don inganta halayen abincin ku."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Matsakaicin halayen abinci",
+      "description": "Amsoshin ku sun nuna cewa halayen abincin ku suna tallafawa lafiyar ku a matsakaici. Duk da yake kuna yin wasu zaɓuɓɓuka masu kyau, akwai wuraren da za ku iya inganta abincin ku.",
+      "advice": "Yi la'akari da inganta abincin ku ta hanyar haɗa ƙarin 'ya'yan itatuwa, kayan lambu, hatsi gabaɗaya, da ƙananan furotin. Kula da girman ɗabi'a kuma iyakance cin abinci mai sukari, gishiri, da aka sarrafa. Tuntubar mai ba da kiwon lafiya ko masanin abinci na iya ba ku shawara ta musamman da dabarun don ƙara inganta halayen abincin ku."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Kyawawan halayen abinci",
+      "description": "Amsoshin ku sun nuna cewa kuna da kyawawan halayen abinci waɗanda ke tallafawa lafiyar ku gabaɗaya. Kuna yin zaɓuɓɓuka masu amfani da yawa waɗanda ke ba da gudummawa ga jin daɗin ku.",
+      "advice": "Ci gaba da kiyaye kyawawan halayen abincin ku ta hanyar haɗa abinci iri-iri na 'ya'yan itatuwa, kayan lambu, hatsi gabaɗaya, ƙananan furotin, da kitse mai lafiya a cikin abincin ku. Ci gaba da aiki mai kyau, kuma tuna da sake dubawa da daidaita abincin ku yayin da ake buƙata don tabbatar da cewa yana ci gaba da biyan bukatun ku na gina jiki."
+    }
+  ]
+}

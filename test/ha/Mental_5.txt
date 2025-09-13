@@ -1,0 +1,300 @@
+{
+  "id": 5,
+  "title": "Shin kuna da matsalar damuwa na musamman?",
+  "description": "Damuwa na musamman na iya shafar rayuwar ku ta yau da kullun, musamman idan kuna jin tsoron abubuwa na musamman. Shin kuna jin tsoron abubuwa na musamman? Shin wannan yana shafar rayuwar ku ta yau da kullun? Wannan tambayoyin zai taimaka muku bincika yanayin ku na damuwa na musamman da gano ko kuna buƙatar taimako. Tunawa, wannan ba bincike na ƙwararru ba ne, kuma babu amsoshi daidai ko kuskure.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Shin kuna jin tsoron abubuwa na musamman?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin aiki a gaban jama'a?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin abinci a gaban mutane?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin rubutu a gaban mutane?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin taro?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin aji?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin taron aiki?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin taron iyali?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin taron abokai?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Shin kuna jin tsoron yin tambaya a cikin taron jama'a?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ba ko kaɗan",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Wani lokaci",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Sau da yawa",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Kusan kullum",
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 9,
+      "title": "Ƙaramin haɗarin damuwa na musamman",
+      "description": "Amsoshin ku sun nuna cewa a halin yanzu kuna da ƙaramin haɗari ga damuwa na musamman. Duk da yake yana da kyau a kiyaye lafiyar ku ta hankali, amsoshin ku sun nuna cewa ba ku fuskantar alamomin damuwa na musamman a wannan lokacin.",
+      "advice": "Ci gaba da sa ido kan lafiyar ku ta hankali da kuma yin kulawar kai. Idan kun ga canje-canje a yanayin ku ko halayen ku, yi la'akarin tuntuɓar ƙwararren lafiyar hankali don shawara."
+    },
+    {
+      "start": 10,
+      "end": 19,
+      "title": "Matsakaicin haɗarin damuwa na musamman",
+      "description": "Amsoshin ku sun nuna cewa kuna iya zama a matsakaicin haɗari ga damuwa na musamman. Wasu daga cikin amsoshin ku sun nuna cewa kuna fuskantar alamomin da za su iya kasancewa masu alaƙa da damuwa na musamman.",
+      "advice": "Zai iya zama da amfani ku yi magana da ƙwararren lafiyar hankali game da abin da kuke ji. Suna iya ba da tallafi da dabarun don taimaka muku sarrafa alamomin ku da inganta jin daɗin ku na hankali."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "Babban haɗarin damuwa na musamman",
+      "description": "Amsoshin ku sun nuna cewa kuna da babban haɗari ga damuwa na musamman. Yawancin amsoshin ku sun nuna cewa kuna fuskantar alamomi masu mahimmanci waɗanda za su iya kasancewa masu alaƙa da damuwa na musamman.",
+      "advice": "Yana da mahimmanci ku nemi taimakon ƙwararren lafiyar hankali da gaggawa. Suna iya ba da bincike mai kyau kuma suyi aiki tare da ku don tsara tsarin magani don magance alamomin ku."
+    }
+  ]
+}

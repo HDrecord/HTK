@@ -1,0 +1,162 @@
+{
+  "id": 15,
+  "title": "Samodzielna ocena zdrowia i diety",
+  "description": "Zbilansowana dieta jest fundamentalna dla utrzymania dobrego zdrowia i zapobiegania różnym chorobom. Ocena swoich nawyków żywieniowych i spożycia składników odżywczych może dostarczyć cennych informacji o Twoim ogólnym stanie zdrowia. Ta samodzielna ocena pozwala Ci zastanowić się nad swoimi wyborami żywieniowymi i zidentyfikować obszary do poprawy. Pamiętaj, że to nie jest profesjonalna diagnoza, a odpowiedzi nie mają charakteru prawdziwych ani fałszywych.",
+  "questions": [
+    {
+      "id": 1,
+      "type": 1,
+      "question": "Czy spożywasz co najmniej pięć porcji owoców i warzyw każdego dnia?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "question": "Czy ograniczasz spożycie słodkich przekąsek i napojów?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "question": "Czy wybierasz pełnoziarniste produkty zamiast produktów rafinowanych?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "question": "Czy zawierasz w diecie białka o niskiej zawartości tłuszczu, takie jak kurczak, ryby, fasola lub tofu?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "question": "Czy unikasz przetworzonych i szybkich dań?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "question": "Czy pijesz co najmniej osiem szklanek wody dziennie?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "question": "Czy ograniczasz spożycie czerwonego mięsa i przetworzonych mięs?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "question": "Czy zwracasz uwagę na wielkość porcji i unikasz przejadania się?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "question": "Czy wprowadzasz do swojej diety zdrowe tłuszcze, takie jak te z awokado, orzechów i oliwy z oliwek?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "question": "Czy regularnie spożywasz produkty mleczne lub ich alternatywy?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Czy ograniczasz spożycie soli i produktów bogatych w sód?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Czy planujesz posiłki i przekąski z wyprzedzeniem, aby zapewnić zbilansowaną dietę?",
+      "answers": [
+        {"id": 1, "answer": "Wcale nie", "score": 0},
+        {"id": 2, "answer": "Czasami", "score": 1},
+        {"id": 3, "answer": "Często", "score": 2},
+        {"id": 4, "answer": "Prawie zawsze", "score": 3}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 12,
+      "title": "Złe nawyki żywieniowe",
+      "description": "Twoje odpowiedzi sugerują, że Twoje nawyki żywieniowe mogą nie wspierać optymalnego zdrowia. Chociaż zawsze warto być świadomym swojej odżywiania, Twoje odpowiedzi wskazują, że istnieją obszary, w których można poprawić dietę.",
+      "advice": "Rozważ wprowadzanie stopniowych zmian w diecie, wprowadzając więcej owoców, warzyw, pełnoziarnistych produktów i białek o niskiej zawartości tłuszczu. Redukcja spożycia słodkich, słonych i przetworzonych produktów może również być korzystna. Konsultacja z lekarzem lub dietetykiem może dostarczyć indywidualnych porad i strategii poprawy nawyków żywieniowych."
+    },
+    {
+      "start": 13,
+      "end": 24,
+      "title": "Umiarkowane nawyki żywieniowe",
+      "description": "Twoje odpowiedzi sugerują, że Twoje nawyki żywieniowe umiarkowanie wspierają Twoje zdrowie. Chociaż podejmujesz dobre wybory, istnieją obszary, w których można poprawić swoją dietę, aby lepiej wspierać ogólne zdrowie.",
+      "advice": "Rozważ wzbogacenie swojej diety o stałe spożycie więcej owoców, warzyw, pełnoziarnistych produktów i białek o niskiej zawartości tłuszczu. Zwracaj uwagę na wielkość porcji i ograniczaj spożycie słodkich, słonych i przetworzonych produktów. Konsultacja z lekarzem lub dietetykiem może dostarczyć indywidualnych porad i strategii poprawy nawyków żywieniowych."
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "title": "Dobre nawyki żywieniowe",
+      "description": "Twoje odpowiedzi sugerują, że masz dobre nawyki żywieniowe, które wspierają Twoje ogólne zdrowie. Podejmujesz wiele korzystnych wyborów, które przyczyniają się do Twojego dobrostanu.",
+      "advice": "Kontynuuj utrzymywanie zdrowych nawyków żywieniowych, regularnie włączając różnorodne owoce, warzyw, pełnoziarniste produkty, białka o niskiej zawartości tłuszczu i zdrowe tłuszcze do swojej diety. Kontynuuj dobrą pracę i pamiętaj, aby okresowo przeglądać i dostosowywać swoją dietę, aby zapewnić, że nadal spełnia Twoje potrzeby odżywcze. Konsultacja z lekarzem lub dietetykiem może pomóc Ci dopracować swoje nawyki żywieniowe dla optymalnego zdrowia."
+    }
+  ]
+}

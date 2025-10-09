@@ -87,7 +87,7 @@
     "title": "Autoevaluación de la salud del corazón",
     "minutes": 3,
     "countOfQuestions": 11,
-    "file": "Corazón_1.txt"
+    "file": "Heart_1.txt"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "title": "Autoevaluación del riesgo de enfermedad cardíaca",
     "minutes": 5,
     "countOfQuestions": 13,
-    "file": "Corazón_2.txt"
+    "file": "Heart_2.txt"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "title": "Autocontrol de la enfermedad coronaria",
     "minutes": 5,
     "countOfQuestions":14,
-    "file": "Corazón_3.txt"
+    "file": "Heart_3.txt"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "title": "Cuestionario de autoevaluación de hipertensión",
     "minutes": 5,
     "countOfQuestions": 14,
-    "file": "Corazón_4.txt"
+    "file": "Heart_4.txt"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "title": "Autoevaluación del riesgo de diabetes",
     "minutes": 3,
     "countOfQuestions": 10,
-    "file": "Salud_1.txt"
+    "file": "Health_1.txt"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "title": "Autoevaluación de la dieta y la salud",
     "minutes": 4,
     "countOfQuestions": 12,
-    "file": "Salud_2.txt"
+    "file": "Health_2.txt"
   },
   {
     "id": 16,
@@ -141,6 +141,6 @@
     "title": "Autoevaluación del consumo de alcohol y la salud",
     "minutes":3 ,
     "countOfQuestions": 10,
-    "file": "Salud_3.txt"
+    "file": "Health_3.txt"
   }
 ]

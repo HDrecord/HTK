@@ -1,100 +1,146 @@
-{
-  "papers": [
-    {
-      "id": 1,
-      "title": "စိတ်ကျရောဂါလက္ခဏာများစစ်ဆေးခြင်း",
-      "description": "စိတ်ကျရောဂါလက္ခဏာများကိုစောစီးစွာသိရှိခြင်းသည် အရေးကြီးသောကုသမှုကိုရရှိစေနိုင်ပါသည်။",
-      "file": "Mental_1.txt"
-    },
-    {
-      "id": 2,
-      "title": "စိုးရိမ်ပူပန်မှုလက္ခဏာများစစ်ဆေးခြင်း",
-      "description": "စိုးရိမ်ပူပန်မှုလက္ခဏာများကိုစောစီးစွာသိရှိခြင်းသည် သင့်ကျန်းမာရေးကိုကာကွယ်နိုင်ပါသည်။",
-      "file": "Mental_2.txt"
-    },
-    {
-      "id": 3,
-      "title": "စိတ်ဖိစီးမှုစီမံခန့်ခွဲမှုကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "စိတ်ဖိစီးမှုကိုကောင်းစွာစီမံခန့်ခွဲခြင်းသည် သင့်ကျန်းမာရေးနှင့်ဘဝအရည်အသွေးကိုတိုးတက်စေနိုင်ပါသည်။",
-      "file": "Mental_3.txt"
-    },
-    {
-      "id": 4,
-      "title": "စိတ်ဖိစီးမှုအဆင့်အကဲဖြတ်ခြင်း",
-      "description": "စိတ်ဖိစီးမှုအဆင့်ကိုသိရှိခြင်းသည် သင့်ကျန်းမာရေးကိုကာကွယ်နိုင်ပါသည်။",
-      "file": "Mental_4.txt"
-    },
-    {
-      "id": 5,
-      "title": "ပျော်ရွှင်မှုအဆင့်အကဲဖြတ်ခြင်း",
-      "description": "ပျော်ရွှင်မှုသည် သင့်ဘဝ၏အရည်အသွေးကိုအဓိကအကျိုးသက်ရောက်စေပါသည်။",
-      "file": "Mental_5.txt"
-    },
-    {
-      "id": 6,
-      "title": "ဆက်ဆံရေးကျန်းမာရေးအကဲဖြတ်ခြင်း",
-      "description": "ကောင်းမွန်သောဆက်ဆံရေးများသည် သင့်ဘဝ၏အရည်အသွေးကိုအဓိကအကျိုးသက်ရောက်စေပါသည်။",
-      "file": "Mental_6.txt"
-    },
-    {
-      "id": 7,
-      "title": "အလုပ်ခွင်စိတ်ဖိစီးမှုအကဲဖြတ်ခြင်း",
-      "description": "အလုပ်ခွင်စိတ်ဖိစီးမှုသည် လုပ်ငန်းခွင်တွင်အဖြစ်များသောပြဿနာတစ်ခုဖြစ်ပြီး သင့်ကျန်းမာရေးနှင့်လုပ်ငန်းစွမ်းဆောင်ရည်ကိုထိခိုက်စေနိုင်သည်။",
-      "file": "Stress_1.txt"
-    },
-    {
-      "id": 8,
-      "title": "နေထိုင်မှုပုံစံစိတ်ဖိစီးမှုအကဲဖြတ်ခြင်း",
-      "description": "နေထိုင်မှုပုံစံနှင့်ပတ်သက်သောစိတ်ဖိစီးမှုများသည် သင့်ကျန်းမာရေးနှင့်ဘဝအရည်အသွေးကိုထိခိုက်စေနိုင်သည်။",
-      "file": "Stress_2.txt"
-    },
-    {
-      "id": 9,
-      "title": "စိတ်ဖိစီးမှုစီမံခန့်ခွဲမှုကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "စိတ်ဖိစီးမှုကိုကောင်းစွာစီမံခန့်ခွဲခြင်းသည် သင့်ကျန်းမာရေးနှင့်ဘဝအရည်အသွေးကိုတိုးတက်စေနိုင်သည်။",
-      "file": "Stress_3.txt"
-    },
-    {
-      "id": 10,
-      "title": "နှလုံးကျန်းမာရေးကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "နှလုံးကျန်းမာရေးသည် သင့်ဘဝ၏အရည်အသွေးနှင့်အသက်တာကိုအဓိကအကျိုးသက်ရောက်စေပါသည်။",
-      "file": "Heart_1.txt"
-    },
-    {
-      "id": 11,
-      "title": "နှလုံးရောဂါဖြစ်နိုင်ခြေကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "နှလုံးရောဂါသည် ကမ္ဘာတစ်ဝှမ်းတွင် အသက်ဆုံးရှုံးမှုအများဆုံးရောဂါများထဲမှတစ်ခုဖြစ်သည်။",
-      "file": "Heart_2.txt"
-    },
-    {
-      "id": 12,
-      "title": "နှလုံးရောဂါလက္ခဏာများစစ်ဆေးခြင်း",
-      "description": "နှလုံးရောဂါလက္ခဏာများကိုစောစီးစွာသိရှိခြင်းသည် အရေးကြီးသောကုသမှုကိုရရှိစေနိုင်ပါသည်။",
-      "file": "Heart_3.txt"
-    },
-    {
-      "id": 13,
-      "title": "နှလုံးကျန်းမာရေးစီမံခန့်ခွဲမှုကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "နှလုံးကျန်းမာရေးကိုကောင်းစွာစီမံခန့်ခွဲခြင်းသည် နှလုံးရောဂါဖြစ်နိုင်ခြေကိုလျှော့ချရန်နှင့် သင့်ဘဝအရည်အသွေးကိုတိုးတက်စေရန်အရေးကြီးပါသည်။",
-      "file": "Heart_4.txt"
-    },
-    {
-      "id": 14,
-      "title": "ဆီးချိုရောဂါဖြစ်နိုင်ခြေကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "ဆီးချိုရောဂါသည် ကမ္ဘာတစ်ဝှမ်းတွင် ကျန်းမာရေးစိုးရိမ်မှုတစ်ခုဖြစ်ပြီး သင့်ရဲ့ဖြစ်နိုင်ခြေအချက်များကိုနားလည်ခြင်းသည် ကာကွယ်ရေးနှင့်ကုသရေးအတွက် အဓိကကျပါသည်။",
-      "file": "Health_1.txt"
-    },
-    {
-      "id": 15,
-      "title": "အစားအသောက်နှင့်ကျန်းမာရေးကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "ကျန်းမာသောအစားအသောက်သည် ကျန်းမာရေးကောင်းမွန်စွာထိန်းသိမ်းရန်နှင့် အမျိုးမျိုးသောရောဂါများကိုကာကွယ်ရန်အခြေခံကျပါသည်။",
-      "file": "Health_2.txt"
-    },
-    {
-      "id": 16,
-      "title": "အရက်သောက်သုံးမှုနှင့်ကျန်းမာရေးကိုယ်တိုင်အကဲဖြတ်ခြင်း",
-      "description": "သင့်အရက်သောက်သုံးမှုအလေ့အထများကိုနားလည်ခြင်းသည် သင့်ကျန်းမာရေးနှင့်ကောင်းမွန်သောဘဝအတွက်အရေးကြီးပါသည်။",
-      "file": "Health_3.txt"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
+    "title": "သင့်မှာ စိတ်ဓာတ်ကျနိုင်ခြေရှိလား။",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_1.txt"
+  },
+  {
+    "id": 2,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/02.webp",
+    "title": "စိုးရိမ်စိတ်လက္ခဏာများ ကိုယ်တိုင်စစ်ဆေးခြင်း",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_2.txt"
+  },
+  {
+    "id": 3,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/03.webp",
+    "title": "စိတ်ခံစားမှုစီမံခန့်ခွဲမှု ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 6,
+    "countOfQuestions": 20,
+    "file": "Mental_3.txt"
+  },
+  {
+    "id": 4,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
+    "title": "အထီးကျန်မှု ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_4.txt"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
+    "type": "1",
+    "title": "သင့်မှာ လူမှုရေးစိုးရိမ်မှုရှိလား။",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Mental_5.txt"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
+    "type": "1",
+    "title": "သင့်ပျော်ရွှင်မှုကို အကဲဖြတ်ခြင်း",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_6.txt"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/07.webp",
+    "type": "2",
+    "title": "စိတ်ဖိစီးမှုကိုင်တွယ်နိုင်စွမ်း အကဲဖြတ်ခြင်း",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_1.txt"
+  },
+  {
+    "id": 8,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/08.webp",
+    "title": "အလုပ်ဖိစီးမှု အကဲဖြတ်ခြင်း",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_2.txt"
+  },
+  {
+    "id": 9,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
+    "title": "လူမှုရေးဖိစီးမှု ကိုယ်တိုင်စစ်ဆေးခြင်း",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Stress_3.txt"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
+    "type": "3",
+    "title": "နှလုံးကျန်းမာရေး ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 3,
+    "countOfQuestions": 11,
+    "file": "Heart_1.txt"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
+    "type": "3",
+    "title": "နှလုံးရောဂါဖြစ်နိုင်ခြေ ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Heart_2.txt"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
+    "type": "3",
+    "title": "နှလုံးသွေးကြောကျဉ်းရောဂါ ကိုယ်တိုင်စစ်ဆေးခြင်း",
+    "minutes": 5,
+    "countOfQuestions":14,
+    "file": "Heart_3.txt"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
+    "type": "3",
+    "title": "သွေးတိုးရောဂါ ကိုယ်တိုင်အကဲဖြတ်မေးခွန်းလွှာ",
+    "minutes": 5,
+    "countOfQuestions": 14,
+    "file": "Heart_4.txt"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
+    "type": "4",
+    "title": "ဆီးချိုရောဂါဖြစ်နိုင်ခြေ ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Health_1.txt"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
+    "type": "4",
+    "title": "အစားအသောက်နှင့် ကျန်းမာရေး ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Health_2.txt"
+  },
+  {
+    "id": 16,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
+    "type": "4",
+    "title": "အရက်သောက်သုံးမှုနှင့် ကျန်းမာရေး ကိုယ်တိုင်အကဲဖြတ်ခြင်း",
+    "minutes":3 ,
+    "countOfQuestions": 10,
+    "file": "Health_3.txt"
+  }
+]

@@ -1,116 +1,146 @@
-{
-  "papers": [
-    {
-      "id": 1,
-      "type": "mental",
-      "title": "Tathmini ya afya ya akili",
-      "cover": "mental_health.jpg",
-      "description": "Tathmini ya hali ya afya ya akili na uwezo wa kukabiliana na mambo ya kila siku"
-    },
-    {
-      "id": 2,
-      "type": "mental",
-      "title": "Tathmini ya mfadhaiko na wasiwasi",
-      "cover": "stress_anxiety.jpg",
-      "description": "Tathmini ya kiwango cha mfadhaiko na wasiwasi katika maisha ya kila siku"
-    },
-    {
-      "id": 3,
-      "type": "mental",
-      "title": "Tathmini ya usingizi",
-      "cover": "sleep_quality.jpg",
-      "description": "Tathmini ya ubora na kutosha kwa usingizi wako"
-    },
-    {
-      "id": 4,
-      "type": "mental",
-      "title": "Tathmini ya hali ya furaha na matumaini",
-      "cover": "happiness.jpg",
-      "description": "Tathmini ya hali yako ya furaha na matumaini kuhusu wakati ujao"
-    },
-    {
-      "id": 5,
-      "type": "mental",
-      "title": "Tathmini ya uwezo wa kukumbuka na kufanya maamuzi",
-      "cover": "memory.jpg",
-      "description": "Tathmini ya uwezo wako wa kukumbuka na kufanya maamuzi sahihi"
-    },
-    {
-      "id": 6,
-      "type": "mental",
-      "title": "Tathmini ya mwenendo wa chakula na lishe",
-      "cover": "nutrition.jpg",
-      "description": "Tathmini ya mwenendo wako wa chakula na lishe bora"
-    },
-    {
-      "id": 7,
-      "type": "stress",
-      "title": "Tathmini ya mfadhaiko wa kila siku",
-      "cover": "daily_stress.jpg",
-      "description": "Tathmini ya kiwango cha mfadhaiko katika shughuli za kila siku"
-    },
-    {
-      "id": 8,
-      "type": "stress",
-      "title": "Tathmini ya mbinu za kukabiliana na mfadhaiko",
-      "cover": "coping.jpg",
-      "description": "Tathmini ya ufanisi wa mbinu zako za kukabiliana na mfadhaiko"
-    },
-    {
-      "id": 9,
-      "type": "stress",
-      "title": "Tathmini ya ushawishi wa mfadhaiko kwa afya",
-      "cover": "stress_health.jpg",
-      "description": "Tathmini ya jinsi mfadhaiko unavyoshughulikia afya yako ya kimwili"
-    },
-    {
-      "id": 10,
-      "type": "heart",
-      "title": "Tathmini ya afya ya moyo",
-      "cover": "heart_health.jpg",
-      "description": "Tathmini ya hali ya afya ya moyo na mishipa"
-    },
-    {
-      "id": 11,
-      "type": "heart",
-      "title": "Tathmini ya hatari ya ugonjwa wa moyo",
-      "cover": "heart_risk.jpg",
-      "description": "Tathmini ya kiwango cha hatari ya kupata ugonjwa wa moyo"
-    },
-    {
-      "id": 12,
-      "type": "heart",
-      "title": "Uchunguzi wa kibinafsi wa ugonjwa wa koronari",
-      "cover": "coronary.jpg",
-      "description": "Tathmini ya dalili za ugonjwa wa koronari"
-    },
-    {
-      "id": 13,
-      "type": "heart",
-      "title": "Tathmini ya kibinafsi ya shinikizo la damu",
-      "cover": "blood_pressure.jpg",
-      "description": "Tathmini ya hali ya shinikizo la damu na ushawishi wake"
-    },
-    {
-      "id": 14,
-      "type": "health",
-      "title": "Samodzielna ocena ryzyka...",
-      "cover": "health_risk.jpg",
-      "description": "Tathmini ya hatari ya afya kwa ujumla"
-    },
-    {
-      "id": 15,
-      "type": "health",
-      "title": "Samodzielna ocena zdrowi...",
-      "cover": "health_assessment.jpg",
-      "description": "Tathmini ya hali ya afya ya mtu binafsi"
-    },
-    {
-      "id": 16,
-      "type": "health",
-      "title": "Tathmini ya kibinafsi ya matumizi ya pombe na afya",
-      "cover": "alcohol.jpg",
-      "description": "Tathmini ya ushawishi wa matumizi ya pombe kwa afya"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
+    "title": "Je, una hatari ya kushuka moyo?",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_1.txt"
+  },
+  {
+    "id": 2,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/02.webp",
+    "title": "Kujichunguza dalili za wasiwasi",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_2.txt"
+  },
+  {
+    "id": 3,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/03.webp",
+    "title": "Tathmini ya usimamizi wa hisia",
+    "minutes": 6,
+    "countOfQuestions": 20,
+    "file": "Mental_3.txt"
+  },
+  {
+    "id": 4,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
+    "title": "Tathmini ya upweke",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_4.txt"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
+    "type": "1",
+    "title": "Je, una wasiwasi wa kijamii?",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Mental_5.txt"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
+    "type": "1",
+    "title": "Tathmini ya furaha yako",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_6.txt"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/07.webp",
+    "type": "2",
+    "title": "Tathmini ya uwezo wa kukabiliana na mzigo",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_1.txt"
+  },
+  {
+    "id": 8,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/08.webp",
+    "title": "Tathmini ya mzigo wa kazi",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_2.txt"
+  },
+  {
+    "id": 9,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
+    "title": "Kujichunguza mzigo wa kijamii",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Stress_3.txt"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
+    "type": "3",
+    "title": "Tathmini ya afya ya moyo",
+    "minutes": 3,
+    "countOfQuestions": 11,
+    "file": "Heart_1.txt"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
+    "type": "3",
+    "title": "Tathmini ya hatari ya ugonjwa wa moyo",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Heart_2.txt"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
+    "type": "3",
+    "title": "Kujichunguza ugonjwa wa moyo",
+    "minutes": 5,
+    "countOfQuestions":14,
+    "file": "Heart_3.txt"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
+    "type": "3",
+    "title": "Hojaji ya tathmini ya shinikizo la damu",
+    "minutes": 5,
+    "countOfQuestions": 14,
+    "file": "Heart_4.txt"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
+    "type": "4",
+    "title": "Tathmini ya hatari ya kisukari",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Health_1.txt"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
+    "type": "4",
+    "title": "Tathmini ya lishe na afya",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Health_2.txt"
+  },
+  {
+    "id": 16,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
+    "type": "4",
+    "title": "Tathmini ya kunywa pombe na afya",
+    "minutes":3 ,
+    "countOfQuestions": 10,
+    "file": "Health_3.txt"
+  }
+]

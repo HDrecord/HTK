@@ -1,84 +1,146 @@
-{
-  "papers": [
-    {
-      "id": 1,
-      "title": "แบบประเมินความเสี่ยงโรคซึมเศร้า",
-      "filename": "Mental_1.txt"
-    },
-    {
-      "id": 2,
-      "title": "แบบประเมินความวิตกกังวล",
-      "filename": "Mental_2.txt"
-    },
-    {
-      "id": 3,
-      "title": "แบบประเมินการจัดการอารมณ์",
-      "filename": "Mental_3.txt"
-    },
-    {
-      "id": 4,
-      "title": "แบบประเมินความเครียด",
-      "filename": "Mental_4.txt"
-    },
-    {
-      "id": 5,
-      "title": "แบบประเมินความสุขในชีวิตประจำวัน",
-      "filename": "Mental_5.txt"
-    },
-    {
-      "id": 6,
-      "title": "แบบประเมินความสัมพันธ์ระหว่างบุคคล",
-      "filename": "Mental_6.txt"
-    },
-    {
-      "id": 7,
-      "title": "แบบประเมินความเครียดในที่ทำงาน",
-      "filename": "Stress_1.txt"
-    },
-    {
-      "id": 8,
-      "title": "แบบประเมินความเครียดในชีวิตประจำวัน",
-      "filename": "Stress_2.txt"
-    },
-    {
-      "id": 9,
-      "title": "แบบประเมินการจัดการความเครียด",
-      "filename": "Stress_3.txt"
-    },
-    {
-      "id": 10,
-      "title": "แบบประเมินสุขภาพหัวใจ",
-      "filename": "Heart_1.txt"
-    },
-    {
-      "id": 11,
-      "title": "แบบประเมินความเสี่ยงโรคหัวใจ",
-      "filename": "Heart_2.txt"
-    },
-    {
-      "id": 12,
-      "title": "แบบประเมินโรคหัวใจขาดเลือด",
-      "filename": "Heart_3.txt"
-    },
-    {
-      "id": 13,
-      "title": "แบบประเมินความดันโลหิตสูง",
-      "filename": "Heart_4.txt"
-    },
-    {
-      "id": 14,
-      "title": "แบบประเมินความเสี่ยงโรคทั่วไป",
-      "filename": "Health_1.txt"
-    },
-    {
-      "id": 15,
-      "title": "แบบประเมินพฤติกรรมการกิน",
-      "filename": "Health_2.txt"
-    },
-    {
-      "id": 16,
-      "title": "แบบประเมินการดื่มแอลกอฮอล์",
-      "filename": "Health_3.txt"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
+    "title": "คุณมีแนวโน้มที่จะเป็นโรคซึมเศร้าหรือไม่?",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_1.txt"
+  },
+  {
+    "id": 2,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/02.webp",
+    "title": "การตรวจสอบอาการวิตกกังวลด้วยตนเอง",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_2.txt"
+  },
+  {
+    "id": 3,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/03.webp",
+    "title": "การประเมินการจัดการอารมณ์ด้วยตนเอง",
+    "minutes": 6,
+    "countOfQuestions": 20,
+    "file": "Mental_3.txt"
+  },
+  {
+    "id": 4,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
+    "title": "การประเมินความเหงาด้วยตนเอง",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_4.txt"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
+    "type": "1",
+    "title": "คุณมีอาการวิตกกังวลทางสังคมหรือไม่?",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Mental_5.txt"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
+    "type": "1",
+    "title": "ประเมินความสุขของคุณ",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_6.txt"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/07.webp",
+    "type": "2",
+    "title": "การประเมินความสามารถในการรับมือกับความเครียด",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_1.txt"
+  },
+  {
+    "id": 8,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/08.webp",
+    "title": "การประเมินความเครียดจากการทำงาน",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_2.txt"
+  },
+  {
+    "id": 9,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
+    "title": "การตรวจสอบความเครียดทางสังคมด้วยตนเอง",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Stress_3.txt"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
+    "type": "3",
+    "title": "การประเมินสุขภาพหัวใจด้วยตนเอง",
+    "minutes": 3,
+    "countOfQuestions": 11,
+    "file": "Heart_1.txt"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
+    "type": "3",
+    "title": "การประเมินความเสี่ยงโรคหัวใจด้วยตนเอง",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Heart_2.txt"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
+    "type": "3",
+    "title": "การตรวจสอบโรคหัวใจขาดเลือดด้วยตนเอง",
+    "minutes": 5,
+    "countOfQuestions":14,
+    "file": "Heart_3.txt"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
+    "type": "3",
+    "title": "แบบสอบถามประเมินความดันโลหิตสูงด้วยตนเอง",
+    "minutes": 5,
+    "countOfQuestions": 14,
+    "file": "Heart_4.txt"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
+    "type": "4",
+    "title": "การประเมินความเสี่ยงโรคเบาหวานด้วยตนเอง",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Health_1.txt"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
+    "type": "4",
+    "title": "การประเมินอาหารและสุขภาพด้วยตนเอง",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Health_2.txt"
+  },
+  {
+    "id": 16,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
+    "type": "4",
+    "title": "การประเมินการดื่มแอลกอฮอล์และสุขภาพด้วยตนเอง",
+    "minutes":3 ,
+    "countOfQuestions": 10,
+    "file": "Health_3.txt"
+  }
+]

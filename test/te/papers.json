@@ -1,84 +1,146 @@
-{
-  "papers": [
-    {
-      "id": 1,
-      "title": "మానసిక ఆరోగ్య అంచనా",
-      "file": "Mental_1.txt"
-    },
-    {
-      "id": 2,
-      "title": "ఆందోళన స్థాయి",
-      "file": "Mental_2.txt"
-    },
-    {
-      "id": 3,
-      "title": "భావోద్వేగ స్థిరత్వం",
-      "file": "Mental_3.txt"
-    },
-    {
-      "id": 4,
-      "title": "ఒంటరితనం",
-      "file": "Mental_4.txt"
-    },
-    {
-      "id": 5,
-      "title": "సామాజిక సంబంధాలు",
-      "file": "Mental_5.txt"
-    },
-    {
-      "id": 6,
-      "title": "మానసిక స్థితి మూల్యాంకనం",
-      "file": "Mental_6.txt"
-    },
-    {
-      "id": 7,
-      "title": "ఒత్తిడి స్థాయి",
-      "file": "Stress_1.txt"
-    },
-    {
-      "id": 8,
-      "title": "ఒత్తిడి కారణాలు",
-      "file": "Stress_2.txt"
-    },
-    {
-      "id": 9,
-      "title": "సామాజిక ఒత్తిడి",
-      "file": "Stress_3.txt"
-    },
-    {
-      "id": 10,
-      "title": "హృదయ ఆరోగ్యం",
-      "file": "Heart_1.txt"
-    },
-    {
-      "id": 11,
-      "title": "హృదయ స్పందన",
-      "file": "Heart_2.txt"
-    },
-    {
-      "id": 12,
-      "title": "హృదయ వ్యాయామం",
-      "file": "Heart_3.txt"
-    },
-    {
-      "id": 13,
-      "title": "హృదయ పీడనం",
-      "file": "Heart_4.txt"
-    },
-    {
-      "id": 14,
-      "title": "స్వస్థత పరీక్ష",
-      "file": "Health_1.txt"
-    },
-    {
-      "id": 15,
-      "title": "ఆహార అలవాట్లు",
-      "file": "Health_2.txt"
-    },
-    {
-      "id": 16,
-      "title": "ఆరోగ్య అవగాహన",
-      "file": "Health_3.txt"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
+    "title": "మీకు డిప్రెషన్ ఉండే అవకాశం ఉందా?",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_1.txt"
+  },
+  {
+    "id": 2,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/02.webp",
+    "title": "ఆందోళన లక్షణాల స్వీయ-తనిఖీ",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_2.txt"
+  },
+  {
+    "id": 3,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/03.webp",
+    "title": "భావోద్వేగ నిర్వహణ స్వీయ-మూల్యాంకనం",
+    "minutes": 6,
+    "countOfQuestions": 20,
+    "file": "Mental_3.txt"
+  },
+  {
+    "id": 4,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
+    "title": "ఒంటరితనం స్వీయ-మూల్యాంకనం",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_4.txt"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
+    "type": "1",
+    "title": "మీకు సామాజిక ఆందోళన ఉందా?",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Mental_5.txt"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
+    "type": "1",
+    "title": "మీ ఆనందాన్ని అంచనా వేయండి",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_6.txt"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/07.webp",
+    "type": "2",
+    "title": "ఒత్తిడిని ఎదుర్కోగల సామర్థ్యం అంచనా",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_1.txt"
+  },
+  {
+    "id": 8,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/08.webp",
+    "title": "పని ఒత్తిడి అంచనా",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_2.txt"
+  },
+  {
+    "id": 9,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
+    "title": "సామాజిక ఒత్తిడి స్వీయ-తనిఖీ",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Stress_3.txt"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
+    "type": "3",
+    "title": "హృదయ ఆరోగ్య స్వీయ-మూల్యాంకనం",
+    "minutes": 3,
+    "countOfQuestions": 11,
+    "file": "Heart_1.txt"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
+    "type": "3",
+    "title": "హృదయ వ్యాధి ప్రమాదం స్వీయ-మూల్యాంకనం",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Heart_2.txt"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
+    "type": "3",
+    "title": "కరోనరీ హృదయ వ్యాధి స్వీయ-తనిఖీ",
+    "minutes": 5,
+    "countOfQuestions":14,
+    "file": "Heart_3.txt"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
+    "type": "3",
+    "title": "హైపర్టెన్షన్ స్వీయ-మూల్యాంకన ప్రశ్నావళి",
+    "minutes": 5,
+    "countOfQuestions": 14,
+    "file": "Heart_4.txt"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
+    "type": "4",
+    "title": "డయాబెటిస్ ప్రమాదం స్వీయ-మూల్యాంకనం",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Health_1.txt"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
+    "type": "4",
+    "title": "ఆహారం మరియు ఆరోగ్యం స్వీయ-మూల్యాంకనం",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Health_2.txt"
+  },
+  {
+    "id": 16,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
+    "type": "4",
+    "title": "మద్యపానం మరియు ఆరోగ్యం స్వీయ-మూల్యాంకనం",
+    "minutes":3 ,
+    "countOfQuestions": 10,
+    "file": "Health_3.txt"
+  }
+]

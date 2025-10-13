@@ -1,116 +1,146 @@
-{
-  "papers": [
-    {
-      "id": 1,
-      "title": "Bent u vatbaar voor depressie?",
-      "description": "Depressie zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_1.txt"
-    },
-    {
-      "id": 2,
-      "title": "Hebt u last van angstsymptomen?",
-      "description": "Angst zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_2.txt"
-    },
-    {
-      "id": 3,
-      "title": "Heeft u last van sociale angst?",
-      "description": "Sociale angst zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_3.txt"
-    },
-    {
-      "id": 4,
-      "title": "Heeft u last van dwangmatige gedachten of gedragingen?",
-      "description": "Dwangstoornis zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_4.txt"
-    },
-    {
-      "id": 5,
-      "title": "Heeft u symptomen van posttraumatische stress?",
-      "description": "PTSS zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_5.txt"
-    },
-    {
-      "id": 6,
-      "title": "Heeft u symptomen van een bipolaire stoornis?",
-      "description": "Bipolaire stoornis zelfevaluatie vragenlijst",
-      "category": "Mental Health",
-      "file": "Mental_6.txt"
-    },
-    {
-      "id": 7,
-      "title": "Hoe goed gaat u om met stress?",
-      "description": "Algemene stress zelfevaluatie vragenlijst",
-      "category": "Stress Management",
-      "file": "Stress_1.txt"
-    },
-    {
-      "id": 8,
-      "title": "Hoeveel werkgerelateerde stress ervaart u?",
-      "description": "Werkstress zelfevaluatie vragenlijst",
-      "category": "Stress Management",
-      "file": "Stress_2.txt"
-    },
-    {
-      "id": 9,
-      "title": "Hoeveel financiële stress ervaart u?",
-      "description": "Financiële stress zelfevaluatie vragenlijst",
-      "category": "Stress Management",
-      "file": "Stress_3.txt"
-    },
-    {
-      "id": 10,
-      "title": "Zelfevaluatie van hartgezondheid",
-      "description": "Hartgezondheid zelfevaluatie vragenlijst",
-      "category": "Heart Health",
-      "file": "Heart_1.txt"
-    },
-    {
-      "id": 11,
-      "title": "Zelfevaluatie van risico op hartaandoeningen",
-      "description": "Risico op hartaandoeningen zelfevaluatie vragenlijst",
-      "category": "Heart Health",
-      "file": "Heart_2.txt"
-    },
-    {
-      "id": 12,
-      "title": "Zelfcontrole voor coronaire hartziekte",
-      "description": "Coronaire hartziekte zelfevaluatie vragenlijst",
-      "category": "Heart Health",
-      "file": "Heart_3.txt"
-    },
-    {
-      "id": 13,
-      "title": "Zelfevaluatie vragenlijst voor hypertensie",
-      "description": "Hoge bloeddruk zelfevaluatie vragenlijst",
-      "category": "Heart Health",
-      "file": "Heart_4.txt"
-    },
-    {
-      "id": 14,
-      "title": "Samodzielna ocena ryzyka...",
-      "description": "Diabetes zelfevaluatie vragenlijst",
-      "category": "Health Assessment",
-      "file": "Health_1.txt"
-    },
-    {
-      "id": 15,
-      "title": "Samodzielna ocena zdrowi...",
-      "description": "Voeding zelfevaluatie vragenlijst",
-      "category": "Health Assessment",
-      "file": "Health_2.txt"
-    },
-    {
-      "id": 16,
-      "title": "Samodzielna ocena alcoho...",
-      "description": "Alcoholgebruik zelfevaluatie vragenlijst",
-      "category": "Health Assessment",
-      "file": "Health_3.txt"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/01.webp",
+    "title": "Bent u vatbaar voor depressie?",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_1.txt"
+  },
+  {
+    "id": 2,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/02.webp",
+    "title": "Zelfcontrole van angstsymptomen",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Mental_2.txt"
+  },
+  {
+    "id": 3,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/03.webp",
+    "title": "Zelfevaluatie van emotiemanagement",
+    "minutes": 6,
+    "countOfQuestions": 20,
+    "file": "Mental_3.txt"
+  },
+  {
+    "id": 4,
+    "type": "1",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/04.webp",
+    "title": "Zelfevaluatie van eenzaamheid",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_4.txt"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/05.webp",
+    "type": "1",
+    "title": "Heeft u sociale angst?",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Mental_5.txt"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/06.webp",
+    "type": "1",
+    "title": "Evalueer uw geluk",
+    "minutes": 2,
+    "countOfQuestions": 8,
+    "file": "Mental_6.txt"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/07.webp",
+    "type": "2",
+    "title": "Evaluatie van stressbestendigheid",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_1.txt"
+  },
+  {
+    "id": 8,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/08.webp",
+    "title": "Evaluatie van werkstress",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Stress_2.txt"
+  },
+  {
+    "id": 9,
+    "type": "2",
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/09.webp",
+    "title": "Zelfcontrole van sociale stress",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Stress_3.txt"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/10.webp",
+    "type": "3",
+    "title": "Zelfevaluatie van hartgezondheid",
+    "minutes": 3,
+    "countOfQuestions": 11,
+    "file": "Heart_1.txt"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/11.webp",
+    "type": "3",
+    "title": "Zelfevaluatie van hartziekterisico",
+    "minutes": 5,
+    "countOfQuestions": 13,
+    "file": "Heart_2.txt"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/12.webp",
+    "type": "3",
+    "title": "Zelfcontrole van coronaire hartziekte",
+    "minutes": 5,
+    "countOfQuestions":14,
+    "file": "Heart_3.txt"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/13.webp",
+    "type": "3",
+    "title": "Zelfevaluatievragenlijst voor hypertensie",
+    "minutes": 5,
+    "countOfQuestions": 14,
+    "file": "Heart_4.txt"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/14.webp",
+    "type": "4",
+    "title": "Zelfevaluatie van diabetesrisico",
+    "minutes": 3,
+    "countOfQuestions": 10,
+    "file": "Health_1.txt"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/15.webp",
+    "type": "4",
+    "title": "Zelfevaluatie van voeding en gezondheid",
+    "minutes": 4,
+    "countOfQuestions": 12,
+    "file": "Health_2.txt"
+  },
+  {
+    "id": 16,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/test/16.webp",
+    "type": "4",
+    "title": "Zelfevaluatie van alcoholgebruik en gezondheid",
+    "minutes":3 ,
+    "countOfQuestions": 10,
+    "file": "Health_3.txt"
+  }
+]

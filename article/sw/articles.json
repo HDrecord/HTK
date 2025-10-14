@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {"id": 1, "title": "Shinikizo la damu", "file": "article_1.md"},
+    {"id": 2, "title": "Maisha na shinikizo la damu", "file": "article_2.md"},
+    {"id": 3, "title": "Athari za lishe kwenye shinikizo la damu", "file": "article_3.md"},
+    {"id": 4, "title": "Mbinu za kudhibiti shinikizo la damu bila dawa", "file": "article_4.md"},
+    {"id": 5, "title": "Mkazo na shinikizo la damu", "file": "article_5.md"},
+    {"id": 6, "title": "Mazoezi na udhibiti wa shinikizo la damu", "file": "article_6.md"},
+    {"id": 7, "title": "Ufuatiliaji wa shinikizo la damu", "file": "article_7.md"},
+    {"id": 8, "title": "Dawa za kudhibiti shinikizo la damu", "file": "article_8.md"},
+    {"id": 9, "title": "Dalili za shinikizo la damu", "file": "article_9.md"},
+    {"id": 10, "title": "Sababu za shinikizo la damu", "file": "article_10.md"},
+    {"id": 11, "title": "Hatari za shinikizo la damu", "file": "article_11.md"},
+    {"id": 12, "title": "Lishe bora kwa shinikizo la damu", "file": "article_12.md"},
+    {"id": 13, "title": "Mbinu za kupunguza shinikizo la damu", "file": "article_13.md"},
+    {"id": 14, "title": "Uchunguzi wa shinikizo la damu", "file": "article_14.md"},
+    {"id": 15, "title": "Ushauri wa matibabu ya shinikizo la damu", "file": "article_15.md"}
+  ]
+}

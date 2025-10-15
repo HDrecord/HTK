@@ -272,26 +272,80 @@
           "score": 3
         }
       ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Heeft u het gevoel dat uw werkomgeving positief bijdraagt aan uw mentaal welzijn?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Heeft u het gevoel dat stress uw algehele werkprestatie beïnvloedt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
     }
   ],
   "results": [
     {
       "start": 0,
-      "end": 9,
+      "end": 11,
       "title": "Laag werkstressniveau - Goede balans",
       "description": "Uw antwoorden suggereren dat u over het algemeen goed omgaat met werkgerelateerde stress. U ervaart mogelijk normale niveaus van werkstress, maar heeft effectieve strategieën om hiermee om te gaan.",
       "advice": "Blijf gezonde werkgewoonten behouden, zoals het stellen van grenzen, het nemen van pauzes en het scheiden van werk en privé. Het is altijd goed om uw stressmanagementvaardigheden te blijven ontwikkelen."
     },
     {
-      "start": 10,
-      "end": 19,
+      "start": 12,
+      "end": 23,
       "title": "Matig werkstressniveau - Enige uitdagingen",
       "description": "Uw antwoorden suggereren dat u matige niveaus van werkstress ervaart en soms moeite heeft om hiermee om te gaan. Er zijn mogelijk gebieden waar u uw copingstrategieën kunt verbeteren.",
-      "advice": "Overweeg nieuwe manieren om met werkstress om te gaan, zoals tijdmanagementtechnieken, communicatie met leidinggevenden over uw werklast, of het zoeken van professionele begeleiding. Werk-privébalans is essentieel."
+      "advice": "Overweeg nieuwe manieren om met werkstress om te gaan, zoals tijdmanagementtechnieken, communicatie met leidinggevenden over uw werklast, or het zoeken van professionele begeleiding. Werk-privébalans is essentieel."
     },
     {
-      "start": 20,
-      "end": 30,
+      "start": 24,
+      "end": 36,
       "title": "Hoog werkstressniveau - Significante uitdagingen",
       "description": "Uw antwoorden suggereren dat u hoge niveaus van werkstress ervaart en aanzienlijke moeite heeft om hiermee om te gaan. Deze mate van stress kan leiden tot burn-out en andere gezondheidsproblemen.",
       "advice": "Het is belangrijk om onmiddellijk actie te ondernemen. Overweeg om met HR of een leidinggevende te praten over uw werkomstandigheden, zoek professionele hulp voor stressmanagement, of evalueer of uw huidige baan duurzaam is voor uw gezondheid."

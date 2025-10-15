@@ -272,26 +272,80 @@
           "score": 3
         }
       ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Voelt u zich angstig of in paniek in stressvolle situaties?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Heeft u het gevoel dat stress uw algehele gezondheid negatief beïnvloedt?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Helemaal niet",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Soms",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Vaak",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Bijna altijd",
+          "score": 3
+        }
+      ]
     }
   ],
   "results": [
     {
       "start": 0,
-      "end": 9,
+      "end": 11,
       "title": "Laag stressniveau - Goede copingvaardigheden",
       "description": "Uw antwoorden suggereren dat u over het algemeen goed omgaat met stress. U ervaart mogelijk normale niveaus van stress, maar heeft effectieve strategieën om hiermee om te gaan.",
       "advice": "Blijf gezonde copingmechanismen gebruiken, zoals lichaamsbeweging, ontspanningstechnieken en tijd voor uzelf nemen. Het is altijd goed om uw stressmanagementvaardigheden te blijven ontwikkelen."
     },
     {
-      "start": 10,
-      "end": 19,
+      "start": 12,
+      "end": 23,
       "title": "Matig stressniveau - Enige copinguitdagingen",
       "description": "Uw antwoorden suggereren dat u matige niveaus van stress ervaart en soms moeite heeft om hiermee om te gaan. Er zijn mogelijk gebieden waar u uw copingstrategieën kunt verbeteren.",
       "advice": "Overweeg nieuwe manieren om met stress om te gaan, zoals meditatie, ademhalingsoefeningen of het zoeken van sociale steun. Het kan nuttig zijn om met een professional te praten over stressmanagementtechnieken."
     },
     {
-      "start": 20,
-      "end": 30,
+      "start": 24,
+      "end": 36,
       "title": "Hoog stressniveau - Significante copinguitdagingen",
       "description": "Uw antwoorden suggereren dat u hoge niveaus van stress ervaart en aanzienlijke moeite heeft om hiermee om te gaan. Deze mate van stress kan schadelijk zijn voor uw fysieke en mentale gezondheid.",
       "advice": "Het is belangrijk om professionele hulp te zoeken om uw stressniveaus te beheren. Een zorgverlener of therapeut kan u helpen effectieve copingstrategieën te ontwikkelen en mogelijke onderliggende problemen aan te pakken."

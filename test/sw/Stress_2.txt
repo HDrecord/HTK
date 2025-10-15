@@ -272,26 +272,80 @@
           "score": 3
         }
       ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unahisi kuwa mazingira yako ya kazi yanachangia kwa njia nzuri kwa ustawi wako wa akili?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Je, unahisi kuwa mfadhaiko unaathiri utendaji wako wa kazi kwa ujumla?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Ndiyo, mara nyingi",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara chache",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Hapana, kamwe",
+          "score": 3
+        }
+      ]
     }
   ],
   "results": [
     {
       "start": 0,
-      "end": 10,
+      "end": 11,
       "title": "Mbinu bora za kukabiliana na mfadhaiko",
       "description": "Majibu yako yanaonyesha kuwa una mbinu bora za kukabiliana na mfadhaiko. Unatumia mbinu mbalimbali na zenye ufanisi za kupunguza mfadhaiko.",
       "advice": "Endelea kutumia mbinu hizi bora za kukabiliana na mfadhaiko na ujaribu kupanua ujuzi wako kwa kujifunza mbinu mpya."
     },
     {
-      "start": 11,
-      "end": 20,
+      "start": 12,
+      "end": 23,
       "title": "Mbinu za wastani za kukabiliana na mfadhaiko",
       "description": "Majibu yako yanaonyesha kuwa una mbinu za wastani za kukabiliana na mfadhaiko. Unaweza kuwa na baadhi ya mbinu zenye ufanisi, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
       "advice": "Fikiria kujifunza mbinu mpya za kukabiliana na mfadhaiko kama vile mazoezi ya kupumua, meditesheni, au mbinu za kusimamia wakati."
     },
     {
-      "start": 21,
-      "end": 30,
+      "start": 24,
+      "end": 36,
       "title": "Mbinu duni za kukabiliana na mfadhaiko",
       "description": "Majibu yako yanaonyesha kuwa una mbinu duni za kukabiliana na mfadhaiko. Unaweza kuwa na shida ya kupunguza mfadhaiko au kutumia mbinu zisizo na ufanisi.",
       "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kukupa mafunzo ya mbinu bora za kukabiliana na mfadhaiko na kukusaidia kuunda mpango wa kibinafsi."

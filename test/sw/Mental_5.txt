@@ -272,29 +272,110 @@
           "score": 3
         }
       ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unahisi wasiwasi kuhusu mazungumzo ya kijamii, hata na watu unaojua?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Je, unaogopa kufedheheshwa au kudharauliwa katika hali za kijamii?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Je, unahisi msisimko au wasiwasi unapozungumza na watu wenye mamlaka?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
     }
   ],
   "results": [
     {
       "start": 0,
-      "end": 10,
-      "title": "Uwezo mzuri wa kukumbuka na kufanya maamuzi",
-      "description": "Majibu yako yanaonyesha kuwa una uwezo mzuri wa kukumbuka na kufanya maamuzi. Unaweza kukumbuka mambo kwa urahisi na kufanya maamuzi sahihi.",
-      "advice": "Endelea kudumisha mwenendo wako mzuri wa kukumbuka na kufanya maamuzi kwa kufanya mazoezi ya akili, kufuata lishe bora, na kudumisha usingizi wa kutosha."
+      "end": 13,
+      "title": "Kiwango cha chini cha wasiwasi wa kijamii",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha chini cha wasiwasi wa kijamii. Ingawa ni muhimu kujali afya yako ya akili, majibu yako yanaonyesha kuwa kwa ujumla unajisikia rahisi katika hali za kijamii.",
+      "advice": "Endelea kushiriki katika shughuli za kijamii na kudumisha uhusiano mzuri wa kijamii. Ikiwa utahisi mabadiliko katika kiwango chako cha wasiwasi wa kijamii, fikiria kumwuliza mtaalamu wa afya ya akili kwa ushauri."
     },
     {
-      "start": 11,
-      "end": 20,
-      "title": "Uwezo wa wastani wa kukumbuka na kufanya maamuzi",
-      "description": "Majibu yako yanaonyesha kuwa una uwezo wa wastani wa kukumbuka na kufanya maamuzi. Unaweza kuwa na uwezo mzuri katika baadhi ya maeneo, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
-      "advice": "Fikiria kufanya mazoezi ya akili, kufuata lishe bora, na kupata usingizi wa kutosha ili kuboresha uwezo wako wa kukumbuka na kufanya maamuzi."
+      "start": 14,
+      "end": 26,
+      "title": "Kiwango cha wastani cha wasiwasi wa kijamii",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na kiwango cha wastani cha wasiwasi wa kijamii. Baadhi ya majibu yako yanaonyesha kuwa unaweza kujisikia kwa urahisi au kuwa na wasiwasi katika hali fulani za kijamii.",
+      "advice": "Fikiria kufanya mazoezi ya kupumua kwa kina au ufahamu wa kujisikia kwa urahisi ili kusaidia kudhibiti wasiwasi wako. Kujifunza hatua kwa hatua kuhusu hali za kijamii pia kunaweza kusaidia. Kufanya mazungumzo na mtaalamu wa afya ya akili kunaweza kukupa mikakati ya kibinafsi ya kuboresha faraja na ujasiri wako wa kijamii."
     },
     {
-      "start": 21,
-      "end": 30,
-      "title": "Uwezo duni wa kukumbuka na kufanya maamuzi",
-      "description": "Majibu yako yanaonyesha kuwa una uwezo duni wa kukumbuka na kufanya maamuzi. Unaweza kuwa na shida ya kukumbuka mambo au kufanya maamuzi sahihi.",
-      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha uwezo wako wa kukumbuka na kufanya maamuzi."
+      "start": 27,
+      "end": 39,
+      "title": "Kiwango cha juu cha wasiwasi wa kijamii",
+      "description": "Majibu yako yanaonyesha kuwa una kiwango cha juu cha wasiwasi wa kijamii. Majibu yako mengi yanaonyesha kuwa unahisi wasiwasi au kwa urahisi katika hali za kijamii.",
+      "advice": "Ni muhimu kutafuta msaada kutoka kwa mtaalamu wa afya ya akili. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia wasiwasi wako wa kijamii. Hii inaweza kujumuisha tiba, dawa, au matatizo mengine kama yatakavyopendekezwa na daktari wako."
     }
   ]
 }

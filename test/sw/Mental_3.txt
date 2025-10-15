@@ -272,29 +272,299 @@
           "score": 3
         }
       ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "question": "Je, unahisi mabadiliko ya hisia mara kwa mara?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "question": "Je, unapata shida ya kusamehe mwenyewe au wengine?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "question": "Je, unapata shida ya kuachilia mambo ya nyuma?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "question": "Je, unahisi uchovu wa kihisia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "question": "Je, unapata shida ya kudhibiti hisia zako unapokuwa chini ya mzigo?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "question": "Je, mara nyingi unahisi kuwa hauwezi kushughulikia hisia zako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "question": "Je, unahisi kuwa hisia zako zinathiri uhusiano wako na wengine?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "question": "Je, unapata shida ya kuelezea hisia zako?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "question": "Je, unahisi ukosefu wa msaada wa kihisia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "question": "Je, unapata shida ya kurudi kwenye hali ya kawaida baada ya kushindwa kihisia?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Hapana kabisa",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "answer": "Mara kwa mara",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "answer": "Mara nyingi",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "answer": "Karibu kila wakati",
+          "score": 3
+        }
+      ]
     }
   ],
   "results": [
     {
       "start": 0,
-      "end": 10,
-      "title": "Usingizi wa kutosha na wa ubora",
-      "description": "Majibu yako yanaonyesha kuwa unapata usingizi wa kutosha na wa ubora. Unaweza kupumzika vizuri na kuwa na nishati ya kutosha kwa shughuli za kila siku.",
-      "advice": "Endelea kudumisha mwenendo wako mzuri wa usingizi kwa kufuata ratiba ya kulala na kuamka, kuepuka vifaa vya elektroniki kabla ya kulala, na kuhakikisha mazingira yako ya kulala yana ukomo na utulivu."
+      "end": 19,
+      "title": "Udhibiti mzuri wa hisia",
+      "description": "Majibu yako yanaonyesha kuwa unadhibiti hisia zako vizuri. Ingawa ni muhimu kujali afya yako ya kihisia, majibu yako yanaonyesha kuwa unashughulikia hali za kihisia kwa ufanisi kwa sasa.",
+      "advice": "Endelea kufanya mazoezi ya udhibiti mzuri wa hisia na utunzaji wa kibinafsi. Ikiwa utahisi mabadiliko katika udhibiti wa hisia zako, fikiria kumwuliza mtaalamu wa afya ya akili kwa ushauri."
     },
     {
-      "start": 11,
-      "end": 20,
-      "title": "Usingizi wa wastani",
-      "description": "Majibu yako yanaonyesha kuwa unapata usingizi wa wastani. Unaweza kupata usingizi wa kutosha, lakini kuna maeneo ambayo yanaweza kuboreshwa.",
-      "advice": "Fikiria kuboresha mwenendo wako wa usingizi kwa kufuata ratiba ya kulala, kupunguza matumizi ya vifaa vya elektroniki kabla ya kulala, na kuhakikisha mazingira yako ya kulala yana ukomo na utulivu."
+      "start": 20,
+      "end": 39,
+      "title": "Udhibiti wa wastani wa hisia",
+      "description": "Majibu yako yanaonyesha kuwa unaweza kuwa na shida katika kudhibiti hisia zako. Baadhi ya majibu yako yanaonyesha kuwa unapata shida na udhibiti wa hisia.",
+      "advice": "Inaweza kuwa msaada kuzungumza na mtaalamu wa afya ya akili kuhusu hisia zako. Wanaweza kutoa msaada na mikakati ya kukusaidia kuboresha ujuzi wako wa udhibiti wa hisia na ustawi wako kwa ujumla."
     },
     {
-      "start": 21,
-      "end": 30,
-      "title": "Shida ya usingizi",
-      "description": "Majibu yako yanaonyesha kuwa una shida ya usingizi. Unaweza kuwa na shida ya kupata usingizi wa kutosha au wa ubora, na hii inaweza kuathiri utendaji wako wa kila siku.",
-      "advice": "Ni muhimu kutafuta msaada wa mtaalamu wa usingizi haraka iwezekanavyo. Wanaweza kukupa ushauri wa kibinafsi na mikakati ya kuboresha ubora na muda wa usingizi wako."
+      "start": 40,
+      "end": 60,
+      "title": "Udhibiti mbaya wa hisia",
+      "description": "Majibu yako yanaonyesha kuwa unapata shida kubwa katika kudhibiti hisia zako. Majibu yako mengi yanaonyesha kuwa unapata shida na udhibiti wa hisia.",
+      "advice": "Ni muhimu kutafuta msaada kutoka kwa mtaalamu wa afya ya akili haraka iwezekanavyo. Wanaweza kutoa utambuzi sahihi na kufanya kazi nawe kuunda mpango wa matibabu ya kushughulikia shida zako za udhibiti wa hisia."
     }
   ]
 }

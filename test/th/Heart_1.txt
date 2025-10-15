@@ -1,12 +1,12 @@
 {
   "id": 10,
-  "title": "การประเมินตนเองสุขภาพหัวใจ",
-  "description": "การรักษาหัวใจให้แข็งแรงเป็นสิ่งสำคัญสำหรับความเป็นอยู่ที่ดีโดยรวม การเข้าใจสุขภาพหัวใจของคุณสามารถช่วยให้คุณดำเนินการเชิงรุกเพื่อป้องกันปัญหาหัวใจและหลอดเลือด คุณเคยสงสัยเกี่ยวกับสถานะสุขภาพหัวใจของคุณหรือไม่? การประเมินตนเองนี้สามารถช่วยให้คุณประเมินสุขภาพหัวใจของคุณและระบุพื้นที่ที่อาจต้องการความสนใจ โปรดจำไว้ว่านี่ไม่ใช่การวินิจฉัยโดยผู้เชี่ยวชาญ และไม่มีคำตอบที่ถูกหรือผิด",
+  "title": "แบบประเมินสุขภาพหัวใจด้วยตนเอง",
+  "description": "การรักษาสุขภาพหัวใจให้แข็งแรงเป็นสิ่งสำคัญสำหรับสุขภาพโดยรวม การเข้าใจสุขภาพหัวใจของคุณสามารถช่วยให้คุณดำเนินการเชิงรุกเพื่อป้องกันปัญหาหัวใจและหลอดเลือด คุณเคยสงสัยเกี่ยวกับสภาพสุขภาพหัวใจของคุณหรือไม่? แบบประเมินนี้สามารถช่วยคุณประเมินสุขภาพหัวใจและระบุด้านที่อาจต้องการความสนใจ โปรดจำไว้ว่านี่ไม่ใช่การวินิจฉัยทางการแพทย์และไม่มีคำตอบที่ถูกหรือผิด",
   "questions": [
     {
       "id": 1,
       "type": 1,
-      "question": "คุณมักจะรู้สึกหายใจลำบากหรือไม่?",
+      "question": "คุณมักจะมีอาการหายใจลำบากหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
     {
       "id": 2,
       "type": 1,
-      "question": "คุณรู้สึกเจ็บหน้าอกหรือไม่สบายหรือไม่?",
+      "question": "คุณรู้สึกเจ็บหรือไม่สบายที่หน้าอกหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -60,7 +60,7 @@
     {
       "id": 3,
       "type": 1,
-      "question": "คุณประสบกับหัวใจเต้นผิดปกติหรือใจสั่นหรือไม่?",
+      "question": "คุณมีอาการหัวใจเต้นผิดปกติหรือใจสั่นหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -87,7 +87,7 @@
     {
       "id": 4,
       "type": 1,
-      "question": "คุณรู้สึกเหนื่อยหรืออ่อนเพลียโดยไม่มีเหตุผลชัดเจนหรือไม่?",
+      "question": "คุณรู้สึกเหนื่อยหรืออ่อนเพลียโดยไม่มีสาเหตุชัดเจนหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -114,7 +114,7 @@
     {
       "id": 5,
       "type": 1,
-      "question": "คุณประสบกับอาการบวมที่ขา ข้อเท้า หรือเท้าหรือไม่?",
+      "question": "คุณมีอาการบวมที่ขา ข้อเท้า หรือเท้าหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -276,7 +276,7 @@
     {
       "id": 11,
       "type": 1,
-      "question": "คุณปฏิบัติตามอาหารที่ดีต่อสุขภาพหัวใจหรือไม่?",
+      "question": "คุณรับประทานอาหารที่ดีต่อสุขภาพหัวใจหรือไม่?",
       "answers": [
         {
           "id": 1,
@@ -299,45 +299,29 @@
           "score": 3
         }
       ]
-    }] ,  
-     " r e s u l t s " :   [  
-         {  
-             " s t a r t " :   0 ,  
-             " e n d " :   1 0 ,  
-             " t i t l e " :   " �U�R�b�U�Onm�U� �U?��P�UX�m�U�V{�UXK��U�PQ��U�V!{�U	{�U�����U?�6r�U�P-{�U�O'{�U��oR�U>�{�U? ,  
-             " d e s c r i p t i o n " :   " �U�RK��U�fQ��Ul�z�UY��z�U�R6r�U�d{�UX�z�U;Z�P�UY�b�UX���U�R6r�U�dnm�U�c�z�U>���U4"�{�U?��P�UX�m�U�V{�UXK��U?�K��U���y�U{�U�moR�U]�e�U�Oܑ�U���z�U�r���U�p�e�U�b�U�Q {  �UnOnm�UY�b�UX���UXt��U�e�P�U� �U?�nm�UY�{�U�c�{�UXt��U@�t��U4"oR�U�e�y�U�s�b�U�z�U?�6r�U�P-{�U�O'{�U��oR�U>�{�UX�{�U�0t��U��_�UY�{�U� �U�0��UY�{�U�PQ��U�V�z�U��{  �UnO{�UX�z�Ud�{�UY�{�U�PQ��U�V�z�U��{�Ul�{�U�V{�U�c�{�U>�{�U�Oܑ�U���z�U�r���U�p�e�U�b�U�Q {�U�PQ��U�V�z�U��{�UY�m�ULp�{�U�Q{�U?�-{�U�O'{�U�e�P�U�Q{�U�P{�U�s{�U�c�{" ,  
-             " a d v i c e " :   " �U�eK��U� �U
-kY�U
-k�z�U�O�y�U@�oR�UnO�O�U�O�b�U�{�U�c{�U�c�b�U�{�U8i�P�UX{�U�c{�UXQ��U?�6r�U�P-{�U�O'{�U��oR�U>�{�UX{�UXQ��U�R!{�U�e�{�U>�m�UnO���U@�Q��UY��z�UnOK��U�0oR�U�V�z�U�O�m�U� �U�m�{�U
-k!{�U@�t��UXK�  �U�m{�U�{�U{�U�{�U�Onm�UYᆉ�U�����U@�{�U�c�{�U?�nm�U�e6r�U? �UnO_�U�s�e�U�0�P�UnO�{�U�0�P�UX�m�U�V{�U�ܑ�U�m�U8i�P�UX�{�U�m�{�U
-kQ��U{�U�f�y�U�O�m�U� �U;Z�{�U
-k�z�U�O�y�U?�y��Ul{�U���e�U@��P�U? �UnO���U@�{�U@��b�UXܑ�U���z�U�r���U�p�{�U�m�{�U
-k!{�U@�t��UXK��UnOoR�Ul"{�ULp�{�U�Q�e�UY{�U@�Y�UnO���U@�{�UY���U
-kܑ�U���z�U�r���U�pܑ�U�Onm�U�O�y�U"h{�UX�b�Ug$�{�U���{�U�R6r�U�dQ��Ug$y��UX�{�U
-k�{�U
-k�b�U8i���U�V{�U�c�{�U"hy��UnO{�UYQ��U?  
-         } ,  
-         {  
-             " s t a r t " :   1 1 ,  
-             " e n d " :   2 2 ,  
-             " t i t l e " :   " �U�R�b�U�Onm�U� �U?��P�UX�m�U�V!{�U�O{�UnO_�U�O�z�U�PQ��U�V!{�U	{�U�����U?�6r�U�P-{�U�O'{�U��oR�U>�{�U? ,  
-             " d e s c r i p t i o n " :   " �U�RK��U�fQ��Ul�z�UY��z�U�R6r�U�d{�UX�z�U;Z�P�UY�b�UX���U�R6r�U�dQ��U�O {�U4"�P�U�R�b�U�Onm�U� �U?��P�UX�m�U�V!{�U�O{�UnO_�U�O�z�U?�K��U���y�U{�U�moR�U]�e�U�Oܑ�U���z�U�r���U�p�e�U�b�U�Q {  �U�RK��U�fQ��Ul{�U�O�z�U?��{�U>{�U�PQ��U�V�z�U��{�Ul�{�U�V{�U�c�{�U>�{�U�Onm�U�c'{�U�|�{�U
-k{�U�c�{�U8i�P�UX�z�U��{�U?����U4"���U@�{�U�m�y�U{�U�m�y�U���z�U?�6r�U�P-{�U�O'{�U��oR�U>�{�UX�{�U�0t��U��_�UY�{�U� �U�0��UY�{�U�PQ��U�V�z�U��{�U�R{�U? ,  
-             " a d v i c e " :   " �U�pY�UX���U@�{�U�O{�Ud��z�U�O�y�U� �U�m_�U�c�{�Ug${�UnO!{�U�0�z�U>Y�U"h�P�U;Z�P�U>Y�U�f�{�U;Z�{�U
-k�{�U�pY�UXnm�UnO���U@�Q��UY��z�UnOK��U�0oR�U�V�z�U�O�m�U�PQ��U�V�z�U��{  �U@�oR�Ul!{�U@�t��U8i���U
-kQ��U�O�e�U�O�y�U8i�P�UX{�U�c{�UXQ��U?�6r�U�P-{�U�O'{�U��oR�U>�{�U? �UnO_�U�s�{�U�0Y�UnOܑ�ULp{�Ul6r�U���y�U�c�{�U�����UnO�{�U;Z�{�UY�m�ULp�{  �UnO���U@�!{�U@��N�UnO�O�U�O�z�U{�U�ny��UY�{�U���{�Ul�y�U��z�U�O�y�U�e�{�U�O{�U?�6r�U�P-{�U�O'{�U?����U4"���U@�{�U�Q�e�UY�z�Ud��{�U
-kt��U
-kK��U� �UY'{�U�Ot��Ul6r�U�R�z�U�0�{�U�0t��UnO_�Ug$6r�U8i{�Uv\�{�U�p��UXQ��U�m�y�U{�U�m�y�U���z�U?�6r�U�P-{�U�O'{�U��oR�U>�{�UX�z�UY��z�U�R6r�U?  
-         } ,  
-         {  
-             " s t a r t " :   2 3 ,  
-             " e n d " :   3 3 ,  
-             " t i t l e " :   " �U�R�b�U�Onm�U� �U?��P�UX�m�U�Vܑ�ULp�z�U�PQ��U�V!{�U	{�U�����U?�6r�U�P-{�U�O'{�U��oR�U>�{�U? ,  
-             " d e s c r i p t i o n " :   " �U�RK��U�fQ��Ul�z�UY��z�U�R6r�U�d{�UX�z�U;Z�P�UY�b�UX���U�R6r�U�dnm�U�c�z�U>���U4"�{�U?��P�UX�m�U�Vܑ�ULp�z�U?�K��U���y�U{�U�moR�U]�e�U�Oܑ�U���z�U�r���U�p�e�U�b�U�Q {  �U�RK��U�fQ��Ul�e�U�0���Ug$�z�UYQ��U�PQ��U�V�z�U��{�Ul�{�U�V{�U�c�{�U>�{�U�O�z�U��{�UnOK��U�0oR�U�V!{�U@�t��U?�{�UnOoR�UlQ��U�O�z�U�O�y�U���y�U�|Q��U4"�P�U�moR�UX {�U�m�U� �U?��P�UX�m�U�V{�U�c�{�UYᆉ�UXܑ�UX�z�U�n_�U�f�{�UY�ܑ�U���z�U�r���U�p�e�U�b�U�Q {�UnO_�U�s�e�U�0Q��U�e�{�U�0��UY�{�U�PQ��U�V�z�U��{" ,  
-             " a d v i c e " :   " �U?�K��U�RoR�U]{�U�c�{�UXt��U�f�{�UY��z�U�PQ��U�R�b�U�Onm�U;Z�{�U>�m�U� �U��_�U�|Q��UX���UnO"{�ULp�{�U�Q�e�UY{�U@�Y�UnO���U@�{�UY���U
-kܑ�U���z�U�r���U�p�{�U�e�m�U� �U@��{�U>{�U�c�{�U?�6r�U? �U�p�b�UnO�{�U�P���U?����U4"���U@�{�U�Q�e�UY�z�U�O�y�U>Y�U
-kY�UX{�U�m�U8i�P�UX�{�U��nm�U�Ot��U?�nm�UnO_�U�s{�Ud��z�U�O{�U@��{�U>nm�UnOoR�Ul�z�U��{�U� �U�p��UXQ��U�poR�U�c{�U�O�{�U�n{�UnO���U@��y�U�z�U<%���U� �U�p��UXQ��UXoR�U�e�z�U�O�y�UnOoR�Ulܑ�U���z�U�r���U�p�e�U�b�U�Q {�U�PQ��U�V�z�U��{�UnO_�U�s_�U�e�z�U>���U4"�{�U?��P�UX�m�U�V�z�UY��z�U�moR�U]�e�U�O�e�U�b�U�Q {�UnO_�U�s�e�U�0Q��U�e�{�U�0��UY�{�U8i�P�UX�y�UY���Ug$�{�U@��z"  
-         }  
-     ]  
- }  
- 
+    }
+  ],
+  "results": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ความเสี่ยงต่ำต่อปัญหาสุขภาพหัวใจ",
+      "description": "คำตอบของคุณบ่งชี้ว่าคุณมีความเสี่ยงต่ำต่อปัญหาสุขภาพหัวใจ แม้ว่าการระมัดระวังสุขภาพหัวใจและหลอดเลือดเป็นสิ่งที่ดีเสมอ แต่คำตอบของคุณแสดงว่าสุขภาพหัวใจของคุณอยู่ในสภาพดีในปัจจุบัน",
+      "advice": "รักษาวิถีชีวิตที่ดีต่อสุขภาพหัวใจด้วยการออกกำลังกายเป็นประจำ รับประทานอาหารที่สมดุล และหลีกเลี่ยงนิสัยที่เป็นอันตรายเช่นการสูบบุหรี่ การตรวจสุขภาพเป็นประจำกับแพทย์สามารถช่วยให้คุณติดตามสุขภาพได้ดี"
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "title": "ความเสี่ยงปานกลางต่อปัญหาสุขภาพหัวใจ",
+      "description": "คำตอบของคุณบ่งชี้ว่าคุณอาจมีความเสี่ยงปานกลางต่อปัญหาสุขภาพหัวใจ บางคำตอบของคุณระบุว่ามีด้านที่คุณสามารถปรับปรุงสุขภาพหัวใจและหลอดเลือดได้",
+      "advice": "พิจารณาการเปลี่ยนแปลงวิถีชีวิต เช่น เพิ่มการออกกำลังกาย รับประทานอาหารที่ดีต่อสุขภาพหัวใจ เลิกสูบบุหรี่หากจำเป็น และปรึกษาแพทย์เพื่อรับคำแนะนำเฉพาะบุคคลและกลยุทธ์ในการปรับปรุงสุขภาพหัวใจ"
+    },
+    {
+      "start": 23,
+      "end": 33,
+      "title": "ความเสี่ยงสูงต่อปัญหาสุขภาพหัวใจ",
+      "description": "คำตอบของคุณบ่งชี้ว่าคุณมีความเสี่ยงสูงต่อปัญหาสุขภาพหัวใจ หลายคำตอบของคุณแสดงว่าคุณมีอาการหรือปัจจัยเสี่ยงที่อาจส่งผลต่อสุขภาพหัวใจและหลอดเลือด",
+      "advice": "สำคัญที่ต้องขอความช่วยเหลือจากแพทย์โดยเร็วที่สุด พวกเขาสามารถให้การวินิจฉัยที่ถูกต้องและร่วมกับคุณพัฒนาแผนการรักษาเพื่อแก้ไขปัญหาสุขภาพหัวใจและลดความเสี่ยงของปัญหาหัวใจและหลอดเลือดที่รุนแรง"
+    }
+  ]
+}

@@ -1,19 +1,92 @@
-{
-  "articles": [
-    {"id": 1, "title": "Shinikizo la damu", "file": "article_1.md"},
-    {"id": 2, "title": "Maisha na shinikizo la damu", "file": "article_2.md"},
-    {"id": 3, "title": "Athari za lishe kwenye shinikizo la damu", "file": "article_3.md"},
-    {"id": 4, "title": "Mbinu za kudhibiti shinikizo la damu bila dawa", "file": "article_4.md"},
-    {"id": 5, "title": "Mkazo na shinikizo la damu", "file": "article_5.md"},
-    {"id": 6, "title": "Mazoezi na udhibiti wa shinikizo la damu", "file": "article_6.md"},
-    {"id": 7, "title": "Ufuatiliaji wa shinikizo la damu", "file": "article_7.md"},
-    {"id": 8, "title": "Dawa za kudhibiti shinikizo la damu", "file": "article_8.md"},
-    {"id": 9, "title": "Dalili za shinikizo la damu", "file": "article_9.md"},
-    {"id": 10, "title": "Sababu za shinikizo la damu", "file": "article_10.md"},
-    {"id": 11, "title": "Hatari za shinikizo la damu", "file": "article_11.md"},
-    {"id": 12, "title": "Lishe bora kwa shinikizo la damu", "file": "article_12.md"},
-    {"id": 13, "title": "Mbinu za kupunguza shinikizo la damu", "file": "article_13.md"},
-    {"id": 14, "title": "Uchunguzi wa shinikizo la damu", "file": "article_14.md"},
-    {"id": 15, "title": "Ushauri wa matibabu ya shinikizo la damu", "file": "article_15.md"}
-  ]
-}
+[
+  {
+    "id": 1,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_1.webp",
+    "title": "Shinikizo la damu ni nini na vipi hupimwa?",
+    "file": "article_1.md"
+  },
+  {
+    "id": 2,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_2.webp",
+    "title": "Athari ya mtindo wa maisha kwenye shinikizo la damu",
+    "file": "article_2.md"
+  },
+  {
+    "id": 3,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_3.webp",
+    "title": "Athari ya lishe kwenye shinikizo la damu",
+    "file": "article_3.md"
+  },
+  {
+    "id": 4,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_4.webp",
+    "title": "Tiba zisizo za dawa za shinikizo la damu",
+    "file": "article_4.md"
+  },
+  {
+    "id": 5,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_5.webp",
+    "title": "Je, mkazo unaathiri shinikizo la damu?",
+    "file": "article_5.md"
+  },
+  {
+    "id": 6,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_6.webp",
+    "title": "Je, mazoezi yanaweza kudhibiti shinikizo la damu?",
+    "file": "article_6.md"
+  },
+  {
+    "id": 7,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_7.webp",
+    "title": "Je, ufuatiliaji wa mara kwa mara unahitajika?",
+    "file": "article_7.md"
+  },
+  {
+    "id": 8,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_8.webp",
+    "title": "Je, jeneti zinaathiri shinikizo la damu?",
+    "file": "article_8.md"
+  },
+  {
+    "id": 9,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_9.webp",
+    "title": "Je, lishe inaweza kuathiri shinikizo la damu?",
+    "file": "article_9.md"
+  },
+  {
+    "id": 10,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_10.webp",
+    "title": "Uhusiano kati ya umri na shinikizo la damu",
+    "file": "article_10.md"
+  },
+  {
+    "id": 11,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_11.webp",
+    "title": "Vipi kupunguza shinikizo la damu?",
+    "file": "article_11.md"
+  },
+  {
+    "id": 12,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_12.webp",
+    "title": "Ugumaji wa moyo ni nini?",
+    "file": "article_12.md"
+  },
+  {
+    "id": 13,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_13.webp",
+    "title": "Vipimo muhimu vya afya ya moyo na maana yake",
+    "file": "article_13.md"
+  },
+  {
+    "id": 14,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_14.webp",
+    "title": "Ni mazoezi gani yanayofaa kwa wenye shinikizo la damu?",
+    "file": "article_14.md"
+  },
+  {
+    "id": 15,
+    "cover": "https://raw.githubusercontent.com/HDrecord/HTK/main/article/article_15.webp",
+    "title": "Mapigo ya moyo na mabadiliko ya kiwango cha mapigo (HRV)",
+    "file": "article_15.md"
+  }
+]
